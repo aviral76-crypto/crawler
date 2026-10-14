@@ -1,0 +1,1745 @@
+{
+ "Levi's": {
+  "Gurgaon": 28,
+  "Delhi NCR (ex Gurgaon)": 94,
+  "Bangalore": 65,
+  "Mumbai": 55,
+  "Pune": 24,
+  "Hyderabad": 36
+ },
+ "U.S Polo Assn.": {
+  "Gurgaon": 15,
+  "Delhi NCR (ex Gurgaon)": 47,
+  "Bangalore": 48,
+  "Mumbai": 44,
+  "Pune": 16,
+  "Hyderabad": 38
+ },
+ "Zudio": {
+  "Gurgaon": 14,
+  "Delhi NCR (ex Gurgaon)": 70,
+  "Bangalore": 6,
+  "Mumbai": 9,
+  "Pune": 2,
+  "Hyderabad": 2
+ },
+ "W For Woman": {
+  "Gurgaon": 12,
+  "Delhi NCR (ex Gurgaon)": 41,
+  "Bangalore": 25,
+  "Mumbai": 18,
+  "Pune": 12,
+  "Hyderabad": 18
+ },
+ "Arrow": {
+  "Gurgaon": 10,
+  "Delhi NCR (ex Gurgaon)": 25,
+  "Bangalore": 32,
+  "Mumbai": 29,
+  "Pune": 9,
+  "Hyderabad": 12
+ },
+ "Aurelia": {
+  "Gurgaon": 10,
+  "Delhi NCR (ex Gurgaon)": 31,
+  "Bangalore": 25,
+  "Mumbai": 14,
+  "Pune": 11,
+  "Hyderabad": 14
+ },
+ "BIBA": {
+  "Gurgaon": 10,
+  "Delhi NCR (ex Gurgaon)": 20,
+  "Bangalore": 10,
+  "Mumbai": 15,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Go Colors": {
+  "Gurgaon": 10,
+  "Delhi NCR (ex Gurgaon)": 42,
+  "Bangalore": 61,
+  "Mumbai": 60,
+  "Pune": 34,
+  "Hyderabad": 70
+ },
+ "Monte Carlo": {
+  "Gurgaon": 10,
+  "Delhi NCR (ex Gurgaon)": 32,
+  "Bangalore": 9,
+  "Mumbai": 2,
+  "Pune": 2,
+  "Hyderabad": 1
+ },
+ "Reliance Trends": {
+  "Gurgaon": 10,
+  "Delhi NCR (ex Gurgaon)": 33,
+  "Bangalore": 38,
+  "Mumbai": 28,
+  "Pune": 13,
+  "Hyderabad": 60
+ },
+ "Chique": {
+  "Gurgaon": 9,
+  "Delhi NCR (ex Gurgaon)": 21,
+  "Bangalore": 6,
+  "Mumbai": 8,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "United Colors Of Benetton": {
+  "Gurgaon": 8,
+  "Delhi NCR (ex Gurgaon)": 20,
+  "Bangalore": 9,
+  "Mumbai": 18,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Blackberrys": {
+  "Gurgaon": 7,
+  "Delhi NCR (ex Gurgaon)": 30,
+  "Bangalore": 16,
+  "Mumbai": 22,
+  "Pune": 13,
+  "Hyderabad": 16
+ },
+ "Cover Story": {
+  "Gurgaon": 7,
+  "Delhi NCR (ex Gurgaon)": 15,
+  "Bangalore": 5,
+  "Mumbai": 11,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Fabindia": {
+  "Gurgaon": 7,
+  "Delhi NCR (ex Gurgaon)": 7,
+  "Bangalore": 1,
+  "Mumbai": 11
+ },
+ "Marks & Spencer": {
+  "Gurgaon": 7,
+  "Delhi NCR (ex Gurgaon)": 12,
+  "Bangalore": 7,
+  "Mumbai": 11,
+  "Pune": 4,
+  "Hyderabad": 5
+ },
+ "Park Avenue": {
+  "Gurgaon": 7,
+  "Delhi NCR (ex Gurgaon)": 19,
+  "Bangalore": 11,
+  "Mumbai": 19,
+  "Pune": 6,
+  "Hyderabad": 8
+ },
+ "Rareism": {
+  "Gurgaon": 7,
+  "Delhi NCR (ex Gurgaon)": 14,
+  "Bangalore": 6,
+  "Mumbai": 10,
+  "Pune": 6,
+  "Hyderabad": 11
+ },
+ "enamor": {
+  "Gurgaon": 7,
+  "Delhi NCR (ex Gurgaon)": 14,
+  "Bangalore": 16,
+  "Mumbai": 16,
+  "Pune": 8,
+  "Hyderabad": 10
+ },
+ "Armani Exchange": {
+  "Gurgaon": 6,
+  "Delhi NCR (ex Gurgaon)": 16,
+  "Bangalore": 7,
+  "Mumbai": 10,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Calvin Klein": {
+  "Gurgaon": 6,
+  "Delhi NCR (ex Gurgaon)": 16,
+  "Bangalore": 7,
+  "Mumbai": 11,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Jaipur Kurti": {
+  "Gurgaon": 6,
+  "Delhi NCR (ex Gurgaon)": 13,
+  "Bangalore": 5,
+  "Mumbai": 8,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Lacoste": {
+  "Gurgaon": 6,
+  "Delhi NCR (ex Gurgaon)": 9,
+  "Bangalore": 5,
+  "Mumbai": 10,
+  "Pune": 1,
+  "Hyderabad": 1
+ },
+ "Madame": {
+  "Gurgaon": 6,
+  "Delhi NCR (ex Gurgaon)": 23,
+  "Bangalore": 5,
+  "Mumbai": 8,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Pantaloons": {
+  "Gurgaon": 6,
+  "Delhi NCR (ex Gurgaon)": 24,
+  "Bangalore": 11
+ },
+ "Pepe Jeans": {
+  "Gurgaon": 6,
+  "Delhi NCR (ex Gurgaon)": 22,
+  "Bangalore": 10,
+  "Mumbai": 14,
+  "Pune": 12,
+  "Hyderabad": 13
+ },
+ "Raymond - Ready to wear": {
+  "Gurgaon": 6,
+  "Delhi NCR (ex Gurgaon)": 19,
+  "Bangalore": 10,
+  "Mumbai": 14,
+  "Pune": 8,
+  "Hyderabad": 10
+ },
+ "Tommy Hilfiger": {
+  "Gurgaon": 6,
+  "Delhi NCR (ex Gurgaon)": 14,
+  "Bangalore": 6,
+  "Mumbai": 12,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Westside": {
+  "Gurgaon": 6,
+  "Delhi NCR (ex Gurgaon)": 16,
+  "Bangalore": 24,
+  "Mumbai": 22,
+  "Pune": 8,
+  "Hyderabad": 16
+ },
+ "Allen Solly": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 12,
+  "Bangalore": 39,
+  "Mumbai": 7,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "American Eagle": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 12,
+  "Bangalore": 14,
+  "Mumbai": 8,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Autumn Lane": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 12,
+  "Bangalore": 6,
+  "Mumbai": 8,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Fashor": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 12,
+  "Bangalore": 6,
+  "Mumbai": 8,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "GAP": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 12,
+  "Bangalore": 7,
+  "Mumbai": 11,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Indian Terrain": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 11,
+  "Bangalore": 17,
+  "Mumbai": 11,
+  "Pune": 9,
+  "Hyderabad": 26
+ },
+ "Jack & Jones": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 17,
+  "Bangalore": 10,
+  "Mumbai": 15,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Juniper": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 12,
+  "Bangalore": 6,
+  "Mumbai": 8,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Killer": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 13,
+  "Bangalore": 5,
+  "Mumbai": 9,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Kraus Jeans": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 13,
+  "Bangalore": 5,
+  "Mumbai": 9,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "RUFF": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 12,
+  "Bangalore": 5,
+  "Mumbai": 8,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Rare Rabbit": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 9,
+  "Bangalore": 14,
+  "Mumbai": 8,
+  "Pune": 3,
+  "Hyderabad": 9
+ },
+ "Shoppers Stop": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 12,
+  "Bangalore": 6,
+  "Mumbai": 8,
+  "Pune": 6,
+  "Hyderabad": 7
+ },
+ "Silver Lime": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 12,
+  "Bangalore": 6,
+  "Mumbai": 8,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Spykar": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 18,
+  "Bangalore": 8,
+  "Mumbai": 20,
+  "Pune": 16,
+  "Hyderabad": 14
+ },
+ "The Raymond Shop": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 14,
+  "Bangalore": 1,
+  "Mumbai": 5
+ },
+ "Truly Sma": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 12,
+  "Bangalore": 6,
+  "Mumbai": 8,
+  "Hyderabad": 7
+ },
+ "Van Heusen": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 13,
+  "Bangalore": 45,
+  "Mumbai": 8,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "Vero Moda": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 18,
+  "Bangalore": 14,
+  "Mumbai": 21,
+  "Pune": 7,
+  "Hyderabad": 11
+ },
+ "Zink London": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 12,
+  "Bangalore": 6,
+  "Mumbai": 8,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "amanté": {
+  "Gurgaon": 5,
+  "Delhi NCR (ex Gurgaon)": 14,
+  "Bangalore": 5,
+  "Mumbai": 8,
+  "Pune": 5,
+  "Hyderabad": 7
+ },
+ "GUESS": {
+  "Gurgaon": 4,
+  "Delhi NCR (ex Gurgaon)": 15,
+  "Bangalore": 8,
+  "Mumbai": 11,
+  "Pune": 5,
+  "Hyderabad": 8
+ },
+ "Snitch": {
+  "Gurgaon": 4,
+  "Delhi NCR (ex Gurgaon)": 5,
+  "Bangalore": 15,
+  "Mumbai": 10,
+  "Pune": 4,
+  "Hyderabad": 4
+ },
+ "Mustard": {
+  "Gurgaon": 3,
+  "Delhi NCR (ex Gurgaon)": 6,
+  "Bangalore": 8,
+  "Hyderabad": 4
+ },
+ "Numero Uno": {
+  "Gurgaon": 3,
+  "Delhi NCR (ex Gurgaon)": 21,
+  "Hyderabad": 1
+ },
+ "Qurbat": {
+  "Gurgaon": 3
+ },
+ "SWEET DREAMS": {
+  "Gurgaon": 3,
+  "Delhi NCR (ex Gurgaon)": 8,
+  "Bangalore": 3,
+  "Mumbai": 8,
+  "Pune": 3,
+  "Hyderabad": 1
+ },
+ "Sabhyata": {
+  "Gurgaon": 3,
+  "Delhi NCR (ex Gurgaon)": 20,
+  "Bangalore": 5,
+  "Mumbai": 4,
+  "Hyderabad": 5
+ },
+ "Savvyy": {
+  "Gurgaon": 3,
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Tasva": {
+  "Gurgaon": 3,
+  "Delhi NCR (ex Gurgaon)": 17,
+  "Bangalore": 11,
+  "Mumbai": 7,
+  "Pune": 5,
+  "Hyderabad": 9
+ },
+ "Uniqlo": {
+  "Gurgaon": 3,
+  "Delhi NCR (ex Gurgaon)": 6,
+  "Bangalore": 1,
+  "Mumbai": 2
+ },
+ "Aarke Ritu Kumar": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 1
+ },
+ "Anokhi": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 3
+ },
+ "Basanti Kapde aur Koffee": {
+  "Gurgaon": 2
+ },
+ "Celio": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Bangalore": 4,
+  "Mumbai": 4
+ },
+ "Coyu": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 5,
+  "Bangalore": 1,
+  "Mumbai": 1
+ },
+ "Ethnix By Raymond": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 12,
+  "Bangalore": 5,
+  "Mumbai": 6,
+  "Pune": 4,
+  "Hyderabad": 6
+ },
+ "Flying Machine": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 5,
+  "Bangalore": 15,
+  "Mumbai": 2,
+  "Pune": 4,
+  "Hyderabad": 3
+ },
+ "Forever New": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 5,
+  "Bangalore": 3,
+  "Mumbai": 4
+ },
+ "Gipsy": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Jockey": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 13,
+  "Bangalore": 9,
+  "Mumbai": 6
+ },
+ "Kusvaa": {
+  "Gurgaon": 2
+ },
+ "Lakshita": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 14
+ },
+ "Lifestyle": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 6,
+  "Bangalore": 3,
+  "Mumbai": 3
+ },
+ "Max": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 9,
+  "Bangalore": 14,
+  "Mumbai": 13
+ },
+ "Mohanlal Sons": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 7,
+  "Bangalore": 1
+ },
+ "Mothercare": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 6,
+  "Mumbai": 4
+ },
+ "NEWME": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 4,
+  "Bangalore": 7,
+  "Mumbai": 2,
+  "Pune": 3,
+  "Hyderabad": 1
+ },
+ "Nicobar": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Bangalore": 1
+ },
+ "Panna Sarees": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Rangriti": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 1,
+  "Mumbai": 1
+ },
+ "Ranna Gill": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 4,
+  "Bangalore": 1,
+  "Mumbai": 4,
+  "Hyderabad": 1
+ },
+ "Richlook": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Ritu Kumar": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Bangalore": 3,
+  "Mumbai": 3
+ },
+ "Suvasa": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Taneira": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 4,
+  "Bangalore": 3,
+  "Mumbai": 2
+ },
+ "The Bear House": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 3,
+  "Mumbai": 2,
+  "Pune": 1,
+  "Hyderabad": 3
+ },
+ "The Souled Store": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Bangalore": 7,
+  "Mumbai": 9,
+  "Pune": 2,
+  "Hyderabad": 4
+ },
+ "Trends Woman": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 26,
+  "Mumbai": 3,
+  "Pune": 1,
+  "Hyderabad": 13
+ },
+ "Zivame": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 4,
+  "Bangalore": 9,
+  "Mumbai": 7
+ },
+ "Zodiac": {
+  "Gurgaon": 2,
+  "Delhi NCR (ex Gurgaon)": 4,
+  "Mumbai": 4
+ },
+ "AND": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 5,
+  "Bangalore": 5,
+  "Mumbai": 7,
+  "Pune": 1,
+  "Hyderabad": 2
+ },
+ "AZORTE": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 2,
+  "Mumbai": 4
+ },
+ "Adidas Kids": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 3
+ },
+ "Amodini by aarti": {
+  "Gurgaon": 1
+ },
+ "Ancestry": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 3
+ },
+ "BOSS": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 2,
+  "Mumbai": 2
+ },
+ "Blissclub": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 3,
+  "Mumbai": 3,
+  "Hyderabad": 1
+ },
+ "Bluorng": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Bodycare": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 1
+ },
+ "Bonkers Corner": {
+  "Gurgaon": 1,
+  "Bangalore": 1,
+  "Mumbai": 5,
+  "Pune": 3,
+  "Hyderabad": 2
+ },
+ "Brooks Brothers": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 1,
+  "Mumbai": 2
+ },
+ "Calvin Klein Jeans": {
+  "Gurgaon": 1,
+  "Bangalore": 1,
+  "Mumbai": 2
+ },
+ "Cantabil": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 5,
+  "Mumbai": 3
+ },
+ "Chanel": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Colorplus": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 7,
+  "Bangalore": 2,
+  "Mumbai": 10,
+  "Pune": 4
+ },
+ "Converse": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 1,
+  "Mumbai": 1
+ },
+ "DIESEL": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 1
+ },
+ "Dior": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Bangalore": 2,
+  "Mumbai": 2
+ },
+ "Drishti Chabra": {
+  "Gurgaon": 1
+ },
+ "Fable Street": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Mumbai": 2,
+  "Pune": 2
+ },
+ "Forever 21": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 1
+ },
+ "GANT": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 4,
+  "Bangalore": 1,
+  "Mumbai": 1
+ },
+ "GAS": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 3,
+  "Mumbai": 1
+ },
+ "Gaiiah Closet": {
+  "Gurgaon": 1
+ },
+ "Global Desi": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 4,
+  "Mumbai": 2,
+  "Pune": 1,
+  "Hyderabad": 1
+ },
+ "Global Republic": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "H&M": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 4,
+  "Bangalore": 2,
+  "Mumbai": 3
+ },
+ "Hackett London": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 1,
+  "Mumbai": 1
+ },
+ "House Of Masaba": {
+  "Gurgaon": 1
+ },
+ "Hunkemoller": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 2,
+  "Mumbai": 2
+ },
+ "John Pride": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Hyderabad": 2
+ },
+ "Kate & Oscar": {
+  "Gurgaon": 1
+ },
+ "Kazo": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Bangalore": 1
+ },
+ "Kilol": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Kingdom of White": {
+  "Gurgaon": 1
+ },
+ "Linen Club": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Manyavar": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 6,
+  "Bangalore": 7,
+  "Mumbai": 8
+ },
+ "Meena Bazaar": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 9,
+  "Bangalore": 2
+ },
+ "Miniklub": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Bangalore": 1,
+  "Mumbai": 2
+ },
+ "Minizmo": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 3
+ },
+ "Mufti": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Bangalore": 3,
+  "Mumbai": 12
+ },
+ "Needledust": {
+  "Gurgaon": 1,
+  "Mumbai": 1
+ },
+ "Nike": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 6,
+  "Bangalore": 4,
+  "Mumbai": 8
+ },
+ "Notebook": {
+  "Gurgaon": 1
+ },
+ "ONLY": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 2,
+  "Mumbai": 4
+ },
+ "Onitsuka Tiger": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Bangalore": 1,
+  "Mumbai": 2
+ },
+ "Only": {
+  "Gurgaon": 1,
+  "Bangalore": 1
+ },
+ "Planet Superheroes": {
+  "Gurgaon": 1
+ },
+ "Ralph Lauren": {
+  "Gurgaon": 1
+ },
+ "Rare Ones": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Bangalore": 1
+ },
+ "Raymond - Made to Measure": {
+  "Gurgaon": 1
+ },
+ "Reebok": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 4,
+  "Bangalore": 11,
+  "Mumbai": 1
+ },
+ "Ridhie Suri": {
+  "Gurgaon": 1
+ },
+ "Roza": {
+  "Gurgaon": 1
+ },
+ "S&N / Shantnu Nikhil": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 4,
+  "Bangalore": 1
+ },
+ "SALT Attire": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 1
+ },
+ "Satya Paul": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 5,
+  "Mumbai": 2
+ },
+ "Saundh": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Shreya Sharma": {
+  "Gurgaon": 1
+ },
+ "Shuffling Suitcases": {
+  "Gurgaon": 1
+ },
+ "Soch": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 4,
+  "Bangalore": 36,
+  "Mumbai": 8,
+  "Pune": 4,
+  "Hyderabad": 10
+ },
+ "Suifab": {
+  "Gurgaon": 1
+ },
+ "Summer Priyanka Gupta": {
+  "Gurgaon": 1
+ },
+ "Superdry": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Bangalore": 3,
+  "Mumbai": 5
+ },
+ "Surabhi Arya": {
+  "Gurgaon": 1
+ },
+ "Sweaty Betty": {
+  "Gurgaon": 1
+ },
+ "TACFAB": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "TECHNOSPORT": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 5,
+  "Pune": 3,
+  "Hyderabad": 4
+ },
+ "TED BAKER": {
+  "Gurgaon": 1,
+  "Mumbai": 1
+ },
+ "THE PONY AND PEONY CO.": {
+  "Gurgaon": 1
+ },
+ "The Collective": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Bangalore": 1,
+  "Mumbai": 1
+ },
+ "The House Of Rare": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 5,
+  "Mumbai": 2,
+  "Pune": 1,
+  "Hyderabad": 1
+ },
+ "The Loom": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 3
+ },
+ "Under Armour": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 4,
+  "Bangalore": 2,
+  "Mumbai": 2
+ },
+ "Wilson": {
+  "Gurgaon": 1
+ },
+ "Yousta": {
+  "Gurgaon": 1,
+  "Mumbai": 2
+ },
+ "Zara": {
+  "Gurgaon": 1,
+  "Delhi NCR (ex Gurgaon)": 4,
+  "Bangalore": 2,
+  "Mumbai": 3
+ },
+ "Libas": {
+  "Delhi NCR (ex Gurgaon)": 11,
+  "Bangalore": 1,
+  "Pune": 2
+ },
+ "SRI RAM & SON": {
+  "Delhi NCR (ex Gurgaon)": 9
+ },
+ "Octave": {
+  "Delhi NCR (ex Gurgaon)": 6
+ },
+ "Elleven": {
+  "Delhi NCR (ex Gurgaon)": 4
+ },
+ "Being Human": {
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Mumbai": 6
+ },
+ "Clovia": {
+  "Delhi NCR (ex Gurgaon)": 3
+ },
+ "Greenways": {
+  "Delhi NCR (ex Gurgaon)": 3
+ },
+ "Jaypore": {
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Bangalore": 3,
+  "Mumbai": 3
+ },
+ "Nautica": {
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Bangalore": 3,
+  "Mumbai": 3
+ },
+ "Ogaan": {
+  "Delhi NCR (ex Gurgaon)": 3
+ },
+ "Purple United Kids": {
+  "Delhi NCR (ex Gurgaon)": 3
+ },
+ "Reid & Taylor": {
+  "Delhi NCR (ex Gurgaon)": 3
+ },
+ "Wacoal": {
+  "Delhi NCR (ex Gurgaon)": 3,
+  "Bangalore": 2,
+  "Mumbai": 7,
+  "Pune": 1
+ },
+ "Bodycare Kids": {
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Bombay Selections": {
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Canali": {
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 1
+ },
+ "Desi Pop": {
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Ferragamo": {
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Frontier Raas": {
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "House of Raisons": {
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 1
+ },
+ "Intimissi Lingerie": {
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Kalpana": {
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "La Martina": {
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Mumbai": 1
+ },
+ "LaMode": {
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Label Ritu Kumar": {
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 1
+ },
+ "Mango": {
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 3,
+  "Mumbai": 3
+ },
+ "Michael Kors": {
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 2,
+  "Mumbai": 2
+ },
+ "Mumkins": {
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 1,
+  "Mumbai": 3,
+  "Pune": 1,
+  "Hyderabad": 6
+ },
+ "PALL MALL": {
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Paislei": {
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Planet Fashion": {
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 1
+ },
+ "Polo Ralph Lauren": {
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Raasa": {
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Rosenthal Versace": {
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Mumbai": 1
+ },
+ "Stitch Stories": {
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Surekha Jain": {
+  "Delhi NCR (ex Gurgaon)": 2
+ },
+ "Van Heusen Women": {
+  "Delhi NCR (ex Gurgaon)": 2,
+  "Bangalore": 2,
+  "Mumbai": 3
+ },
+ "ARKS": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 1
+ },
+ "Abu Jani Sandeep Khosla": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Ahujasons": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Aisha Rao": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Amaltas Couture": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Amit Aggarwal": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Amit Arora (Gopal Sons Selections)": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Anantam": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Anjalee And Arjun Kapoor": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Anushree Reddy": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Avirate": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 1
+ },
+ "Babyshop": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Baedesi": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Berluti": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Beverly Hills Polo Club": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 2
+ },
+ "Bewakoof": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Broadway": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Pune": 1,
+  "Hyderabad": 1
+ },
+ "Burberry": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 1,
+  "Mumbai": 1
+ },
+ "Button": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "COACH": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 1,
+  "Mumbai": 2
+ },
+ "Callino London": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Charles Trywhitt": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 1
+ },
+ "Choupette": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Chunmun": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Cord": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Cosmic": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Crepdog Crew": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 1,
+  "Hyderabad": 1
+ },
+ "Crimsoune Club": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Culture Circle": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 1,
+  "Pune": 1,
+  "Hyderabad": 1
+ },
+ "DAWNTOWN": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Duke": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "ENSEMBLE": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Ekasmaye": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Emporio Armani": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 2,
+  "Mumbai": 2
+ },
+ "Falguni Shane Peacock": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "First Resort by Ramola Bachchan": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Fitenue": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Flying Machine ": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Fred Perry": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "French Connection": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 1
+ },
+ "Gaurav Gupta": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Giorgio Armani": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Goyalsons": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "ISAIA": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Iconic": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "JAYANTI REDDY": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "JUMP USA": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "KATE SPADE": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 1
+ },
+ "Kaarigar": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Kickers": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Kids around": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Kunal Rawal": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "L'affaire": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "LACQUER EMBASSY": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "La Vie en Rose": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 1
+ },
+ "Lal Behari Tandon": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Lative Colours Of Fashion": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Les Petits": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 1
+ },
+ "Look Collection": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Lovebirds": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "MADISON": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Mango Man": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 1,
+  "Mumbai": 1
+ },
+ "Manyavar & Mohey": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 3
+ },
+ "Massimo Dutti": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Mishru": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Modluk": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Monisha Jaising": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Mrunalini Rao": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Muji": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 2
+ },
+ "Mulmul": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Nalli Silk Sarees at CP New Delhi": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Namrata Joshipura": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Nirvana": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Nobero": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 1,
+  "Mumbai": 1,
+  "Pune": 1,
+  "Hyderabad": 2
+ },
+ "Nykd by Nykaa": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 4
+ },
+ "OCTAVE METTLE": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Old Gene Originals": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "One8 Merch Store": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "PATINE": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Pankaj & Nidhi": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Paul & Shark": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Paul Smith": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 2
+ },
+ "Paulsons": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Peachmode": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 4
+ },
+ "Raghavendra Rathore": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Rahul Mishra": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Ridhi Mehra": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Ridhiiee Suuri": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Rimzim Dadu": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "SELECTED HOMME": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 1
+ },
+ "SHIVAN & NARRESH": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Shakuntlam": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Shaza": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 1
+ },
+ "Shorshe Clothing": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Simran Fashions": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Study by Janak": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Suneet Varma": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Suti": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 1
+ },
+ "Sweet Child Of Mine": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Tarun Tahiliani": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "The Grooming Collection": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "The Shop": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Torani": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Trends Man": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 8,
+  "Hyderabad": 5
+ },
+ "True Religion": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "U.S. Polo Assn. Kids": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Bangalore": 1,
+  "Mumbai": 4
+ },
+ "VERSACE": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Valentino": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 1
+ },
+ "Vedi's The Studio": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "VegNonVeg - Warehouse Sale": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Wishful": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Woods": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Zardozi": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Zegna": {
+  "Delhi NCR (ex Gurgaon)": 1,
+  "Mumbai": 1
+ },
+ "Zyra Weaves": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "iBadat": {
+  "Delhi NCR (ex Gurgaon)": 1
+ },
+ "Peter England": {
+  "Bangalore": 43
+ },
+ "Louis Philippe": {
+  "Bangalore": 40
+ },
+ "Van Heusen Innerwear": {
+  "Bangalore": 19
+ },
+ "The Pant Project": {
+  "Bangalore": 6,
+  "Mumbai": 6,
+  "Pune": 1,
+  "Hyderabad": 3
+ },
+ "The Indian Garage Co.": {
+  "Bangalore": 5,
+  "Mumbai": 1,
+  "Pune": 2,
+  "Hyderabad": 3
+ },
+ "SHOWOFFFF": {
+  "Bangalore": 4
+ },
+ "Simon Carter": {
+  "Bangalore": 4
+ },
+ "Avantra": {
+  "Bangalore": 2
+ },
+ "NEXT": {
+  "Bangalore": 2,
+  "Pune": 1,
+  "Hyderabad": 1
+ },
+ "Style Union": {
+  "Bangalore": 2
+ },
+ "All Sports": {
+  "Bangalore": 1
+ },
+ "Biglilpeople": {
+  "Bangalore": 1
+ },
+ "CAVA": {
+  "Bangalore": 1
+ },
+ "COS": {
+  "Bangalore": 1
+ },
+ "Cotton Culture": {
+  "Bangalore": 1,
+  "Mumbai": 28,
+  "Pune": 7
+ },
+ "Cottonworld": {
+  "Bangalore": 1,
+  "Mumbai": 5
+ },
+ "DaMENSCH": {
+  "Bangalore": 1
+ },
+ "Entertainment Store": {
+  "Bangalore": 1
+ },
+ "Highlander": {
+  "Bangalore": 1
+ },
+ "Imara": {
+  "Bangalore": 1
+ },
+ "Indya": {
+  "Bangalore": 1
+ },
+ "Jacadi Paris": {
+  "Bangalore": 1,
+  "Mumbai": 1
+ },
+ "Jack & Jones Junior": {
+  "Bangalore": 1,
+  "Mumbai": 1
+ },
+ "Kisah": {
+  "Bangalore": 1,
+  "Hyderabad": 1
+ },
+ "Koskii": {
+  "Bangalore": 1
+ },
+ "Mustard Clothing": {
+  "Bangalore": 1
+ },
+ "NEERU'S": {
+  "Bangalore": 1
+ },
+ "Nivia Sports": {
+  "Bangalore": 1
+ },
+ "Performax": {
+  "Bangalore": 1
+ },
+ "Powerlook Apparels": {
+  "Bangalore": 1,
+  "Mumbai": 7,
+  "Pune": 1
+ },
+ "Remanika": {
+  "Bangalore": 1
+ },
+ "RmKV": {
+  "Bangalore": 1
+ },
+ "Roar Clothing": {
+  "Bangalore": 1
+ },
+ "Shahenaz": {
+  "Bangalore": 1,
+  "Mumbai": 2
+ },
+ "SportsYard": {
+  "Bangalore": 1
+ },
+ "Street Junkies": {
+  "Bangalore": 1
+ },
+ "Taruni": {
+  "Bangalore": 1
+ },
+ "VIRGIO": {
+  "Bangalore": 1,
+  "Mumbai": 2
+ },
+ "Ethnicity": {
+  "Mumbai": 6
+ },
+ "Rookies": {
+  "Mumbai": 6
+ },
+ "Hastkala": {
+  "Mumbai": 3
+ },
+ "Latin Quarters": {
+  "Mumbai": 3
+ },
+ "XYXX": {
+  "Mumbai": 3
+ },
+ "Fabrika16": {
+  "Mumbai": 2
+ },
+ "GINI & JONY": {
+  "Mumbai": 2
+ },
+ "Nalli": {
+  "Mumbai": 2
+ },
+ "Aadyam": {
+  "Mumbai": 1
+ },
+ "Amukti": {
+  "Mumbai": 1
+ },
+ "Antony Morato": {
+  "Mumbai": 1
+ },
+ "Bershka": {
+  "Mumbai": 1
+ },
+ "Bombay Shirt Company": {
+  "Mumbai": 1
+ },
+ "Dennis Lingo": {
+  "Mumbai": 1
+ },
+ "Globus": {
+  "Mumbai": 1
+ },
+ "House of Fett": {
+  "Mumbai": 1
+ },
+ "KaPra Fashion": {
+  "Mumbai": 1
+ },
+ "Mogra": {
+  "Mumbai": 1
+ },
+ "My Milestones": {
+  "Mumbai": 1
+ },
+ "Natty Garb": {
+  "Mumbai": 1
+ },
+ "OVS": {
+  "Mumbai": 1
+ },
+ "Saphed": {
+  "Mumbai": 1
+ },
+ "Scotch & Soda": {
+  "Mumbai": 1
+ },
+ "Shasthas": {
+  "Mumbai": 1
+ },
+ "Stylera": {
+  "Mumbai": 1
+ },
+ "Truly sma": {
+  "Pune": 5
+ },
+ "Poshakh": {
+  "Pune": 1
+ },
+ "Wrogn": {
+  "Pune": 1
+ },
+ "Todlerry": {
+  "Hyderabad": 1
+ }
+}

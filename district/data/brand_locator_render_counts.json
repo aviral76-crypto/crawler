@@ -1,0 +1,34 @@
+{
+ "Spykar": {
+  "site": "https://spykar.com/",
+  "locator": "https://spykar.com/pages/store-locator",
+  "india_total": 265,
+  "metros": {
+   "Gurgaon": 1,
+   "Delhi NCR (ex Gurgaon)": 9,
+   "Mumbai": 15,
+   "Hyderabad": 10,
+   "Pune": 11,
+   "Bangalore": 5
+  },
+  "method": "locator page rendered in headless Chrome",
+  "checked": "2026-10-10",
+  "note": "265 stores in the rendered page, 214 outside the six metros; latitudes span 21.8 degrees; the page paginates client-side, so all rows are present in the DOM behind its Load More control"
+ },
+ "H&M": {
+  "site": "https://www2.hm.com/",
+  "locator": "https://www2.hm.com/en_in/customer-service/shopping-at-hm/store-locator.html",
+  "india_total": 78,
+  "metros": {
+   "Bangalore": 9,
+   "Delhi NCR (ex Gurgaon)": 9,
+   "Gurgaon": 4,
+   "Hyderabad": 4,
+   "Mumbai": 8,
+   "Pune": 5
+  },
+  "method": "locator directory index, rendered in headless Chrome",
+  "checked": "2026-10-10",
+  "note": "78 stores across 36 city pages, 39 outside the six metros; counted from each city's own locator page, city taken from the store page URL"
+ }
+}

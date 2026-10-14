@@ -1,0 +1,152 @@
+{
+ "212523": {
+  "hub_id": "212523",
+  "hub_name": "Elan Miracle, Sector 85, Gurgaon",
+  "hub_type": "Mall",
+  "rail_subtitle": "16.4 km | 27 stores"
+ },
+ "206849": {
+  "hub_id": "206849",
+  "hub_name": "Airia Mall, Sector 68, Gurgaon",
+  "hub_type": "Mall",
+  "rail_subtitle": "17.0 km | 67 stores"
+ },
+ "206800": {
+  "hub_id": "206800",
+  "hub_name": "Good Earth City Center, Sector 50, Gurgaon",
+  "hub_type": "Complex",
+  "rail_subtitle": "17.2 km | 30 stores"
+ },
+ "206796": {
+  "hub_id": "206796",
+  "hub_name": "Ardee Mall, Ardee City, Gurgaon",
+  "hub_type": "Mall",
+  "rail_subtitle": "19.0 km | 50 stores"
+ },
+ "206727": {
+  "hub_id": "206727",
+  "hub_name": "MGF Metropolitan Mall, MG Road, Gurgaon",
+  "hub_type": "Mall",
+  "rail_subtitle": "14.1 km | 48 stores"
+ },
+ "249223": {
+  "hub_id": "249223",
+  "hub_name": "DLF Summit Plaza, DLF Phase 5, Gurgaon",
+  "hub_type": "Complex",
+  "rail_subtitle": "18.5 km | 79 stores"
+ },
+ "206793": {
+  "hub_id": "206793",
+  "hub_name": "Ambience Mall, DLF Phase 3, Gurgaon",
+  "hub_type": "Mall",
+  "rail_subtitle": "9.4 km | 148 stores"
+ },
+ "206864": {
+  "hub_id": "206864",
+  "hub_name": "DLF Avenue, Saket",
+  "hub_type": "Mall",
+  "rail_subtitle": "14.8 km | 47 stores"
+ },
+ "206525": {
+  "hub_id": "206525",
+  "hub_name": "Nexus Select Citywalk, Saket",
+  "hub_type": "Mall",
+  "rail_subtitle": "15.0 km | 49 stores"
+ },
+ "206825": {
+  "hub_id": "206825",
+  "hub_name": "DLF Promenade Mall, Vasant Kunj, South Delhi",
+  "hub_type": "Mall",
+  "rail_subtitle": "7.6 km | 65 stores"
+ },
+ "209013": {
+  "hub_id": "209013",
+  "hub_name": "DLF Emporio, Vasant Kunj, South Delhi",
+  "hub_type": "Mall",
+  "rail_subtitle": "7.6 km | 79 stores"
+ },
+ "206828": {
+  "hub_id": "206828",
+  "hub_name": "Omaxe World Street, Sector 79",
+  "hub_type": "Complex",
+  "rail_subtitle": "14.1 km | 23 stores"
+ },
+ "208420": {
+  "hub_id": "208420",
+  "hub_name": "Central Market, Lajpat Nagar 2",
+  "hub_type": "Market",
+  "rail_subtitle": "18.5 km | 28 stores"
+ },
+ "206465": {
+  "hub_id": "206465",
+  "hub_name": "Vegas Mall, Sector 14, Dwarka",
+  "hub_type": "Mall",
+  "rail_subtitle": "19.9 km | 143 stores"
+ },
+ "206478": {
+  "hub_id": "206478",
+  "hub_name": "M Block Market , Greater Kailash 1",
+  "hub_type": "Market",
+  "rail_subtitle": "18.4 km | 24 stores"
+ },
+ "206819": {
+  "hub_id": "206819",
+  "hub_name": "Khan Market",
+  "hub_type": "Market",
+  "rail_subtitle": "17.8 km | 41 stores"
+ },
+ "206856": {
+  "hub_id": "206856",
+  "hub_name": "DLF Mall of India, Sector 18, Noida",
+  "hub_type": "Mall",
+  "rail_subtitle": "17.0 km | 148 stores"
+ },
+ "206827": {
+  "hub_id": "206827",
+  "hub_name": "Logix City Centre, Sector 32, Noida",
+  "hub_type": "Mall",
+  "rail_subtitle": "18.8 km | 40 stores"
+ },
+ "206829": {
+  "hub_id": "206829",
+  "hub_name": "The Grand Venice Mall, Jaypee Greens, Greater Noida",
+  "hub_type": "Mall",
+  "rail_subtitle": "19.5 km | 25 stores"
+ },
+ "209504": {
+  "hub_id": "209504",
+  "hub_name": "Connaught Place, New Delhi",
+  "hub_type": "Complex",
+  "rail_subtitle": "18.4 km | 85 stores"
+ },
+ "206648": {
+  "hub_id": "206648",
+  "hub_name": "V3S Mall, Laxmi Nagar, East Delhi",
+  "hub_type": "Mall",
+  "rail_subtitle": "18.2 km | 50 stores"
+ },
+ "206820": {
+  "hub_id": "206820",
+  "hub_name": "Pacific Mall, Tagore Garden, West Delhi",
+  "hub_type": "Mall",
+  "rail_subtitle": "16.5 km | 78 stores"
+ },
+ "206716": {
+  "hub_id": "206716",
+  "hub_name": "Pacific Mall, Sahibabad, Ghaziabad",
+  "hub_type": "Mall",
+  "rail_subtitle": "19.9 km | 24 stores"
+ },
+ "206830": {
+  "hub_id": "206830",
+  "hub_name": "Pacific Mall, NSP, North Delhi",
+  "hub_type": "Mall",
+  "rail_subtitle": "18.2 km | 41 stores"
+ },
+ "248829": {
+  "hub_id": "248829",
+  "hub_name": "Unity One Elegante Mall, Netaji Subhash Place",
+  "hub_type": "Mall",
+  "rail_subtitle": "18.1 km | 20 stores"
+ }
+}

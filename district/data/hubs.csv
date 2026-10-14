@@ -1,0 +1,26 @@
+hub_id,hub_name,hub_type,locality,p_city_name,subzone_id,zone_id,address_text,locality_resolved,locality_detail,lat,lng,stores_reported,restaurants_reported
+206828,Omaxe World Street,Complex,Sector 79,Faridabad,561,501,Sector 79,"Omaxe World Street, Sector 79","OMAXE WORLD STREET, Ashray Bhavan Road, Sector 79, Faridabad, Haryana",28.386921,77.353531,23,95
+206716,Pacific Mall,Mall,Sahibabad,Ghaziabad,604,600,"Sahibabad, Ghaziabad",Anand Vihar,"Kaushambi, Ghaziabad",28.64624,77.320168,24,24
+206829,The Grand Venice Mall,Mall,Jaypee Greens,Greater Noida,171284,109788,"Jaypee Greens, Greater Noida","The Grand Venice Mall, Jaypee Greens","Near Pari Chowk, Greater Noida, Uttar Pradesh",28.45385,77.525719,25,37
+206796,Ardee Mall,Mall,Ardee City,Gurugram,308,2,"Ardee City, Gurgaon","Ardee Mall, Ardee City","Ardee City Rd, Block B, Ardee City, Sector 52, Gurugram",28.444929,77.080772,50,37
+206793,Ambience Mall,Mall,DLF Phase 3,Gurugram,299,2,"DLF Phase 3, Gurgaon","Ambience Mall, DLF Phase 3","Ambience Island, National Highway No 8, Sector 24, DLF City Phase 3, Gurugram, Haryana",28.503571,77.097313,148,117
+249223,DLF Summit Plaza,Complex,DLF Phase 5,Gurugram,310,2,"DLF Phase 5, Gurgaon",DLF Summit Plaza,"DLF Phase 5, Sector 54, Gurugram, Haryana",28.44602,77.105858,79,8
+206727,MGF Metropolitan Mall,Mall,MG Road,Gurugram,302,2,"MG Road, Gurgaon",Sikanderpur,"DLF Phase 2, Sector 24, Gurugram",28.48089,77.080307,48,40
+206800,Good Earth City Center,Complex,Sector 50,Gurugram,651,2,"Sector 50, Gurgaon","Good Earth City Center, Sector 50","Near Formula One Hotel, Gurugram, Haryana",28.42161,77.053337,30,14
+206849,Airia Mall,Mall,Sector 68,Gurugram,311,2,"Sector 68, Gurgaon","Airia Mall, Sector 68","Sector 68, Sohna Road, Gurugram, Haryana",28.38307,77.052353,67,38
+212523,Elan Miracle,Mall,Sector 85,Gurugram,699,2,"Sector 85, Gurgaon",Elan Miracle,"Northern Peripheral Rd, Sector 84, Gurugram, Haryana",28.415159,76.96315,27,37
+209504,Connaught Place,Complex,Connaught Place,New Delhi,104,4,New Delhi,"Connaught Place, New Delhi","Connaught Place, New Delhi, Delhi",28.63093,77.219498,85,273
+206478,M Block Market,Market,Greater Kailash 1,New Delhi,27,3,Greater Kailash 1,"M Block Market , Greater Kailash1",Delhi NCR,28.550341,77.2351,24,53
+206819,Khan Market,Market,Khan Market,New Delhi,38,4,,Khan Market,Delhi NCR,28.600389,77.226273,41,46
+208420,Central Market,Market,Lajpat Nagar 2,New Delhi,492,3,Lajpat Nagar 2,"Central Market, Lajpat Nagar 2","Block K, Jungpura Extension, Lajpat Nagar, New Delhi",28.56942,77.24234,28,28
+206648,V3S Mall,Mall,Laxmi Nagar,New Delhi,238,6,"Laxmi Nagar, East Delhi","V3S Mall, Laxmi Nagar","Vikas Marg, Laxmi Nagar Commercial Complex, Swasthya Vihar, New Delhi, Delhi",28.637699,77.286346,50,41
+206830,Pacific Mall,Mall,NSP,New Delhi,73034,5,"NSP, North Delhi","Pacific Mall, NSP","NSP Metro Station, Netaji Subhash Place, Pitampura, New Delhi, Delhi",28.694269,77.153976,41,60
+248829,Unity One Elegante Mall,Mall,Netaji Subhash Place,New Delhi,73034,5,Netaji Subhash Place,"Pacific Mall, NSP","NSP Metro Station, Netaji Subhash Place, Pitampura, New Delhi, Delhi",28.69503,77.152168,20,18
+206864,DLF Avenue,Mall,Saket,New Delhi,74,3,Saket,Saket District Centre,"District Centre, Sector 6, Saket, New Delhi",28.528521,77.216438,47,37
+206525,Nexus Select Citywalk,Mall,Saket,New Delhi,74,3,Saket,"Southern Park Mall, Saket","Saket District Centre, District Centre, Sector 6, Saket, New Delhi, Delhi",28.52849,77.219437,49,38
+206465,Vegas Mall,Mall,"Sector 14, Dwarka",New Delhi,163232,7,"Sector 14, Dwarka","Vegas Mall, Sector 14 Dwarka",Delhi NCR,28.601089,77.029373,143,44
+206820,Pacific Mall,Mall,Tagore Garden,New Delhi,292,6,"Tagore Garden, West Delhi","Pacific Mall, Tagore Garden",Delhi NCR,28.642429,77.106201,78,69
+209013,DLF Emporio,Mall,Vasant Kunj,New Delhi,93,3,"Vasant Kunj, South Delhi","DLF Emporio, Vasant Kunj","4, Nelson Mandela Marg, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi",28.5434,77.156609,79,5
+206825,DLF Promenade Mall,Mall,Vasant Kunj,New Delhi,93,3,"Vasant Kunj, South Delhi","DLF Emporio, Vasant Kunj","4, Nelson Mandela Marg, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi",28.5434,77.156609,65,39
+206856,DLF Mall of India,Mall,Sector 18,Noida,362,1,"Sector 18, Noida","Gardens Galleria Mall, Sector 38",Delhi Ncr,28.566999,77.321167,148,82
+206827,Logix City Centre,Mall,Sector 32,Noida,376,1,"Sector 32, Noida","Logix City Centre, Sector 32","Sector 32, Near Noida City Center Metro, Noida, Uttar Pradesh",28.574221,77.353409,40,43

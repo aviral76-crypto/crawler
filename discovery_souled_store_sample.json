@@ -1,0 +1,140 @@
+[
+  {
+    "id": 339233,
+    "title": "Naruto: Rock Lee",
+    "price": 1299,
+    "imageUrl": [
+      "1790069534_6298883.jpg",
+      "1790069534_9369008.jpg",
+      "1790069534_3162296.jpg",
+      "1790069534_3831812.jpg"
+    ],
+    "category": [
+      "Oversized Full Sleeve T-Shirts"
+    ],
+    "product_slug": "naruto-rock-lee-men-oversized-full-sleeve-t-shirts",
+    "exclusive_price": 1199,
+    "gender_type": 1,
+    "artist": "Naruto",
+    "stock": 12,
+    "spl_price": 1299,
+    "prodType": "1",
+    "express_serviceable": false,
+    "max_express_estimated_duration": null
+  },
+  {
+    "id": 386983,
+    "title": "Endgame: Iron Man",
+    "price": 999,
+    "imageUrl": [
+      "1789840985_9807336.gif",
+      "1789840985_7803602.jpg",
+      "1789840985_4112206.jpg",
+      "1789840985_2581099.jpg"
+    ],
+    "category": [
+      "Men Classic Fit T-Shirts"
+    ],
+    "product_slug": "iron-man-endgame-men-classic-fit-t-shirts",
+    "exclusive_price": 899,
+    "gender_type": 1,
+    "artist": "Marvel™",
+    "stock": 12,
+    "spl_price": 999,
+    "prodType": "1",
+    "express_serviceable": false,
+    "max_express_estimated_duration": null
+  },
+  {
+    "id": 364547,
+    "title": "Spider-Man: Red Spidey",
+    "price": 1299,
+    "imageUrl": [
+      "1790061491_3431397.jpg",
+      "1790061491_8902074.jpg",
+      "1790061491_6015242.jpg",
+      "1790061491_6792244.jpg"
+    ],
+    "category": [
+      "Oversized T-Shirts"
+    ],
+    "product_slug": "spider-man-red-spidey-men-oversized-t-shirts",
+    "exclusive_price": 1199,
+    "gender_type": 1,
+    "artist": "Marvel™",
+    "stock": 12,
+    "spl_price": 1299,
+    "prodType": "1",
+    "express_serviceable": false,
+    "max_express_estimated_duration": null
+  },
+  {
+    "id": 386425,
+    "title": "Endgame: Spider-Man",
+    "price": 999,
+    "imageUrl": [
+      "1789973806_5555700.jpg",
+      "1789840625_6966567.jpg",
+      "1789840625_7355774.jpg",
+      "1789840625_7779192.jpg"
+    ],
+    "category": [
+      "Men Classic Fit T-Shirts"
+    ],
+    "product_slug": "spider-man-aunt-may-men-classic-fit-t-shirts",
+    "exclusive_price": 899,
+    "gender_type": 1,
+    "artist": "Marvel™",
+    "stock": 12,
+    "spl_price": 999,
+    "prodType": "1",
+    "express_serviceable": false,
+    "max_express_estimated_duration": null
+  },
+  {
+    "id": 386991,
+    "title": "Endgame: I Love You 3000",
+    "price": 999,
+    "imageUrl": [
+      "1789974014_4071791.jpg",
+      "1789841351_4158334.jpg",
+      "1789841351_2293941.jpg",
+      "1789841351_7647091.jpg"
+    ],
+    "category": [
+      "Men Classic Fit T-Shirts"
+    ],
+    "product_slug": "iron-man-3000-men-classic-fit-t-shirts",
+    "exclusive_price": 899,
+    "gender_type": 1,
+    "artist": "Marvel™",
+    "stock": 12,
+    "spl_price": 999,
+    "prodType": "1",
+    "express_serviceable": false,
+    "max_express_estimated_duration": null
+  },
+  {
+    "id": 319565,
+    "title": "Oversized Polo: Auburn",
+    "price": 1599,
+    "imageUrl": [
+      "1789813692_6635429.jpg",
+      "1789813692_6405459.jpg",
+      "1789813692_3906834.jpg",
+      "1789813692_4832529.jpg"
+    ],
+    "category": [
+      "Oversized Polos"
+    ],
+    "product_slug": "oversized-polo-auburn-men",
+    "exclusive_price": 1499,
+    "gender_type": 1,
+    "artist": "The Souled Store",
+    "stock": 12,
+    "spl_price": 1599,
+    "prodType": "1",
+    "express_serviceable": false,
+    "max_express_estimated_duration": null
+  }
+]

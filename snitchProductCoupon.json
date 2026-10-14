@@ -1,0 +1,48 @@
+{
+  "coupons": [
+    {
+      "Terms": [""],
+      "code": "APP10",
+      "customers": "new",
+      "description": "Flat 10% OFF On First App Purchase",
+      "discount_percentage": 10,
+      "minimum_quantity": 1,
+      "pages": ["cart", "pdp"],
+      "pdp_description": "Enjoy 10% off on your first app purchase",
+      "plp_description": "On your first app order",
+      "position": 1,
+      "products": "all"
+    },
+    {
+      "Terms": [""],
+      "code": "NEW10",
+      "customers": "new",
+      "description": "Get 10% off upto \u20b9250 on purchases above \u20b92499",
+      "discount_percentage": 10,
+      "max_discount": 250,
+      "minimum_purchase": 2499,
+      "pages": ["cart", "plp", "pdp"],
+      "pdp_description": "Enjoy 10% off on your first order above \u20b92499",
+      "plp_description": "On first order above \u20b92499",
+      "position": 2,
+      "products": "all"
+    },
+    {
+      "Terms": [],
+      "apply_on_discounted_products": true,
+      "code": "NORETURN10",
+      "customers": "all",
+      "description": "10% OFF | No Returns | Size exchanges on availability",
+      "discount_percentage": 10,
+      "max_discount": 300,
+      "minimum_purchase": 0,
+      "pdp_description": "10% OFF | No Returns | Exchange Available",
+      "plp_description": "10% off, no returns",
+      "position": 3,
+      "products": "all",
+      "show_tool_tip": true,
+      "show_tool_tip_on_cart": false,
+      "tool_tip_message": "Returns not applicable, exchanges available for in-stock sizes"
+    }
+  ]
+}

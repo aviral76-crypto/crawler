@@ -1,0 +1,62 @@
+brand,district_matched_as,osm_floor,district_ncr_stores,verdict
+Shree,,6,0,absent from District
+Fabindia,Fabindia,28,14,District thinner than OSM floor
+Raymond,,27,19,District thinner than OSM floor
+Bata,BATA,26,66,covered
+Lenskart,Lenskart,25,159,covered
+Van Heusen,Van Heusen,17,18,covered
+Jockey,Jockey,16,15,covered
+Louis Philippe,,15,4,District thinner than OSM floor
+Max,Max,15,11,District thinner than OSM floor
+Levi's,Levi's,14,122,covered
+Manyavar,Manyavar,13,7,District thinner than OSM floor
+Go Colors!,Go Colors,13,52,covered
+Decathlon,Decathlon,13,22,covered
+Tanishq,Tanishq,12,10,covered
+Safari,Safari,12,24,covered
+Pantaloons,Pantaloons,11,30,covered
+Miniso,Miniso,11,34,covered
+BlueStone,BlueStone,11,10,covered
+Titan Eye+,Titan Eye+,10,11,covered
+Peter England,Peter England,9,3,District thinner than OSM floor
+Aurelia,Aurelia,9,41,covered
+W,,9,53,covered
+Zudio,Zudio,9,84,covered
+Samsonite,Samsonite,9,13,covered
+Liberty,Liberty,9,7,covered
+Cantabil,Cantabil,8,6,covered
+Blackberrys,Blackberrys,8,37,covered
+Monte Carlo,Monte Carlo,8,42,covered
+Biba,BIBA,8,30,covered
+Puma Outlet,Puma,8,38,covered
+Redtape,RedTape,8,3,District thinner than OSM floor
+Lakshita,Lakshita,8,16,covered
+Adidas,adidas,8,47,covered
+Shoppers Stop,Shoppers Stop,8,18,covered
+Skechers,Skechers,8,49,covered
+Westside,Westside,7,22,covered
+Cobb,Cobb,7,1,District thinner than OSM floor
+Max Fashion,,7,11,covered
+Meena Bazaar,Meena Bazaar,7,10,covered
+Hush Puppies,Hush Puppies,7,31,covered
+Cobb Italy,,7,1,District thinner than OSM floor
+Giva,Giva,7,57,covered
+Kalyan Jewellers,Kalyan Jewellers,7,4,District thinner than OSM floor
+Crocs,Crocs,7,33,covered
+Duke India,Duke,6,1,District thinner than OSM floor
+Anokhi,Anokhi,6,5,covered
+Reebok,Reebok,6,5,covered
+Reliance Trends,Reliance Trends,6,43,covered
+Allen Solly,Allen Solly,6,17,covered
+Wildcraft,Wildcraft,6,12,covered
+Woodland,Woodland,6,36,covered
+American Tourister,American Tourister,6,23,covered
+Relaxo,Relaxo,6,1,District thinner than OSM floor
+Nike,Nike,5,7,covered
+H&M,H&M,5,5,covered
+United Colors of Benetton,United Colors Of Benetton,5,28,covered
+Ibadat,iBadat,5,1,District thinner than OSM floor
+Chique,Chique,5,30,covered
+Cantabil Italy,,5,6,covered
+Sabhyata,Sabhyata,5,23,covered
+Malabar Gold and Diamonds,Malabar Gold & Diamonds,5,1,District thinner than OSM floor

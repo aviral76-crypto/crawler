@@ -1,0 +1,323 @@
+
+    query getProduct  {
+      product(id: "gid://shopify/Product/7521406484551") {
+ 
+          id
+title
+tags
+handle
+totalInventory
+description
+descriptionHtml
+onlineStoreUrl
+productType
+vendor
+availableForSale
+requiresSellingPlan
+sellingPlanGroups (first: 20) {
+    edges {
+        node {
+            name
+            sellingPlans (first: 20) {
+                edges {
+                    node {
+                        id
+                        name
+                        description
+                        recurringDeliveries
+                    }
+                }
+            }
+        }
+    }
+}
+media (first: 250) {
+    edges {
+        node {
+            mediaContentType
+            ... on Video {
+                id
+                mediaContentType
+                sources {
+                    url
+                    height
+                    format
+                    width
+                }
+                previewImage {
+                    originalSrc: url (transform: {})
+                }
+            }
+            ... on MediaImage {
+                id
+                mediaContentType
+                image {
+                    height
+                    id
+                    originalSrc: url (transform: {})
+                    width
+                    url (transform: {maxHeight: 500, maxWidth: 500})
+                }
+            }
+        }
+    }
+}
+priceRange {
+    maxVariantPrice {
+        amount
+        currencyCode
+    }
+    minVariantPrice {
+        amount
+        currencyCode
+    }
+}
+compareAtPriceRange {
+    maxVariantPrice {
+        amount
+        currencyCode
+    }
+    minVariantPrice {
+        amount
+        currencyCode
+    }
+}
+options {
+    id
+    name
+    values
+}
+appmaker_hide_product_status: metafield (namespace: "appmaker", key: "hide_product_status") {
+    value
+}
+variants (first: 250) {
+    pageInfo {
+        hasNextPage
+        hasPreviousPage
+    }
+    edges {
+        node {
+            sellingPlanAllocations (first: 10) {
+                edges {
+                    node {
+                        sellingPlan {
+                            id
+                            name
+                            options {
+                                name
+                                value
+                            }
+                        }
+                        priceAdjustments {
+                            price {
+                                amount
+                                currencyCode
+                            }
+                            compareAtPrice {
+                                amount
+                                currencyCode
+                            }
+                            perDeliveryPrice {
+                                amount
+                                currencyCode
+                            }
+                            unitPrice {
+                                amount
+                                currencyCode
+                            }
+                        }
+                    }
+                }
+            }
+            availableForSale
+            currentlyNotInStock
+            quantityAvailable
+            sku
+            id
+            title
+            selectedOptions {
+                name
+                value
+            }
+            image {
+                src: url (transform: {})
+                url (transform: {maxHeight: 500, maxWidth: 500})
+            }
+            price {
+                amount
+                currencyCode
+            }
+            compareAtPrice {
+                currencyCode
+                amount
+            }
+            custom_product_mobile_price: metafield (key: "product_mobile_price", namespace: "custom") {
+                value
+            }
+            custom_custom_variant_total_quantity: metafield (key: "custom_variant_total_quantity", namespace: "custom") {
+                value
+            }
+        }
+    }
+}
+images (first: 250) {
+    pageInfo {
+        hasNextPage
+        hasPreviousPage
+    }
+    edges {
+        node {
+            altText
+            src: url (transform: {})
+            height
+            width
+            url (transform: {maxHeight: 500, maxWidth: 500})
+        }
+    }
+}
+my_fields_sub_title: metafield (key: "sub_title", namespace: "my_fields") {
+    value
+}
+my_fields_main_title: metafield (key: "main_title", namespace: "my_fields") {
+    value
+}
+custom_variant_color_image: metafield (key: "variant_color_image", namespace: "custom") {
+    value
+}
+custom_variant_color_products: metafield (key: "variant_color_products", namespace: "custom") {
+    value
+    references (first: 250) {
+        edges {
+            node {
+                ... on Product {
+                    id
+                    title
+                    custom_variant_color_image: metafield (key: "variant_color_image", namespace: "custom") {
+                        value
+                        reference {
+                            ... on MediaImage {
+                                id
+                                alt
+                                image {
+                                    url
+                                    altText
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+gst_saving_amount: metafield (key: "gst_saving_amount", namespace: "custom") {
+    value
+}
+delivery_starts: metafield (key: "delivery_starts", namespace: "custom") {
+    value
+}
+custom_products_list: metafield (key: "co_ord_sets_products", namespace: "custom") {
+    value
+}
+mainTitle: metafield (key: "main_title", namespace: "my_fields") {
+    value
+}
+meta_my_fields_product_badges: metafield (key: "product_badges", namespace: "my_fields") {
+    value
+}
+meta_custom_product_details_banner: metafield (key: "product_details_banner", namespace: "custom") {
+    value
+    reference {
+        ... on MediaImage {
+            image {
+                url
+                width
+                height
+            }
+        }
+    }
+}
+meta_custom_product_banner_carousel_mobile: metafield (key: "product_banner_carousel_mobile", namespace: "custom") {
+    value
+    references (first: 100) {
+        nodes {
+            __typename
+            ... on MediaImage {
+                image {
+                    url
+                    width
+                    height
+                }
+            }
+        }
+    }
+}
+meta_custom_pairs_well_with_products: metafield (key: "pairs_well_with_products", namespace: "custom") {
+    value
+}
+meta_custom_product_highlights: metafield (key: "product_highlights", namespace: "custom") {
+    __typename
+    references (first: 100) {
+        nodes {
+            __typename
+            ... on Metaobject {
+                image: field (key: "image") {
+                    value
+                    reference {
+                        ... on MediaImage {
+                            image {
+                                url
+                                width
+                                height
+                            }
+                        }
+                    }
+                }
+                title: field (key: "title") {
+                    value
+                }
+                description: field (key: "description") {
+                    value
+                }
+            }
+        }
+    }
+}
+custom_product_recommendations: metafield (key: "custom_product_recommendations", namespace: "custom") {
+    value
+}
+categoryText: metafield (key: "sub_title", namespace: "my_fields") {
+    value
+}
+patternText: metafield (key: "PATTERN", namespace: "my_fields") {
+    value
+}
+fabricText: metafield (key: "Fabric", namespace: "my_fields") {
+    value
+}
+closureText: metafield (key: "Closure", namespace: "my_fields") {
+    value
+}
+occasionText: metafield (key: "OCCASION", namespace: "my_fields") {
+    value
+}
+sleeveText: metafield (key: "Sleeve_length", namespace: "my_fields") {
+    value
+}
+fitText: metafield (key: "Fit", namespace: "my_fields") {
+    value
+}
+collarText: metafield (key: "collar", namespace: "my_fields") {
+    value
+}
+black_friday_sale_price: metafield (key: "black_friday_sale_price", namespace: "custom") {
+    value
+}
+rewards_points: metafield (key: "rewards_points", namespace: "custom") {
+    value
+}
+    
+      }
+    }
+    
+    

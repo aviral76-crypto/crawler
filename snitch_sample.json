@@ -1,0 +1,824 @@
+[
+  {
+    "url": "https://www.snitch.com/men-jeans/slim-fit-stretch-washed-jeans-4bje006-02/9261366542498/buy",
+    "parsed": {
+      "url": "https://www.snitch.com/men-jeans/slim-fit-stretch-washed-jeans-4bje006-02/9261366542498/buy",
+      "name": "Slim-Fit Stretch Plus Size Jeans",
+      "sku": "slim-fit-stretch-washed-jeans-4bje006-02",
+      "brand": "SNITCH",
+      "price": "2399",
+      "currency": "INR",
+      "availability": "InStock",
+      "variants": "",
+      "rating": "4.5",
+      "review_count": "100"
+    },
+    "json_ld_product": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Slim-Fit Stretch Plus Size Jeans",
+      "description": "Mid-indigo denim that means business—clean, versatile, and built for everyday comfort. Cut in a sharp slim fit with subtle fading and classic 5-pocket styling, it pairs effortlessly with tees or shirts. Crafted in 71% Cotton 27% Polyster 2% Spandex for breathable stretch and lasting shape.",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_52204133-3376-40be-8d81-8641ce1b2c03.jpg?v=1783076033",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_b586adf0-546c-4350-87bc-b6463a7d4a07.jpg?v=1783076033",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_43f828cf-fbae-4760-b7f7-b136a6c20c28.jpg?v=1783076033",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_1cd0cb56-f1f6-4b78-a206-0e8e2092e952.jpg?v=1783076033",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_13c2979e-a333-48c9-a397-ef17d6c85037.jpg?v=1783076034",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_038b287c-5537-40a9-8598-830721ac869b.jpg?v=1783076033",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_9c0ab1a7-c14b-43b6-b405-89acd1160f23.jpg?v=1783076033"
+      ],
+      "sku": "slim-fit-stretch-washed-jeans-4bje006-02",
+      "productID": 9261366542498,
+      "brand": {
+        "@type": "Brand",
+        "name": "SNITCH"
+      },
+      "category": "Jeans",
+      "url": "https://snitch.com//men-jeans/slim-fit-stretch-washed-jeans-4bje006-02/9261366542498/buy",
+      "color": "Black, Blue, Grey",
+      "material": "Cotton Blend",
+      "size": "42, 50, 46, 44, 48, 40",
+      "offers": {
+        "@type": "Offer",
+        "price": "2399",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "url": "https://snitch.com//men-jeans/slim-fit-stretch-washed-jeans-4bje006-02/9261366542498/buy",
+        "itemCondition": "https://schema.org/NewCondition",
+        "seller": {
+          "@type": "Organization",
+          "name": "SNITCH"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 100
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Fit",
+          "value": "Slim Fit"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pattern",
+          "value": "Plain"
+        }
+      ]
+    },
+    "all_json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Slim-Fit Stretch Plus Size Jeans",
+        "description": "Mid-indigo denim that means business—clean, versatile, and built for everyday comfort. Cut in a sharp slim fit with subtle fading and classic 5-pocket styling, it pairs effortlessly with tees or shirts. Crafted in 71% Cotton 27% Polyster 2% Spandex for breathable stretch and lasting shape.",
+        "image": [
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_52204133-3376-40be-8d81-8641ce1b2c03.jpg?v=1783076033",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_b586adf0-546c-4350-87bc-b6463a7d4a07.jpg?v=1783076033",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_43f828cf-fbae-4760-b7f7-b136a6c20c28.jpg?v=1783076033",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_1cd0cb56-f1f6-4b78-a206-0e8e2092e952.jpg?v=1783076033",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_13c2979e-a333-48c9-a397-ef17d6c85037.jpg?v=1783076034",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_038b287c-5537-40a9-8598-830721ac869b.jpg?v=1783076033",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_9c0ab1a7-c14b-43b6-b405-89acd1160f23.jpg?v=1783076033"
+        ],
+        "sku": "slim-fit-stretch-washed-jeans-4bje006-02",
+        "productID": 9261366542498,
+        "brand": {
+          "@type": "Brand",
+          "name": "SNITCH"
+        },
+        "category": "Jeans",
+        "url": "https://snitch.com//men-jeans/slim-fit-stretch-washed-jeans-4bje006-02/9261366542498/buy",
+        "color": "Black, Blue, Grey",
+        "material": "Cotton Blend",
+        "size": "42, 50, 46, 44, 48, 40",
+        "offers": {
+          "@type": "Offer",
+          "price": "2399",
+          "priceCurrency": "INR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://snitch.com//men-jeans/slim-fit-stretch-washed-jeans-4bje006-02/9261366542498/buy",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@type": "Organization",
+            "name": "SNITCH"
+          }
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.5,
+          "reviewCount": 100
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Fit",
+            "value": "Slim Fit"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Pattern",
+            "value": "Plain"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.snitch.com/men-t-shirts/100-cotton-oversized-plus-size-t-shirt-4mbgst1233-04/8883304202402/buy",
+    "parsed": {
+      "url": "https://www.snitch.com/men-t-shirts/100-cotton-oversized-plus-size-t-shirt-4mbgst1233-04/8883304202402/buy",
+      "name": "100% Cotton Oversized Plus Size T-Shirt",
+      "sku": "100-cotton-oversized-plus-size-t-shirt-4mbgst1233-04",
+      "brand": "SNITCH",
+      "price": "1039",
+      "currency": "INR",
+      "availability": "InStock",
+      "variants": "",
+      "rating": "4.4",
+      "review_count": "103"
+    },
+    "json_ld_product": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "100% Cotton Oversized Plus Size T-Shirt",
+      "description": "Crafted from 100% cotton, this oversized T-shirt combines comfort and style effortlessly. Its rich green hue and minimalist design make it a versatile addition to your wardrobe, perfect for casual outings or relaxed settings. Experience premium quality at an affordable price.",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MBGSS1233-04-3XL17.jpg?v=1772798074",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MBGSS1233-04-3XL22.jpg?v=1772798074",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MBGSS1233-04-3XL10.jpg?v=1772798086",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MBGSS1233-04-3XL5.jpg?v=1772798086",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MBGSS1233-04-3XL8.jpg?v=1772798086",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MBGSS1233-04-3XL1.jpg?v=1772798086",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MBGSS1233-04-3XL3.jpg?v=1772798086"
+      ],
+      "sku": "100-cotton-oversized-plus-size-t-shirt-4mbgst1233-04",
+      "productID": 8883304202402,
+      "brand": {
+        "@type": "Brand",
+        "name": "SNITCH"
+      },
+      "category": "T-Shirts",
+      "url": "https://snitch.com//men-t-shirts/100-cotton-oversized-plus-size-t-shirt-4mbgst1233-04/8883304202402/buy",
+      "color": "Black, Blue, Brown, Green, Purple",
+      "material": "Cotton",
+      "size": "3XL, 6XL, 4XL, 5XL",
+      "offers": {
+        "@type": "Offer",
+        "price": "1039",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "url": "https://snitch.com//men-t-shirts/100-cotton-oversized-plus-size-t-shirt-4mbgst1233-04/8883304202402/buy",
+        "itemCondition": "https://schema.org/NewCondition",
+        "seller": {
+          "@type": "Organization",
+          "name": "SNITCH"
+        },
+        "highPrice": "1299"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.4,
+        "reviewCount": 103
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Fit",
+          "value": "Oversized Fit"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pattern",
+          "value": "Plain"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sleeves",
+          "value": "Half Sleeve"
+        }
+      ]
+    },
+    "all_json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "100% Cotton Oversized Plus Size T-Shirt",
+        "description": "Crafted from 100% cotton, this oversized T-shirt combines comfort and style effortlessly. Its rich green hue and minimalist design make it a versatile addition to your wardrobe, perfect for casual outings or relaxed settings. Experience premium quality at an affordable price.",
+        "image": [
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MBGSS1233-04-3XL17.jpg?v=1772798074",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MBGSS1233-04-3XL22.jpg?v=1772798074",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MBGSS1233-04-3XL10.jpg?v=1772798086",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MBGSS1233-04-3XL5.jpg?v=1772798086",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MBGSS1233-04-3XL8.jpg?v=1772798086",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MBGSS1233-04-3XL1.jpg?v=1772798086",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MBGSS1233-04-3XL3.jpg?v=1772798086"
+        ],
+        "sku": "100-cotton-oversized-plus-size-t-shirt-4mbgst1233-04",
+        "productID": 8883304202402,
+        "brand": {
+          "@type": "Brand",
+          "name": "SNITCH"
+        },
+        "category": "T-Shirts",
+        "url": "https://snitch.com//men-t-shirts/100-cotton-oversized-plus-size-t-shirt-4mbgst1233-04/8883304202402/buy",
+        "color": "Black, Blue, Brown, Green, Purple",
+        "material": "Cotton",
+        "size": "3XL, 6XL, 4XL, 5XL",
+        "offers": {
+          "@type": "Offer",
+          "price": "1039",
+          "priceCurrency": "INR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://snitch.com//men-t-shirts/100-cotton-oversized-plus-size-t-shirt-4mbgst1233-04/8883304202402/buy",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@type": "Organization",
+            "name": "SNITCH"
+          },
+          "highPrice": "1299"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.4,
+          "reviewCount": 103
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Fit",
+            "value": "Oversized Fit"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Pattern",
+            "value": "Plain"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Sleeves",
+            "value": "Half Sleeve"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.snitch.com/men-shirts/regular-fit-black-shirt-4sfs145-02/9269896904866/buy",
+    "parsed": {
+      "url": "https://www.snitch.com/men-shirts/regular-fit-black-shirt-4sfs145-02/9269896904866/buy",
+      "name": "1% Battery Embroidered Shirt",
+      "sku": "regular-fit-black-shirt-4sfs145-02",
+      "brand": "SNITCH",
+      "price": "1399",
+      "currency": "INR",
+      "availability": "InStock",
+      "variants": "",
+      "rating": "4.5",
+      "review_count": "302"
+    },
+    "json_ld_product": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "1% Battery Embroidered Shirt",
+      "description": "1% battery embroidery adds a playful touch to this regular-fit shirt, crafted from 100% Lyocell for a smooth, breathable feel. The sleek black design and full sleeves make it versatile for casual outings or smart-casual settings. A perfect blend of comfort and style at an affordable price.",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_11bbaf68-ee08-4178-9071-e554b3eceef1.jpg?v=1784116618",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_8024619a-1fbd-4e29-8b75-768a46e2aed9.jpg?v=1784116618",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_667ecc7a-0f98-45ad-8819-ad043d7aad62.jpg?v=1784116619",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_70537007-bca5-4654-8d1c-7171cd5258f7.jpg?v=1784116619",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_659661b2-8662-4ead-a5dc-31b87847ca60.jpg?v=1784116618",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_94fb2ad7-1d1d-4be8-9bf3-dd68c01c43f5.jpg?v=1784116620",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_7f33a049-9b1d-4a2b-acf2-21f66f76d3d1.jpg?v=1784116620"
+      ],
+      "sku": "regular-fit-black-shirt-4sfs145-02",
+      "productID": 9269896904866,
+      "brand": {
+        "@type": "Brand",
+        "name": "SNITCH"
+      },
+      "category": "Shirts",
+      "url": "https://snitch.com//men-shirts/regular-fit-black-shirt-4sfs145-02/9269896904866/buy",
+      "color": "Black, Blue, Green, Lavender, Maroon, Navy, Pink, Purple, White",
+      "material": "Lyocell",
+      "size": "XXL, XS, L, S, XL, M",
+      "offers": {
+        "@type": "Offer",
+        "price": "1399",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "url": "https://snitch.com//men-shirts/regular-fit-black-shirt-4sfs145-02/9269896904866/buy",
+        "itemCondition": "https://schema.org/NewCondition",
+        "seller": {
+          "@type": "Organization",
+          "name": "SNITCH"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 302
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Fit",
+          "value": "Regular Fit"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pattern",
+          "value": "Embroidered"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sleeves",
+          "value": "Full Sleeve"
+        }
+      ]
+    },
+    "all_json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "1% Battery Embroidered Shirt",
+        "description": "1% battery embroidery adds a playful touch to this regular-fit shirt, crafted from 100% Lyocell for a smooth, breathable feel. The sleek black design and full sleeves make it versatile for casual outings or smart-casual settings. A perfect blend of comfort and style at an affordable price.",
+        "image": [
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_11bbaf68-ee08-4178-9071-e554b3eceef1.jpg?v=1784116618",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_8024619a-1fbd-4e29-8b75-768a46e2aed9.jpg?v=1784116618",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_667ecc7a-0f98-45ad-8819-ad043d7aad62.jpg?v=1784116619",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_70537007-bca5-4654-8d1c-7171cd5258f7.jpg?v=1784116619",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_659661b2-8662-4ead-a5dc-31b87847ca60.jpg?v=1784116618",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_94fb2ad7-1d1d-4be8-9bf3-dd68c01c43f5.jpg?v=1784116620",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_7f33a049-9b1d-4a2b-acf2-21f66f76d3d1.jpg?v=1784116620"
+        ],
+        "sku": "regular-fit-black-shirt-4sfs145-02",
+        "productID": 9269896904866,
+        "brand": {
+          "@type": "Brand",
+          "name": "SNITCH"
+        },
+        "category": "Shirts",
+        "url": "https://snitch.com//men-shirts/regular-fit-black-shirt-4sfs145-02/9269896904866/buy",
+        "color": "Black, Blue, Green, Lavender, Maroon, Navy, Pink, Purple, White",
+        "material": "Lyocell",
+        "size": "XXL, XS, L, S, XL, M",
+        "offers": {
+          "@type": "Offer",
+          "price": "1399",
+          "priceCurrency": "INR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://snitch.com//men-shirts/regular-fit-black-shirt-4sfs145-02/9269896904866/buy",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@type": "Organization",
+            "name": "SNITCH"
+          }
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.5,
+          "reviewCount": 302
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Fit",
+            "value": "Regular Fit"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Pattern",
+            "value": "Embroidered"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Sleeves",
+            "value": "Full Sleeve"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.snitch.com/men-shirts/navy-blue-regular-fit-shirt-4mss4632-05/8930527084706/buy",
+    "parsed": {
+      "url": "https://www.snitch.com/men-shirts/navy-blue-regular-fit-shirt-4mss4632-05/8930527084706/buy",
+      "name": "Navy Blue Regular Fit Shirt",
+      "sku": "navy-blue-regular-fit-shirt-4mss4632-05",
+      "brand": "SNITCH",
+      "price": "1039",
+      "currency": "INR",
+      "availability": "InStock",
+      "variants": "",
+      "rating": "4.4",
+      "review_count": "113"
+    },
+    "json_ld_product": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Navy Blue Regular Fit Shirt",
+      "description": "Dark-navy twill weave defines this sophisticated regular-fit shirt, featuring a classic button-down collar and a functional chest patch pocket. Crafted from 100% Polyester, it offers a smooth, durable finish perfect for versatile styling. This polished piece seamlessly transitions from office hours to evening social gatherings with ease.",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mss4632-05_1.jpg?v=1772731767",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mss4632-05_2.jpg?v=1772731766",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mss4632-05_3.jpg?v=1772731767",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mss4632-05_4.jpg?v=1773231465",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mss4632-05_5.jpg?v=1772731766",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mss4632-05_6.jpg?v=1772731766",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mss4632-05_7.jpg?v=1772731767"
+      ],
+      "sku": "navy-blue-regular-fit-shirt-4mss4632-05",
+      "productID": 8930527084706,
+      "brand": {
+        "@type": "Brand",
+        "name": "SNITCH"
+      },
+      "category": "Shirts",
+      "url": "https://snitch.com//men-shirts/navy-blue-regular-fit-shirt-4mss4632-05/8930527084706/buy",
+      "color": "Green, Grey, Navy",
+      "material": "Polyester",
+      "size": "XS, XL, M, L, S, XXL",
+      "offers": {
+        "@type": "Offer",
+        "price": "1039",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "url": "https://snitch.com//men-shirts/navy-blue-regular-fit-shirt-4mss4632-05/8930527084706/buy",
+        "itemCondition": "https://schema.org/NewCondition",
+        "seller": {
+          "@type": "Organization",
+          "name": "SNITCH"
+        },
+        "highPrice": "1299"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.4,
+        "reviewCount": 113
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Fit",
+          "value": "Regular Fit"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pattern",
+          "value": "Plain"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sleeves",
+          "value": "Full Sleeve"
+        }
+      ]
+    },
+    "all_json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Navy Blue Regular Fit Shirt",
+        "description": "Dark-navy twill weave defines this sophisticated regular-fit shirt, featuring a classic button-down collar and a functional chest patch pocket. Crafted from 100% Polyester, it offers a smooth, durable finish perfect for versatile styling. This polished piece seamlessly transitions from office hours to evening social gatherings with ease.",
+        "image": [
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mss4632-05_1.jpg?v=1772731767",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mss4632-05_2.jpg?v=1772731766",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mss4632-05_3.jpg?v=1772731767",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mss4632-05_4.jpg?v=1773231465",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mss4632-05_5.jpg?v=1772731766",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mss4632-05_6.jpg?v=1772731766",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mss4632-05_7.jpg?v=1772731767"
+        ],
+        "sku": "navy-blue-regular-fit-shirt-4mss4632-05",
+        "productID": 8930527084706,
+        "brand": {
+          "@type": "Brand",
+          "name": "SNITCH"
+        },
+        "category": "Shirts",
+        "url": "https://snitch.com//men-shirts/navy-blue-regular-fit-shirt-4mss4632-05/8930527084706/buy",
+        "color": "Green, Grey, Navy",
+        "material": "Polyester",
+        "size": "XS, XL, M, L, S, XXL",
+        "offers": {
+          "@type": "Offer",
+          "price": "1039",
+          "priceCurrency": "INR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://snitch.com//men-shirts/navy-blue-regular-fit-shirt-4mss4632-05/8930527084706/buy",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@type": "Organization",
+            "name": "SNITCH"
+          },
+          "highPrice": "1299"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.4,
+          "reviewCount": 113
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Fit",
+            "value": "Regular Fit"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Pattern",
+            "value": "Plain"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Sleeves",
+            "value": "Full Sleeve"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.snitch.com/men-shirts/black-textured-abstract-shirt-4mss3320-02/8475834024098/buy",
+    "parsed": {
+      "url": "https://www.snitch.com/men-shirts/black-textured-abstract-shirt-4mss3320-02/8475834024098/buy",
+      "name": "Black Textured Abstract Shirt",
+      "sku": "black-textured-abstract-shirt-4mss3320-02",
+      "brand": "SNITCH",
+      "price": "1268",
+      "currency": "INR",
+      "availability": "InStock",
+      "variants": "",
+      "rating": "4.4",
+      "review_count": "88"
+    },
+    "json_ld_product": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Black Textured Abstract Shirt",
+      "description": "Give your everyday wardrobe an effortless appeal with this classy black 80.5%viscose ,19.5% nylon shirt. Designed in a slim fit, this shirt is known for its endless versatility. A look that bridges dressy and casual, with full sleeve and spread, it is perfect to wear alone or as an outer layer.",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/f7967e6bd62dd33dd48ff492a94c2be9.webp?v=1724926999",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/80ab15445636ce6bef344861427baf8c.webp?v=1724927000",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5b56e6a6c2af95eee720924924c53bde.webp?v=1724926999",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/0ffffe4ce457fca2bbfaf5897363b9fb.webp?v=1724927000",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/ed1e87c3bfb0d23a23c1d776a7b5e8c2.webp?v=1724926999",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/49859343594b62a2df98f127a435e88c.webp?v=1724926999",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/a9aa197e13f0c048f2e8cef26a5a6c79.webp?v=1724927000",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2e549c10485abab7b56fc49c98254a8c.webp?v=1724927000"
+      ],
+      "sku": "black-textured-abstract-shirt-4mss3320-02",
+      "productID": 8475834024098,
+      "brand": {
+        "@type": "Brand",
+        "name": "SNITCH"
+      },
+      "category": "Shirts",
+      "url": "https://snitch.com//men-shirts/black-textured-abstract-shirt-4mss3320-02/8475834024098/buy",
+      "color": "Black",
+      "material": "Viscose Blend",
+      "size": "M, L, S, XL, XXL",
+      "offers": {
+        "@type": "Offer",
+        "price": "1268",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "url": "https://snitch.com//men-shirts/black-textured-abstract-shirt-4mss3320-02/8475834024098/buy",
+        "itemCondition": "https://schema.org/NewCondition",
+        "seller": {
+          "@type": "Organization",
+          "name": "SNITCH"
+        },
+        "highPrice": "1409"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.4,
+        "reviewCount": 88
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Fit",
+          "value": "Slim Fit"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pattern",
+          "value": "Printed, Abstract"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sleeves",
+          "value": "Full Sleeve"
+        }
+      ]
+    },
+    "all_json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Black Textured Abstract Shirt",
+        "description": "Give your everyday wardrobe an effortless appeal with this classy black 80.5%viscose ,19.5% nylon shirt. Designed in a slim fit, this shirt is known for its endless versatility. A look that bridges dressy and casual, with full sleeve and spread, it is perfect to wear alone or as an outer layer.",
+        "image": [
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/f7967e6bd62dd33dd48ff492a94c2be9.webp?v=1724926999",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/80ab15445636ce6bef344861427baf8c.webp?v=1724927000",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5b56e6a6c2af95eee720924924c53bde.webp?v=1724926999",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/0ffffe4ce457fca2bbfaf5897363b9fb.webp?v=1724927000",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/ed1e87c3bfb0d23a23c1d776a7b5e8c2.webp?v=1724926999",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/49859343594b62a2df98f127a435e88c.webp?v=1724926999",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/a9aa197e13f0c048f2e8cef26a5a6c79.webp?v=1724927000",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2e549c10485abab7b56fc49c98254a8c.webp?v=1724927000"
+        ],
+        "sku": "black-textured-abstract-shirt-4mss3320-02",
+        "productID": 8475834024098,
+        "brand": {
+          "@type": "Brand",
+          "name": "SNITCH"
+        },
+        "category": "Shirts",
+        "url": "https://snitch.com//men-shirts/black-textured-abstract-shirt-4mss3320-02/8475834024098/buy",
+        "color": "Black",
+        "material": "Viscose Blend",
+        "size": "M, L, S, XL, XXL",
+        "offers": {
+          "@type": "Offer",
+          "price": "1268",
+          "priceCurrency": "INR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://snitch.com//men-shirts/black-textured-abstract-shirt-4mss3320-02/8475834024098/buy",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@type": "Organization",
+            "name": "SNITCH"
+          },
+          "highPrice": "1409"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.4,
+          "reviewCount": 88
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Fit",
+            "value": "Slim Fit"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Pattern",
+            "value": "Printed, Abstract"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Sleeves",
+            "value": "Full Sleeve"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.snitch.com/men-shirts/stripes-slim-fit-luxe-stretch-shirt-4mlx1222-01/8930526691490/buy",
+    "parsed": {
+      "url": "https://www.snitch.com/men-shirts/stripes-slim-fit-luxe-stretch-shirt-4mlx1222-01/8930526691490/buy",
+      "name": "Slim Fit Stretch Stripes Luxe Shirt",
+      "sku": "stripes-slim-fit-luxe-stretch-shirt-4mlx1222-01",
+      "brand": "SNITCH",
+      "price": "1759",
+      "currency": "INR",
+      "availability": "InStock",
+      "variants": "",
+      "rating": "4.5",
+      "review_count": "152"
+    },
+    "json_ld_product": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Slim Fit Stretch Stripes Luxe Shirt",
+      "description": "Vertical black pinstripes define this crisp white slim-fit shirt. Expertly tailored from a 51% Viscose 46% Polyester 3% Elastane blend, it ensures a premium feel with a subtle stretch. Featuring a classic spread collar and full sleeves, this piece offers a polished look for professional and social settings alike. High-quality style at an accessible price.",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mlx1222-01_1.jpg?v=1772731750",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mlx1222-01_2.jpg?v=1772731750",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mlx1222-01_3.jpg?v=1772731750",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mlx1222-01_4.jpg?v=1772731750",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mlx1222-01_5.jpg?v=1772731750",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mlx1222-01_6.jpg?v=1772731750",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mlx1222-01_7.jpg?v=1772731750"
+      ],
+      "sku": "stripes-slim-fit-luxe-stretch-shirt-4mlx1222-01",
+      "productID": 8930526691490,
+      "brand": {
+        "@type": "Brand",
+        "name": "SNITCH"
+      },
+      "category": "Shirts",
+      "url": "https://snitch.com//men-shirts/stripes-slim-fit-luxe-stretch-shirt-4mlx1222-01/8930526691490/buy",
+      "color": "Black, Grey, Maroon, Navy, Olive, White",
+      "material": "Viscose Blend",
+      "size": "M, L, S, XL, XXL, XS",
+      "offers": {
+        "@type": "Offer",
+        "price": "1759",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "url": "https://snitch.com//men-shirts/stripes-slim-fit-luxe-stretch-shirt-4mlx1222-01/8930526691490/buy",
+        "itemCondition": "https://schema.org/NewCondition",
+        "seller": {
+          "@type": "Organization",
+          "name": "SNITCH"
+        },
+        "highPrice": "2199"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 152
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Fit",
+          "value": "Slim Fit"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pattern",
+          "value": "Stripes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sleeves",
+          "value": "Full Sleeve"
+        }
+      ]
+    },
+    "all_json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Slim Fit Stretch Stripes Luxe Shirt",
+        "description": "Vertical black pinstripes define this crisp white slim-fit shirt. Expertly tailored from a 51% Viscose 46% Polyester 3% Elastane blend, it ensures a premium feel with a subtle stretch. Featuring a classic spread collar and full sleeves, this piece offers a polished look for professional and social settings alike. High-quality style at an accessible price.",
+        "image": [
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mlx1222-01_1.jpg?v=1772731750",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mlx1222-01_2.jpg?v=1772731750",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mlx1222-01_3.jpg?v=1772731750",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mlx1222-01_4.jpg?v=1772731750",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mlx1222-01_5.jpg?v=1772731750",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mlx1222-01_6.jpg?v=1772731750",
+          "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4mlx1222-01_7.jpg?v=1772731750"
+        ],
+        "sku": "stripes-slim-fit-luxe-stretch-shirt-4mlx1222-01",
+        "productID": 8930526691490,
+        "brand": {
+          "@type": "Brand",
+          "name": "SNITCH"
+        },
+        "category": "Shirts",
+        "url": "https://snitch.com//men-shirts/stripes-slim-fit-luxe-stretch-shirt-4mlx1222-01/8930526691490/buy",
+        "color": "Black, Grey, Maroon, Navy, Olive, White",
+        "material": "Viscose Blend",
+        "size": "M, L, S, XL, XXL, XS",
+        "offers": {
+          "@type": "Offer",
+          "price": "1759",
+          "priceCurrency": "INR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://snitch.com//men-shirts/stripes-slim-fit-luxe-stretch-shirt-4mlx1222-01/8930526691490/buy",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@type": "Organization",
+            "name": "SNITCH"
+          },
+          "highPrice": "2199"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.5,
+          "reviewCount": 152
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Fit",
+            "value": "Slim Fit"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Pattern",
+            "value": "Stripes"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Sleeves",
+            "value": "Full Sleeve"
+          }
+        ]
+      }
+    ]
+  }
+]

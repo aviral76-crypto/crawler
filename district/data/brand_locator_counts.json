@@ -1,0 +1,557 @@
+{
+ "Armani Exchange": {
+  "site": "https://armaniexchange.in/",
+  "locator": "https://stores.armaniexchange.in/",
+  "india_total": 39,
+  "metros": {
+   "Bangalore": 5,
+   "Hyderabad": 2,
+   "Delhi NCR (ex Gurgaon)": 5,
+   "Pune": 3,
+   "Mumbai": 5,
+   "Gurgaon": 1
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 39 stores listed, 18 outside the six metros"
+ },
+ "BIBA": {
+  "site": "https://www.biba.in/",
+  "locator": "https://stores.biba.in/",
+  "india_total": 145,
+  "metros": {
+   "Mumbai": 10,
+   "Delhi NCR (ex Gurgaon)": 13,
+   "Hyderabad": 8,
+   "Pune": 5,
+   "Gurgaon": 5,
+   "Bangalore": 16
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 145 stores listed, 88 outside the six metros"
+ },
+ "Blackberrys": {
+  "site": "https://blackberrys.com/",
+  "locator": "https://stores.blackberrys.com/",
+  "india_total": 404,
+  "metros": {
+   "Hyderabad": 14,
+   "Pune": 9,
+   "Mumbai": 16,
+   "Delhi NCR (ex Gurgaon)": 23,
+   "Gurgaon": 4,
+   "Bangalore": 12
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 404 stores listed, 326 outside the six metros"
+ },
+ "Elleven": {
+  "site": "https://www.elleven.in/",
+  "locator": "https://stores.elleven.in/",
+  "india_total": 6,
+  "metros": {
+   "Bangalore": 1,
+   "Hyderabad": 1
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 6 stores listed, 4 outside the six metros"
+ },
+ "Flying Machine": {
+  "site": "https://flyingmachine.in/",
+  "locator": "https://stores.flyingmachine.in/",
+  "india_total": 83,
+  "metros": {
+   "Hyderabad": 6,
+   "Mumbai": 2,
+   "Pune": 3,
+   "Delhi NCR (ex Gurgaon)": 5,
+   "Gurgaon": 2,
+   "Bangalore": 12
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 83 stores listed, 53 outside the six metros"
+ },
+ "GANT": {
+  "site": "https://www.gant.in/",
+  "locator": "https://stores.gant.in/",
+  "india_total": 25,
+  "metros": {
+   "Gurgaon": 1,
+   "Mumbai": 2,
+   "Hyderabad": 1,
+   "Bangalore": 2,
+   "Delhi NCR (ex Gurgaon)": 6
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 25 stores listed, 13 outside the six metros"
+ },
+ "Go Colors": {
+  "site": "https://gocolors.com/",
+  "locator": "https://gocolors.com/apps/s/storelocators",
+  "india_total": 735,
+  "metros": {
+   "Hyderabad": 71,
+   "Mumbai": 73,
+   "Bangalore": 66,
+   "Pune": 33,
+   "Delhi NCR (ex Gurgaon)": 48,
+   "Gurgaon": 10
+  },
+  "method": "locator API (paged)",
+  "checked": "2026-10-10",
+  "note": "stated total 737; 735 stores listed, 434 outside the six metros"
+ },
+ "Jack & Jones": {
+  "site": "https://www.jackjones.in/",
+  "locator": "https://stores.jackjones.in/",
+  "india_total": 116,
+  "metros": {
+   "Gurgaon": 1,
+   "Bangalore": 11,
+   "Delhi NCR (ex Gurgaon)": 6,
+   "Hyderabad": 5,
+   "Mumbai": 9,
+   "Pune": 5
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 116 stores listed, 79 outside the six metros"
+ },
+ "Kazo": {
+  "site": "https://www.kazo.com/",
+  "locator": "https://stores.kazo.com/",
+  "india_total": 59,
+  "metros": {
+   "Mumbai": 1,
+   "Bangalore": 2,
+   "Delhi NCR (ex Gurgaon)": 11,
+   "Gurgaon": 3
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 59 stores listed, 42 outside the six metros"
+ },
+ "Killer": {
+  "site": "https://www.killerjeans.com/",
+  "locator": "https://stores.killerjeans.com/",
+  "india_total": 134,
+  "metros": {
+   "Delhi NCR (ex Gurgaon)": 3,
+   "Bangalore": 1,
+   "Mumbai": 11,
+   "Pune": 2,
+   "Hyderabad": 8
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 134 stores listed, 109 outside the six metros"
+ },
+ "Kraus Jeans": {
+  "site": "https://www.krausjeans.com/",
+  "locator": "https://storelocator.krausjeans.com/",
+  "india_total": 35,
+  "metros": {
+   "Delhi NCR (ex Gurgaon)": 5,
+   "Hyderabad": 2,
+   "Mumbai": 5,
+   "Pune": 3
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 35 stores listed, 20 outside the six metros"
+ },
+ "La Martina": {
+  "site": "https://www.lamartina.in/",
+  "locator": "https://stores.lamartina.in/",
+  "india_total": 24,
+  "metros": {
+   "Delhi NCR (ex Gurgaon)": 2,
+   "Bangalore": 3,
+   "Pune": 4,
+   "Mumbai": 2,
+   "Hyderabad": 2
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 24 stores listed, 11 outside the six metros"
+ },
+ "Levi's": {
+  "site": "https://levi.in/",
+  "locator": "https://stores.levi.in/",
+  "india_total": 494,
+  "metros": {
+   "Bangalore": 32,
+   "Hyderabad": 17,
+   "Mumbai": 24,
+   "Pune": 12,
+   "Gurgaon": 14,
+   "Delhi NCR (ex Gurgaon)": 45
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 494 stores listed, 350 outside the six metros"
+ },
+ "Monte Carlo": {
+  "site": "https://www.montecarlo.in/",
+  "locator": "https://stores.montecarlo.in/",
+  "india_total": 453,
+  "metros": {
+   "Hyderabad": 2,
+   "Bangalore": 14,
+   "Delhi NCR (ex Gurgaon)": 49,
+   "Mumbai": 5,
+   "Pune": 3,
+   "Gurgaon": 12
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 453 stores listed, 368 outside the six metros"
+ },
+ "Mufti": {
+  "site": "https://www.muftijeans.in/",
+  "locator": "https://stores.muftijeans.in/",
+  "india_total": 417,
+  "metros": {
+   "Bangalore": 16,
+   "Delhi NCR (ex Gurgaon)": 21,
+   "Pune": 15,
+   "Mumbai": 21,
+   "Hyderabad": 12,
+   "Gurgaon": 2
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 417 stores listed, 330 outside the six metros"
+ },
+ "Nykd by Nykaa": {
+  "site": "https://www.nykdbynykaa.com/",
+  "locator": "https://stores.nykdbynykaa.com/",
+  "india_total": 38,
+  "metros": {
+   "Delhi NCR (ex Gurgaon)": 4,
+   "Gurgaon": 3,
+   "Mumbai": 3,
+   "Pune": 2,
+   "Hyderabad": 3,
+   "Bangalore": 6
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 38 stores listed, 17 outside the six metros"
+ },
+ "ONLY": {
+  "site": "https://www.only.in/",
+  "locator": "https://stores.only.in/",
+  "india_total": 96,
+  "metros": {
+   "Gurgaon": 2,
+   "Delhi NCR (ex Gurgaon)": 5,
+   "Hyderabad": 3,
+   "Bangalore": 8,
+   "Mumbai": 9,
+   "Pune": 3
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 96 stores listed, 66 outside the six metros"
+ },
+ "Only": {
+  "site": "https://www.only.in/",
+  "locator": "https://stores.only.in/",
+  "india_total": 96,
+  "metros": {
+   "Gurgaon": 2,
+   "Delhi NCR (ex Gurgaon)": 5,
+   "Hyderabad": 3,
+   "Bangalore": 8,
+   "Mumbai": 9,
+   "Pune": 3
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 96 stores listed, 66 outside the six metros"
+ },
+ "Pepe Jeans": {
+  "site": "https://www.pepejeans.in/",
+  "locator": "https://stores.pepejeans.in/",
+  "india_total": 197,
+  "metros": {
+   "Gurgaon": 3,
+   "Delhi NCR (ex Gurgaon)": 9,
+   "Mumbai": 7,
+   "Pune": 7,
+   "Hyderabad": 9,
+   "Bangalore": 10
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 197 stores listed, 152 outside the six metros"
+ },
+ "Rareism": {
+  "site": "https://rareism.com/",
+  "locator": "https://stores.rareism.com/",
+  "india_total": 46,
+  "metros": {
+   "Gurgaon": 3,
+   "Hyderabad": 5,
+   "Mumbai": 3,
+   "Pune": 2,
+   "Delhi NCR (ex Gurgaon)": 3,
+   "Bangalore": 9
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 46 stores listed, 21 outside the six metros"
+ },
+ "Ritu Kumar": {
+  "site": "https://www.ritukumar.com/",
+  "locator": "https://stores.ritukumar.com/",
+  "india_total": 47,
+  "metros": {
+   "Delhi NCR (ex Gurgaon)": 5,
+   "Gurgaon": 2,
+   "Pune": 1,
+   "Mumbai": 5,
+   "Hyderabad": 3,
+   "Bangalore": 4
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 47 stores listed, 27 outside the six metros"
+ },
+ "SELECTED HOMME": {
+  "site": "https://www.selectedhomme.in/",
+  "locator": "https://stores.selectedhomme.in/",
+  "india_total": 37,
+  "metros": {
+   "Hyderabad": 2,
+   "Bangalore": 3,
+   "Delhi NCR (ex Gurgaon)": 1,
+   "Mumbai": 4,
+   "Pune": 2
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 37 stores listed, 25 outside the six metros"
+ },
+ "Sabhyata": {
+  "site": "https://www.sabhyataclothing.com/",
+  "locator": "https://stores.sabhyataclothing.com/",
+  "india_total": 109,
+  "metros": {
+   "Hyderabad": 5,
+   "Delhi NCR (ex Gurgaon)": 24,
+   "Gurgaon": 3,
+   "Mumbai": 3,
+   "Pune": 3,
+   "Bangalore": 5
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 109 stores listed, 66 outside the six metros"
+ },
+ "Superdry": {
+  "site": "https://www.superdry.in/",
+  "locator": "https://stores.superdry.in/",
+  "india_total": 70,
+  "metros": {
+   "Delhi NCR (ex Gurgaon)": 8,
+   "Hyderabad": 4,
+   "Mumbai": 8,
+   "Pune": 4,
+   "Gurgaon": 1,
+   "Bangalore": 8
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 70 stores listed, 37 outside the six metros"
+ },
+ "Tasva": {
+  "site": "https://www.tasva.com/",
+  "locator": "https://stores.tasva.com/",
+  "india_total": 96,
+  "metros": {
+   "Gurgaon": 2,
+   "Hyderabad": 7,
+   "Bangalore": 13,
+   "Pune": 5,
+   "Mumbai": 9,
+   "Delhi NCR (ex Gurgaon)": 15
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 96 stores listed, 45 outside the six metros"
+ },
+ "The Bear House": {
+  "site": "https://www.thebearhouse.com/",
+  "locator": "https://stores.thebearhouse.com/",
+  "india_total": 34,
+  "metros": {
+   "Delhi NCR (ex Gurgaon)": 3,
+   "Gurgaon": 3,
+   "Pune": 1,
+   "Mumbai": 2,
+   "Hyderabad": 5,
+   "Bangalore": 5
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 34 stores listed, 15 outside the six metros"
+ },
+ "The Pant Project": {
+  "site": "https://www.pantproject.com/",
+  "locator": "https://stores.pantproject.com/",
+  "india_total": 42,
+  "metros": {
+   "Pune": 2,
+   "Mumbai": 10,
+   "Bangalore": 12,
+   "Hyderabad": 6
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 42 stores listed, 12 outside the six metros"
+ },
+ "VIRGIO": {
+  "site": "https://www.virgio.com/",
+  "locator": "https://store.virgio.com/",
+  "india_total": 7,
+  "metros": {},
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 7 stores listed, 7 outside the six metros"
+ },
+ "Vero Moda": {
+  "site": "https://www.veromoda.in/",
+  "locator": "https://stores.veromoda.in/",
+  "india_total": 102,
+  "metros": {
+   "Mumbai": 9,
+   "Pune": 3,
+   "Bangalore": 6,
+   "Gurgaon": 1,
+   "Delhi NCR (ex Gurgaon)": 6,
+   "Hyderabad": 4
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 102 stores listed, 73 outside the six metros"
+ },
+ "W For Woman": {
+  "site": "https://www.wforwoman.com/",
+  "locator": "https://stores.wforwoman.com/",
+  "india_total": 287,
+  "metros": {
+   "Delhi NCR (ex Gurgaon)": 29,
+   "Gurgaon": 7,
+   "Hyderabad": 10,
+   "Mumbai": 11,
+   "Pune": 6,
+   "Bangalore": 14
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 287 stores listed, 210 outside the six metros"
+ },
+ "Wishful": {
+  "site": "https://wishfulbyw.com/",
+  "locator": "https://stores.wishfulbyw.com/",
+  "india_total": 13,
+  "metros": {
+   "Gurgaon": 1,
+   "Delhi NCR (ex Gurgaon)": 5,
+   "Mumbai": 2,
+   "Pune": 1
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 13 stores listed, 4 outside the six metros"
+ },
+ "Aurelia": {
+  "site": "https://aurelia.shop/",
+  "locator": "https://stores.shopforaurelia.com/",
+  "india_total": 247,
+  "metros": {
+   "Gurgaon": 8,
+   "Delhi NCR (ex Gurgaon)": 19,
+   "Mumbai": 9,
+   "Pune": 3,
+   "Hyderabad": 10,
+   "Bangalore": 23
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 247 stores listed, 175 outside the six metros"
+ },
+ "Pantaloons": {
+  "site": "https://www.pantaloons.com/",
+  "locator": "https://stores.pantaloons.com/",
+  "india_total": 394,
+  "metros": {
+   "Mumbai": 19,
+   "Hyderabad": 15,
+   "Delhi NCR (ex Gurgaon)": 26,
+   "Bangalore": 18,
+   "Pune": 12,
+   "Gurgaon": 6
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 394 stores listed, 298 outside the six metros"
+ },
+ "Manyavar": {
+  "site": "https://www.manyavar.com/",
+  "locator": "https://stores.manyavar.com/",
+  "india_total": 297,
+  "metros": {
+   "Bangalore": 20,
+   "Mumbai": 14,
+   "Pune": 3,
+   "Hyderabad": 18,
+   "Delhi NCR (ex Gurgaon)": 20,
+   "Gurgaon": 5
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 297 stores listed, 217 outside the six metros"
+ },
+ "Mothercare": {
+  "site": "https://www.mothercare.in/",
+  "locator": "https://stores.mothercare.in/",
+  "india_total": 94,
+  "metros": {
+   "Hyderabad": 4,
+   "Bangalore": 13,
+   "Mumbai": 6,
+   "Pune": 5,
+   "Gurgaon": 5,
+   "Delhi NCR (ex Gurgaon)": 9
+  },
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "; 94 stores listed, 52 outside the six metros"
+ },
+ "GUESS": {
+  "site": "https://guess.in/",
+  "locator": "https://stores.guess.com/",
+  "india_total": null,
+  "metros": {},
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "this locator covers the brand worldwide, so no India total is reported; the metro counts are matched on Indian city names; 48 stores listed, 48 outside the six metros"
+ },
+ "Reebok": {
+  "site": "https://www.reebok.in/",
+  "locator": "https://stores.reebok.com/",
+  "india_total": null,
+  "metros": {},
+  "method": "locator sitemap (one page per store)",
+  "checked": "2026-10-10",
+  "note": "this locator covers the brand worldwide, so no India total is reported; the metro counts are matched on Indian city names; 29 stores listed, 29 outside the six metros"
+ }
+}

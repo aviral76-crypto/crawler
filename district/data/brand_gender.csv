@@ -1,0 +1,683 @@
+brand,gender,men,women,kids,stores_seen
+Adidas Kids,Kids,False,False,True,3
+Aretto,Kids,False,False,True,16
+Baby Forest,Kids,False,False,True,1
+Babyshop,Kids,False,False,True,1
+Chicco,Kids,False,False,True,5
+GINI & JONY,Kids,False,False,True,1
+Giftplanet,Kids,False,False,True,1
+Hamleys,Kids,False,False,True,12
+Jacadi Paris,Kids,False,False,True,1
+Jack & Jones Junior,Kids,False,False,True,1
+Les Petits,Kids,False,False,True,1
+Little Tags Luxury,Kids,False,False,True,3
+Miniklub,Kids,False,False,True,5
+One Friday World,Kids,False,False,True,1
+Rare Ones,Kids,False,False,True,4
+Sweet Child Of Mine,Kids,False,False,True,1
+THE PONY AND PEONY CO.,Kids,False,False,True,1
+Arrow,Men,True,False,False,14
+BEARDO,Men,True,False,False,2
+Berluti,Men,True,False,False,1
+Blackberrys,Men,True,False,False,14
+Bugatti Shoes,Men,True,False,False,1
+Canali,Men,True,False,False,3
+Celio,Men,True,False,False,10
+Charles Trywhitt,Men,True,False,False,2
+Colorplus,Men,True,False,False,9
+DaMENSCH,Men,True,False,False,1
+Ethnix By Raymond,Men,True,False,False,8
+Hackett London,Men,True,False,False,3
+Helvetica,Men,True,False,False,2
+Highlander,Men,True,False,False,1
+Indian Terrain,Men,True,False,False,3
+Jack & Jones,Men,True,False,True,10
+John Pride,Men,True,False,False,1
+Killer,Men,True,False,True,1
+Kingdom of White,Men,True,False,False,1
+Linen Club,Men,True,False,False,2
+Mango Man,Men,True,False,False,2
+Minizmo,Men,True,False,False,3
+Mohanlal Sons,Men,True,False,True,7
+PALL MALL,Men,True,False,False,1
+Park Avenue,Men,True,False,False,4
+Raghavendra Rathore,Men,True,False,False,1
+Raymond - Made to Measure,Men,True,False,False,1
+Raymond - Ready to wear,Men,True,False,False,9
+Regal,Men,True,False,False,3
+Reid & Taylor,Men,True,False,False,1
+Richlook,Men,True,False,False,1
+Rookies,Men,True,False,False,2
+SELECTED HOMME,Men,True,False,False,2
+Simon Carter,Men,True,False,False,4
+Snitch,Men,True,False,False,8
+Tasva,Men,True,False,False,5
+The Bear House,Men,True,False,False,3
+The Man Company,Men,True,False,False,3
+The Raymond Shop,Men,True,False,False,8
+XYXX,Men,True,False,False,1
+Zodiac,Men,True,False,False,4
+10:10 by Rama Watch,Unisex,True,True,False,2
+AAYNA,Unisex,True,True,False,1
+ARKS,Unisex,True,True,False,1
+AZORTE,Unisex,True,True,True,4
+Aisha Rao,Unisex,True,True,False,1
+Ajmal Perfumes,Unisex,True,True,False,3
+Aldo,Unisex,True,True,False,14
+All Sports,Unisex,True,True,True,1
+American Eagle,Unisex,True,True,False,4
+American Tourister,Unisex,True,True,True,5
+Amit Aggarwal,Unisex,True,True,False,1
+Apple,Unisex,True,True,True,2
+Archies,Unisex,True,True,False,4
+Armani Exchange,Unisex,True,True,False,7
+AromaThai,Unisex,True,True,False,2
+Asics,Unisex,True,True,True,9
+Aukera,Unisex,True,True,False,1
+Aura Perfume Bar,Unisex,True,True,False,1
+Ayouthveda,Unisex,True,True,False,1
+BALLY,Unisex,True,True,False,1
+BATA,Unisex,True,True,True,24
+BIRKENSTOCK,Unisex,True,True,True,8
+BOSS,Unisex,True,True,False,5
+BVLGARI,Unisex,True,True,False,1
+Baggit,Unisex,True,True,False,5
+Bagline,Unisex,True,True,False,1
+Baluja Shoes,Unisex,True,True,False,1
+Balujas,Unisex,True,True,False,2
+Bargain Book Hut,Unisex,True,True,True,2
+Bateel,Unisex,True,True,False,4
+Be U Natural,Unisex,True,True,False,1
+Being Human,Unisex,True,True,False,5
+Beverly Hills Polo Club,Unisex,True,True,True,1
+BlueStone,Unisex,True,True,True,9
+Bluorng,Unisex,True,True,False,2
+Bobbi Brown,Unisex,True,True,False,7
+Bodycare,Unisex,True,True,False,1
+Bodycraft Salon,Unisex,True,True,False,1
+Bonkers Corner,Unisex,True,True,False,1
+Bottega Veneta,Unisex,True,True,False,1
+Brooke and Carter,Unisex,True,True,False,1
+Brooks Brothers,Unisex,True,True,False,2
+Burberry,Unisex,True,True,False,2
+CAVA,Unisex,True,True,False,1
+CENTRO,Unisex,True,True,True,1
+COACH,Unisex,True,True,False,3
+COS,Unisex,True,True,False,1
+Calcetto,Unisex,True,True,False,1
+Calvin Klein,Unisex,True,True,True,7
+Calvin Klein Jeans,Unisex,True,True,False,1
+Cantabil,Unisex,True,True,True,2
+Carlton London,Unisex,True,True,False,1
+Cartier,Unisex,True,True,False,1
+Casio,Unisex,True,True,False,1
+Christian Louboutin,Unisex,True,True,True,1
+Citizen,Unisex,True,True,False,1
+Clinique,Unisex,True,True,False,3
+Columbia Sportswear,Unisex,True,True,True,8
+Comet,Unisex,True,True,False,1
+Converse,Unisex,True,True,True,1
+Cord,Unisex,True,True,False,1
+Cottonworld,Unisex,True,True,False,1
+Crocs,Unisex,True,True,True,25
+DIACOLOR,Unisex,True,True,False,1
+DIESEL,Unisex,True,True,True,1
+Da Milano,Unisex,True,True,False,10
+Dayal Opticals,Unisex,True,True,True,6
+Decathlon,Unisex,True,True,True,4
+Delsey Paris,Unisex,True,True,False,3
+Diamondtree,Unisex,True,True,False,1
+Dior,Unisex,True,True,False,7
+ECCO Shoes,Unisex,True,True,False,2
+ENSEMBLE,Unisex,True,True,False,1
+ESBEDA,Unisex,True,True,False,3
+EZE PERFUMES,Unisex,True,True,False,1
+Emporio Armani,Unisex,True,True,False,4
+Enrich Salons,Unisex,True,True,True,2
+Entertainment Store,Unisex,True,True,True,1
+Envi Salon & Spa,Unisex,True,True,True,3
+Etchcraft Emporium,Unisex,True,True,False,1
+Ethnicity,Unisex,True,True,False,2
+Ethos,Unisex,True,True,False,8
+Eye Catchers,Unisex,True,True,False,1
+FILA,Unisex,True,True,False,1
+Fabindia,Unisex,True,True,True,12
+Falguni Shane Peacock,Unisex,True,True,False,1
+Fastrack,Unisex,True,True,False,2
+Ferragamo,Unisex,True,True,False,1
+Firefly Diamonds,Unisex,True,True,False,1
+FitFlop,Unisex,True,True,False,2
+Flying Machine,Unisex,True,True,False,1
+Forest Essentials,Unisex,True,True,True,23
+Forever 21,Unisex,True,True,True,1
+Fossil,Unisex,True,True,False,5
+Franck Muller,Unisex,True,True,False,1
+Fred Perry,Unisex,True,True,True,1
+French Connection,Unisex,True,True,False,2
+Frontier Raas,Unisex,True,True,True,1
+G-SHOCK,Unisex,True,True,False,2
+GANGAR EYENATION,Unisex,True,True,False,1
+GANT,Unisex,True,True,True,5
+GAP,Unisex,True,True,True,2
+GAS,Unisex,True,True,True,5
+GKB,Unisex,True,True,True,9
+GUCCI,Unisex,True,True,False,1
+GUESS,Unisex,True,True,True,6
+Gargi By PNG,Unisex,True,True,True,1
+Gaurav Gupta,Unisex,True,True,False,1
+Geetanjali Salon,Unisex,True,True,True,11
+Gifts of Love,Unisex,True,True,True,1
+Giorgio Armani,Unisex,True,True,False,1
+Global Republic,Unisex,True,True,False,1
+H&M,Unisex,True,True,True,6
+Hair Masters Salon,Unisex,True,True,True,1
+Happy Socks,Unisex,True,True,True,1
+Helios,Unisex,True,True,True,11
+Hidesign,Unisex,True,True,False,19
+Himalaya Opticals,Unisex,True,True,True,1
+House Of Masaba,Unisex,True,True,False,1
+Hush Puppies,Unisex,True,True,False,24
+ISAIA,Unisex,True,True,False,1
+IWC Boutique,Unisex,True,True,False,1
+Iconic,Unisex,True,True,True,1
+Indriya,Unisex,True,True,True,2
+Indya,Unisex,True,True,True,1
+Intimissi Lingerie,Unisex,True,True,False,1
+JAYANTI REDDY,Unisex,True,True,False,1
+JBL,Unisex,True,True,False,3
+Jaeger-LeCoultre Boutique,Unisex,True,True,False,1
+Jaipur Watch Company,Unisex,True,True,False,1
+Janavi,Unisex,True,True,True,1
+Jay's Watch Store,Unisex,True,True,False,1
+Jimmy Choo,Unisex,True,True,False,2
+Jo Malone,Unisex,True,True,False,1
+Jockey,Unisex,True,True,True,12
+Johnson Watch Co.,Unisex,True,True,False,2
+Just In Time,Unisex,True,True,False,10
+Jute Cottage,Unisex,True,True,False,2
+KAMA AYURVEDA,Unisex,True,True,False,12
+Kalyan Jewellers,Unisex,True,True,True,3
+Kapoor Watch Co.,Unisex,True,True,False,3
+Kate & Oscar,Unisex,True,True,True,1
+Khadim,Unisex,True,True,True,1
+Kickers,Unisex,True,True,True,1
+Kimirica,Unisex,True,True,False,1
+Kompanero,Unisex,True,True,False,2
+Kunal Rawal,Unisex,True,True,True,1
+Kusvaa,Unisex,True,True,True,1
+La Martina,Unisex,True,True,False,2
+LaMode,Unisex,True,True,False,2
+Lacoste,Unisex,True,True,True,13
+Lakmē Salon,Unisex,True,True,True,1
+Language,Unisex,True,True,False,1
+Lavie,Unisex,True,True,False,5
+LensCrafters,Unisex,True,True,False,6
+Lenskart,Unisex,True,True,True,23
+Levi's,Unisex,True,True,False,25
+Liberty,Unisex,True,True,True,2
+Lifestyle,Unisex,True,True,True,6
+Limited Edt,Unisex,True,True,True,2
+Lino Perros,Unisex,True,True,False,1
+Longines,Unisex,True,True,False,3
+Looks Salon,Unisex,True,True,True,20
+Louis Vuitton,Unisex,True,True,False,2
+Lovebirds,Unisex,True,True,False,1
+M.A.C Cosmetics,Unisex,True,True,False,12
+MacV,Unisex,True,True,False,6
+Make Your Own Perfume (MYOP),Unisex,True,True,False,11
+Malabar Gold & Diamonds,Unisex,True,True,True,3
+Manan,Unisex,True,True,False,1
+Manyavar,Unisex,True,True,True,14
+Manyavar & Mohey,Unisex,True,True,True,3
+Marks & Spencer,Unisex,True,True,True,16
+Massimo Dutti,Unisex,True,True,False,1
+Max,Unisex,True,True,True,17
+Meghavi Wellness Spa,Unisex,True,True,False,2
+Melorra,Unisex,True,True,False,2
+Metro Shoes,Unisex,True,True,True,3
+Mia by Tanishq,Unisex,True,True,True,5
+Michael Kors,Unisex,True,True,False,4
+Mishru,Unisex,True,True,False,1
+Mochi,Unisex,True,True,False,14
+Mokobara,Unisex,True,True,True,2
+Molton Brown,Unisex,True,True,False,1
+Montblanc,Unisex,True,True,False,2
+Monte Carlo,Unisex,True,True,True,10
+Mrunalini Rao,Unisex,True,True,False,1
+Muji,Unisex,True,True,True,2
+My Kalyan Mini Store,Unisex,True,True,True,1
+NEXT,Unisex,True,True,True,1
+Nail Edit,Unisex,True,True,False,1
+Nautica,Unisex,True,True,True,7
+Needledust,Unisex,True,True,True,1
+Neemans,Unisex,True,True,False,1
+New Balance,Unisex,True,True,True,6
+New Era,Unisex,True,True,True,1
+NewU,Unisex,True,True,False,10
+Nicobar,Unisex,True,True,False,4
+Nike,Unisex,True,True,True,13
+Numero Uno,Unisex,True,True,False,1
+Nykaa,Unisex,True,True,False,4
+OCTAVE METTLE,Unisex,True,True,True,1
+ORRA,Unisex,True,True,False,10
+Om Book Shop,Unisex,True,True,True,6
+OnePlus,Unisex,True,True,True,4
+Onitsuka Tiger,Unisex,True,True,True,5
+Opium Eyewear,Unisex,True,True,False,2
+Optique,Unisex,True,True,False,1
+Oud Arabia,Unisex,True,True,False,4
+PERFUME CONNEXION,Unisex,True,True,False,1
+Pankaj & Nidhi,Unisex,True,True,False,1
+Pantaloons,Unisex,True,True,True,8
+Parcos,Unisex,True,True,False,3
+Paul & Shark,Unisex,True,True,False,1
+Paul Smith,Unisex,True,True,False,2
+Pepe Jeans,Unisex,True,True,False,5
+Performax,Unisex,True,True,False,1
+Pilgrim,Unisex,True,True,False,2
+Planet Superheroes,Unisex,True,True,False,1
+Play Salon,Unisex,True,True,False,4
+Polo Ralph Lauren,Unisex,True,True,True,2
+Puma,Unisex,True,True,True,22
+Punjab Optical House,Unisex,True,True,True,2
+RC Jewellers,Unisex,True,True,True,2
+Rado,Unisex,True,True,False,6
+Rare Rabbit,Unisex,True,True,True,16
+Rareism,Unisex,True,True,True,5
+Rawls,Unisex,True,True,False,1
+RedTape,Unisex,True,True,True,2
+Reebok,Unisex,True,True,True,3
+Relaxo,Unisex,True,True,True,1
+Reliance Trends,Unisex,True,True,True,5
+Ridhi Mehra,Unisex,True,True,False,1
+RiiFFS PARFUMS,Unisex,True,True,False,1
+Rimzim Dadu,Unisex,True,True,False,1
+Rolex,Unisex,True,True,False,2
+Rosenthal Versace,Unisex,True,True,False,1
+Rosso Brunello,Unisex,True,True,False,6
+S&N / Shantnu Nikhil,Unisex,True,True,False,5
+SHIVAN & NARRESH,Unisex,True,True,True,1
+SHOWOFFFF,Unisex,True,True,False,1
+SSBeauty,Unisex,True,True,False,1
+SWEET DREAMS,Unisex,True,True,False,8
+Samsonite,Unisex,True,True,False,12
+Satya Paul,Unisex,True,True,False,5
+Saundh,Unisex,True,True,False,1
+Seiko,Unisex,True,True,False,1
+Senco,Unisex,True,True,False,2
+Sephora,Unisex,True,True,True,8
+Shaya by CaratLane,Unisex,True,True,False,2
+Shoetree,Unisex,True,True,False,1
+Shoppers Stop,Unisex,True,True,True,6
+Shuffling Suitcases,Unisex,True,True,False,1
+Skechers,Unisex,True,True,True,30
+Skinn By Titan,Unisex,True,True,False,9
+Skybags,Unisex,True,True,True,1
+Socks Xpress,Unisex,True,True,True,1
+Sparx Footwear,Unisex,True,True,True,1
+Speedo,Unisex,True,True,True,6
+Spread Spain,Unisex,True,True,True,1
+Spykar,Unisex,True,True,False,4
+Steve Madden,Unisex,True,True,False,7
+Stride,Unisex,True,True,False,2
+Style Union,Unisex,True,True,True,1
+Suifab,Unisex,True,True,True,1
+Sundays Co.,Unisex,True,True,True,2
+Sunita Shekhawat Jewellery,Unisex,True,True,False,1
+Surekha Jain,Unisex,True,True,False,1
+Swa Diamonds,Unisex,True,True,False,1
+Swarovski,Unisex,True,True,False,15
+Swatch,Unisex,True,True,True,2
+Swiss Beauty,Unisex,True,True,False,1
+Symetree,Unisex,True,True,False,1
+Tag Heuer,Unisex,True,True,False,1
+Tanishq,Unisex,True,True,True,5
+Tarun Tahiliani,Unisex,True,True,False,1
+The Body Shop,Unisex,True,True,False,20
+The Collective,Unisex,True,True,True,4
+The House Of Rare,Unisex,True,True,True,4
+The Indian Garage Co.,Unisex,True,True,False,1
+The Pant Project,Unisex,True,True,False,2
+The Shoe Factory,Unisex,True,True,False,1
+The Souled Store,Unisex,True,True,False,6
+The derma co.,Unisex,True,True,False,2
+Theater,Unisex,True,True,False,1
+Tissot,Unisex,True,True,False,2
+Titan Eye Plus,Unisex,True,True,True,12
+Titan World,Unisex,True,True,False,11
+Toni & Guy,Unisex,True,True,False,8
+Torani,Unisex,True,True,True,1
+Trends Footwear,Unisex,True,True,True,4
+Tribe by Amrapali,Unisex,True,True,False,3
+True Religion,Unisex,True,True,True,1
+Tweak Salon,Unisex,True,True,False,1
+Typsy Beauty,Unisex,True,True,False,1
+U.S Polo Assn.,Unisex,True,True,True,1
+Under Armour,Unisex,True,True,False,6
+Unicorn,Unisex,True,True,False,1
+Uniqlo,Unisex,True,True,True,7
+United Colors Of Benetton,Unisex,True,True,True,12
+V.I.P,Unisex,True,True,False,9
+VERSACE,Unisex,True,True,True,1
+VLCC Beauty Clinic,Unisex,True,True,False,2
+Valentino,Unisex,True,True,False,1
+Van Heusen Innerwear,Unisex,True,True,False,2
+Victoria's Secret,Unisex,True,True,False,2
+Vision Express,Unisex,True,True,True,2
+Voyage,Unisex,True,True,True,2
+Watch World,Unisex,True,True,False,1
+Westside,Unisex,True,True,True,11
+William Penn,Unisex,True,True,False,7
+Wilson,Unisex,True,True,False,1
+Woodland,Unisex,True,True,False,8
+Woods,Unisex,True,True,True,1
+YLG Salon,Unisex,True,True,False,2
+Yousta,Unisex,True,True,True,1
+ZEISS VISION CENTER,Unisex,True,True,True,1
+Zara,Unisex,True,True,True,8
+Zegna,Unisex,True,True,False,1
+Zen Diamond,Unisex,True,True,False,2
+Zigly,Unisex,True,True,False,1
+Zudio,Unisex,True,True,True,5
+adidas,Unisex,True,True,True,22
+adidas Originals,Unisex,True,True,True,7
+amouage,Unisex,True,True,False,1
+mamaearth,Unisex,True,True,False,14
+uppercase,Unisex,True,True,False,6
+A.T.U.N.,Unspecified,False,False,False,1
+ASSEMBLY,Unspecified,False,False,False,1
+Aptronix,Unspecified,False,False,False,4
+Armonia,Unspecified,False,False,False,1
+Ashpveda,Unspecified,False,False,False,1
+Asus,Unspecified,False,False,False,4
+Aukera Diamonds,Unspecified,False,False,False,1
+BELLAVITA,Unspecified,False,False,False,6
+Bath & Body Works,Unspecified,False,False,False,10
+Beruru,Unspecified,False,False,False,1
+Bose,Unspecified,False,False,False,4
+CLINIC DERMATECH,Unspecified,False,False,False,1
+Caratlane,Unspecified,False,False,False,9
+CeX,Unspecified,False,False,False,2
+Chumbak,Unspecified,False,False,False,7
+Croma,Unspecified,False,False,False,9
+Crossword,Unspecified,False,False,False,10
+Daily Objects,Unspecified,False,False,False,2
+Daniel Wellington,Unspecified,False,False,False,1
+Dazzle Living,Unspecified,False,False,False,1
+Dell,Unspecified,False,False,False,4
+Diamond Plus,Unspecified,False,False,False,1
+Dyson,Unspecified,False,False,False,11
+EUME,Unspecified,False,False,False,2
+Ekaani,Unspecified,False,False,False,1
+Estele,Unspecified,False,False,False,5
+FNP,Unspecified,False,False,False,1
+Fiona Diamonds,Unspecified,False,False,False,1
+Fleur de Lis,Unspecified,False,False,False,1
+Foxtale,Unspecified,False,False,False,1
+Frido,Unspecified,False,False,False,1
+Future World,Unspecified,False,False,False,3
+Girias,Unspecified,False,False,False,1
+Giva,Unspecified,False,False,False,23
+Glen,Unspecified,False,False,False,1
+Goenka India,Unspecified,False,False,False,1
+Good Earth,Unspecified,False,False,False,1
+HP,Unspecified,False,False,False,10
+Home Centre,Unspecified,False,False,False,12
+HomesToLife,Unspecified,False,False,False,1
+Homestop,Unspecified,False,False,False,3
+Houmn,Unspecified,False,False,False,1
+House of Kari,Unspecified,False,False,False,1
+INATUR,Unspecified,False,False,False,2
+Inc.5,Unspecified,False,False,False,8
+Infinity 21 Salon,Unspecified,False,False,False,1
+Inglot,Unspecified,False,False,False,1
+Izod,Unspecified,False,False,False,1
+Jaazo,Unspecified,False,False,False,1
+Jawed Habib,Unspecified,False,False,False,3
+Jaypore,Unspecified,False,False,False,7
+Joyalukkas,Unspecified,False,False,False,2
+Kaarigar,Unspecified,False,False,False,1
+King Koil,Unspecified,False,False,False,1
+Knick Knack,Unspecified,False,False,False,1
+Kriti Life,Unspecified,False,False,False,1
+Kriti creations,Unspecified,False,False,False,3
+Kurlon,Unspecified,False,False,False,1
+L'OCCITANE,Unspecified,False,False,False,4
+LEGO,Unspecified,False,False,False,2
+Lamy Boutique,Unspecified,False,False,False,1
+Lapis Bard,Unspecified,False,False,False,3
+Le Creuset,Unspecified,False,False,False,2
+Lenovo,Unspecified,False,False,False,6
+Liquid Perfume Bar,Unspecified,False,False,False,1
+Lladró,Unspecified,False,False,False,3
+MI Home,Unspecified,False,False,False,2
+Mango,Unspecified,False,False,False,7
+Market 99,Unspecified,False,False,False,5
+Miniso,Unspecified,False,False,False,14
+Modern Quests,Unspecified,False,False,False,1
+Mufti,Unspecified,False,False,False,7
+Mumuso,Unspecified,False,False,False,1
+Nespresso,Unspecified,False,False,False,3
+Nilkamal Sleep Nova,Unspecified,False,False,False,1
+Nurturing Green,Unspecified,False,False,False,4
+OPPO,Unspecified,False,False,False,1
+OSIM India,Unspecified,False,False,False,1
+Oma,Unspecified,False,False,False,1
+Ophira,Unspecified,False,False,False,1
+Organik Earth,Unspecified,False,False,False,1
+Origem,Unspecified,False,False,False,1
+Palmonas,Unspecified,False,False,False,4
+Peora,Unspecified,False,False,False,6
+Playstation,Unspecified,False,False,False,1
+Presto,Unspecified,False,False,False,1
+Provogue,Unspecified,False,False,False,1
+Pure Home + Living,Unspecified,False,False,False,6
+Querencia Living,Unspecified,False,False,False,1
+RIMOWA,Unspecified,False,False,False,1
+Rahul Mishra,Unspecified,False,False,False,1
+Ray ban,Unspecified,False,False,False,1
+Reliance Digital,Unspecified,False,False,False,13
+Ruvido Caso,Unspecified,False,False,False,4
+Safari,Unspecified,False,False,False,8
+Samsung,Unspecified,False,False,False,24
+Sleepwell,Unspecified,False,False,False,1
+SleepyCat,Unspecified,False,False,False,3
+Sony,Unspecified,False,False,False,3
+SoulTree,Unspecified,False,False,False,2
+Sunglass Hut,Unspecified,False,False,False,13
+Superdry,Unspecified,False,False,False,10
+TED BAKER,Unspecified,False,False,False,1
+The Bombay Store,Unspecified,False,False,False,4
+The Decor Kart,Unspecified,False,False,False,1
+The Glory Nail Studio,Unspecified,False,False,False,1
+The Sleep Company,Unspecified,False,False,False,2
+Tira,Unspecified,False,False,False,6
+Tod's,Unspecified,False,False,False,1
+Tumi,Unspecified,False,False,False,5
+Tupperware,Unspecified,False,False,False,5
+U.S. Polo Assn. Kids,Unspecified,False,False,False,3
+VIP,Unspecified,False,False,False,1
+Van Heusen Women,Unspecified,False,False,False,3
+Vaya,Unspecified,False,False,False,1
+Vijay Sales,Unspecified,False,False,False,1
+Voylla,Unspecified,False,False,False,5
+Wakefit,Unspecified,False,False,False,1
+West Elm,Unspecified,False,False,False,2
+Wonderchef,Unspecified,False,False,False,3
+World of Watches,Unspecified,False,False,False,1
+Zoya – Exquisite Diamond Boutique,Unspecified,False,False,False,1
+dermapuritys,Unspecified,False,False,False,1
+i Gadgets,Unspecified,False,False,False,1
+iGADGET,Unspecified,False,False,False,1
+iNvent,Unspecified,False,False,False,2
+iVenus,Unspecified,False,False,False,2
+myTRIDENT,Unspecified,False,False,False,1
+A Bit of Me Jewels,Women,False,True,False,1
+A&S,Women,False,True,False,1
+AND,Women,False,True,False,8
+Aarke Ritu Kumar,Women,False,True,False,4
+Akuki London,Women,False,True,False,1
+Amama,Women,False,True,False,3
+Amethyst by Rahul Popli,Women,False,True,False,1
+Anantam,Women,False,True,False,1
+Anastasia Beverly Hills,Women,False,True,False,1
+Ancestry,Women,False,True,False,3
+Anjalee And Arjun Kapoor,Women,False,True,False,1
+Anokhi,Women,False,True,False,3
+Anushree Reddy,Women,False,True,False,1
+Ash Amaira,Women,False,True,False,1
+Aurelia,Women,False,True,False,17
+Avantra,Women,False,True,False,2
+Avirate,Women,False,True,False,1
+BIBA,Women,False,True,True,15
+Basanti Kapde aur Koffee,Women,False,True,False,2
+Beau Monde,Women,False,True,False,1
+Benefit Cosmetics,Women,False,True,False,3
+Blissclub,Women,False,True,False,2
+Bombay Selections,Women,False,True,False,1
+CAI,Women,False,True,False,1
+Candere,Women,False,True,False,1
+Chanel,Women,False,True,False,3
+Charles & Keith,Women,False,True,False,8
+Chique,Women,False,True,False,7
+Chotteylal and Sons,Women,False,True,False,1
+Clovia,Women,False,True,False,1
+Colorbar Cosmetics,Women,False,True,False,8
+Cotton Culture,Women,False,True,False,2
+Cover Story,Women,False,True,False,6
+Coyu,Women,False,True,False,5
+Crimzon,Women,False,True,False,1
+Daily Life Forever52,Women,False,True,False,2
+Desi Pop,Women,False,True,False,2
+Diani Jewels,Women,False,True,False,1
+Drishti Chabra,Women,False,True,False,1
+Ekasmaye,Women,False,True,False,1
+Elleven,Women,False,True,False,3
+Fable Street,Women,False,True,False,4
+Fabrika16,Women,False,True,False,1
+Feetoes,Women,False,True,False,1
+Forever New,Women,False,True,False,9
+Forevermark Diamond Jewellery,Women,False,True,False,1
+GLAMOUR BY ABHISHEK SOMANI,Women,False,True,False,1
+Gaiiah Closet,Women,False,True,False,1
+Gipsy,Women,False,True,False,2
+Global Desi,Women,False,True,False,3
+Go Colors,Women,False,True,False,25
+Greenways,Women,False,True,False,2
+Hamster London,Women,False,True,True,1
+Happie Hair,Women,False,True,False,1
+Hazoorilal Jewellers,Women,False,True,False,1
+Henney Bear,Women,False,True,False,1
+House of Raisons,Women,False,True,False,3
+Hunkemoller,Women,False,True,False,5
+Hype Shoes,Women,False,True,False,1
+IRTH By Titan,Women,False,True,False,2
+Isharya,Women,False,True,False,3
+Jaipur Kurti,Women,False,True,False,1
+Jewelbox,Women,False,True,False,1
+KATE SPADE,Women,False,True,False,2
+KYOMI,Women,False,True,False,1
+KaPra Fashion,Women,False,True,False,1
+Kala Niketan,Women,False,True,False,1
+Kalpana,Women,False,True,False,2
+Kazo,Women,False,True,False,3
+Kiko Milano,Women,False,True,False,2
+Kilol,Women,False,True,True,1
+Kisna Diamond & Gold Jewellery,Women,False,True,True,2
+Koskii,Women,False,True,False,1
+Kraus Jeans,Women,False,True,False,1
+Kushal's Fashion Jewellery,Women,False,True,False,6
+L'affaire,Women,False,True,False,1
+La Vie en Rose,Women,False,True,False,1
+Label Ritu Kumar,Women,False,True,False,2
+Lakshita,Women,False,True,False,4
+Latin Quarters,Women,False,True,False,1
+LeToe's,Women,False,True,False,1
+Libas,Women,False,True,False,4
+Limelight Diamonds,Women,False,True,False,3
+Look Collection,Women,False,True,False,1
+LoveChild By Masaba,Women,False,True,False,1
+MADISON,Women,False,True,False,1
+MANGATRAI NEERAJ PEARLS,Women,False,True,False,1
+MARS,Women,False,True,False,3
+MINAKI,Women,False,True,False,1
+Madame,Women,False,True,False,2
+Meena Bazaar,Women,False,True,False,2
+Miss Jo,Women,False,True,False,1
+Modluk,Women,False,True,False,1
+Monisha Jaising,Women,False,True,False,1
+Mothercare,Women,False,True,True,9
+Mulmul,Women,False,True,False,1
+Mustard,Women,False,True,False,7
+NARS,Women,False,True,False,3
+NEERU'S,Women,False,True,False,1
+NEWME,Women,False,True,False,7
+Nail One,Women,False,True,False,1
+Nail Rituals,Women,False,True,False,2
+Nailashes,Women,False,True,False,2
+Nalli,Women,False,True,False,1
+Namrata Joshipura,Women,False,True,False,1
+Notebook,Women,False,True,False,1
+Nykaa Luxe,Women,False,True,False,12
+Nykaa On Trend,Women,False,True,False,4
+Nykd by Nykaa,Women,False,True,False,3
+ONLY,Women,False,True,False,6
+Ogaan,Women,False,True,False,2
+PATINE,Women,False,True,False,1
+PAZZION,Women,False,True,False,1
+Panna Sarees,Women,False,True,False,2
+Peachmode,Women,False,True,False,1
+Qurbat,Women,False,True,False,1
+RAS Luxury Skincare,Women,False,True,False,1
+Rangriti,Women,False,True,False,3
+Ranna Gill,Women,False,True,False,2
+Rapoonzel,Women,False,True,False,1
+Ratnakshi,Women,False,True,False,1
+Reliance Jewels,Women,False,True,False,2
+Rhapsody Nail Studio,Women,False,True,False,1
+Ridhie Suri,Women,False,True,False,1
+Ridhiiee Suuri,Women,False,True,False,1
+Ritu Kumar,Women,False,True,False,8
+RmKV,Women,False,True,False,1
+Rose Jewels,Women,False,True,False,1
+Roza,Women,False,True,False,1
+Rufa Beauty,Women,False,True,False,1
+Ruh By Ruchi Tandon,Women,False,True,False,1
+SALT Attire,Women,False,True,False,1
+SUGAR Cosmetics,Women,False,True,False,6
+Sabhyata,Women,False,True,False,9
+Sangeeta Boochra,Women,False,True,False,2
+Savvyy,Women,False,True,False,1
+Shahenaz,Women,False,True,True,1
+Shakuntlam,Women,False,True,False,1
+Shreya Sharma,Women,False,True,False,1
+Simran Fashions,Women,False,True,False,1
+Soch,Women,False,True,False,17
+Solitario Diamonds,Women,False,True,False,2
+Subhuuti Creations,Women,False,True,False,1
+Summer Priyanka Gupta,Women,False,True,False,1
+Suneet Varma,Women,False,True,False,1
+Surabhi Arya,Women,False,True,False,1
+Suti,Women,False,True,False,1
+Suvasa,Women,False,True,False,3
+Sweaty Betty,Women,False,True,False,1
+TACFAB,Women,False,True,False,1
+Taneira,Women,False,True,False,7
+Taruni,Women,False,True,True,1
+The Grooming Collection,Women,False,True,False,1
+The Loom,Women,False,True,True,4
+The Nail Company,Women,False,True,False,2
+Tory Burch,Women,False,True,False,2
+Trends Woman,Women,False,True,False,1
+VIRGIO,Women,False,True,False,1
+VRK By Khanna Jewellers,Women,False,True,False,1
+Vanilla Moon,Women,False,True,False,1
+Venus Steps,Women,False,True,False,3
+Vero Moda,Women,False,True,True,15
+W For Woman,Women,False,True,False,16
+Wacoal,Women,False,True,False,3
+Zink London,Women,False,True,False,1
+Zivame,Women,False,True,False,14
+Zouk,Women,False,True,False,6
+amanté,Women,False,True,False,1
+enamor,Women,False,True,False,8

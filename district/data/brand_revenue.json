@@ -1,0 +1,150 @@
+{
+ "Go Colors": {
+  "entity": "Go Fashion (India) Ltd",
+  "listed": true,
+  "fy": "FY25",
+  "revenue_cr": 874,
+  "basis": "total company",
+  "stores": 755,
+  "sqft": 540,
+  "source": "https://investor.gocolors.com/annual-reports/2023-24/Go_Fashion_Annual_Report_2023-24.pdf",
+  "note": "Single-brand company, so company revenue is brand revenue. Includes online and large-format-store counters, so per-store is an upper bound. Company's own IR deck has quoted average revenue per store of Rs 85-90 lakh in an earlier year, against Rs 1.16 cr implied here."
+ },
+ "Westside": {
+  "entity": "Trent Ltd",
+  "listed": true,
+  "fy": "FY25",
+  "basis": "own retail",
+  "stores": 248,
+  "sqft": 19400,
+  "rev_per_sqft_disclosed": 12000,
+  "source": "https://www.storyboard18.com/brand-makers/tatas-trent-accelerates-retail-expansions-adds-over-280-stores-for-westside-zudio-in-fy25-69970.htm",
+  "note": "Trent discloses sales density and average store area, not brand revenue. Store count and 19.4k sqft average are FY25; the ~Rs 12,000/sqft density is the latest disclosed and may be an FY24 figure. About 6% of Westside's FY25 revenue is online, so the store-only figure is slightly lower."
+ },
+ "Zudio": {
+  "entity": "Trent Ltd",
+  "listed": true,
+  "fy": "FY25",
+  "basis": "own retail",
+  "stores": 765,
+  "sqft": 9200,
+  "rev_per_sqft_disclosed": 18000,
+  "source": "https://www.storyboard18.com/brand-makers/tatas-trent-accelerates-retail-expansions-adds-over-280-stores-for-westside-zudio-in-fy25-69970.htm",
+  "note": "As Westside: density x area, not disclosed brand revenue. 765 stores in 235 cities at Mar-2025, average 9.2k sqft. Zudio is almost entirely offline, so the store-only figure is close to the whole."
+ },
+ "H&M": {
+  "entity": "H & M Hennes & Mauritz Retail Pvt Ltd (India)",
+  "listed": false,
+  "fy": "FY25",
+  "revenue_cr": 3595,
+  "basis": "total company",
+  "stores": 78,
+  "source": "https://www.business-standard.com/industry/news/h-m-s-revenue-gap-widens-in-fy25-uniqlo-emerges-as-breakout-story-126012201235_1.html",
+  "note": "Rs 3,595 cr is the India entity's FY25 revenue per its MCA filing as reported by Tofler. Includes e-commerce. Store count 78 is H&M's own locator, counted for this workbook. Average store area not disclosed, so no density figure -- H&M stores are 20,000-35,000 sqft, which is why its revenue per store is not comparable with a 540 sqft Go Colors store."
+ },
+ "Zara": {
+  "entity": "Inditex Trent Retail India Pvt Ltd",
+  "listed": false,
+  "fy": "FY25",
+  "revenue_cr": 2782.06,
+  "basis": "total company",
+  "stores": 22,
+  "source": "https://www.business-standard.com/companies/news/zara-s-india-fy25-sales-flat-at-2-782-06-cr-profit-up-23-to-299-47-cr-125061200024_1.html",
+  "note": "Inditex-Trent JV, India entity only, FY25 revenue from operations. 22 stores in 13 cities (23 in 12 the year before). Very large flagship format, which is why revenue per store is an order above a small-format brand."
+ },
+ "Uniqlo": {
+  "entity": "Uniqlo India Pvt Ltd",
+  "listed": false,
+  "fy": "FY25",
+  "revenue_cr": 1192.86,
+  "basis": "total company",
+  "source": "https://tracxn.com/d/legal-entities/india/uniqlo-india-private-limited/__lxkRouTRq-j9NpDKxRSUhko7GCa9TtCz-pGpqvH0cGU",
+  "note": "FY25 revenue up 45% YoY per MCA filing. India store count for the same period not established, so revenue per store is deliberately blank."
+ },
+ "Marks & Spencer": {
+  "entity": "Marks and Spencer Reliance India Pvt Ltd",
+  "listed": false,
+  "fy": "FY25",
+  "revenue_cr": 1550.73,
+  "basis": "total company",
+  "stores": 94,
+  "source": "https://tracxn.com/d/legal-entities/india/marks-and-spencer-reliance-india-private-limited/__aeFCKZC1Qh4quL6DUn1FdauEirS_Mw4S7r0RsrSYm_8",
+  "note": "FY25 revenue down 12% YoY per MCA filing; 94 stores in 33 cities. Includes beauty and food lines and online, so per-store is an upper bound."
+ },
+ "W For Woman": {
+  "entity": "TCNS Clothing Co Ltd (merged into ABFRL)",
+  "listed": true,
+  "basis": "not separable",
+  "source": "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/TCNSClothingCoLimited_July%2018_%202024_RR_348260.html",
+  "note": "TCNS FY24 revenue was Rs 959.55 cr across W, Aurelia, Wishful and Elleven, with ~420 EBOs in total and stores of 500-1,000 sqft. The company stated W is over 50% of operating income and Aurelia 30-40%, but published neither a per-brand revenue nor a per-brand store count, so no per-store figure can be derived without inventing the split. TCNS merged into ABFRL, which no longer reports it separately."
+ },
+ "Aurelia": {
+  "entity": "TCNS Clothing Co Ltd (merged into ABFRL)",
+  "listed": true,
+  "basis": "not separable",
+  "source": "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/TCNSClothingCoLimited_July%2018_%202024_RR_348260.html",
+  "note": "See W For Woman. Aurelia was stated as 30-40% of TCNS's FY24 operating income of Rs 959.55 cr, with no per-brand store count published."
+ },
+ "Levi's": {
+  "entity": "Levi Strauss (India) Pvt Ltd",
+  "listed": false,
+  "fy": "FY25",
+  "revenue_cr": 2223.4,
+  "basis": "total company",
+  "stores": 494,
+  "source": "https://tracxn.com/d/legal-entities/india/levi-strauss-india-private-limited/__RJxxLQAKz2z1fFPslxciYjW_OOJ646LAAr6QRMXGK8c",
+  "note": "FY25 total revenue per MCA filing. This is total revenue including other income: the FY24 pair was sales Rs 1,668.7 cr against total revenue Rs 1,843.7 cr, so the operations-only FY25 figure is somewhat lower. Levi's sells heavily through multi-brand outlets, department stores and online, so revenue per exclusive store is materially overstated here. 494 stores is Levi's own locator count, verified for this workbook, and mixes company-owned with franchised."
+ },
+ "Manyavar": {
+  "entity": "Vedant Fashions Ltd",
+  "listed": true,
+  "fy": "FY25",
+  "revenue_cr": 1893,
+  "basis": "own retail",
+  "stores": 678,
+  "sqft": 2640,
+  "source": "https://vedantfashions.com/wp-content/uploads/2025/05/VFL_Investor-Presentation_Q4-and-FY25.pdf",
+  "note": "Vedant publishes both numbers: revenue from operations Rs 1,387 cr (what it books from franchisees) and 'sales of customers' Rs 1,893 cr (what shoppers actually spend in the EBOs). The sale-through figure is used, so no gross-up is needed. Covers all Vedant brands (Manyavar, Mohey, Twamev, Mebaz) across 678 EBOs and 1.79 mn sqft globally, 662 of them in India; Manyavar is the dominant but not the only brand, so this is the average Vedant EBO rather than a Manyavar-only figure."
+ },
+ "Spykar": {
+  "entity": "Spykar Lifestyles Pvt Ltd",
+  "listed": false,
+  "basis": "total company",
+  "source": "https://tracxn.com/d/companies/spykar/__OkapmjVik-4zsbiqIwOkt0hbHtpc4wv2NihH633kVYE",
+  "note": "FY25 revenue is published only as a band, Rs 500-1,000 cr, which is too wide to divide by a store count. Spykar states 2,250 points of sale of which 300+ are exclusive stores, so company revenue would in any case be mostly non-EBO. No per-store figure derived."
+ },
+ "Pepe Jeans": {
+  "entity": "Pepe Jeans India Ltd",
+  "listed": false,
+  "fy": "FY23",
+  "revenue_cr": 560,
+  "basis": "total company",
+  "source": "https://apparelresources.com/business-news/retail/denims-explosive-growth-india/",
+  "note": "FY23 net sales Rs 560 cr (from Rs 364 cr in FY22); no FY25 figure found. Pepe reports 250+ standalone stores alongside ~700 department-store and 700+ multi-brand counters, so company revenue is mostly non-EBO and a per-store figure would be meaningless. Left blank deliberately."
+ },
+ "BIBA": {
+  "entity": "Biba Apparels Pvt Ltd",
+  "listed": false,
+  "basis": "total company",
+  "source": "https://www.apparelsourcingweek.com/newsroom/news/5-indian-fashion-brands-that-are-on-a-growth-spree",
+  "note": "300+ stores reported; no precise FY revenue located in public reporting, so no per-store figure. BIBA's own locator lists 145 stores (verified for this workbook), which is well short of the 300+ claimed."
+ },
+ "Monte Carlo": {
+  "entity": "Monte Carlo Fashions Ltd",
+  "listed": true,
+  "fy": "FY25",
+  "revenue_cr": 1100.4,
+  "basis": "total company",
+  "stores": 471,
+  "source": "https://hdfcsky.com/news/monte-carlo-fashions-net-profit-in-fy25-up-by-35-6-percent",
+  "note": "FY25 revenue from operations Rs 11,004 mn. 471 EBOs at 31-Mar-25 (142 company-operated, 329 franchised). The company also sells through 1,611 MBOs/distributors and 1,212+ national chain and shop-in-shop counters, so dividing total revenue by EBOs alone OVERSTATES revenue per exclusive store. Franchised EBO revenue is also booked at wholesale, not sale-through, which pushes the other way."
+ },
+ "Pantaloons": {
+  "entity": "Aditya Birla Fashion and Retail Ltd",
+  "listed": true,
+  "fy": "FY25",
+  "basis": "not separable",
+  "source": "https://www.abfrl.com/wp-content/uploads/2025/05/ABFRL-and-ABLBL-Q4-FY25-Results-PR-230525.pdf",
+  "note": "Demerged ABFRL FY25 revenue was Rs 7,355 cr across Pantaloons, Style Up, the ethnic brands and TMRW, over 3,253 exclusive brand outlets and 4.6 mn sqft. The results release gives Pantaloons only as a quarterly figure (Q4 FY25 sales Rs 885 cr) with ~412 stores; a full-year Pantaloons number exists in ABFRL's quarterly segment disclosure, which is where to look to complete this row. Annualising the quarter would be inference, so blank."
+ }
+}

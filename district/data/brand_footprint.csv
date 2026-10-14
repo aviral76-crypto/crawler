@@ -1,0 +1,350 @@
+brand,stores,localities,cities,locality_list
+Levi's,122,74,7,Aerocity; Ardee City; Beta 2; Charmwood Village; City Centre Mall; Civil Lines; Connaught Place; DLF Cyber City; DLF Phase 1; DLF Phase 3; Dwarka; Elan Epic Mall; Gaur Central Mall; Gaur City 1; Ghitorni; Golf Course Extension; Greater Kailash 1 (GK1); Hajipur; Hauz Khas; Indirapuram; Janakpuri; Jangpura; Jasola; Kamla Nagar; Karkardooma; Karol Bagh; Kaushambi; Khan Market; Lajpat Nagar 2; MG Road; MG Road; Mayur Vihar Phase 1; Moti Nagar; NSP; Nangloi; Nehru Nagar; Netaji Subhash Place; Omega 2; Pacific Mall; Pitampura; Raj Nagar; Raj Nagar Extension; Rajnagar District Centre; Rajouri Garden; Rohini; Sahibabad; Saket; Sarita Vihar; Sarojini Nagar; Sector 110; Sector 135; Sector 14; Sector 18; Sector 20; Sector 30; Sector 32; Sector 35; Sector 38; Sector 5; Sector 50; Sector 54; Sector 68; Sector 69; Sector 83; Sector 85; Sohna Road; South Extension 2; Tagore Garden; Tilak Nagar; Unityone Shopping Mall; Vaishali; Vasant Kunj; Vijay Nagar; Vikaspuri
+Zudio,84,72,6,Alpha 2 Greater; Ambedkar Road; Amrapali Dream Valley; Amrapali Leisure Valley; Aradhyam Shopping Mall; Ardee City; Badarpur Border; Ballabhgarh; Beta 2; Burari; DLF City Centre Mall; Dwarka; East of Kailash; Felix Plaza; Golf Course Extension; Inderlok; Janakpuri; Jasola; Kamla Nagar; Karkardooma; Karol Bagh; Kashmiri Gate; Kaushambi; Kavi Nagar; Krishna Nagar; MG Road; Manesar; Mayapuri Phase 2; Mayur Vihar Phase 1; Model Town 2; Model Town 3; Mohan Nagar; Najafgarh; Nangloi; Narela; Palam; Pitampura; Pratap Vihar; Preet Vihar; R Cube Monad Mall; Raj Nagar; Rajendar Nagar; Rajnagar District Centre; Rajouri Garden; Reach 3 Roads Shopping mall; Rohini; Sahibabad; Sarita Vihar; Sector 12; Sector 13 Dwarka; Sector 132; Sector 135; Sector 15; Sector 28; Sector 31; Sector 38; Sector 4; Sector 50; Sector 62; Sector 72; Sector 75; Sector 81; Sector 83; Sector 85; Shahdara; Shalimar Bagh; Uttam Nagar; Vasant Kunj; Vasundhara; Vikaspuri; Wazirpur; West Patel Nagar
+U.S Polo Assn.,62,49,7,Ambedkar Road; Badarpur Border; Beta 2; Connaught Place; DLF Phase 3; DLF Phase 4; Dwarka; Gamma 1; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; Kalkaji; Kamla Nagar; Knowledge Park; Lawrence Road; Laxmi Nagar; MG Road; MG Road; Murthal; NIT; Niti Khand I; Pacific D21 Mall; Pitampura; Pratap Vihar; Raj Nagar; Rajnagar District Centre; Rohini; Saket; Sector 110; Sector 12; Sector 14; Sector 14 Dwarka; Sector 20; Sector 32; Sector 33; Sector 35; Sector 38; Sector 49; Sector 54; Sector 69; Sector 83; Sohna Road; Sushant Lok; Tilak Nagar; Uday Park; Unity One Elegante; Vaishali; Vasant Kunj
+W For Woman,53,42,7,Ardee City; Ashok Vihar Phase 1; Beta 2; City Centre Mall; Connaught Place; DLF Phase 1; DLF Phase 3; Dwarka; Gaur City 1; Golf Course Extension; Greater Kailash 1; Hajipur; Indirapuram; Kamla Nagar; Karol Bagh; Krishna Nagar; Lajpat Nagar 2; MG Road; NSP; Paschim Vihar; Pitampura; Rajnagar District Centre; Rajouri Garden; Rohini; Saket; Sector 18; Sector 20; Sector 30; Sector 32; Sector 35; Sector 38; Sector 50; Sector 54; Sector 68; Sector 75; Sector 83; Shahdara; Sohna Road; Vaishali; Vasant Kunj; Vikaspuri; West Patel Nagar
+Go Colors,52,44,7,Alaknanda; Ambedkar Road; Ardee City; Ashok Vihar Phase 2; Connaught Place; DLF Phase 1; DLF Phase 3; DLF Phase 4; Dwarka; East Patel Nagar; Gaur City 1; Greater Kailash 1; Green Park; Indirapuram; Janakpuri; Kalkaji; Kamla Nagar; Karol Bagh; Lajpat Nagar 2; Laxmi Nagar; MG Road; Malviya Nagar; Mayur Vihar Phase 1; Model Town 2; NIT; Netaji Subhash Place; Pacific D21 Mall; Paschim Vihar; Pitampura; Rajnagar District Centre; Rajouri Garden; Rohini; Sector 14; Sector 18; Sector 32; Sector 38; Sector 50; Sector 68; Sector 85; South Extension 2 Market; Tagore Garden; Vaishali; Vasant Kunj; Vikaspuri
+Reliance Trends,43,38,7,Aggarwal Fun City Mall; Chander Nagar; DLF Phase 3; DLF Phase 4; Dwarka; Gamma 1; ITO; Indirapuram; Janakpuri; Jasola; Kamla Nagar; Kavi Nagar; Laxmi Nagar; Mayapuri Phase 2; Mohan Nagar; NIT; NSP; Najafgarh; Nehru Nagar; Pacific D21 Mall; Palam Vihar; Paschim Vihar; Rajouri Garden; Rohini; Sector 1; Sector 110; Sector 14; Sector 16; Sector 18; Sector 19; Sector 32; Sector 37; Sector 68; Sector 69; Sector 83; Sohna Road; Vaishali; Vikaspuri
+Monte Carlo,42,33,6,City Centre Mall; Connaught Place; DLF Phase 1; Dwarka; Gaur City 1; Indirapuram; Jail Road; Janakpuri; Jaypee Greens; Kamla Nagar; Karol Bagh; Knowledge Park; Krishna Nagar; Lajpat Nagar 2; Laxmi Nagar; Moti Nagar; Palam; Paschim Vihar; Pitampura; Rajouri Garden; Rohini; Sahibabad; Sector 14; Sector 18; Sector 30; Sector 38; Sector 50; Sector 68; Sector 8; Sector 85; South Extension 2 Market; Vaishali; Vasant Vihar
+Aurelia,41,33,7,Beta 2; City Centre Mall; Connaught Place; DLF Phase 3; Dwarka; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; Karol Bagh; Krishna Nagar; Lajpat Nagar 2; Laxmi Nagar; MG Road; NSP; Paschim Vihar; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 16; Sector 20; Sector 32; Sector 38; Sector 50; Sector 54; Sector 68; Sector 75; Sector 83; Shahdara; Sohna Road; Vaishali; Vasant Kunj
+Blackberrys,37,31,7,Ardee City; Beta 2; Connaught Place; Dwarka; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; Kamla Nagar Market; Karol Bagh; Lajpat Nagar 2; MG Road; NSP; Nehru Nagar; Pitampura; Raj Nagar; Rajnagar District Centre; Rohini; Sahibabad; Saket; Sector 20; Sector 32; Sector 35; Sector 38; Sector 54; Sector 83; Sohna Road; South Extension 2 Market; Tagore Garden; Vaishali; Vasant Kunj
+Arrow,35,31,7,Ardee City; Beta 2; DLF Phase 3; Dwarka; Felix Plaza; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; Jasola; Jaypee Greens; Karol Bagh; MG Road; NIT; Pitampura; Pratap Vihar; Raj Nagar; Rajnagar District Centre; Rohini; Saket; Sector 110; Sector 14; Sector 20; Sector 21 Dwarka; Sector 32; Sector 35; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Pantaloons,30,29,7,Beta 2; DLF Phase 3; Dreamz Mall; Dwarka; Gaur City 1; Indirapuram; Janakpuri; Jaypee Greens; Kamla Nagar; Karkardooma; Karol Bagh; MG Road; Mohan Nagar; Nehru Nagar; Netaji Subhash Place; Rohini; Sahibabad; Saket; Sector 12; Sector 13 Dwarka; Sector 18; Sector 32; Sector 35; Sector 37; Sector 38; Sector 51; Sector 83; Sector 90; South Extension 2
+Chique,30,28,7,Ardee City; Beta 2; DLF Phase 3; DLF Phase 5; Gaur City 1; Golf Course Extension; Greater Kailash 1; Greater Kailash 1 (GK1); Greater Kailash1; Hajipur; Indirapuram; Khan Market; MG Road; Pitampura; Rajnagar District Centre; Rajouri Garden; Rohini; Saket; Sector 18; Sector 20; Sector 32; Sector 38; Sector 54; Sector 68; Sector 83; Sohna Road; South Extension 1; Vasant Kunj
+BIBA,30,26,7,Beta 2; Connaught Place; DLF Phase 3; Dwarka; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pacific D21 Mall; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 18; Sector 20; Sector 32; Sector 38; Sector 50; Sector 54; Sector 66; Sector 68; Sector 83; Sohna Road; Tagore Garden; Vasant Kunj
+Madame,29,28,7,Beta 2; Dwarka; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; Jasola; Kamla Nagar Market; MG Road; Model Town 2; Pitampura; Rajnagar District Centre; Rajouri Garden; Rohini; Saket; Sector 14; Sector 18; Sector 20; Sector 32; Sector 35; Sector 38; Sector 54; Sector 83; Sohna Road; Tagore Garden; Unityone Shopping Mall; Vaishali; Vasant Kunj
+Pepe Jeans,29,26,7,Beta 2; Connaught Place; Dwarka; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; Jasola; Kamla Nagar; Laxmi Nagar; MG Road; Moti Nagar; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 14; Sector 18; Sector 20; Sector 32; Sector 35; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+United Colors Of Benetton,28,25,7,Beta 2; Connaught Place; DLF Phase 3; Dwarka; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; Lajpat Nagar 2; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 50; Sector 54; Sector 68; Sector 83; Sohna Road; Tagore Garden; Unityone Shopping Mall; Vasant Kunj
+Park Avenue,26,23,7,Beta 2; Dwarka; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; Jasola; Lajpat Nagar 2; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 30; Sector 32; Sector 38; Sector 54; Sector 83; Shahdara; Sohna Road; Vaishali; Vasant Kunj
+Raymond - Ready to wear,25,24,7,Beta 2; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; Jasola; Karol Bagh; Lajpat Nagar 2; MG Road; Netaji Subhash Place; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 18; Sector 20; Sector 32; Sector 35; Sector 38; Sector 54; Sector 83; Sohna Road; Vaishali; Vasant Kunj
+Vero Moda,25,22,7,Beta 2; Dwarka; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; Jasola; MG Road; NSP; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 18; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Tagore Garden; Vasant Kunj
+Numero Uno,24,23,6,Basai Village; Gaur City 1; Gole Market; Gwal Pahari; Indirapuram; Jail Road; Janakpuri; Kamla Nagar Market; Karol Bagh; MG Road; NIT; Najafgarh; Nehru Nagar; Paschim Vihar; Rohini; Sector 10; Sector 15; Sector 35; Sector 38; Sector 79; Shahdara; Shalimar Garden; Vaishali
+Westside,24,21,5,3 C'S Mall; Alpha 2 Greater; Blue Sapphire by Taj Studios; Golf Course Extension; Good Earth Sixty 9 Mall; Indirapuram; Janakpuri; Karol Bagh; NSP; Preet Vihar; Rajinder Nagar; Rajouri Garden; Sector 13 Dwarka; Sector 29; Sector 38; Sector 68; Sector 72; Sector 83; South Extension 1; Unityone Shopping Mall; Wave Mall
+Sabhyata,23,21,6,Ambedkar Road; Ansal Plaza; Connaught Place; DLF Phase 3; Gaur City 1; Greater Kailash 1; Kamla Nagar; Karol Bagh; Krishna Nagar; Lajpat Nagar 2; Laxmi Nagar; MG Road; Paschim Vihar; Pitampura; Rajouri Garden; Rohini; Sahibabad; Sarojini Nagar; Sector 18; Sector 38; Vaishali
+Spykar,23,20,7,Beta 2; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Paschim Vihar; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 10; Sector 20; Sector 32; Sector 35; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Armani Exchange,22,21,7,Beta 2; DLF Phase 3; Dwarka; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 18; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Tilak Nagar; Vasant Kunj
+Calvin Klein,22,21,7,Beta 2; Connaught Place; DLF Phase 3; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 18; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Tagore Garden; Vasant Kunj
+Cover Story,22,21,7,Beta 2; DLF Phase 3; Dwarka; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 18; Sector 20; Sector 32; Sector 38; Sector 54; Sector 68; Sector 83; Sohna Road; Vasant Kunj
+Jack & Jones,22,21,7,Beta 2; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; NSP; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 18; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Tagore Garden; Unityone Shopping Mall; Vasant Kunj
+enamor,21,20,7,Beta 2; DLF Phase 5; Gaur City 1; Golf Course Extension; Greater Kailash 1; Hajipur; Indirapuram; MG Road; Paschim Vihar; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Rareism,21,19,7,Beta 2; DLF Phase 5; Dwarka; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Tommy Hilfiger,20,19,7,Beta 2; DLF Phase 3; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; NSP; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Tasva,20,18,6,Ambedkar Road; Chandni Chowk; Connaught Place; Dhauj; Felix Plaza; Gaur City 1; Laxmi Nagar; MG Road; MG Road; Pitampura; Rajinder Nagar; Rajouri Garden; Saket; Sarita Vihar; Sector 18; South Extension Part 1 Main Market; Unity One Elegante; Vasant Kunj
+Jaipur Kurti,19,19,7,Beta 2; DLF Phase 1; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Sahibabad; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Marks & Spencer,19,19,6,Ardee City; City Life Mall; Connaught Place; DLF Cyber City; DLF Phase 3; DLF Phase 4; DLF Summit Plaza; Felix Plaza; Gaur City 1; Greater Kailash 1 (GK1); Indirapuram; Khan Market; NSP; Saket; Sector 18; Sector 68; South Extension 1; Tagore Garden; Vasant Kunj
+amanté,19,19,7,Beta 2; Dwarka; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 18; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Van Heusen,19,18,7,Beta 2; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 15; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+GUESS,19,17,7,Beta 2; Dwarka; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Rajnagar District Centre; Rohini; Saket; Sector 18; Sector 20; Sector 32; Sector 38; Sector 54; Sohna Road; Vasant Kunj
+The Raymond Shop,19,14,6,Connaught Place; DLF Phase 3; Dwarka; Gaur City 1; Indirapuram; Knowledge Park; MG Road; Palam Vihar; Sahibabad; Sector 14 Dwarka; Sector 18; Sector 35; Sector 50; Sector 68
+Killer,18,18,7,Beta 2; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; Laxmi Nagar; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Kraus Jeans,18,18,7,Beta 2; Dwarka; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Allen Solly,17,17,7,Beta 2; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+American Eagle,17,17,7,Beta 2; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Autumn Lane,17,17,7,Beta 2; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Fashor,17,17,7,Beta 2; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+GAP,17,17,7,Beta 2; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Juniper,17,17,7,Beta 2; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+RUFF,17,17,7,Beta 2; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Shoppers Stop,17,17,7,Beta 2; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Silver Lime,17,17,7,Beta 2; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Truly Sma,17,17,7,Beta 2; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Zink London,17,17,7,Beta 2; Gaur City 1; Golf Course Extension; Hajipur; Indirapuram; MG Road; Pitampura; Rajnagar District Centre; Rohini; Saket; Sector 20; Sector 32; Sector 38; Sector 54; Sector 83; Sohna Road; Vasant Kunj
+Lacoste,17,12,5,Connaught Place; DLF Phase 3; Dwarka; MG Road; Saket; Sector 18; Sector 30; Sector 38; Sector 83; Tagore Garden; Vaishali; Vasant Kunj
+Lakshita,16,14,4,DLF City Centre Mall; Indirapuram; Lajpat Nagar 2; Laxmi Nagar; MG Road; Model Town 2; Pitampura; Raj Nagar; Rohini; Sahibabad; Sarita Vihar; Sector 18; Sector 65; Vikaspuri
+Indian Terrain,16,12,5,Connaught Place; DLF Phase 3; Dwarka; Golf Course Road; Jasola; Laxmi Nagar; MG Road; Sainik Farms; Sector 110; Sector 18; Sector 35; Sector 49
+Jockey,15,13,7,Connaught Place; DLF Phase 3; Dwarka; Gaur City 1; Jaypee Greens; Knowledge Park; Palam Vihar; Sahibabad; Sector 14 Dwarka; Sector 18; Sector 35; Sector 75; Vasant Kunj
+Rare Rabbit,14,14,4,Ardee City; Connaught Place; DLF Phase 3; DLF Phase 5; Dwarka; Kamla Nagar; Laxmi Nagar; NSP; Rcube Monad Mall; Saket; Sarita Vihar; Sector 18; Sector 83; Sector 85
+Ethnix By Raymond,14,13,6,Chandni Chowk; Gaur City 1; Indirapuram; Jaypee Greens; Karol Bagh; Lajpat Nagar 2; Laxmi Nagar; MG Road; NIT; Rohini; Sector 18; Sector 68; South Extension 1
+Fabindia,14,13,5,Ardee City; Connaught Place; DLF Phase 1; DLF Phase 3; Dwarka; Gaur City 1; Khan Market; Sector 110; Sector 18; Sector 50; Sector 66; Sector 68; Vasant Kunj
+Reliance Smart Bazaar,12,9,7,DLF Phase 1; Gaur City 1; Laxmi Nagar; Sector 32; Sector 35; Sector 38; Sector 68; Vaishali; Vasant Kunj
+Max,11,11,5,Ardee City; Dwarka; Gaur Central Mall; Gaur City 1; Jaypee Greens; Laxmi Nagar; Pacific D21 Mall; Sector 18; Sector 32; Sector 85; Vaishali
+SWEET DREAMS,11,11,5,DLF Summit Plaza; Dwarka; Karol Bagh; Lajpat Nagar 2; Laxmi Nagar; MG Road; Rcube Monad Mall; Sahibabad; Sector 18; Sector 72; Sector 83
+Libas,11,10,3,Ambedkar Road; Chandni Chowk; Greater Kailash 1 (GK1); Karol Bagh; Lajpat Nagar 2; Laxmi Nagar; Pitampura; Rajouri Garden; Sector 18; Tagore Garden
+Meena Bazaar,11,9,5,DLF Phase 3; Jasola; Kamla Nagar; Karol Bagh; Kaushambi; NIT; Netaji Subhash Place; Sector 15; Sector 72
+SRI RAM & SON,10,10,5,Ambedkar Road; Beta 1; Chandni Chowk; Gaur City 1; Indirapuram; Karol Bagh; Laxmi Nagar; MG Road; Pitampura; Sector 35
+Mohanlal Sons,9,9,5,DLF Phase 3; Dwarka; Gaur City 1; NSP; Sector 18; Sector 38; Sector 68; Tagore Garden; Vasant Kunj
+Mustard,9,9,3,Ardee City; DLF Phase 1; DLF Phase 3; Greater Kailash 1 (GK1); Moti Nagar; Pacific D21 Mall; Rajouri Garden; Sector 18; Tagore Garden
+Snitch,9,9,4,DLF Cyber City; Janakpuri; Karampura; Lajpat Nagar 2; Sector 29; Sector 31; Sector 68; Sector 75; Sector 85
+Lifestyle,9,8,3,City Centre Mall; Dwarka; Rohini; Sector 18; Sector 21 Dwarka; Sector 68; Tagore Garden; Vasant Kunj
+Uniqlo,9,8,3,Connaught Place; DLF Cyber City; DLF Phase 3; Dwarka; Saket; Sector 18; Tagore Garden; Vasant Kunj
+Colorplus,8,8,5,Dwarka; Jaypee Greens; MG Road; Sahibabad; Sector 18; Sector 32; Vaishali; Westend Mall
+Coyu,7,7,3,DLF Phase 5; Khan Market; Saket; Sector 18; Sector 58; Tagore Garden; Vasant Kunj
+Forever New,7,7,3,Ardee City; DLF Phase 3; Dwarka; Sector 14 Dwarka; Sector 18; Tagore Garden; Vasant Kunj
+Manyavar,7,7,4,Connaught Place; Dwarka; MG Road; Sahibabad; Sector 18; Sector 32; Tagore Garden
+Flying Machine,7,6,4,Ardee City; Dwarka; MG Road; Malviya Nagar; Sector 110; Sector 35
+Nike,7,6,3,DLF Phase 3; Dwarka; Jasola; Sector 18; Tagore Garden; Vasant Kunj
+Octave,7,6,4,NSP; Pacific D21 Mall; Sahibabad; Sector 35; Sector 38; Sector 79
+AND,6,6,3,DLF Phase 3; Dwarka; Model Town 2; Paschim Vihar; Rajouri Garden; Sector 18
+Cantabil,6,6,5,Connaught Place; Knowledge Park; Sahibabad; Sector 15; Sector 30; Vaishali
+NEWME,6,6,2,Dwarka; Kamla Nagar; Netaji Subhash Place; Sector 60; Sector 68; Tagore Garden
+Ranna Gill,6,6,2,Chhatarpur; DLF Phase 3; Khan Market; Mehrauli; Sector 58; Vasant Kunj
+Zivame,6,6,4,Dwarka; Laxmi Nagar; MG Road; NIT; Sector 32; Sector 50
+Zodiac,6,6,3,Connaught Place; DLF Cyber City; Dwarka; Khan Market; MG Road; Sector 38
+Satya Paul,6,5,3,DLF Phase 3; Khan Market; Malviya Nagar; Sector 18; Vasant Kunj
+Taneira,6,5,3,DLF Phase 3; Dwarka; Sector 18; Sector 85; Vasant Kunj
+Anokhi,5,5,3,DLF Phase 3; Saket; Sector 18; Sector 65; Vasant Kunj
+Celio,5,5,3,Ardee City; DLF Phase 3; Dwarka; Saket; Sector 18
+GANT,5,5,3,DLF Phase 3; NSP; Sector 18; Tagore Garden; Vasant Kunj
+H&M,5,5,3,DLF Phase 3; Dwarka; Jaypee Greens; Saket; Vasant Kunj
+Nicobar,5,5,3,DLF Phase 3; DLF Phase 4; Saket; Sector 18; Vasant Vihar
+Reebok,5,5,4,Netaji Subhash Place; Rohini; Sector 18; Sector 30; Sector 35
+Ritu Kumar,5,5,3,DLF Phase 1; DLF Phase 3; Khan Market; Sector 18; Vasant Kunj
+Soch,5,5,3,DLF Phase 3; Dwarka; Netaji Subhash Place; Sector 14 Dwarka; Sector 18
+The Souled Store,5,5,2,DLF Phase 3; Kamla Nagar Market; Lajpat Nagar 2; Paschim Vihar; Sector 85
+Under Armour,5,5,3,DLF Phase 3; Dwarka; Saket; Sector 18; Vasant Kunj
+Zara,5,5,3,DLF Phase 3; Saket; Sector 18; Tagore Garden; Vasant Kunj
+S&N / Shantnu Nikhil,5,3,2,DLF Phase 3; Saket; Vasant Kunj
+Aarke Ritu Kumar,4,4,2,DLF Phase 1; DLF Phase 3; Saket; Vasant Kunj
+Adidas Kids,4,4,2,DLF Phase 3; Dwarka; Sector 14 Dwarka; Vasant Kunj
+Ancestry,4,4,3,DLF Phase 3; Saket; Sector 18; Vasant Kunj
+Elleven,4,4,2,Dwarka; Laxmi Nagar; Sector 14 Dwarka; Sector 32
+Fable Street,4,4,3,DLF Phase 5; Dwarka; Saket; Sector 18
+Jaypore,4,4,3,DLF Phase 3; Dwarka; Saket; Sector 18
+Kazo,4,4,3,DLF Phase 3; Dwarka; Sector 18; Unityone Shopping Mall
+Miniklub,4,4,4,Gaur City 1; Laxmi Nagar; Sector 18; Sector 68
+Minizmo,4,4,3,DLF Phase 5; Dwarka; Sector 18; Vasant Kunj
+Mothercare,4,4,3,Ardee City; DLF Phase 3; Malviya Nagar; Sector 18
+Mufti,4,4,3,Connaught Place; DLF Phase 3; Laxmi Nagar; Sector 35
+ONLY,4,4,2,Dwarka; Saket; Sector 30; Sector 68
+Onitsuka Tiger,4,4,3,DLF Phase 3; Sector 18; Tagore Garden; Vasant Kunj
+Rangriti,4,4,3,DLF Phase 3; Pacific D21 Mall; Sector 18; Sector 85
+Rare Ones,4,4,3,DLF Phase 5; Saket; Sector 18; Vasant Kunj
+Richlook,4,4,3,Laxmi Nagar; MG Road; Sector 15; Sector 30
+Savvyy,4,4,2,DLF Phase 1; DLF Phase 4; NSP; Sector 85
+Superdry,4,4,2,DLF Phase 3; Dwarka; Tagore Garden; Vasant Kunj
+Suvasa,4,4,3,DLF Phase 3; Saket; Sector 18; Sector 58
+The Bear House,4,4,2,Jasola; Sector 29; Sector 83; Vikaspuri
+The Collective,4,4,3,DLF Phase 3; Sector 18; Tagore Garden; Vasant Kunj
+The Loom,4,4,3,DLF Phase 3; Saket; Sector 18; Vasant Kunj
+Trends Woman,4,4,2,Pratap Vihar; Raj Nagar Extension; Sector 14; Sector 68
+Dior,4,3,2,DLF Phase 3; Saket; Vasant Kunj
+Being Human,3,3,1,Connaught Place; Dwarka; Unityone Shopping Mall
+Bluorng,3,3,3,DLF Phase 3; Greater Kailash 2; Sector 18
+Brooks Brothers,3,3,3,DLF Phase 3; Sector 18; Vasant Kunj
+Chanel,3,3,3,DLF Phase 3; Sector 18; Vasant Kunj
+Clovia,3,3,3,Gaur City 1; Indirapuram; Laxmi Nagar
+Converse,3,3,3,DLF Phase 5; Sector 18; Tagore Garden
+Gipsy,3,3,2,Ardee City; DLF Phase 3; Greater Kailash 1 (GK1)
+Global Desi,3,3,2,DLF Phase 3; Paschim Vihar; Rajouri Garden
+Global Republic,3,3,3,DLF Phase 1; Dwarka; Gaur City 1
+Greenways,3,3,2,Connaught Place; Sector 18; South Extension 2 Market
+Hunkemoller,3,3,3,DLF Phase 3; Sector 18; Vasant Kunj
+John Pride,3,3,2,Lajpat Nagar 2; MG Road; Pitampura
+Linen Club,3,3,2,Connaught Place; Janpath; MG Road
+Mango,3,3,2,DLF Phase 3; Saket; Vasant Kunj
+Nautica,3,3,2,Dwarka; Saket; Sector 18
+Ogaan,3,3,1,Hauz Khas Village; Khan Market; Vasant Kunj
+Panna Sarees,3,3,2,DLF Phase 1; DLF Phase 3; Dwarka
+Purple United Kids,3,3,3,Rohini; Sector 35; Sector 38
+Qurbat,3,3,1,DLF Phase 1; Sector 50; Sector 66
+Reid & Taylor,3,3,3,Laxmi Nagar; Sector 35; Sector 38
+Stitch Stories,3,3,2,DLF Phase 3; Greater Kailash 1 (GK1); Vasant Kunj
+Van Heusen Women,3,3,3,DLF Phase 3; Sector 32; Vasant Kunj
+Wacoal,3,3,2,Khan Market; Moti Nagar; Sector 18
+Bodycare,3,2,2,Sector 15; Sector 68
+AZORTE,2,2,2,Dwarka; Sector 68
+BOSS,2,2,2,DLF Phase 3; Vasant Kunj
+Basanti Kapde aur Koffee,2,2,1,DLF Phase 3; DLF Phase 5
+Blissclub,2,2,2,Dwarka; Sector 85
+Bodycare Kids,2,2,2,Gaur City 1; Indirapuram
+Bombay Selections,2,2,2,Sahibabad; Sector 38
+DIESEL,2,2,2,DLF Phase 3; Vasant Kunj
+Desi Pop,2,2,1,Greater Kailash 1; Vasant Kunj
+Forever 21,2,2,2,Sector 30; Vasant Kunj
+Frontier Raas,2,2,2,Sector 18; Vasant Kunj
+GAS,2,2,2,DLF Phase 3; Sector 18
+Hackett London,2,2,2,DLF Phase 3; Vasant Kunj
+House of Raisons,2,2,2,Saket; Sector 18
+Iconic ,2,2,2,DLF Phase 3; Sector 18
+Intimissi Lingerie,2,2,1,Laxmi Nagar; Rohini
+Kalpana,2,2,2,Connaught Place; Sector 18
+Kilol,2,2,2,DLF Phase 1; Sector 18
+Kusvaa,2,2,1,DLF Phase 1; Sector 50
+La Martina ,2,2,2,Dwarka; Sector 18
+LaMode,2,2,1,Connaught Place; Laxmi Nagar
+Label Ritu Kumar,2,2,2,Dwarka; Sector 18
+Michael Kors,2,2,2,Sector 18; Vasant Kunj
+Mumkins,2,2,1,Rajouri Garden; Tilak Nagar Central Market
+Paislei,2,2,2,Kaushambi; Sector 25
+Planet Fashion,2,2,2,Connaught Place; Sector 38
+Polo Ralph Lauren,2,2,2,Sector 18; Vasant Kunj
+SALT Attire,2,2,2,Gaur City 1; Sector 85
+Saundh,2,2,2,DLF Phase 3; Sector 18
+TACFAB,2,2,2,DLF Phase 1; Dwarka
+TECHNOSPORT,2,2,2,Elan Epic Mall; Jasola
+The House Of Rare,2,2,2,Sector 50; Tagore Garden
+Button,2,1,1,Sector 81
+Canali,2,1,1,Vasant Kunj
+Ferragamo,2,1,1,Vasant Kunj
+First Resort by Ramola Bachchan,2,1,1,Hauz Khas Village
+LACQUER EMBASSY,2,1,1,Hauz Khas Village
+Look Collection,2,1,1,Sector 79
+PALL MALL,2,1,1,Sector 18
+Raasa,2,1,1,Sector 18
+Rosenthal Versace,2,1,1,Vasant Kunj
+Surekha Jain,2,1,1,Vasant Kunj
+ARKS,1,1,1,Saket
+Abu Jani Sandeep Khosla,1,1,1,Vasant Kunj
+Ahujasons,1,1,1,Khan Market
+Aisha Rao,1,1,1,Vasant Kunj
+Amaltas Couture,1,1,1,Hauz Khas Village
+Amit Aggarwal,1,1,1,Vasant Kunj
+Amit Arora (Gopal Sons Selections),1,1,1,Connaught Place
+Amodini by aarti,1,1,1,Sector 56
+Anantam,1,1,1,Vasant Kunj
+Anjalee And Arjun Kapoor,1,1,1,Vasant Kunj
+Anushree Reddy,1,1,1,Vasant Kunj
+Avirate,1,1,1,Vasant Kunj
+Babyshop,1,1,1,Tagore Garden
+Baedesi,1,1,1,Sector 25
+Berluti,1,1,1,Vasant Kunj
+Beverly Hills Polo Club,1,1,1,Sector 18
+Bewakoof,1,1,1,Unityone Shopping Mall
+Bonkers Corner,1,1,1,Sector 29
+Broadway,1,1,1,Vasant Kunj
+Burberry,1,1,1,Vasant Kunj
+COACH,1,1,1,Vasant Kunj
+COLOR CAPITAL,1,1,1,DLF Cyber City
+Callino London,1,1,1,Connaught Place
+Calvin Klein Jeans,1,1,1,DLF Phase 3
+Campana,1,1,1,Sector 66
+Charles Trywhitt,1,1,1,Vasant Kunj
+Choupette,1,1,1,Vasant Kunj
+Chunmun,1,1,1,Sahibabad
+Cobb,1,1,1,Sector 30
+Cord,1,1,1,Khan Market
+Cosmic,1,1,1,Sector 15
+Crepdog Crew,1,1,1,Saket
+Crimsoune Club,1,1,1,Rohini
+Culture Circle,1,1,1,Vasant Kunj
+DAWNTOWN,1,1,1,Greater Kailash 2
+Drishti Chabra,1,1,1,DLF Phase 5
+Duke,1,1,1,Sector 38
+ENSEMBLE,1,1,1,Vasant Kunj
+Ekasmaye,1,1,1,Greater Kailash 1
+Emporio Armani,1,1,1,Vasant Kunj
+FLXY,1,1,1,DLF Cyber City
+Falguni Shane Peacock,1,1,1,Vasant Kunj
+Fitenue,1,1,1,Knowledge Park
+Flying Machine - NPE,1,1,1,Sector 18
+FolkCulture,1,1,1,DLF Phase 1
+Fred Perry,1,1,1,Vasant Kunj
+French Connection,1,1,1,Vasant Kunj
+Gaiiah Closet,1,1,1,DLF Phase 5
+Gaurav Gupta,1,1,1,Vasant Kunj
+Giorgio Armani,1,1,1,Vasant Kunj
+Globus,1,1,1,DLF Cyber City
+Goldy's Nestt,1,1,1,DLF Phase 1
+Goyalsons,1,1,1,Sahibabad
+Gritstones,1,1,1,MG Road
+Gyans,1,1,1,DLF Phase 1
+House Of Masaba,1,1,1,DLF Phase 3
+ISAIA,1,1,1,Vasant Kunj
+JAYANTI REDDY,1,1,1,Vasant Kunj
+JUMP USA,1,1,1,Yakubpur
+KARCHOBI,1,1,1,DLF Phase 1
+KATE SPADE,1,1,1,Vasant Kunj
+Kaarigar,1,1,1,Sector 18
+Kasturi Creations,1,1,1,DLF Phase 1
+Kate & Oscar,1,1,1,DLF Phase 3
+Kickers,1,1,1,Sector 18
+Kids around,1,1,1,Vasant Kunj
+Kingdom of White,1,1,1,DLF Phase 5
+Kunal Rawal,1,1,1,Vasant Kunj
+L'affaire,1,1,1,Saket
+La Vie en Rose,1,1,1,Sector 18
+Lal Behari Tandon,1,1,1,Connaught Place
+Lative Colours Of Fashion,1,1,1,Connaught Place
+Les Petits,1,1,1,Vasant Kunj
+Lovebirds,1,1,1,Khan Market
+MADISON,1,1,1,Vasant Kunj
+Magre,1,1,1,DLF Cyber City
+Mango Man,1,1,1,Saket
+Manyavar & Mohey,1,1,1,Gaur City 1
+Massimo Dutti,1,1,1,Saket
+Merrigo Kidz,1,1,1,Sector 66
+Mishru,1,1,1,Vasant Kunj
+Modluk,1,1,1,Greater Kailash 1
+Monisha Jaising,1,1,1,Vasant Kunj
+Mrunalini Rao,1,1,1,Vasant Kunj
+Muji,1,1,1,Sector 18
+Mulmul,1,1,1,Saket
+Mustard Clothing,1,1,1,DLF Phase 3
+Nalli Silk Sarees at CP New Delhi,1,1,1,Connaught Place
+Namrata Joshipura,1,1,1,Vasant Kunj
+Nazia Boutique,1,1,1,DLF Phase 1
+Needledust,1,1,1,DLF Phase 5
+Neev Fashions,1,1,1,MG Road
+Nirvana,1,1,1,Vasant Kunj
+Nobero,1,1,1,Kamla Nagar
+Notebook,1,1,1,DLF Phase 5
+Nykd by Nykaa,1,1,1,Vasant Kunj
+OCTAVE METTLE,1,1,1,Laxmi Nagar
+Old Gene Originals,1,1,1,Sector 15
+One8 Merch Store,1,1,1,Dwarka
+Only,1,1,1,Sector 30
+PATINE,1,1,1,Vasant Kunj
+Pandorna,1,1,1,Sector 65
+Pankaj & Nidhi,1,1,1,Vasant Kunj
+Paul & Shark,1,1,1,Vasant Kunj
+Paul Smith,1,1,1,Vasant Kunj
+Paulsons,1,1,1,Sector 15
+Peachmode,1,1,1,Unityone Shopping Mall
+Planet Superheroes,1,1,1,Ardee City
+RL INDIA MERCH POP-UP,1,1,1,Aurobindo Market
+Raas Raseeli,1,1,1,MG Road
+Raghavendra Rathore,1,1,1,Vasant Kunj
+Rahul Mishra,1,1,1,Vasant Kunj
+Ralph Lauren,1,1,1,DLF Phase 3
+Raymond - Made to Measure,1,1,1,DLF Phase 5
+Ridhi Mehra,1,1,1,Vasant Kunj
+Ridhie Suri,1,1,1,DLF Phase 5
+Ridhiiee Suuri,1,1,1,Khan Market
+Rimzim Dadu,1,1,1,Vasant Kunj
+Roza,1,1,1,DLF Phase 5
+SELECTED HOMME,1,1,1,Sector 18
+SHIVAN & NARRESH,1,1,1,Vasant Kunj
+Shakuntlam,1,1,1,Sector 18
+Shaza,1,1,1,Lajpat Nagar 3
+Shorshe Clothing,1,1,1,Vasant Kunj
+Shreya Sharma,1,1,1,DLF Phase 5
+Shubham Fabrics,1,1,1,DLF Phase 1
+Shubham_Tests,1,1,1,Golf Course Extension
+Shuffling Suitcases,1,1,1,DLF Phase 5
+Silkfab,1,1,1,Sector 66
+Simran Fashions,1,1,1,Sector 18
+Study by Janak,1,1,1,South Extension 1
+Suifab,1,1,1,Sector 50
+Summer Priyanka Gupta,1,1,1,DLF Phase 5
+Suneet Varma,1,1,1,Vasant Kunj
+Super Dry Sport,1,1,1,DLF Summit Plaza
+Surabhi Arya,1,1,1,DLF Phase 5
+Suti,1,1,1,Laxmi Nagar
+Suti Cotton Apparels,1,1,1,Connaught Place
+Sweaty Betty,1,1,1,DLF Phase 5
+Sweet Child Of Mine,1,1,1,Saket
+TED BAKER,1,1,1,DLF Phase 3
+THE PONY AND PEONY CO.,1,1,1,DLF Phase 5
+Tarun Tahiliani,1,1,1,Vasant Kunj
+The Grooming Collection,1,1,1,Laxmi Nagar
+The Pony and Peony - Deleted,1,1,1,DLF Summit Plaza
+The Shop,1,1,1,Connaught Place
+Torani,1,1,1,Khan Market
+Trends Man,1,1,1,Delhi University-GTB Nagar
+True Religion,1,1,1,Sector 18
+U.S. Polo Assn. Kids,1,1,1,Sector 18
+VERSACE,1,1,1,Vasant Kunj
+VK Thapar,1,1,1,Connaught Place
+Valentino,1,1,1,Vasant Kunj
+Vedi's The Studio,1,1,1,Connaught Place
+VegNonVeg - Warehouse Sale,1,1,1,Okhla Phase 1
+Whispering Yarns,1,1,1,DLF Phase 1
+Wilson,1,1,1,DLF Phase 5
+Wishful,1,1,1,Connaught Place
+Woods,1,1,1,Vasant Kunj
+Yousta,1,1,1,DLF Phase 3
+Zardozi,1,1,1,Sector 18
+Zegna,1,1,1,Vasant Kunj
+Zyra Weaves,1,1,1,Connaught Place
+iBadat,1,1,1,Laxmi Nagar
+trueBrowns,1,1,1,Sector 18

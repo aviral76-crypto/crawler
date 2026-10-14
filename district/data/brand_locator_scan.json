@@ -1,0 +1,2002 @@
+{
+ "Blackberrys": {
+  "brand": "Blackberrys",
+  "site": "https://blackberrys.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Westside": {
+  "brand": "Westside",
+  "site": "https://www.westside.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "U.S Polo Assn.": {
+  "brand": "U.S Polo Assn.",
+  "site": "https://uspoloassn.in/",
+  "locator": "https://uspoloassn.in/pages/store-locator-1",
+  "source": "stockist:u15159",
+  "n": 356,
+  "why": null
+ },
+ "Spykar": {
+  "brand": "Spykar",
+  "site": "https://spykar.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Zudio": {
+  "brand": "Zudio",
+  "site": "https://www.zudio.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Indian Terrain": {
+  "brand": "Indian Terrain",
+  "site": "https://indianterrain.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Aurelia": {
+  "brand": "Aurelia",
+  "site": "https://aurelia.shop/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Raymond - Ready to wear": {
+  "brand": "Raymond - Ready to wear",
+  "site": "https://myraymond.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Park Avenue": {
+  "brand": "Park Avenue",
+  "site": "https://pa.myraymond.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Go Colors": {
+  "brand": "Go Colors",
+  "site": "https://gocolors.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Jack & Jones": {
+  "brand": "Jack & Jones",
+  "site": "https://www.jackjones.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Monte Carlo": {
+  "brand": "Monte Carlo",
+  "site": "https://www.montecarlo.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Rareism": {
+  "brand": "Rareism",
+  "site": "https://rareism.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "enamor": {
+  "brand": "enamor",
+  "site": "https://www.enamor.co.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Reliance Trends": {
+  "brand": "Reliance Trends",
+  "site": "https://relianceretail.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Madame": {
+  "brand": "Madame",
+  "site": "https://madameonline.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Tommy Hilfiger": {
+  "brand": "Tommy Hilfiger",
+  "site": "https://in.tommy.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Jaipur Kurti": {
+  "brand": "Jaipur Kurti",
+  "site": "https://jaipurkurti.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Killer": {
+  "brand": "Killer",
+  "site": "https://www.killerjeans.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Kraus Jeans": {
+  "brand": "Kraus Jeans",
+  "site": "https://www.krausjeans.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Autumn Lane": {
+  "brand": "Autumn Lane",
+  "site": "https://autumnlane.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Fashor": {
+  "brand": "Fashor",
+  "site": "https://fashor.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Juniper": {
+  "brand": "Juniper",
+  "site": "https://juniperfashion.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Allen Solly": {
+  "brand": "Allen Solly",
+  "site": "https://allensolly.abfrl.in/",
+  "locator": "https://allensolly.abfrl.in/storelocator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Zink London": {
+  "brand": "Zink London",
+  "site": "https://zinklondon.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Van Heusen": {
+  "brand": "Van Heusen",
+  "site": "https://vanheusenindia.abfrl.in/",
+  "locator": "https://vanheusenindia.abfrl.in/storelocator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "RUFF": {
+  "brand": "RUFF",
+  "site": "https://www.ruff.in/password",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Snitch": {
+  "brand": "Snitch",
+  "site": "https://www.snitch.co.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Truly Sma": {
+  "brand": "Truly Sma",
+  "site": "https://trulysma.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Max": {
+  "brand": "Max",
+  "site": "https://www.maxclothing.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Peter England": {
+  "brand": "Peter England",
+  "site": "https://peterengland.abfrl.in/",
+  "locator": "https://peterengland.abfrl.in/storelocator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Sabhyata": {
+  "brand": "Sabhyata",
+  "site": "https://www.sabhyataclothing.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Cotton Culture": {
+  "brand": "Cotton Culture",
+  "site": "https://www.cottonculture.co.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Ethnix By Raymond": {
+  "brand": "Ethnix By Raymond",
+  "site": "https://ethnixbyraymond.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Armani Exchange": {
+  "brand": "Armani Exchange",
+  "site": "https://armaniexchange.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Lacoste": {
+  "brand": "Lacoste",
+  "site": "https://www.lacoste.in/",
+  "locator": "https://www.lacoste.in/storelocator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Jockey": {
+  "brand": "Jockey",
+  "site": "https://www.jockey.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "The Souled Store": {
+  "brand": "The Souled Store",
+  "site": "https://shop.thesouledstore.com/en-us",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Flying Machine": {
+  "brand": "Flying Machine",
+  "site": "https://www.flyingmachine.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "SWEET DREAMS": {
+  "brand": "SWEET DREAMS",
+  "site": "https://www.sweetdreams.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "The Raymond Shop": {
+  "brand": "The Raymond Shop",
+  "site": "https://myraymond.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "GUESS": {
+  "brand": "GUESS",
+  "site": "https://guess.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Colorplus": {
+  "brand": "Colorplus",
+  "site": "https://cp.myraymond.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Mustard": {
+  "brand": "Mustard",
+  "site": "https://www.mustardfashion.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Louis Philippe": {
+  "brand": "Louis Philippe",
+  "site": "https://louisphilippe.abfrl.in/",
+  "locator": "https://louisphilippe.abfrl.in/storelocator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Soch": {
+  "brand": "Soch",
+  "site": "https://www.soch.com/in/",
+  "locator": "https://www.soch.com/store-locator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "GAP": {
+  "brand": "GAP",
+  "site": "https://gapindia.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Lakshita": {
+  "brand": "Lakshita",
+  "site": "https://www.lakshita.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Silver Lime": {
+  "brand": "Silver Lime",
+  "site": "https://www.silver-lime.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "The Pant Project": {
+  "brand": "The Pant Project",
+  "site": "https://pantproject.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Forever New": {
+  "brand": "Forever New",
+  "site": "https://www.forevernew.co.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Van Heusen Innerwear": {
+  "brand": "Van Heusen Innerwear",
+  "site": "https://vanheusenindia.abfrl.in/",
+  "locator": "https://vanheusenindia.abfrl.in/storelocator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Mothercare": {
+  "brand": "Mothercare",
+  "site": "https://www.mothercare.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Nike": {
+  "brand": "Nike",
+  "site": "https://www.nike.com/nike-by-you",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Reebok": {
+  "brand": "Reebok",
+  "site": "https://reebok.abfrl.in/",
+  "locator": "https://reebok.abfrl.in/storelocator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Celio": {
+  "brand": "Celio",
+  "site": "https://celio.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Libas": {
+  "brand": "Libas",
+  "site": "https://www.libas.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "The Bear House": {
+  "brand": "The Bear House",
+  "site": "https://thebearhouse.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "TECHNOSPORT": {
+  "brand": "TECHNOSPORT",
+  "site": "https://www.technosport.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Mumkins": {
+  "brand": "Mumkins",
+  "site": "https://www.mumkins.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Ranna Gill": {
+  "brand": "Ranna Gill",
+  "site": "https://rannagill.co.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Meena Bazaar": {
+  "brand": "Meena Bazaar",
+  "site": "https://mbz.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Tasva": {
+  "brand": "Tasva",
+  "site": "https://www.tasva.com/",
+  "locator": "https://www.tasva.com/store-locator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Bonkers Corner": {
+  "brand": "Bonkers Corner",
+  "site": "https://www.bonkerscorner.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "The House Of Rare": {
+  "brand": "The House Of Rare",
+  "site": "https://thehouseofrare.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Zodiac": {
+  "brand": "Zodiac",
+  "site": "https://zodiaconline.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Wacoal": {
+  "brand": "Wacoal",
+  "site": "https://www.wacoal.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Lifestyle": {
+  "brand": "Lifestyle",
+  "site": "https://www.lifestylestores.com/in/en/",
+  "locator": "https://www.lifestylestores.com/storelocator",
+  "source": "https://www.lifestylestores.com/store-locator/?concept=LIFESTYLE",
+  "n": 134,
+  "why": null
+ },
+ "Blissclub": {
+  "brand": "Blissclub",
+  "site": "https://blissclub.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "ONLY": {
+  "brand": "ONLY",
+  "site": "https://www.only.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Pepe Jeans": {
+  "brand": "Pepe Jeans",
+  "site": "https://www.pepejeans.in/",
+  "locator": "https://www.pepejeans.in/pepe-outlet",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Cover Story": {
+  "brand": "Cover Story",
+  "site": "https://coverstoryonline.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Being Human": {
+  "brand": "Being Human",
+  "site": "https://www.beinghumanclothing.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Jaypore": {
+  "brand": "Jaypore",
+  "site": "https://www.jaypore.com/",
+  "locator": "https://www.jaypore.com/store-locator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Nautica": {
+  "brand": "Nautica",
+  "site": "https://www.nautica.co.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "GANT": {
+  "brand": "GANT",
+  "site": "https://gant.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Miniklub": {
+  "brand": "Miniklub",
+  "site": "https://miniklub.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Fabindia": {
+  "brand": "Fabindia",
+  "site": "https://www.fabindia.com/",
+  "locator": "https://www.fabindia.com/store-finder",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Nicobar": {
+  "brand": "Nicobar",
+  "site": "https://www.nicobar.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Ritu Kumar": {
+  "brand": "Ritu Kumar",
+  "site": "https://ritukumar.com/",
+  "locator": "https://ritukumar.com/storelocator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Superdry": {
+  "brand": "Superdry",
+  "site": "https://superdry.in/",
+  "locator": "https://superdry.in/store-locator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "GAS": {
+  "brand": "GAS",
+  "site": "https://gasindia.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Brooks Brothers": {
+  "brand": "Brooks Brothers",
+  "site": "https://brooksbrothers.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "SRI RAM & SON": {
+  "brand": "SRI RAM & SON",
+  "site": "https://sriramson.com/",
+  "locator": "https://sriramson.com/our-stores/",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Octave": {
+  "brand": "Octave",
+  "site": "https://www.octave.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Nobero": {
+  "brand": "Nobero",
+  "site": "https://nobero.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Ethnicity": {
+  "brand": "Ethnicity",
+  "site": "https://ethnicity.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "U.S. Polo Assn. Kids": {
+  "brand": "U.S. Polo Assn. Kids",
+  "site": "https://uspoloassn.in/",
+  "locator": "https://uspoloassn.in/pages/store-locator-1",
+  "source": "stockist:u15159",
+  "n": 356,
+  "why": null
+ },
+ "The Collective": {
+  "brand": "The Collective",
+  "site": "https://www.thecollective.in/",
+  "locator": "https://www.thecollective.in/store-locator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Kazo": {
+  "brand": "Kazo",
+  "site": "https://kazo.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Aarke Ritu Kumar": {
+  "brand": "Aarke Ritu Kumar",
+  "site": "https://ritukumar.com/",
+  "locator": "https://ritukumar.com/storelocator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Rare Ones": {
+  "brand": "Rare Ones",
+  "site": "https://rareones.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Rangriti": {
+  "brand": "Rangriti",
+  "site": "https://www.rangriti.com/",
+  "locator": "https://www.rangriti.com/stores",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Nykd by Nykaa": {
+  "brand": "Nykd by Nykaa",
+  "site": "https://nykdbynykaa.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Truly sma": {
+  "brand": "Truly sma",
+  "site": "https://trulysma.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Marks & Spencer": {
+  "brand": "Marks & Spencer",
+  "site": "https://www.marksandspencer.in/",
+  "locator": "https://www.marksandspencer.in/store",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Mufti": {
+  "brand": "Mufti",
+  "site": "https://www.muftijeans.in/",
+  "locator": "https://www.muftijeans.in/storelocator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Savvyy": {
+  "brand": "Savvyy",
+  "site": "https://savvyy.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Richlook": {
+  "brand": "Richlook",
+  "site": "https://www.richlook.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Suvasa": {
+  "brand": "Suvasa",
+  "site": "https://suvasa.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Minizmo": {
+  "brand": "Minizmo",
+  "site": "https://www.minizmo.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Elleven": {
+  "brand": "Elleven",
+  "site": "https://www.elleven.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Anokhi": {
+  "brand": "Anokhi",
+  "site": "https://anokhi.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "SHOWOFFFF": {
+  "brand": "SHOWOFFFF",
+  "site": "https://showoffff.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Ancestry": {
+  "brand": "Ancestry",
+  "site": "https://ancestryindia.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Simon Carter": {
+  "brand": "Simon Carter",
+  "site": "https://simoncarter.abfrl.in/",
+  "locator": "https://simoncarter.abfrl.in/storelocator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Qurbat": {
+  "brand": "Qurbat",
+  "site": "https://qurbat.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Gipsy": {
+  "brand": "Gipsy",
+  "site": "https://gipsyonline.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Panna Sarees": {
+  "brand": "Panna Sarees",
+  "site": "https://thepannashop.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Bluorng": {
+  "brand": "Bluorng",
+  "site": "https://bluorng.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "The Loom": {
+  "brand": "The Loom",
+  "site": "https://theloomindia.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Culture Circle": {
+  "brand": "Culture Circle",
+  "site": "https://www.culture-circle.com/",
+  "locator": "https://www.culture-circle.com/store-locator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "COACH": {
+  "brand": "COACH",
+  "site": "https://coach.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Chanel": {
+  "brand": "Chanel",
+  "site": "https://chanelindia.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Global Republic": {
+  "brand": "Global Republic",
+  "site": "https://www.globalrepublic.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "SALT Attire": {
+  "brand": "SALT Attire",
+  "site": "https://saltattire.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Forever 21": {
+  "brand": "Forever 21",
+  "site": "https://forever21.abfrl.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Emporio Armani": {
+  "brand": "Emporio Armani",
+  "site": "https://www.emporioarmaniindia.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Greenways": {
+  "brand": "Greenways",
+  "site": "https://greenways.net/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Yousta": {
+  "brand": "Yousta",
+  "site": "https://www.yousta.shop/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Ogaan": {
+  "brand": "Ogaan",
+  "site": "https://www.ogaan.com/",
+  "locator": "https://www.ogaan.com/our-stores",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Clovia": {
+  "brand": "Clovia",
+  "site": "https://www.clovia.com/",
+  "locator": "https://www.clovia.com/store-locator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Crepdog Crew": {
+  "brand": "Crepdog Crew",
+  "site": "https://crepdogcrew.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Burberry": {
+  "brand": "Burberry",
+  "site": "https://in.burberry.com/",
+  "locator": "https://in.burberry.com/store-locator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "La Martina": {
+  "brand": "La Martina",
+  "site": "https://lamartina.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Hastkala": {
+  "brand": "Hastkala",
+  "site": "https://www.hastkala.com/",
+  "locator": "https://www.hastkala.com/storelocator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Latin Quarters": {
+  "brand": "Latin Quarters",
+  "site": "https://latin-quarters.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Canali": {
+  "brand": "Canali",
+  "site": "https://intl.canali.com/",
+  "locator": "https://intl.canali.com/store-finder-hub",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Muji": {
+  "brand": "Muji",
+  "site": "https://muji.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Kilol": {
+  "brand": "Kilol",
+  "site": "https://kilol.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Needledust": {
+  "brand": "Needledust",
+  "site": "https://www.needledust.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Only": {
+  "brand": "Only",
+  "site": "https://www.only.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Saundh": {
+  "brand": "Saundh",
+  "site": "https://saundh.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Coyu": {
+  "brand": "Coyu",
+  "site": "https://coyu.com/",
+  "locator": "https://coyu.com/stores",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "TED BAKER": {
+  "brand": "TED BAKER",
+  "site": "https://www.tedbaker.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Bombay Selections": {
+  "brand": "Bombay Selections",
+  "site": "https://bombayselections.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Desi Pop": {
+  "brand": "Desi Pop",
+  "site": "https://desipop.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "VIRGIO": {
+  "brand": "VIRGIO",
+  "site": "https://www.virgio.com/",
+  "locator": "https://www.virgio.com/collections/pay-day-outlet",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Raasa": {
+  "brand": "Raasa",
+  "site": "https://raasaindia.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Stitch Stories": {
+  "brand": "Stitch Stories",
+  "site": "https://www.stitchstories.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "LaMode": {
+  "brand": "LaMode",
+  "site": "https://www.lamode.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Rosenthal Versace": {
+  "brand": "Rosenthal Versace",
+  "site": "https://rosenthalversace.in/",
+  "locator": "https://rosenthalversace.in/tag/rosenthal-outlet-in-bangalore/",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "La Vie en Rose": {
+  "brand": "La Vie en Rose",
+  "site": "https://www.lavieenrose.in/password",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Les Petits": {
+  "brand": "Les Petits",
+  "site": "https://lespetits.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "SELECTED HOMME": {
+  "brand": "SELECTED HOMME",
+  "site": "https://www.selectedhomme.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Kusvaa": {
+  "brand": "Kusvaa",
+  "site": "https://www.kusvaa.com/",
+  "locator": "https://www.kusvaa.com/journal/behind-kusvaa/visit-our-stores/",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Valentino": {
+  "brand": "Valentino",
+  "site": "https://valentinoindia.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Style Union": {
+  "brand": "Style Union",
+  "site": "https://styleunion.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Kisah": {
+  "brand": "Kisah",
+  "site": "https://kisah.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Shaza": {
+  "brand": "Shaza",
+  "site": "https://www.shaza.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Fabrika16": {
+  "brand": "Fabrika16",
+  "site": "https://www.fabrika16.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "ARKS": {
+  "brand": "ARKS",
+  "site": "https://www.arks.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Nalli": {
+  "brand": "Nalli",
+  "site": "https://www.nalli.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Gaiiah Closet": {
+  "brand": "Gaiiah Closet",
+  "site": "https://gaiiahcloset.com/password",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "House Of Masaba": {
+  "brand": "House Of Masaba",
+  "site": "https://www.houseofmasaba.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Kate & Oscar": {
+  "brand": "Kate & Oscar",
+  "site": "https://kateoscar.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Kingdom of White": {
+  "brand": "Kingdom of White",
+  "site": "https://kingdomofwhite.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Shuffling Suitcases": {
+  "brand": "Shuffling Suitcases",
+  "site": "https://shufflingsuitcases.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Surabhi Arya": {
+  "brand": "Surabhi Arya",
+  "site": "https://surabhiarya.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Sweaty Betty": {
+  "brand": "Sweaty Betty",
+  "site": "https://sweatybetty.co.in/password",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Suifab": {
+  "brand": "Suifab",
+  "site": "https://www.suifab.com/",
+  "locator": "https://www.suifab.com/pages/store-locator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Wilson": {
+  "brand": "Wilson",
+  "site": "https://www.wilsonroads.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Planet Superheroes": {
+  "brand": "Planet Superheroes",
+  "site": "https://www.planetsuperheroes.com/",
+  "locator": "https://www.planetsuperheroes.com/find-a-store/",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Ahujasons": {
+  "brand": "Ahujasons",
+  "site": "https://www.ahujasons.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Aisha Rao": {
+  "brand": "Aisha Rao",
+  "site": "https://aisharao.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Amaltas Couture": {
+  "brand": "Amaltas Couture",
+  "site": "https://amaltascouture.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "AND": {
+  "brand": "AND",
+  "site": "https://www.andindia.com/",
+  "locator": "https://www.andindia.com/pages/store-locator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Anantam": {
+  "brand": "Anantam",
+  "site": "https://anantamindia.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Avantra": {
+  "brand": "Avantra",
+  "site": "https://www.avantra.co.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Amit Arora (Gopal Sons Selections)": {
+  "brand": "Amit Arora (Gopal Sons Selections)",
+  "site": "https://www.amitarora.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Anjalee And Arjun Kapoor": {
+  "brand": "Anjalee And Arjun Kapoor",
+  "site": "https://anjaleeandarjunkapoor.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Choupette": {
+  "brand": "Choupette",
+  "site": "https://www.choupette.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Baedesi": {
+  "brand": "Baedesi",
+  "site": "https://baedesi.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Amit Aggarwal": {
+  "brand": "Amit Aggarwal",
+  "site": "https://amitaggarwal.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Chunmun": {
+  "brand": "Chunmun",
+  "site": "https://chunmun.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Abu Jani Sandeep Khosla": {
+  "brand": "Abu Jani Sandeep Khosla",
+  "site": "https://abusandeep.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Crimsoune Club": {
+  "brand": "Crimsoune Club",
+  "site": "https://www.crimsouneclub.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Babyshop": {
+  "brand": "Babyshop",
+  "site": "https://www.babyshop.in/in/en/",
+  "locator": "https://www.babyshop.in/storelocator",
+  "source": "https://www.babyshop.in/store-locator/?concept=BABYSHOP",
+  "n": 12,
+  "why": null
+ },
+ "DAWNTOWN": {
+  "brand": "DAWNTOWN",
+  "site": "https://dawntown.co.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Ekasmaye": {
+  "brand": "Ekasmaye",
+  "site": "https://ekasmaye.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "ENSEMBLE": {
+  "brand": "ENSEMBLE",
+  "site": "https://www.ensemble.co.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Cord": {
+  "brand": "Cord",
+  "site": "https://cordindia.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Flying Machine ": {
+  "brand": "Flying Machine ",
+  "site": "https://www.flyingmachine.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Falguni Shane Peacock": {
+  "brand": "Falguni Shane Peacock",
+  "site": "https://falgunishanepeacock.in/",
+  "locator": "https://falgunishanepeacock.in/store-locator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Cosmic": {
+  "brand": "Cosmic",
+  "site": "https://cosmic.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Goyalsons": {
+  "brand": "Goyalsons",
+  "site": "https://goyalsons.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "JAYANTI REDDY": {
+  "brand": "JAYANTI REDDY",
+  "site": "https://jayantireddy.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Gaurav Gupta": {
+  "brand": "Gaurav Gupta",
+  "site": "https://www.linkedin.com/in/gauravgupta123",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Duke": {
+  "brand": "Duke",
+  "site": "https://www.theduke.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "TACFAB": {
+  "brand": "TACFAB",
+  "site": "https://www.tacfab.com/",
+  "locator": "https://www.tacfab.com/pages/store-locator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "JUMP USA": {
+  "brand": "JUMP USA",
+  "site": "https://www.jumpusa.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Kickers": {
+  "brand": "Kickers",
+  "site": "https://kickers.co.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "LACQUER EMBASSY": {
+  "brand": "LACQUER EMBASSY",
+  "site": "https://www.lacquerembassy.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Kaarigar": {
+  "brand": "Kaarigar",
+  "site": "https://kaarigaronline.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Lal Behari Tandon": {
+  "brand": "Lal Behari Tandon",
+  "site": "https://lalbeharitandon.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Look Collection": {
+  "brand": "Look Collection",
+  "site": "https://lookcollection.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Mishru": {
+  "brand": "Mishru",
+  "site": "https://www.mishru.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Monisha Jaising": {
+  "brand": "Monisha Jaising",
+  "site": "https://www.monishajaising.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Mrunalini Rao": {
+  "brand": "Mrunalini Rao",
+  "site": "https://www.mrunalinirao.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Mulmul": {
+  "brand": "Mulmul",
+  "site": "https://mulmul.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Global Desi": {
+  "brand": "Global Desi",
+  "site": "https://www.globaldesi.in/",
+  "locator": "https://www.globaldesi.in/pages/store-locator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Old Gene Originals": {
+  "brand": "Old Gene Originals",
+  "site": "https://oldgeneoriginals.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Paulsons": {
+  "brand": "Paulsons",
+  "site": "https://paulsons.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Rahul Mishra": {
+  "brand": "Rahul Mishra",
+  "site": "https://rahulmishra.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "L'affaire": {
+  "brand": "L'affaire",
+  "site": "https://laffaire.net/",
+  "locator": "https://laffaire.net/our-stores/",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Ridhi Mehra": {
+  "brand": "Ridhi Mehra",
+  "site": "https://ridhimehra.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Ridhiiee Suuri": {
+  "brand": "Ridhiiee Suuri",
+  "site": "https://ridhiieesuuri.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Rimzim Dadu": {
+  "brand": "Rimzim Dadu",
+  "site": "https://www.rimzimdadu.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "SHIVAN & NARRESH": {
+  "brand": "SHIVAN & NARRESH",
+  "site": "https://www.shivanandnarresh.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Shakuntlam": {
+  "brand": "Shakuntlam",
+  "site": "https://shakuntlam.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Shorshe Clothing": {
+  "brand": "Shorshe Clothing",
+  "site": "https://www.shorsheclothing.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Iconic": {
+  "brand": "Iconic",
+  "site": "https://iconic.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Simran Fashions": {
+  "brand": "Simran Fashions",
+  "site": "https://www.simranfashions.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Suneet Varma": {
+  "brand": "Suneet Varma",
+  "site": "https://suneetvarma.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Tarun Tahiliani": {
+  "brand": "Tarun Tahiliani",
+  "site": "https://taruntahiliani.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Sweet Child Of Mine": {
+  "brand": "Sweet Child Of Mine",
+  "site": "https://sweetchildofmine.in/",
+  "locator": "https://sweetchildofmine.in/pages/store-locator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "The Shop": {
+  "brand": "The Shop",
+  "site": "https://www.theshopindia.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "The Grooming Collection": {
+  "brand": "The Grooming Collection",
+  "site": "https://www.thegroomingcollection.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Torani": {
+  "brand": "Torani",
+  "site": "https://www.torani.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "True Religion": {
+  "brand": "True Religion",
+  "site": "https://truereligion.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Wishful": {
+  "brand": "Wishful",
+  "site": "https://wishfulbyw.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Fred Perry": {
+  "brand": "Fred Perry",
+  "site": "https://www.fredperryindia.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Zardozi": {
+  "brand": "Zardozi",
+  "site": "https://zardoziindia.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Zyra Weaves": {
+  "brand": "Zyra Weaves",
+  "site": "https://zyraweavesfashion.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Biglilpeople": {
+  "brand": "Biglilpeople",
+  "site": "https://biglilpeople.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "CAVA": {
+  "brand": "CAVA",
+  "site": "https://www.cava.co.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "iBadat": {
+  "brand": "iBadat",
+  "site": "https://ibadat.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Entertainment Store": {
+  "brand": "Entertainment Store",
+  "site": "https://entertainmentstore.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Nivia Sports": {
+  "brand": "Nivia Sports",
+  "site": "https://www.niviasports.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "DaMENSCH": {
+  "brand": "DaMENSCH",
+  "site": "https://www.damensch.com/",
+  "locator": "https://www.damensch.com/pages/store-locator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "PATINE": {
+  "brand": "PATINE",
+  "site": "https://patine.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Performax": {
+  "brand": "Performax",
+  "site": "https://www.performax.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Taruni": {
+  "brand": "Taruni",
+  "site": "https://taruni.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Amukti": {
+  "brand": "Amukti",
+  "site": "https://www.amukti.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Aadyam": {
+  "brand": "Aadyam",
+  "site": "https://www.aadyam.co.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "SportsYard": {
+  "brand": "SportsYard",
+  "site": "https://sportsyard.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Dennis Lingo": {
+  "brand": "Dennis Lingo",
+  "site": "https://www.dennislingo.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Study by Janak": {
+  "brand": "Study by Janak",
+  "site": "https://studybyjanak.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "House of Fett": {
+  "brand": "House of Fett",
+  "site": "https://houseoffett.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "My Milestones": {
+  "brand": "My Milestones",
+  "site": "https://mymilestones.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Natty Garb": {
+  "brand": "Natty Garb",
+  "site": "https://www.nattygarb.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Globus": {
+  "brand": "Globus",
+  "site": "https://globusfashion.com/",
+  "locator": "https://globusfashion.com/pages/store-locator",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Nirvana": {
+  "brand": "Nirvana",
+  "site": "https://www.nirvana.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Saphed": {
+  "brand": "Saphed",
+  "site": "https://saphed.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Indya": {
+  "brand": "Indya",
+  "site": "https://forsale.ddot.in/indya.shop?drefid=2071",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Wrogn": {
+  "brand": "Wrogn",
+  "site": "https://wrogn.com/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Todlerry": {
+  "brand": "Todlerry",
+  "site": "https://www.todlerry.in/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Antony Morato": {
+  "brand": "Antony Morato",
+  "site": "https://www.antonymorato.com/int_en/",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ },
+ "Modluk": {
+  "brand": "Modluk",
+  "site": "https://modluk.com/",
+  "locator": "https://modluk.com/find-store/",
+  "source": null,
+  "n": null,
+  "why": "locator page found but no store list behind it"
+ },
+ "Scotch & Soda": {
+  "brand": "Scotch & Soda",
+  "site": "https://forsale.ddot.in/scotch-soda.shop?drefid=2071",
+  "locator": null,
+  "source": null,
+  "n": null,
+  "why": "no locator page found"
+ }
+}

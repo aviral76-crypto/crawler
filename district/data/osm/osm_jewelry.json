@@ -1,0 +1,4741 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-02T07:19:36Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1419859505,
+  "lat": 28.6386267,
+  "lon": 77.1019845,
+  "tags": {
+    "addr:housename": "Mehrasons Building",
+    "addr:housenumber": "WZ 1 to 12, Uggar Sain Market",
+    "addr:street": "Najafgarh Road (Next to the Tilak Nagar Police Station)",
+    "name": "Mehrasons Jewellers",
+    "shop": "jewelry",
+    "website": "http://www.mehrasonsjewellers.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1419899235,
+  "lat": 28.6494696,
+  "lon": 77.1915396,
+  "tags": {
+    "addr:housenumber": "P-110/1",
+    "addr:place": "Karol Bagh",
+    "addr:street": "Ajmal Khan Road",
+    "name": "Mehrasons Jewellers",
+    "shop": "jewelry",
+    "website": "www.mehrasonsjewellers.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1421697605,
+  "lat": 28.6276711,
+  "lon": 77.2198524,
+  "tags": {
+    "addr:housename": "Mehrasons Jewellers",
+    "addr:housenumber": "2",
+    "addr:place": "Indraprastha Extension",
+    "addr:street": "Janpath",
+    "check_date": "2026-08-09",
+    "name": "Jagat Narain & Sons",
+    "shop": "jewelry",
+    "website": "https://www.mehrasonsjewellers.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1792744382,
+  "lat": 28.6134586,
+  "lon": 76.9841259,
+  "tags": {
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 1792744399,
+  "lat": 28.6136611,
+  "lon": 76.9843244,
+  "tags": {
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 1792744416,
+  "lat": 28.6133455,
+  "lon": 76.9842037,
+  "tags": {
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 1792744423,
+  "lat": 28.6137388,
+  "lon": 76.9842412,
+  "tags": {
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 1792744424,
+  "lat": 28.6130230,
+  "lon": 76.9840267,
+  "tags": {
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 4052700419,
+  "lat": 28.5846352,
+  "lon": 77.1919623,
+  "tags": {
+    "check_date": "2026-03-20",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 4052700422,
+  "lat": 28.5846066,
+  "lon": 77.1916289,
+  "tags": {
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 4052700426,
+  "lat": 28.5842568,
+  "lon": 77.1918851,
+  "tags": {
+    "check_date": "2026-03-20",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 4242828941,
+  "lat": 28.6606067,
+  "lon": 77.2801253,
+  "tags": {
+    "addr:housenumber": "d-2/10",
+    "addr:postcode": "110051",
+    "addr:street": "Krishna nagar ",
+    "name": "Seth Jewellers ",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 4384642690,
+  "lat": 28.7444735,
+  "lon": 77.2641158,
+  "tags": {
+    "addr:street": "B-3/27, DLF ankur vihar",
+    "name:en": "G.Sons.jewellers",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "phone": "9999359889",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 4481259089,
+  "lat": 28.5703197,
+  "lon": 77.2371641,
+  "tags": {
+    "addr:street": "Cinema Road",
+    "email": "lajpatnagar@chandranipearls.net",
+    "name": "Chandrani Pearls",
+    "name:hi": "Chandrani Pearls",
+    "shop": "jewelry",
+    "website": "https://www.chandranipearls.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 4603972291,
+  "lat": 28.5556855,
+  "lon": 77.0849545,
+  "tags": {
+    "name": "Travel Goods",
+    "name:en": "Travel Goods",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 4700883146,
+  "lat": 28.5696651,
+  "lon": 77.2472534,
+  "tags": {
+    "addr:city": "New Delhi",
+    "addr:housenumber": "l-75",
+    "addr:postcode": "110024",
+    "addr:street": "Shiv Mandir Marg",
+    "contact:facebook": "www.facebook.com/shubhgems",
+    "contact:linkedin": "shubhgems",
+    "contact:twitter": "shubhgemsindia",
+    "email": "shubhgemsindia@gmail.com",
+    "level": "-1",
+    "name": "Shubh gems",
+    "operator": "Shubh Gems",
+    "phone": "+91-8010555111",
+    "phone:mobile": "+91-9990636969",
+    "shop": "jewelry",
+    "website": "https://shubhgems.in/"
+  }
+},
+{
+  "type": "node",
+  "id": 4815566221,
+  "lat": 28.5585462,
+  "lon": 77.3424278,
+  "tags": {
+    "addr:postcode": "110037",
+    "addr:street": "Gali 2",
+    "name:en": "Shiv Jewellers",
+    "opening_hours": "24/7",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 5237078284,
+  "lat": 28.5701791,
+  "lon": 77.2375799,
+  "tags": {
+    "name": "Raj Kishore Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 5237078288,
+  "lat": 28.5704927,
+  "lon": 77.2369213,
+  "tags": {
+    "name": "Meghraj Solitaires",
+    "operator": "N.K. Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 5604865341,
+  "lat": 28.5091288,
+  "lon": 77.2009380,
+  "tags": {
+    "name": "Pyare Lal Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 5656398091,
+  "lat": 28.6330798,
+  "lon": 77.2179653,
+  "tags": {
+    "addr:housename": "A",
+    "addr:place": "Connaught Place",
+    "addr:unit": "11",
+    "name": "Sillviato",
+    "phone": "+91-11-2332-7587",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 5656399715,
+  "lat": 28.6334500,
+  "lon": 77.2181043,
+  "tags": {
+    "addr:housename": "A",
+    "name": "Nirmal Vijay and Company Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 5957498685,
+  "lat": 28.5694718,
+  "lon": 77.3256344,
+  "tags": {
+    "addr:district": "Gautam Buddha Nagar",
+    "addr:housename": "Ocean Complex",
+    "addr:place": "Sector 18",
+    "addr:postcode": "201301",
+    "addr:state": "UP",
+    "addr:unit": "109",
+    "email": "cashforgoldindelhincr@gmail.com",
+    "internet_access": "wlan",
+    "name": "Cash For Gold in Delhi",
+    "nohousenumber": "yes",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "phone": "+91 99993 33245",
+    "shop": "jewelry",
+    "website": "https://www.cashforgoldindelhincr.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6007067850,
+  "lat": 28.5702357,
+  "lon": 77.2374913,
+  "tags": {
+    "level": "-1",
+    "name": "Beliram Jain Silver Ware",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 6107006755,
+  "lat": 28.5275605,
+  "lon": 77.2171389,
+  "tags": {
+    "brand": "Tanishq",
+    "brand:en": "Tanishq",
+    "brand:wikidata": "Q13117711",
+    "name": "Tanishq",
+    "name:en": "Tanishq",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 6211506805,
+  "lat": 28.5676707,
+  "lon": 77.2466044,
+  "tags": {
+    "level": "0.5",
+    "name": "Rastogi Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 6211506806,
+  "lat": 28.5676554,
+  "lon": 77.2466487,
+  "tags": {
+    "name": "Senco",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 6349423472,
+  "lat": 28.5682332,
+  "lon": 77.2214620,
+  "tags": {
+    "craft": "jeweller",
+    "level": "0",
+    "name": "Mehrasons Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 6385735807,
+  "lat": 28.6515924,
+  "lon": 77.0960370,
+  "tags": {
+    "name": "Sunny Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 6385735808,
+  "lat": 28.6516518,
+  "lon": 77.0960457,
+  "tags": {
+    "name": "Baldev Raj Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 6832972161,
+  "lat": 28.5617322,
+  "lon": 77.2076386,
+  "tags": {
+    "addr:neighbourhood": "Yusuf Sarai",
+    "addr:postcode": "110029",
+    "addr:quarter": "NDMC Market",
+    "addr:unit": "10",
+    "contact:phone": "+91-11-2658-8884;+91-11-4164-3504",
+    "name": "MKG Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 7171222085,
+  "lat": 28.6556353,
+  "lon": 77.2353248,
+  "tags": {
+    "addr:postcode": "110006",
+    "name": "Watch Market",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 7173930385,
+  "lat": 28.5839949,
+  "lon": 77.1906948,
+  "tags": {
+    "check_date": "2026-03-20",
+    "name": "Rolex",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 7173930386,
+  "lat": 28.5433772,
+  "lon": 77.1570822,
+  "tags": {
+    "name": "Rolex",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 7175305585,
+  "lat": 28.5686881,
+  "lon": 77.2187768,
+  "tags": {
+    "name": "Kapoor Watches Rolex",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 7298752577,
+  "lat": 28.7194201,
+  "lon": 77.1096302,
+  "tags": {
+    "addr:city": "New Delhi",
+    "addr:housenumber": "502",
+    "addr:postcode": "110085",
+    "addr:street": "Crown Heights, sector-10. Rohini",
+    "description": "Gems and Jewelry Shop",
+    "name": "Gems India",
+    "opening_hours": "Mo-Sa 08:00-18:00",
+    "operator": "Kikan International Private Limited",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+91-9810011169",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 7887201307,
+  "lat": 28.7007225,
+  "lon": 77.1362772,
+  "tags": {
+    "addr:city": "Delhi",
+    "addr:housenumber": "Shop No 4",
+    "addr:postcode": "110089",
+    "addr:street": "JD20A, PitamPura",
+    "name": "Diamond Palace Jewellers",
+    "operator": "P K Sarna",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 8399840113,
+  "lat": 28.6938158,
+  "lon": 77.1722361,
+  "tags": {
+    "name": "Nikhar Jewellery",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 8911035312,
+  "lat": 28.6647534,
+  "lon": 77.4344735,
+  "tags": {
+    "name": "KALYAN JEWELER",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 9037075908,
+  "lat": 28.6305569,
+  "lon": 77.2198262,
+  "tags": {
+    "name": "Minaki",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 9763669071,
+  "lat": 28.5507854,
+  "lon": 77.2339234,
+  "tags": {
+    "level": "0",
+    "name": "Vaakya",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9879005185,
+  "lat": 28.6360357,
+  "lon": 77.3689853,
+  "tags": {
+    "name": "PP Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10227900038,
+  "lat": 28.5708970,
+  "lon": 77.2389307,
+  "tags": {
+    "brand": "Tanishq",
+    "brand:en": "Tanishq",
+    "brand:wikidata": "Q13117711",
+    "name": "Tanishq",
+    "name:en": "Tanishq",
+    "opening_hours": "Mo-Su 10:30-21:00",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10250585661,
+  "lat": 28.5693031,
+  "lon": 77.2428018,
+  "tags": {
+    "name": "Rubina",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10570745010,
+  "lat": 28.5998158,
+  "lon": 77.2267035,
+  "tags": {
+    "name": "Paramani",
+    "shop": "jewelry",
+    "website": "https://www.shriparamanijewels.com"
+  }
+},
+{
+  "type": "node",
+  "id": 10574941541,
+  "lat": 28.6473293,
+  "lon": 77.1899497,
+  "tags": {
+    "name": "Beautiful",
+    "shop": "jewelry",
+    "survey:date": "2023-01-22"
+  }
+},
+{
+  "type": "node",
+  "id": 10576139741,
+  "lat": 28.6007460,
+  "lon": 77.2273797,
+  "tags": {
+    "name": "Amrapali",
+    "shop": "jewelry",
+    "survey:date": "2023-01-23"
+  }
+},
+{
+  "type": "node",
+  "id": 10576139941,
+  "lat": 28.6008196,
+  "lon": 77.2271335,
+  "tags": {
+    "name": "The Tiana",
+    "shop": "jewelry",
+    "survey:date": "2023-01-23"
+  }
+},
+{
+  "type": "node",
+  "id": 10576154542,
+  "lat": 28.6006382,
+  "lon": 77.2273799,
+  "tags": {
+    "name": "Fluorite",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10593670010,
+  "lat": 28.4802631,
+  "lon": 77.0806134,
+  "tags": {
+    "name": "Malabar",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10593889331,
+  "lat": 28.7296215,
+  "lon": 77.1752874,
+  "tags": {
+    "addr:block": "D",
+    "addr:housenumber": "360",
+    "addr:place": "Jahangirpuri",
+    "addr:postcode": "110033",
+    "contact:phone": "+91-95821-63410",
+    "name": "Mohammad Fahad Bangles",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10605847644,
+  "lat": 28.7302913,
+  "lon": 77.1704430,
+  "tags": {
+    "addr:block": "C",
+    "addr:housenumber": "1450",
+    "addr:place": "Jahangir Puri",
+    "addr:postcode": "110033",
+    "contact:phone": "+91-11-6515-2374;+91-98105-91109;+91-92107-71631",
+    "name": "Meenu Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10608931832,
+  "lat": 28.6292130,
+  "lon": 77.2193377,
+  "tags": {
+    "addr:unit": "14",
+    "check_date": "2026-08-09",
+    "name": "Lovely Jewellery",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10648899745,
+  "lat": 28.6025572,
+  "lon": 77.2410143,
+  "tags": {
+    "check_date": "2026-03-14",
+    "name": "Moti Jewels palace",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10648981350,
+  "lat": 28.6025787,
+  "lon": 77.2410614,
+  "tags": {
+    "check_date": "2026-03-14",
+    "name": "Mayur Jewellery",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10649017974,
+  "lat": 28.6025641,
+  "lon": 77.2408563,
+  "tags": {
+    "check_date": "2026-03-14",
+    "name": "Alok Lodha",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10649023231,
+  "lat": 28.6025694,
+  "lon": 77.2411628,
+  "tags": {
+    "check_date": "2026-03-14",
+    "name": "Poonam Backliwal",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10649029788,
+  "lat": 28.6025773,
+  "lon": 77.2411145,
+  "tags": {
+    "check_date": "2026-03-14",
+    "name": "Leela",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10706486888,
+  "lat": 28.7301542,
+  "lon": 77.1640267,
+  "tags": {
+    "name": "Bhola Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10804021813,
+  "lat": 28.5507582,
+  "lon": 77.2340950,
+  "tags": {
+    "addr:block": "M Block",
+    "addr:housenumber": "71",
+    "name": "Arts and Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10804021815,
+  "lat": 28.5509013,
+  "lon": 77.2342506,
+  "tags": {
+    "name": "Vishal Jewels",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10804021820,
+  "lat": 28.5508000,
+  "lon": 77.2341313,
+  "tags": {
+    "name": "Celestial Silver Jewellery",
+    "note": "Jewelry, tattoo, and body piercing",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10829083693,
+  "lat": 28.5504773,
+  "lon": 77.2344156,
+  "tags": {
+    "name": "Talwar Sons Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10829083694,
+  "lat": 28.5504215,
+  "lon": 77.2344406,
+  "tags": {
+    "name": "Mukund Goel Jewels",
+    "shop": "jewelry",
+    "short_name": "MG Jewels"
+  }
+},
+{
+  "type": "node",
+  "id": 10829083702,
+  "lat": 28.5506236,
+  "lon": 77.2341932,
+  "tags": {
+    "name": "BD Khanna Jewellers",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10841648277,
+  "lat": 28.5503952,
+  "lon": 77.2345396,
+  "tags": {
+    "level": "-1",
+    "name": "Kohinoor Jewellers",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10841648281,
+  "lat": 28.5503873,
+  "lon": 77.2345554,
+  "tags": {
+    "level": "0",
+    "name": "Tiara Jewellery and Perfumery",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10841648302,
+  "lat": 28.5503480,
+  "lon": 77.2346136,
+  "tags": {
+    "level": "0",
+    "name": "Chawla Jewellers",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10864790208,
+  "lat": 28.5362383,
+  "lon": 77.2110423,
+  "tags": {
+    "check_date": "2023-05-02",
+    "name": "Only Diamonds",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10864790212,
+  "lat": 28.5372418,
+  "lon": 77.2129821,
+  "tags": {
+    "check_date": "2023-05-02",
+    "level": "0",
+    "name": "Malik Sons Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10864790224,
+  "lat": 28.5366131,
+  "lon": 77.2114436,
+  "tags": {
+    "check_date": "2023-05-02",
+    "name": "SK Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10945905647,
+  "lat": 28.5502308,
+  "lon": 77.2347975,
+  "tags": {
+    "name": "Hari Shankar Sunil Kumar Jewellers",
+    "shop": "jewelry",
+    "short_name": "HSSK Jewellers",
+    "wheelchair:step_height": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 10968993642,
+  "lat": 28.3834539,
+  "lon": 77.0523751,
+  "tags": {
+    "addr:city": "Gurgaon",
+    "addr:district": "Gurgaon",
+    "addr:postcode": "122101",
+    "brand": "Tanishq",
+    "brand:en": "Tanishq",
+    "brand:wikidata": "Q13117711",
+    "name": "Mia By Taniahq",
+    "name:en": "Tanishq",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726049,
+  "lat": 28.6222396,
+  "lon": 77.2893066,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "jewelry",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11024141705,
+  "lat": 28.6367738,
+  "lon": 77.0934307,
+  "tags": {
+    "addr:housenumber": "24/4",
+    "addr:postcode": "110018",
+    "addr:street": "Mall Road, Tilak Nagar",
+    "email": "sumitbhola@gmail.com",
+    "internet_access": "wlan",
+    "name": "PREM JEWELLERS",
+    "name:en": "Government approved Jewellers",
+    "opening_hours": "Su-Tu,Th,Sa,Fr 11:00-20:00",
+    "phone": "9958833249",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11045499700,
+  "lat": 28.7332309,
+  "lon": 77.1640181,
+  "tags": {
+    "name": "Ramesh Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11054407762,
+  "lat": 28.5507048,
+  "lon": 77.2338867,
+  "tags": {
+    "level": "0",
+    "name": "Heart of Gold",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11054415548,
+  "lat": 28.5510216,
+  "lon": 77.2341910,
+  "tags": {
+    "contact:mobile": "+91-99998-33238",
+    "level": "0",
+    "name": "Jewels by Dashmeet Sethi Dodhy",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11056223149,
+  "lat": 28.5681003,
+  "lon": 77.2437667,
+  "tags": {
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11101285438,
+  "lat": 28.5505560,
+  "lon": 77.2349643,
+  "tags": {
+    "level": "0",
+    "name": "JB Gupta & Sons",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11101285442,
+  "lat": 28.5505349,
+  "lon": 77.2349971,
+  "tags": {
+    "level": "0",
+    "name": "M. Rajsons Hiranyam",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11101285444,
+  "lat": 28.5505609,
+  "lon": 77.2349243,
+  "tags": {
+    "level": "0",
+    "name": "Nathumal Jewels",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11118587137,
+  "lat": 28.5503606,
+  "lon": 77.2352695,
+  "tags": {
+    "alt_name": "Sachin Malhotra Jewellers",
+    "level": "0",
+    "name": "M. Rajsons",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11118587138,
+  "lat": 28.5503318,
+  "lon": 77.2353369,
+  "tags": {
+    "level": "-1",
+    "name": "Rishi M. Rajsons",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11118587139,
+  "lat": 28.5503184,
+  "lon": 77.2353478,
+  "tags": {
+    "level": "0",
+    "name": "Krishna Jewellers",
+    "operator": "KJ Sons Jewellers Private Limited",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11118587141,
+  "lat": 28.5503804,
+  "lon": 77.2352400,
+  "tags": {
+    "level": "0",
+    "name": "Giva",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11118587151,
+  "lat": 28.5503992,
+  "lon": 77.2352057,
+  "tags": {
+    "level": "0",
+    "name": "Ultimate Diamonds",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11118587154,
+  "lat": 28.5503018,
+  "lon": 77.2353739,
+  "tags": {
+    "level": "0",
+    "name": "Geetanjali Anand",
+    "shop": "jewelry",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11131967557,
+  "lat": 28.5538719,
+  "lon": 77.2411001,
+  "tags": {
+    "level": "0",
+    "name": "J Maarya",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11131967567,
+  "lat": 28.5538177,
+  "lon": 77.2410289,
+  "tags": {
+    "level": "0",
+    "name": "Gold & Silver Palace",
+    "operator": "Sitaram Gaurishanker Khanna",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11155711177,
+  "lat": 28.5500438,
+  "lon": 77.2350960,
+  "tags": {
+    "level": "0",
+    "name": "Nathumal",
+    "operator": "Gautam & Chand",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11155711178,
+  "lat": 28.5500527,
+  "lon": 77.2350749,
+  "tags": {
+    "level": "0",
+    "name": "Shyamal",
+    "shop": "jewelry",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11155711179,
+  "lat": 28.5500083,
+  "lon": 77.2351577,
+  "tags": {
+    "level": "0",
+    "name": "Ram Lal Kundan Lal",
+    "operator": "RLKL Jewels Private Limited",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11212071468,
+  "lat": 28.6378574,
+  "lon": 77.2869341,
+  "tags": {
+    "addr:block": "F",
+    "addr:full": "F-57-58, First Floor, V3S East Center, Laxmi Nagar District Center, Vikas Marg, Delhi - 110092",
+    "addr:unit": "57;58",
+    "contact:email": "sjewel.v3s@gmail.com",
+    "contact:phone": "+91-11-4308-1190",
+    "level": "1",
+    "name": "Sudershan Jewellers",
+    "shop": "jewelry",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11236741488,
+  "lat": 28.6308213,
+  "lon": 77.2774788,
+  "tags": {
+    "name": "Aditya raj jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11241223167,
+  "lat": 28.6428261,
+  "lon": 77.2973798,
+  "tags": {
+    "craft": "jeweller",
+    "level": "0",
+    "name": "Manohar Lal Jewelers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11263950795,
+  "lat": 28.5495929,
+  "lon": 77.2363945,
+  "tags": {
+    "name": "Rakyan's Fine Jewellery",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11263961195,
+  "lat": 28.5499602,
+  "lon": 77.2369998,
+  "tags": {
+    "level": "0",
+    "name": "Rajwarah Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11327738859,
+  "lat": 28.5641606,
+  "lon": 77.2197333,
+  "tags": {
+    "level": "0",
+    "name": "Soni Jewellers",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11563437707,
+  "lat": 28.6362568,
+  "lon": 77.3045578,
+  "tags": {
+    "level": "0",
+    "name": "Urmil Jewellers",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11563437733,
+  "lat": 28.6362805,
+  "lon": 77.3046614,
+  "tags": {
+    "level": "0",
+    "name": "Jyoti Jewels",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11569376995,
+  "lat": 28.6483132,
+  "lon": 77.4439276,
+  "tags": {
+    "language:hi": "श्री जानकी ज्वेलर्स",
+    "name": "Shree Janki Jewelers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11609607879,
+  "lat": 28.6449226,
+  "lon": 77.1930875,
+  "tags": {
+    "name": "MC Jewels",
+    "operator": "MC Jewels Private Limited",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11672397805,
+  "lat": 28.5496013,
+  "lon": 77.2336824,
+  "tags": {
+    "level": "0",
+    "name": "Diamonte",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11693100772,
+  "lat": 28.6539299,
+  "lon": 77.4520898,
+  "tags": {
+    "addr:city": "Ghaziabad",
+    "addr:postcode": "201002",
+    "addr:street": "Vivekanand Nagar",
+    "name": "Kamal Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11693538333,
+  "lat": 28.6879545,
+  "lon": 77.3018145,
+  "tags": {
+    "name": "URMIL JEWELLERS",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11693553251,
+  "lat": 28.6868918,
+  "lon": 77.3011558,
+  "tags": {
+    "name": "GANGA JEWELLERS",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11696707979,
+  "lat": 28.4695364,
+  "lon": 77.3070450,
+  "tags": {
+    "brand": "Tanishq",
+    "brand:en": "Tanishq",
+    "brand:wikidata": "Q13117711",
+    "name": "Tanishq",
+    "name:en": "Tanishq",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11696751861,
+  "lat": 28.3912647,
+  "lon": 77.3019270,
+  "tags": {
+    "brand": "Tanishq",
+    "brand:en": "Tanishq",
+    "brand:wikidata": "Q13117711",
+    "name": "Tanishq",
+    "name:en": "Tanishq",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11696800692,
+  "lat": 28.3911185,
+  "lon": 77.3019640,
+  "tags": {
+    "name": "BlueStone",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11697637674,
+  "lat": 28.6610361,
+  "lon": 77.3784279,
+  "tags": {
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11697711880,
+  "lat": 28.6621919,
+  "lon": 77.3777252,
+  "tags": {
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11747878613,
+  "lat": 28.5500891,
+  "lon": 77.2357871,
+  "tags": {
+    "name": "Shri Radhey Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11747878621,
+  "lat": 28.5502890,
+  "lon": 77.2353961,
+  "tags": {
+    "addr:block": "M",
+    "addr:housenumber": "51",
+    "addr:suburb": "Greater Kailash 1",
+    "addr:unit": "11",
+    "level": "1",
+    "name": "Amritsar Jewellers",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11747878622,
+  "lat": 28.5503354,
+  "lon": 77.2354592,
+  "tags": {
+    "level": "0",
+    "name": "Town Square Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11747878636,
+  "lat": 28.5503157,
+  "lon": 77.2354466,
+  "tags": {
+    "level": "0",
+    "name": "Silver Shine",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11747878637,
+  "lat": 28.5501092,
+  "lon": 77.2357520,
+  "tags": {
+    "level": "0",
+    "name": "Beget Fashion Jewellery",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11747878638,
+  "lat": 28.5503219,
+  "lon": 77.2353914,
+  "tags": {
+    "level": "0",
+    "name": "Siloffer",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11795525437,
+  "lat": 28.6293504,
+  "lon": 77.2197595,
+  "tags": {
+    "check_date": "2026-08-09",
+    "check_date:opening_hours": "2026-08-09",
+    "name": "Tribhovandas Bhimji Zaveri",
+    "opening_hours": "Mo-Su 09:00-10:00",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11795569565,
+  "lat": 28.6295679,
+  "lon": 77.2197864,
+  "tags": {
+    "check_date": "2026-08-09",
+    "name": "Kanjimull & Sons",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11802205292,
+  "lat": 28.6805401,
+  "lon": 77.2081056,
+  "tags": {
+    "name": "GIVA",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11808931817,
+  "lat": 28.6481675,
+  "lon": 77.2002112,
+  "tags": {
+    "check_date": "2026-03-20",
+    "name": "KW Blue Pearl",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11850167049,
+  "lat": 28.5949892,
+  "lon": 77.1223093,
+  "tags": {
+    "level": "0",
+    "name": "Agarwal Jewellers",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11854152131,
+  "lat": 28.5702932,
+  "lon": 77.2397062,
+  "tags": {
+    "check_date": "2024-04-27",
+    "level": "-1",
+    "name": "Chauhan Jewellers",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11871519873,
+  "lat": 28.5498880,
+  "lon": 77.2353689,
+  "tags": {
+    "level": "0",
+    "name": "MB Jewellers by Jatin Mehra",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11871519880,
+  "lat": 28.5499492,
+  "lon": 77.2352520,
+  "tags": {
+    "level": "0",
+    "name": "Champalal Jewellers",
+    "operator": "RR Gems Private Limited",
+    "shop": "jewelry",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11876083358,
+  "lat": 28.5956769,
+  "lon": 77.1230696,
+  "tags": {
+    "contact:mobile": "9717969879",
+    "level": "0",
+    "name": "Sugandh Jems And Jewelers",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11878999598,
+  "lat": 28.5943706,
+  "lon": 77.1219673,
+  "tags": {
+    "level": "0",
+    "name": "Naman Creation",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11878999626,
+  "lat": 28.5943567,
+  "lon": 77.1219595,
+  "tags": {
+    "level": "0",
+    "name": "Nimancy Jewellers",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11881217934,
+  "lat": 28.5944675,
+  "lon": 77.1224413,
+  "tags": {
+    "level": "0",
+    "name": "Alka Jewellers",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11886578469,
+  "lat": 28.5936536,
+  "lon": 77.1220370,
+  "tags": {
+    "contact:mobile": "+91 96505 48654",
+    "level": "0",
+    "name": "Sugandh Jewellers",
+    "operator": "Bobby Sugandh",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11949313451,
+  "lat": 28.5849782,
+  "lon": 77.0716708,
+  "tags": {
+    "check_date": "2024-06-01",
+    "name": "Gehna",
+    "operator": "Shreejee Gems And Jewels Pvt Ltd",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11982133099,
+  "lat": 28.6688909,
+  "lon": 77.3080990,
+  "tags": {
+    "check_date": "2024-06-15",
+    "name": "Jagdamba Shop",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11982171880,
+  "lat": 28.6696342,
+  "lon": 77.3079152,
+  "tags": {
+    "check_date": "2024-06-15",
+    "name": "Verma Sons Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11982171900,
+  "lat": 28.6696109,
+  "lon": 77.3073786,
+  "tags": {
+    "check_date": "2024-06-15",
+    "name": "Verma Jewelers",
+    "phone": "+91 99999 98294",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11982444763,
+  "lat": 28.7009755,
+  "lon": 77.2720701,
+  "tags": {
+    "addr:city": "Yamuna Vihar",
+    "addr:district": "Shahdara",
+    "addr:housenumber": "B1/19",
+    "addr:postcode": "110053",
+    "addr:street": "Block B",
+    "name": "PC Jewellers",
+    "operator": "PC Jeweller Limited",
+    "phone": "011 4372 4379",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11985412776,
+  "lat": 28.6434485,
+  "lon": 77.2981906,
+  "tags": {
+    "craft": "jeweller",
+    "level": "0",
+    "name": "Bluestone",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11985412777,
+  "lat": 28.6437162,
+  "lon": 77.2985395,
+  "tags": {
+    "brand": "Tanishq",
+    "brand:en": "Tanishq",
+    "brand:wikidata": "Q13117711",
+    "craft": "jeweller",
+    "level": "0",
+    "name": "Tanishq",
+    "name:en": "Tanishq",
+    "operator": "Tanishq",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11985412781,
+  "lat": 28.6435022,
+  "lon": 77.2982580,
+  "tags": {
+    "craft": "jeweller",
+    "level": "0",
+    "name": "Kisna",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12022954305,
+  "lat": 28.5682746,
+  "lon": 77.2210093,
+  "tags": {
+    "check_date": "2026-09-12",
+    "level": "2",
+    "name": "Motiwala Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12032815059,
+  "lat": 28.6418243,
+  "lon": 77.2961399,
+  "tags": {
+    "craft": "jeweller",
+    "level": "0",
+    "name": "Zevar Mahal",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12032866567,
+  "lat": 28.6421825,
+  "lon": 77.2965691,
+  "tags": {
+    "craft": "jeweller",
+    "level": "0",
+    "name": "Jhankar",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12039840961,
+  "lat": 28.6431837,
+  "lon": 77.2978334,
+  "tags": {
+    "brand": "Malabar Gold and Diamonds",
+    "brand:wikidata": "Q60748883",
+    "craft": "jeweller",
+    "level": "0",
+    "name": "Malabar Gold and Diamonds",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12039840964,
+  "lat": 28.6432621,
+  "lon": 77.2979220,
+  "tags": {
+    "craft": "jeweller",
+    "level": "0",
+    "name": "Chawla Jewelers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12040093920,
+  "lat": 28.5682199,
+  "lon": 77.2216622,
+  "tags": {
+    "craft": "jeweller",
+    "level": "0",
+    "name": "Hazoori Lal",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12040093922,
+  "lat": 28.5681917,
+  "lon": 77.2225696,
+  "tags": {
+    "brand": "Malabar Gold and Diamonds",
+    "brand:wikidata": "Q60748883",
+    "level": "0",
+    "name": "Malabar Gold and Diamonds",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12068146333,
+  "lat": 28.5550596,
+  "lon": 77.1945272,
+  "tags": {
+    "check_date": "2024-07-22",
+    "level": "0",
+    "name": "Reasons",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12068146345,
+  "lat": 28.5548172,
+  "lon": 77.1944059,
+  "tags": {
+    "check_date": "2024-07-22",
+    "level": "0",
+    "name": "Bana Studio",
+    "shop": "jewelry",
+    "website": "https://www.banastudio.in/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12068146360,
+  "lat": 28.5545675,
+  "lon": 77.1944123,
+  "tags": {
+    "check_date": "2024-07-22",
+    "level": "0",
+    "name": "Runes",
+    "shop": "jewelry",
+    "website": "https://www.runestattoos.com/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12069575744,
+  "lat": 28.5545960,
+  "lon": 77.1948738,
+  "tags": {
+    "check_date": "2024-07-23",
+    "level": "0",
+    "name": "Apala",
+    "shop": "jewelry",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12076144524,
+  "lat": 28.6232996,
+  "lon": 77.2946506,
+  "tags": {
+    "addr:block": "E",
+    "addr:city": "New Delhi",
+    "addr:parentstreet": "Shanti Marg",
+    "addr:postcode": "110092",
+    "addr:street": "Gali No. 5",
+    "addr:suburb": "West Vinod Nagar",
+    "contact:mobile": "+91-88609-97769;+91-93104-52506",
+    "level": "0",
+    "name": "DDM Jewellers",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12135484585,
+  "lat": 28.6464718,
+  "lon": 77.1893581,
+  "tags": {
+    "name": "Much-More",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12135564803,
+  "lat": 28.6464456,
+  "lon": 77.1893763,
+  "tags": {
+    "addr:floor": "0",
+    "check_date": "2024-08-25",
+    "level": "0",
+    "name": "Much More",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12208769444,
+  "lat": 28.5681179,
+  "lon": 77.2470033,
+  "tags": {
+    "check_date": "2024-09-29",
+    "level": "-1",
+    "name": "S Meghraj",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12208800400,
+  "lat": 28.5683281,
+  "lon": 77.2458104,
+  "tags": {
+    "check_date": "2024-09-29",
+    "level": "0",
+    "name": "Gems Science",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12208840335,
+  "lat": 28.5680638,
+  "lon": 77.2466022,
+  "tags": {
+    "check_date": "2024-09-29",
+    "level": "1",
+    "name": "S.R. jain Trophies",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12208840336,
+  "lat": 28.5680748,
+  "lon": 77.2465504,
+  "tags": {
+    "check_date": "2024-09-29",
+    "level": "1",
+    "name": "Sohan Lal Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12208840337,
+  "lat": 28.5683566,
+  "lon": 77.2457978,
+  "tags": {
+    "check_date": "2024-09-29",
+    "level": "1",
+    "name": "K.K Jewellers Classic",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12208849486,
+  "lat": 28.5687165,
+  "lon": 77.2442529,
+  "tags": {
+    "craft": "jeweller",
+    "level": "0",
+    "name": "Manoharlal Jewelers",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12270870752,
+  "lat": 28.3922267,
+  "lon": 77.0591374,
+  "tags": {
+    "level": "1",
+    "name": "Jaipur Arts",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12368001372,
+  "lat": 28.6181784,
+  "lon": 77.0294250,
+  "tags": {
+    "level": "0",
+    "name": "Shree Bankey Bihari",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12421805600,
+  "lat": 28.5855112,
+  "lon": 77.0714801,
+  "tags": {
+    "check_date": "2024-12-14",
+    "level": "-1",
+    "name": "Subhankriti Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12426311438,
+  "lat": 28.6174667,
+  "lon": 77.0306787,
+  "tags": {
+    "check_date": "2024-12-17",
+    "name": "Kalyan Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12451208595,
+  "lat": 28.6169649,
+  "lon": 77.0331726,
+  "tags": {
+    "check_date": "2024-12-25",
+    "name": "Shivam Jewellers",
+    "shop": "jewelry",
+    "start_date": "2011"
+  }
+},
+{
+  "type": "node",
+  "id": 12452885560,
+  "lat": 28.6007937,
+  "lon": 77.0301527,
+  "tags": {
+    "brand": "Tanishq",
+    "brand:en": "Tanishq",
+    "level": "0",
+    "name": "Tanishq",
+    "name:en": "Tanishq",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12452885561,
+  "lat": 28.6009770,
+  "lon": 77.0302852,
+  "tags": {
+    "level": "0",
+    "name": "Indriya",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12472962288,
+  "lat": 28.5864263,
+  "lon": 77.0715552,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-01-04",
+    "level": "0",
+    "name": "Sapphire Gems And Jeweller",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12475795481,
+  "lat": 28.6160640,
+  "lon": 77.0285341,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-01-05",
+    "level": "0",
+    "name": "Verma Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12495385884,
+  "lat": 28.6976266,
+  "lon": 77.2043197,
+  "tags": {
+    "addr:floor": ";1",
+    "changing_table": "no",
+    "check_date": "2025-01-12",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "level": "0",
+    "name": "Nirankari jewels",
+    "opening_hours": "Tu-Su 12:00-20:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:upi": "yes",
+    "shop": "jewelry",
+    "source": "local knowledge",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12495407421,
+  "lat": 28.6980814,
+  "lon": 77.2043895,
+  "tags": {
+    "check_date": "2025-01-12",
+    "level": "0",
+    "name": "RK Abhushan Palace Limited",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12495412529,
+  "lat": 28.6977837,
+  "lon": 77.2043438,
+  "tags": {
+    "addr:floor": ";1",
+    "air_conditioning": "no",
+    "changing_table": "no",
+    "check_date": "2025-01-12",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Ratan Lal Diamond Jewellers Private Limited",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:upi": "yes",
+    "shop": "jewelry",
+    "source": "local knowledge",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12495421597,
+  "lat": 28.6966286,
+  "lon": 77.2044698,
+  "tags": {
+    "check_date": "2025-01-12",
+    "name": "Divya Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12495422710,
+  "lat": 28.6979872,
+  "lon": 77.2043723,
+  "tags": {
+    "check_date": "2025-01-12",
+    "internet_access": "no",
+    "name": "RK Abhushan Palace Private Limited",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:upi": "yes",
+    "shop": "jewelry",
+    "source": "local knowledge",
+    "toilets": "no",
+    "toilets:menstrual_products": "no",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12495429216,
+  "lat": 28.6979316,
+  "lon": 77.2043684,
+  "tags": {
+    "check_date": "2025-01-12",
+    "level": "0",
+    "name": "Sehgal Jewellers",
+    "name:en": "Sehgal Jewellers",
+    "name:hi": "सेहगल सुनार",
+    "opening_hours": "10:00-20:30",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12495431131,
+  "lat": 28.6978332,
+  "lon": 77.2043551,
+  "tags": {
+    "addr:city": "New Delhi",
+    "addr:housenumber": "43",
+    "addr:place": "Main Bazar, Kingsway Camp",
+    "addr:postcode": "110009",
+    "addr:state": "Delhi",
+    "addr:street": "Hudson Lane",
+    "air_conditioning": "yes",
+    "changing_table": "no",
+    "check_date": "2025-01-12",
+    "currency:INR": "yes",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Fancy Rawalpindi Jewellers",
+    "name:en": "Fancy Rawalpindi Jewellers",
+    "name:hi": "फ़ैन्सी रावलपिण्डी सुनार",
+    "opening_hours": "10:30-20:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+91 97116 29441",
+    "shop": "jewelry",
+    "source": "local knowledge",
+    "toilets": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12495441520,
+  "lat": 28.6964285,
+  "lon": 77.2044235,
+  "tags": {
+    "check_date": "2025-01-12",
+    "name": "Sant Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12495448760,
+  "lat": 28.6975049,
+  "lon": 77.2043000,
+  "tags": {
+    "addr:floor": "0;1",
+    "check_date": "2025-01-12",
+    "name": "NJ Jewellers",
+    "name:hi": "एन जे सुनार",
+    "opening_hours": "Tu-Su 12:00-20:30",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12592971187,
+  "lat": 28.6565146,
+  "lon": 77.2293032,
+  "tags": {
+    "addr:postcode": "110006",
+    "addr:unit": "1222;1223",
+    "level": "0",
+    "name": "Panna Lal Roshan Lal",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12595808659,
+  "lat": 28.6864055,
+  "lon": 77.4878817,
+  "tags": {
+    "name": "rupali jewelers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12596350333,
+  "lat": 28.6858496,
+  "lon": 77.3443154,
+  "tags": {
+    "name": "ridhi sidhi jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12647087329,
+  "lat": 28.5923553,
+  "lon": 77.0452111,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-03-09",
+    "level": "0",
+    "name": "Shri Shyam Jewelers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12706382526,
+  "lat": 28.6564862,
+  "lon": 77.2300557,
+  "tags": {
+    "level": "0",
+    "name": "M.M. Jewellers",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12712532178,
+  "lat": 28.5997747,
+  "lon": 77.2264527,
+  "tags": {
+    "name": "Aquamarine",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12712686007,
+  "lat": 28.6006833,
+  "lon": 77.2271238,
+  "tags": {
+    "name": "Miss Jo",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12828223572,
+  "lat": 28.7080009,
+  "lon": 77.1240565,
+  "tags": {
+    "check_date": "2025-05-11",
+    "name": "RK Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12828286010,
+  "lat": 28.7071741,
+  "lon": 77.1237630,
+  "tags": {
+    "level": "0",
+    "mobile": "+91 88519 87586",
+    "name": "Rohini Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12828286011,
+  "lat": 28.7071537,
+  "lon": 77.1237444,
+  "tags": {
+    "name": "Riya Jewellery",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12828290667,
+  "lat": 28.7076140,
+  "lon": 77.1237384,
+  "tags": {
+    "check_date": "2025-05-11",
+    "name": "Vardhman Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12828336322,
+  "lat": 28.7077241,
+  "lon": 77.1253461,
+  "tags": {
+    "name": "Hanumant Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12866195036,
+  "lat": 28.5652443,
+  "lon": 77.2408517,
+  "tags": {
+    "name": "Kotawala",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12870701067,
+  "lat": 28.6462795,
+  "lon": 77.1173995,
+  "tags": {
+    "brand": "Kalyan Jewellers",
+    "level": "2",
+    "name": "Kalyan Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12875503325,
+  "lat": 28.6000241,
+  "lon": 77.2262221,
+  "tags": {
+    "addr:housenumber": "73-B",
+    "name": "Art Karat",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12896620602,
+  "lat": 28.6332674,
+  "lon": 77.2073013,
+  "tags": {
+    "check_date": "2026-03-18",
+    "level": "0",
+    "mobile": "+91 935080926",
+    "name": "New Era Jewelry pvt.ltd",
+    "phone": "+91 11 2336 1816",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12977461520,
+  "lat": 28.6317484,
+  "lon": 77.2211454,
+  "tags": {
+    "name": "Mehta Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12997310821,
+  "lat": 28.6446420,
+  "lon": 77.3388543,
+  "tags": {
+    "name": "Kanha Jewellers",
+    "nobrand": "yes",
+    "panoramax": "44368788-419d-40e7-a8af-6ad052501240",
+    "phone": "+91 87458 33172",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 12997326040,
+  "lat": 28.6445718,
+  "lon": 77.3390393,
+  "tags": {
+    "name": "Sunhari Jewels",
+    "panoramax": "005f3b79-904a-462a-a010-4302825d41c6",
+    "phone": "+91 96431 99001",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028181177,
+  "lat": 28.5694638,
+  "lon": 77.3235921,
+  "tags": {
+    "check_date": "2025-07-27",
+    "name": "Limelight",
+    "name:en": "Limelight",
+    "shop": "jewelry",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13028181178,
+  "lat": 28.5696871,
+  "lon": 77.3236093,
+  "tags": {
+    "brand": "Bluestone",
+    "check_date": "2025-07-27",
+    "level": "0",
+    "name": "Bluestone",
+    "name:en": "Bluestone",
+    "shop": "jewelry",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13028181179,
+  "lat": 28.5698745,
+  "lon": 77.3236165,
+  "tags": {
+    "check_date": "2025-07-27",
+    "level": "0;1",
+    "name": "Caratlane",
+    "name:en": "Caratlane",
+    "shop": "jewelry",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13028181180,
+  "lat": 28.5701885,
+  "lon": 77.3236461,
+  "tags": {
+    "check_date": "2025-07-27",
+    "level": "0",
+    "name": "Vasundhra Raj",
+    "name:en": "Vasundhra Raj",
+    "shop": "jewelry",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13028181181,
+  "lat": 28.5705302,
+  "lon": 77.3236692,
+  "tags": {
+    "check_date": "2025-07-27",
+    "level": "0",
+    "name": "Pandit Jewellers",
+    "name:en": "Pandit Jewellers",
+    "shop": "jewelry",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13028181182,
+  "lat": 28.5706109,
+  "lon": 77.3236767,
+  "tags": {
+    "check_date": "2025-07-27",
+    "level": "0",
+    "name": "Jewel Box",
+    "name:en": "Jewel Box",
+    "shop": "jewelry",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13028282755,
+  "lat": 28.5693880,
+  "lon": 77.3235896,
+  "tags": {
+    "check_date": "2025-07-27",
+    "level": "0",
+    "name": "Aukera Grown Diamonds",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028282757,
+  "lat": 28.5701168,
+  "lon": 77.3236413,
+  "tags": {
+    "check_date": "2025-07-27",
+    "level": "0;1",
+    "name": "Orra",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028282759,
+  "lat": 28.5704744,
+  "lon": 77.3236667,
+  "tags": {
+    "check_date": "2025-07-27",
+    "level": "0",
+    "name": "Kohira",
+    "shop": "jewelry",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13028308338,
+  "lat": 28.5704599,
+  "lon": 77.3242220,
+  "tags": {
+    "level": "0",
+    "name": "Reliance Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028308339,
+  "lat": 28.5703622,
+  "lon": 77.3242224,
+  "tags": {
+    "level": "0",
+    "name": "KK Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028308341,
+  "lat": 28.5700009,
+  "lon": 77.3241988,
+  "tags": {
+    "level": "0",
+    "name": "Saurabh Diamonds",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028308342,
+  "lat": 28.5697835,
+  "lon": 77.3241873,
+  "tags": {
+    "brand": "Tribhovandas Bhimji Zaveri",
+    "brand:wikidata": "Q7840409",
+    "level": "0",
+    "name": "Tribhovandas Bhimji Zaveri",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028308347,
+  "lat": 28.5701744,
+  "lon": 77.3242126,
+  "tags": {
+    "level": "0",
+    "name": "Solitaire",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028311587,
+  "lat": 28.5689474,
+  "lon": 77.3241497,
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "level": "0",
+    "name": "Kishna",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13028315923,
+  "lat": 28.5700194,
+  "lon": 77.3240047,
+  "tags": {
+    "brand": "Tanishq",
+    "brand:en": "Tanishq",
+    "brand:wikidata": "Q13117711",
+    "name": "Tanishq",
+    "name:en": "Tanishq",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028324919,
+  "lat": 28.5686525,
+  "lon": 77.3240359,
+  "tags": {
+    "level": "0",
+    "name": "B.D.Agarwal Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028325387,
+  "lat": 28.5686513,
+  "lon": 77.3240798,
+  "tags": {
+    "level": "0",
+    "name": "Ranishaa 92.5 Sterling Silver",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028329927,
+  "lat": 28.5686365,
+  "lon": 77.3242255,
+  "tags": {
+    "level": "0",
+    "name": "Krishna Jewellers",
+    "nobrand": "yes",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028334904,
+  "lat": 28.5692528,
+  "lon": 77.3239437,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-07-27",
+    "level": "0;1;2",
+    "name": "Raghunandan Jewelers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028334910,
+  "lat": 28.5694529,
+  "lon": 77.3239727,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-07-27",
+    "level": "0;1;2",
+    "name": "Senco Gold And Diamonds",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028334913,
+  "lat": 28.5693075,
+  "lon": 77.3241269,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-07-27",
+    "level": "0;1;2",
+    "name": "Malabar Gold And Diamonds",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028334914,
+  "lat": 28.5691602,
+  "lon": 77.3241346,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-07-27",
+    "level": "0;1;2",
+    "name": "Bluestone",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028334915,
+  "lat": 28.5691001,
+  "lon": 77.3241445,
+  "tags": {
+    "brand": "PC Jeweller",
+    "brand:wikidata": "Q17082520",
+    "check_date": "2025-07-27",
+    "name": "PC Jeweller",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028334916,
+  "lat": 28.5690822,
+  "lon": 77.3241269,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-07-27",
+    "level": "0",
+    "name": "Shree Ram Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028340155,
+  "lat": 28.5686762,
+  "lon": 77.3246299,
+  "tags": {
+    "addr:floor": "G;1",
+    "check_date": "2025-07-27",
+    "level": "0;1;2",
+    "name": "Manohar Lal Jewelers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028344598,
+  "lat": 28.5708339,
+  "lon": 77.3242998,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-07-27",
+    "level": "0;1;2",
+    "name": "ARM Jewelers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028350087,
+  "lat": 28.5685254,
+  "lon": 77.3243897,
+  "tags": {
+    "level": "0",
+    "name": "Gemlab",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028351865,
+  "lat": 28.5707278,
+  "lon": 77.3242918,
+  "tags": {
+    "brand": "Kalyan Jewellers",
+    "brand:wikidata": "Q6354854",
+    "check_date": "2025-07-27",
+    "name": "Kalyan Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028351869,
+  "lat": 28.5710070,
+  "lon": 77.3243125,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-07-27",
+    "level": "0",
+    "name": "Luxe Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028365344,
+  "lat": 28.5685736,
+  "lon": 77.3243372,
+  "tags": {
+    "building:levels": "3",
+    "name": "Giva",
+    "opening_hours": "Mo-Su 11:00-21:00",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028366244,
+  "lat": 28.5684980,
+  "lon": 77.3244236,
+  "tags": {
+    "name": "Suvarnim Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028381762,
+  "lat": 28.5685457,
+  "lon": 77.3243693,
+  "tags": {
+    "name": "Tirupati Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13028386063,
+  "lat": 28.5683874,
+  "lon": 77.3245305,
+  "tags": {
+    "name": "Ivana by Jindal",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13077914947,
+  "lat": 28.5709212,
+  "lon": 77.2400659,
+  "tags": {
+    "name": "विराज ज्वेलर्स",
+    "name:en": "Viraj Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13109907398,
+  "lat": 28.6836246,
+  "lon": 77.2043232,
+  "tags": {
+    "brand": "Kalyan Jewellers",
+    "check_date": "2025-09-01",
+    "name": "Kalyan Jewellers",
+    "name:en": "Kalyan Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13110027608,
+  "lat": 28.6839755,
+  "lon": 77.2035316,
+  "tags": {
+    "brand": "Tanishq",
+    "brand:en": "Tanishq",
+    "check_date": "2025-09-01",
+    "name": "Tanishq",
+    "name:en": "Tanishq",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13110027615,
+  "lat": 28.6835986,
+  "lon": 77.2043897,
+  "tags": {
+    "check_date": "2025-09-01",
+    "name": "Bluestone",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13110089741,
+  "lat": 28.6805903,
+  "lon": 77.2032346,
+  "tags": {
+    "name": "Kamal Emporium",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13110127600,
+  "lat": 28.6833742,
+  "lon": 77.2055133,
+  "tags": {
+    "brand": "Malabar Gold and Diamonds",
+    "level": "5",
+    "name": "Malabar Gold and Diamonds",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13110300790,
+  "lat": 28.6140116,
+  "lon": 77.3375901,
+  "tags": {
+    "level": "0",
+    "name": "Alukka Gold Palace",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13142383004,
+  "lat": 28.5475039,
+  "lon": 77.2162199,
+  "tags": {
+    "level": "0",
+    "name": "Hannan",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13176641404,
+  "lat": 28.4738521,
+  "lon": 77.0933798,
+  "tags": {
+    "name": "Jewelounge",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13176653339,
+  "lat": 28.4738668,
+  "lon": 77.0933607,
+  "tags": {
+    "name": "Jewelounge",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13191135226,
+  "lat": 28.4482610,
+  "lon": 77.0991025,
+  "tags": {
+    "addr:floor": "L1",
+    "level": "1",
+    "name": "Swarna Chandrika",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13227587532,
+  "lat": 28.5927049,
+  "lon": 77.0458373,
+  "tags": {
+    "level": "1",
+    "name": "Laxmi Narayan Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13227587540,
+  "lat": 28.5927164,
+  "lon": 77.0460831,
+  "tags": {
+    "name": "Ranjit Jewellery Mart",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13227587543,
+  "lat": 28.5926929,
+  "lon": 77.0458279,
+  "tags": {
+    "name": "Goyal Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13227608886,
+  "lat": 28.5957712,
+  "lon": 77.0488067,
+  "tags": {
+    "name": "Karat by Keerti",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13227612575,
+  "lat": 28.5953833,
+  "lon": 77.0484793,
+  "tags": {
+    "name": "B.L. Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13227612586,
+  "lat": 28.5932144,
+  "lon": 77.0465385,
+  "tags": {
+    "name": "Janki Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13227650310,
+  "lat": 28.5966412,
+  "lon": 77.0493019,
+  "tags": {
+    "level": "0",
+    "name": "Dwarkadheesh jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13227650852,
+  "lat": 28.5964837,
+  "lon": 77.0493314,
+  "tags": {
+    "name": "Tarshee Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13243612138,
+  "lat": 28.7184225,
+  "lon": 77.1258467,
+  "tags": {
+    "name": "Verma Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13296688582,
+  "lat": 28.5040453,
+  "lon": 77.0971337,
+  "tags": {
+    "level": "2",
+    "name": "Bluestone",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13335881301,
+  "lat": 28.7177898,
+  "lon": 77.1259130,
+  "tags": {
+    "name": "Uttam Jewlellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13358572981,
+  "lat": 28.6312797,
+  "lon": 77.2198098,
+  "tags": {
+    "name": "Krishna Sons",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13358614002,
+  "lat": 28.6312550,
+  "lon": 77.2198079,
+  "tags": {
+    "name": "Krishnaji Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13366317302,
+  "lat": 28.6347460,
+  "lon": 77.2975654,
+  "tags": {
+    "name": "Sanjoy Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13447657097,
+  "lat": 28.6339177,
+  "lon": 77.2237885,
+  "tags": {
+    "check_date": "2026-01-11",
+    "name": "Blue Bird Imitation Jewelry",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13516692701,
+  "lat": 28.7165559,
+  "lon": 77.1136320,
+  "tags": {
+    "name": "GIVA",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13564321671,
+  "lat": 28.5999206,
+  "lon": 77.2267048,
+  "tags": {
+    "addr:housenumber": "925",
+    "addr:place": "Khan Market",
+    "addr:state": "DL",
+    "level": "0",
+    "name": "Silver Art",
+    "operator": "Shri Paramani Jewels",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13566035669,
+  "lat": 28.7060000,
+  "lon": 77.1897683,
+  "tags": {
+    "name": "Empire of Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13566068648,
+  "lat": 28.7042473,
+  "lon": 77.1895598,
+  "tags": {
+    "level": "0",
+    "name": "Caratlane",
+    "name:en": "Caratlane",
+    "name:hi": "कैरेटलेन",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13566082905,
+  "lat": 28.7037084,
+  "lon": 77.1906614,
+  "tags": {
+    "name": "RN Jewelers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13566096838,
+  "lat": 28.7056918,
+  "lon": 77.1908661,
+  "tags": {
+    "name": "The Diamond Boss",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13566113989,
+  "lat": 28.7056798,
+  "lon": 77.1907720,
+  "tags": {
+    "name": "Women Cart Luxe",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13566116321,
+  "lat": 28.7042228,
+  "lon": 77.1896552,
+  "tags": {
+    "level": "0",
+    "name": "Bluestone",
+    "name:en": "Bluestone",
+    "name:hi": "ब्लूस्टोन",
+    "opening_hours": "Mo-Su,PH 11:00-21:00",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13566153996,
+  "lat": 28.7036779,
+  "lon": 77.1909969,
+  "tags": {
+    "name": "24Karat",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13566176431,
+  "lat": 28.7057268,
+  "lon": 77.1908872,
+  "tags": {
+    "name": "Oswal Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13568834174,
+  "lat": 28.6950333,
+  "lon": 77.2138909,
+  "tags": {
+    "name": "Jewellery Zone",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13595321399,
+  "lat": 28.5736733,
+  "lon": 77.2081612,
+  "tags": {
+    "level": "-1",
+    "name": "Royal Mumbai Jewellery",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13626611726,
+  "lat": 28.6082115,
+  "lon": 77.2934616,
+  "tags": {
+    "level": "0",
+    "name": "Laxmi Jewellers",
+    "shop": "jewelry",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13626685225,
+  "lat": 28.6083744,
+  "lon": 77.2933610,
+  "tags": {
+    "level": "0",
+    "name": "Satyam Jewellers",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13626745473,
+  "lat": 28.6084442,
+  "lon": 77.2929955,
+  "tags": {
+    "level": "0",
+    "name": "24Karat",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931620,
+  "lat": 28.6811438,
+  "lon": 77.2010190,
+  "tags": {
+    "name": "Gehna Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931626,
+  "lat": 28.6811662,
+  "lon": 77.2012658,
+  "tags": {
+    "name": "Khandelwal Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931639,
+  "lat": 28.6812381,
+  "lon": 77.2011694,
+  "tags": {
+    "name": "Dwarkason's Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931644,
+  "lat": 28.6812771,
+  "lon": 77.2012222,
+  "tags": {
+    "name": "Ganpati Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931649,
+  "lat": 28.6817168,
+  "lon": 77.2022287,
+  "tags": {
+    "name": "BL Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931658,
+  "lat": 28.6820345,
+  "lon": 77.2023704,
+  "tags": {
+    "name": "Radhe Trendz",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931661,
+  "lat": 28.6811396,
+  "lon": 77.2012312,
+  "tags": {
+    "name": "A.R.M. Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931663,
+  "lat": 28.6817679,
+  "lon": 77.2022813,
+  "tags": {
+    "name": "Ratnali",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931685,
+  "lat": 28.6814256,
+  "lon": 77.2005038,
+  "tags": {
+    "name": "Swalina Jewellery",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13645264782,
+  "lat": 28.6810360,
+  "lon": 77.2075437,
+  "tags": {
+    "name": "99 Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13691559689,
+  "lat": 28.6798257,
+  "lon": 77.2038720,
+  "tags": {
+    "level": "0",
+    "name": "Kailash Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13694812077,
+  "lat": 28.6823064,
+  "lon": 77.2062168,
+  "tags": {
+    "name": "Bling",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13694812160,
+  "lat": 28.6809327,
+  "lon": 77.2078048,
+  "tags": {
+    "name": "Etchcraft Emporium",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13780550351,
+  "lat": 28.5724481,
+  "lon": 77.1668226,
+  "tags": {
+    "level": "0",
+    "name": "SS Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13780550355,
+  "lat": 28.5724839,
+  "lon": 77.1667896,
+  "tags": {
+    "level": "0",
+    "name": "KG Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13814203736,
+  "lat": 28.5628044,
+  "lon": 77.1938165,
+  "tags": {
+    "level": "0",
+    "name": "Cash for Gold",
+    "phone": "+91 9953477847",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13830835375,
+  "lat": 28.6796894,
+  "lon": 77.2037368,
+  "tags": {
+    "level": "0",
+    "name": "Laila Fashion",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892504,
+  "lat": 28.6815290,
+  "lon": 77.2050624,
+  "tags": {
+    "level": "0",
+    "name": "The Silver Shop",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892571,
+  "lat": 28.6804945,
+  "lon": 77.2040388,
+  "tags": {
+    "level": "0",
+    "name": "Kaka Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892604,
+  "lat": 28.6800825,
+  "lon": 77.2038805,
+  "tags": {
+    "level": "0",
+    "name": "V M Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13834329804,
+  "lat": 28.6338866,
+  "lon": 77.2182107,
+  "tags": {
+    "addr:housename": "B",
+    "addr:place": "Connaught Place",
+    "addr:postcode": "110001",
+    "addr:unit": "7",
+    "name": "Normal Vijay & Co. Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13854780997,
+  "lat": 28.6191819,
+  "lon": 77.2860725,
+  "tags": {
+    "contact:mobile": "+91-98111-54353",
+    "level": "0",
+    "name": "Prakash Gems",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13874929501,
+  "lat": 28.3611731,
+  "lon": 77.0759607,
+  "tags": {
+    "check_date": "2026-05-25",
+    "name": "Gauri Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13874929801,
+  "lat": 28.3611651,
+  "lon": 77.0761895,
+  "tags": {
+    "check_date": "2026-05-25",
+    "name": "Sanskar Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13874929802,
+  "lat": 28.3611611,
+  "lon": 77.0762798,
+  "tags": {
+    "check_date": "2026-05-25",
+    "name": "Shubham Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13875258001,
+  "lat": 28.3611430,
+  "lon": 77.0773496,
+  "tags": {
+    "check_date": "2026-05-25",
+    "name": "Anmol Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672509,
+  "lat": 28.4807536,
+  "lon": 77.0800533,
+  "tags": {
+    "brand": "Mia by Tanishq",
+    "brand:en": "Mia by Tanishq",
+    "level": "1",
+    "name": "Mia by Tanishq",
+    "name:en": "Mia by Tanishq",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672562,
+  "lat": 28.4803067,
+  "lon": 77.0804592,
+  "tags": {
+    "level": "0",
+    "name": "Bluestone",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672568,
+  "lat": 28.4807965,
+  "lon": 77.0800570,
+  "tags": {
+    "level": "1",
+    "name": "Kushals",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672578,
+  "lat": 28.4805329,
+  "lon": 77.0800685,
+  "tags": {
+    "level": "2",
+    "name": "Diamond Lleaf",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13904238254,
+  "lat": 28.6812029,
+  "lon": 77.2040751,
+  "tags": {
+    "level": "0",
+    "name": "Shiv Store",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13904238285,
+  "lat": 28.6812401,
+  "lon": 77.2039569,
+  "tags": {
+    "description": "Pue Jewellery",
+    "level": "0",
+    "name": "Bluestone",
+    "shop": "jewelry",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13904249301,
+  "lat": 28.6819199,
+  "lon": 77.2051411,
+  "tags": {
+    "level": "0",
+    "name": "D Lara",
+    "shop": "jewelry",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13997784668,
+  "lat": 28.5690258,
+  "lon": 77.2214101,
+  "tags": {
+    "level": "1",
+    "name": "P. P. Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13997784673,
+  "lat": 28.5689969,
+  "lon": 77.2213029,
+  "tags": {
+    "level": "0",
+    "name": "Zoya",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13997784680,
+  "lat": 28.5681906,
+  "lon": 77.2218379,
+  "tags": {
+    "brand": "Kalyan Jewellers",
+    "level": "0",
+    "name": "Kalyan Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13997784689,
+  "lat": 28.5689909,
+  "lon": 77.2206525,
+  "tags": {
+    "level": "0",
+    "name": "Champalal Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13997784690,
+  "lat": 28.5689969,
+  "lon": 77.2213913,
+  "tags": {
+    "level": "०",
+    "name": "Giva",
+    "name:hi": "जीवा",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13997784692,
+  "lat": 28.5692524,
+  "lon": 77.2173941,
+  "tags": {
+    "level": "0",
+    "name": "Nirakara Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13997784694,
+  "lat": 28.5689998,
+  "lon": 77.2210557,
+  "tags": {
+    "level": "0",
+    "name": "L. D. Sons Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13999844966,
+  "lat": 28.5692498,
+  "lon": 77.2175696,
+  "tags": {
+    "name": "P. P. Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13999844967,
+  "lat": 28.5691069,
+  "lon": 77.2195955,
+  "tags": {
+    "name": "Khanna Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13999844973,
+  "lat": 28.5689554,
+  "lon": 77.2208205,
+  "tags": {
+    "name": "Ela Reve",
+    "opening_hours": "Mo-Su,PH 11:00-20:00",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13999844977,
+  "lat": 28.5692015,
+  "lon": 77.2184892,
+  "tags": {
+    "name": "Rivaah",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13999844983,
+  "lat": 28.5689580,
+  "lon": 77.2222483,
+  "tags": {
+    "name": "Manuvel Malabar",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13999858801,
+  "lat": 28.5692189,
+  "lon": 77.2180988,
+  "tags": {
+    "brand": "Kalyan Jewellers",
+    "level": "0",
+    "name": "Kalyan Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13999858802,
+  "lat": 28.5691322,
+  "lon": 77.2193732,
+  "tags": {
+    "name": "Orra",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13999858808,
+  "lat": 28.5692320,
+  "lon": 77.2176978,
+  "tags": {
+    "brand": "PC Jeweller",
+    "level": "0",
+    "name": "PC Jeweller",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 13999858809,
+  "lat": 28.5691999,
+  "lon": 77.2183412,
+  "tags": {
+    "name": "Bluestone",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14002488854,
+  "lat": 28.5683018,
+  "lon": 77.2181448,
+  "tags": {
+    "brand": "Tanishq",
+    "brand:en": "Tanishq",
+    "name": "Tanishq",
+    "name:en": "Tanishq",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14002488856,
+  "lat": 28.5691075,
+  "lon": 77.2191474,
+  "tags": {
+    "name": "Caratlane",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14002488857,
+  "lat": 28.5689393,
+  "lon": 77.2224430,
+  "tags": {
+    "level": "1",
+    "name": "Senco",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14002488861,
+  "lat": 28.5689458,
+  "lon": 77.2223211,
+  "tags": {
+    "name": "Aigiri",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14017179708,
+  "lat": 28.5681990,
+  "lon": 77.2223253,
+  "tags": {
+    "name": "Babu Bhai Jewellers Private Limited",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14041354979,
+  "lat": 28.5681807,
+  "lon": 77.2425951,
+  "tags": {
+    "description": "Silver & Fashion Jewellery",
+    "level": "0",
+    "mobile": "9971189618",
+    "name": "Esson's",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14041377316,
+  "lat": 28.5686817,
+  "lon": 77.2424164,
+  "tags": {
+    "name": "Soni Sapphire",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14041377344,
+  "lat": 28.5687584,
+  "lon": 77.2436535,
+  "tags": {
+    "name": "Amrit Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14041377348,
+  "lat": 28.5688930,
+  "lon": 77.2425050,
+  "tags": {
+    "level": "-1",
+    "name": "Tiara",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14041377349,
+  "lat": 28.5681641,
+  "lon": 77.2436603,
+  "tags": {
+    "level": "-1",
+    "name": "Zevrat Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14041377422,
+  "lat": 28.5689839,
+  "lon": 77.2435603,
+  "tags": {
+    "name": "Trikanya Jewellers",
+    "piercing": "yes",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14041377473,
+  "lat": 28.5690441,
+  "lon": 77.2418932,
+  "tags": {
+    "name": "Much-More",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14046153623,
+  "lat": 28.5412368,
+  "lon": 77.1550459,
+  "tags": {
+    "level": "0",
+    "name": "Grabows & Bands",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14046153658,
+  "lat": 28.5409614,
+  "lon": 77.1550964,
+  "tags": {
+    "level": "0",
+    "name": "Bluestone",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14046153683,
+  "lat": 28.5411538,
+  "lon": 77.1552459,
+  "tags": {
+    "level": "0",
+    "name": "Giva",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14046153691,
+  "lat": 28.5410151,
+  "lon": 77.1551492,
+  "tags": {
+    "level": "0",
+    "name": "Ela Reve",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14046153694,
+  "lat": 28.5407028,
+  "lon": 77.1549119,
+  "tags": {
+    "level": "3",
+    "name": "Tribe Amravati",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14046153699,
+  "lat": 28.5410586,
+  "lon": 77.1551769,
+  "tags": {
+    "level": "0",
+    "name": "Mia by Tanishq",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14046155039,
+  "lat": 28.5410929,
+  "lon": 77.1550500,
+  "tags": {
+    "brand": "Swarovski",
+    "level": "1",
+    "name": "Swarovski",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14046155084,
+  "lat": 28.5409840,
+  "lon": 77.1552976,
+  "tags": {
+    "level": "0",
+    "name": "Diamond Tree",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14046155155,
+  "lat": 28.5410984,
+  "lon": 77.1552071,
+  "tags": {
+    "level": "0",
+    "name": "Aukera",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14046155266,
+  "lat": 28.5408681,
+  "lon": 77.1550360,
+  "tags": {
+    "level": "0",
+    "name": "Solitario",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14046155354,
+  "lat": 28.5411886,
+  "lon": 77.1549090,
+  "tags": {
+    "level": "0",
+    "name": "Ramaya",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14080141454,
+  "lat": 28.5686207,
+  "lon": 77.2242942,
+  "tags": {
+    "name": "Ahilya Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14087638630,
+  "lat": 28.5730763,
+  "lon": 77.2371587,
+  "tags": {
+    "name": "Jagat Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14092074155,
+  "lat": 28.5688980,
+  "lon": 77.2226900,
+  "tags": {
+    "name": "jewelbox",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14092074160,
+  "lat": 28.5683626,
+  "lon": 77.2259523,
+  "tags": {
+    "brand": "Joyalukkas",
+    "name": "Joyalukkas",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14092074171,
+  "lat": 28.5691301,
+  "lon": 77.2264227,
+  "tags": {
+    "name": "Mohanlal Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100919730,
+  "lat": 28.5695102,
+  "lon": 77.2205979,
+  "tags": {
+    "level": "0",
+    "name": "Bhagwan Dass Khanna Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100919733,
+  "lat": 28.5690640,
+  "lon": 77.2206436,
+  "tags": {
+    "level": "0",
+    "name": "A. K. Mehrasons Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100919741,
+  "lat": 28.5679066,
+  "lon": 77.2199431,
+  "tags": {
+    "level": "2",
+    "name": "Tirupati Diamonds",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100919751,
+  "lat": 28.5678936,
+  "lon": 77.2195729,
+  "tags": {
+    "level": "2",
+    "name": "El' Unique",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100919753,
+  "lat": 28.5693419,
+  "lon": 77.2208205,
+  "tags": {
+    "level": "0",
+    "name": "Delite Jewellers Silver House",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100919755,
+  "lat": 28.5692269,
+  "lon": 77.2206643,
+  "tags": {
+    "level": "0",
+    "name": "K. K. Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100919788,
+  "lat": 28.5679097,
+  "lon": 77.2199067,
+  "tags": {
+    "level": "3",
+    "name": "Pirduman K & Sons Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100919797,
+  "lat": 28.5694292,
+  "lon": 77.2206624,
+  "tags": {
+    "level": "0",
+    "name": "Gulabae Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954401,
+  "lat": 28.5693685,
+  "lon": 77.2206516,
+  "tags": {
+    "level": "0",
+    "name": "Shri Ram Hari Ram Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954410,
+  "lat": 28.5692746,
+  "lon": 77.2196272,
+  "tags": {
+    "level": "0",
+    "name": "Belirams",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954424,
+  "lat": 28.5695176,
+  "lon": 77.2205083,
+  "tags": {
+    "level": "0;1",
+    "name": "Indriya",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954436,
+  "lat": 28.5683163,
+  "lon": 77.2192922,
+  "tags": {
+    "level": "0",
+    "name": "Gujaranwala Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954437,
+  "lat": 28.5692491,
+  "lon": 77.2206626,
+  "tags": {
+    "level": "0",
+    "name": "Daj Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954459,
+  "lat": 28.5694359,
+  "lon": 77.2199470,
+  "tags": {
+    "level": "0;1",
+    "name": "Jass Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954482,
+  "lat": 28.5683435,
+  "lon": 77.2192952,
+  "tags": {
+    "level": "0",
+    "name": "Prithviraj Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954484,
+  "lat": 28.5679403,
+  "lon": 77.2196734,
+  "tags": {
+    "level": "0",
+    "name": "Soni Sapphire",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954494,
+  "lat": 28.5679410,
+  "lon": 77.2195821,
+  "tags": {
+    "level": "0",
+    "name": "Manohar Lal Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954510,
+  "lat": 28.5678995,
+  "lon": 77.2199906,
+  "tags": {
+    "level": "3",
+    "name": "BK Johari Bazar",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954513,
+  "lat": 28.5692614,
+  "lon": 77.2199334,
+  "tags": {
+    "level": "0",
+    "name": "Keemti",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954521,
+  "lat": 28.5689781,
+  "lon": 77.2206711,
+  "tags": {
+    "level": "1",
+    "name": "Punjab Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954525,
+  "lat": 28.5695081,
+  "lon": 77.2202735,
+  "tags": {
+    "name": "Omsons Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954545,
+  "lat": 28.5692107,
+  "lon": 77.2208288,
+  "tags": {
+    "level": "0",
+    "name": "Bansilal & Sons Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954549,
+  "lat": 28.5679223,
+  "lon": 77.2195890,
+  "tags": {
+    "name": "Shimmers Jewels",
+    "ref:vatin": "2",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954569,
+  "lat": 28.5692286,
+  "lon": 77.2196243,
+  "tags": {
+    "level": "0",
+    "name": "Shakti Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954576,
+  "lat": 28.5679583,
+  "lon": 77.2192005,
+  "tags": {
+    "level": "0",
+    "name": "Narula's Fine Jewellery",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954578,
+  "lat": 28.5678926,
+  "lon": 77.2200271,
+  "tags": {
+    "level": "0",
+    "name": "J.M. Kothari & Son Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14105308776,
+  "lat": 28.6943985,
+  "lon": 77.2040045,
+  "tags": {
+    "name": "Shri Jwalaji Jewels Private Limited",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14107314035,
+  "lat": 28.6953763,
+  "lon": 77.2043018,
+  "tags": {
+    "brand": "PC Jeweller",
+    "name": "PC Jeweller",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14107314047,
+  "lat": 28.6953956,
+  "lon": 77.2039152,
+  "tags": {
+    "name": "1 Gram Gold Jewellery",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14107314074,
+  "lat": 28.6959107,
+  "lon": 77.2040172,
+  "tags": {
+    "name": "HC Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14107341458,
+  "lat": 28.6959815,
+  "lon": 77.2043865,
+  "tags": {
+    "name": "Mirankari Gems & Jewels",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14131315902,
+  "lat": 28.5579314,
+  "lon": 77.2393673,
+  "tags": {
+    "name": "24 Karat",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14131315911,
+  "lat": 28.5558656,
+  "lon": 77.2511195,
+  "tags": {
+    "name": "Sanna Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14173153333,
+  "lat": 28.4628482,
+  "lon": 77.0960505,
+  "tags": {
+    "check_date": "2026-09-09",
+    "level": "0",
+    "name": "Khanna Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14175198594,
+  "lat": 28.5679308,
+  "lon": 77.2199991,
+  "tags": {
+    "name": "Gujranwala Legacy",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14175271369,
+  "lat": 28.5679022,
+  "lon": 77.2203378,
+  "tags": {
+    "level": "2",
+    "name": "Vojay Kumar & Sons Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14175271397,
+  "lat": 28.5678801,
+  "lon": 77.2203888,
+  "tags": {
+    "name": "Gopal Games Raahi Gems",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14175271411,
+  "lat": 28.5679002,
+  "lon": 77.2203040,
+  "tags": {
+    "level": "1",
+    "name": "Shraman Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14188726186,
+  "lat": 28.6792121,
+  "lon": 77.1955508,
+  "tags": {
+    "name": "Abhinandan",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14192058550,
+  "lat": 28.7101084,
+  "lon": 77.1857791,
+  "tags": {
+    "level": "0",
+    "name": "Shivek Jewels",
+    "piercing": "no",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14192058559,
+  "lat": 28.7097889,
+  "lon": 77.1853044,
+  "tags": {
+    "level": "0",
+    "name": "Mandaliya Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14201295484,
+  "lat": 28.5694495,
+  "lon": 77.2197752,
+  "tags": {
+    "name": "Heritage",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 14201300218,
+  "lat": 28.5692850,
+  "lon": 77.2197606,
+  "tags": {
+    "name": "Desraj Jewelers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "way",
+  "id": 352768375,
+  "center": {
+    "lat": 28.6593534,
+    "lon": 77.4353033
+  },
+  "tags": {
+    "brand": "Kalyan Jewellers",
+    "brand:wikidata": "Q6354854",
+    "building": "yes",
+    "name": "Kalyan Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "way",
+  "id": 775190839,
+  "center": {
+    "lat": 28.7313712,
+    "lon": 77.1248901
+  },
+  "tags": {
+    "addr:city": "new delhi",
+    "addr:housenumber": "G-18/48",
+    "addr:postcode": "110089",
+    "addr:street": "sector-15, rohini",
+    "building": "yes",
+    "layer": "1",
+    "name": "Hiraa Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "way",
+  "id": 1272977974,
+  "center": {
+    "lat": 28.6592658,
+    "lon": 77.4352765
+  },
+  "tags": {
+    "brand": "Malabar Gold and Diamonds",
+    "brand:wikidata": "Q60748883",
+    "building": "yes",
+    "name": "Malabar Gold and Diamonds",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "way",
+  "id": 1272979321,
+  "center": {
+    "lat": 28.6596463,
+    "lon": 77.4354570
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Janki Jewellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "way",
+  "id": 1306328979,
+  "center": {
+    "lat": 28.6331143,
+    "lon": 77.2214914
+  },
+  "tags": {
+    "addr:block": "E",
+    "addr:city": "Delhi",
+    "addr:country": "IN",
+    "addr:housenumber": "4",
+    "addr:place": "Connaught Place",
+    "addr:postcode": "110001",
+    "branch": "Jewellery",
+    "brand": "Tanishq",
+    "brand:en": "Tanishq",
+    "brand:wikidata": "Q13117711",
+    "level": "0",
+    "name": "Tanishq",
+    "name:en": "Tanishq",
+    "opening_hours": "11:00-20:00",
+    "shop": "jewelry",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347995910,
+  "center": {
+    "lat": 28.7026520,
+    "lon": 77.1163227
+  },
+  "tags": {
+    "brand": "Tanishq",
+    "brand:en": "Tanishq",
+    "brand:wikidata": "Q13117711",
+    "building": "yes",
+    "name": "Tanishq",
+    "name:en": "Tanishq",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "way",
+  "id": 1492873259,
+  "center": {
+    "lat": 28.4972213,
+    "lon": 77.2493597
+  },
+  "tags": {
+    "addr:city": "New Delhi",
+    "addr:district": "sangam vihar, K Block",
+    "addr:postcode": "110080",
+    "building": "yes",
+    "name": "Ram jwellers",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "way",
+  "id": 1498625610,
+  "center": {
+    "lat": 28.6376078,
+    "lon": 77.2866384
+  },
+  "tags": {
+    "indoor": "room",
+    "level": "0",
+    "name": "Giva",
+    "name:en": "Giva",
+    "name:hi": "जीवा",
+    "room": "shop",
+    "shop": "jewelry"
+  }
+}
+
+  ]
+}

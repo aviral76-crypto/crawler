@@ -1,0 +1,338 @@
+{
+  "data": {
+    "product_id": 8331732156578,
+    "total_omni_inventory": 1837,
+    "total_quick_com_inventory": 50,
+    "variants": [
+      {
+        "location_info": [
+          {
+            "branch_code": "120",
+            "lat": 13.1639016,
+            "lon": 77.6296695,
+            "omni_inventory": 1,
+            "quick_com_inventory": 0
+          },
+          {
+            "branch_code": "13",
+            "lat": 12.911111,
+            "lon": 77.638211,
+            "omni_inventory": 0,
+            "quick_com_inventory": 2
+          },
+          {
+            "branch_code": "134",
+            "lat": 23.047511889716,
+            "lon": 72.5583291852374,
+            "omni_inventory": 0,
+            "quick_com_inventory": 1
+          },
+          {
+            "branch_code": "140",
+            "lat": 12.978273,
+            "lon": 77.640761,
+            "omni_inventory": 0,
+            "quick_com_inventory": 2
+          },
+          {
+            "branch_code": "73",
+            "lat": 28.4624445,
+            "lon": 77.0666676,
+            "omni_inventory": 0,
+            "quick_com_inventory": 1
+          },
+          {
+            "branch_code": "90",
+            "lat": 28.621005,
+            "lon": 77.081771,
+            "omni_inventory": 0,
+            "quick_com_inventory": 1
+          },
+          {
+            "branch_code": "995",
+            "lat": 13.1113598,
+            "lon": 77.6247649,
+            "omni_inventory": 11,
+            "quick_com_inventory": 0
+          },
+          {
+            "branch_code": "998",
+            "lat": 28.15267,
+            "lon": 76.55224,
+            "omni_inventory": 106,
+            "quick_com_inventory": 0
+          },
+          {
+            "branch_code": "999",
+            "lat": null,
+            "lon": null,
+            "omni_inventory": 192,
+            "quick_com_inventory": 0
+          }
+        ],
+        "size": "XL",
+        "sku": "4MSS3036-05-XL",
+        "total_omni_inventory": 310,
+        "total_quick_com_inventory": 7,
+        "variant_id": 44509891035298
+      },
+      {
+        "location_info": [
+          {
+            "branch_code": "13",
+            "lat": 12.911111,
+            "lon": 77.638211,
+            "omni_inventory": 0,
+            "quick_com_inventory": 4
+          },
+          {
+            "branch_code": "140",
+            "lat": 12.978273,
+            "lon": 77.640761,
+            "omni_inventory": 0,
+            "quick_com_inventory": 1
+          },
+          {
+            "branch_code": "73",
+            "lat": 28.4624445,
+            "lon": 77.0666676,
+            "omni_inventory": 0,
+            "quick_com_inventory": 6
+          },
+          {
+            "branch_code": "90",
+            "lat": 28.621005,
+            "lon": 77.081771,
+            "omni_inventory": 0,
+            "quick_com_inventory": 1
+          },
+          {
+            "branch_code": "95",
+            "lat": 17.441732,
+            "lon": 78.39904,
+            "omni_inventory": 0,
+            "quick_com_inventory": 6
+          },
+          {
+            "branch_code": "995",
+            "lat": 13.1113598,
+            "lon": 77.6247649,
+            "omni_inventory": 4,
+            "quick_com_inventory": 0
+          },
+          {
+            "branch_code": "998",
+            "lat": 28.15267,
+            "lon": 76.55224,
+            "omni_inventory": 207,
+            "quick_com_inventory": 0
+          },
+          {
+            "branch_code": "999",
+            "lat": null,
+            "lon": null,
+            "omni_inventory": 348,
+            "quick_com_inventory": 0
+          }
+        ],
+        "size": "L",
+        "sku": "4MSS3036-05-L",
+        "total_omni_inventory": 559,
+        "total_quick_com_inventory": 18,
+        "variant_id": 44509891002530
+      },
+      {
+        "location_info": [
+          {
+            "branch_code": "120",
+            "lat": 13.1639016,
+            "lon": 77.6296695,
+            "omni_inventory": 1,
+            "quick_com_inventory": 0
+          },
+          {
+            "branch_code": "13",
+            "lat": 12.911111,
+            "lon": 77.638211,
+            "omni_inventory": 0,
+            "quick_com_inventory": 1
+          },
+          {
+            "branch_code": "140",
+            "lat": 12.978273,
+            "lon": 77.640761,
+            "omni_inventory": 0,
+            "quick_com_inventory": 1
+          },
+          {
+            "branch_code": "73",
+            "lat": 28.4624445,
+            "lon": 77.0666676,
+            "omni_inventory": 0,
+            "quick_com_inventory": 1
+          },
+          {
+            "branch_code": "90",
+            "lat": 28.621005,
+            "lon": 77.081771,
+            "omni_inventory": 0,
+            "quick_com_inventory": 2
+          },
+          {
+            "branch_code": "995",
+            "lat": 13.1113598,
+            "lon": 77.6247649,
+            "omni_inventory": 4,
+            "quick_com_inventory": 0
+          },
+          {
+            "branch_code": "998",
+            "lat": 28.15267,
+            "lon": 76.55224,
+            "omni_inventory": 65,
+            "quick_com_inventory": 0
+          },
+          {
+            "branch_code": "999",
+            "lat": null,
+            "lon": null,
+            "omni_inventory": 98,
+            "quick_com_inventory": 0
+          }
+        ],
+        "size": "XXL",
+        "sku": "4MSS3036-05-XXL",
+        "total_omni_inventory": 168,
+        "total_quick_com_inventory": 5,
+        "variant_id": 44509891068066
+      },
+      {
+        "location_info": [
+          {
+            "branch_code": "13",
+            "lat": 12.911111,
+            "lon": 77.638211,
+            "omni_inventory": 0,
+            "quick_com_inventory": 1
+          },
+          {
+            "branch_code": "73",
+            "lat": 28.4624445,
+            "lon": 77.0666676,
+            "omni_inventory": 0,
+            "quick_com_inventory": 2
+          },
+          {
+            "branch_code": "90",
+            "lat": 28.621005,
+            "lon": 77.081771,
+            "omni_inventory": 0,
+            "quick_com_inventory": 1
+          },
+          {
+            "branch_code": "95",
+            "lat": 17.441732,
+            "lon": 78.39904,
+            "omni_inventory": 0,
+            "quick_com_inventory": 1
+          },
+          {
+            "branch_code": "995",
+            "lat": 13.1113598,
+            "lon": 77.6247649,
+            "omni_inventory": 24,
+            "quick_com_inventory": 0
+          },
+          {
+            "branch_code": "998",
+            "lat": 28.15267,
+            "lon": 76.55224,
+            "omni_inventory": 94,
+            "quick_com_inventory": 0
+          },
+          {
+            "branch_code": "999",
+            "lat": null,
+            "lon": null,
+            "omni_inventory": 176,
+            "quick_com_inventory": 0
+          }
+        ],
+        "size": "S",
+        "sku": "4MSS3036-05-S",
+        "total_omni_inventory": 294,
+        "total_quick_com_inventory": 5,
+        "variant_id": 44509890936994
+      },
+      {
+        "location_info": [
+          {
+            "branch_code": "13",
+            "lat": 12.911111,
+            "lon": 77.638211,
+            "omni_inventory": 0,
+            "quick_com_inventory": 6
+          },
+          {
+            "branch_code": "140",
+            "lat": 12.978273,
+            "lon": 77.640761,
+            "omni_inventory": 0,
+            "quick_com_inventory": 2
+          },
+          {
+            "branch_code": "73",
+            "lat": 28.4624445,
+            "lon": 77.0666676,
+            "omni_inventory": 0,
+            "quick_com_inventory": 5
+          },
+          {
+            "branch_code": "90",
+            "lat": 28.621005,
+            "lon": 77.081771,
+            "omni_inventory": 0,
+            "quick_com_inventory": 1
+          },
+          {
+            "branch_code": "95",
+            "lat": 17.441732,
+            "lon": 78.39904,
+            "omni_inventory": 0,
+            "quick_com_inventory": 1
+          },
+          {
+            "branch_code": "995",
+            "lat": 13.1113598,
+            "lon": 77.6247649,
+            "omni_inventory": 20,
+            "quick_com_inventory": 0
+          },
+          {
+            "branch_code": "998",
+            "lat": 28.15267,
+            "lon": 76.55224,
+            "omni_inventory": 199,
+            "quick_com_inventory": 0
+          },
+          {
+            "branch_code": "999",
+            "lat": null,
+            "lon": null,
+            "omni_inventory": 287,
+            "quick_com_inventory": 0
+          }
+        ],
+        "size": "M",
+        "sku": "4MSS3036-05-M",
+        "total_omni_inventory": 506,
+        "total_quick_com_inventory": 15,
+        "variant_id": 44509890969762
+      }
+    ]
+  },
+  "status": {
+    "code": 200,
+    "message": "Successful"
+  }
+}

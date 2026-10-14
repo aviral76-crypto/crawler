@@ -1,0 +1,2952 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-02T08:41:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 786590768,
+  "lat": 28.5381851,
+  "lon": 77.2803297,
+  "tags": {
+    "name": "Carabin Adventures",
+    "name:en": "trekking equipment",
+    "shop": "outdoor"
+  }
+},
+{
+  "type": "node",
+  "id": 928558283,
+  "lat": 28.6351018,
+  "lon": 77.2201443,
+  "tags": {
+    "name": "New Prominent Tailor",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 1835582713,
+  "lat": 28.4690355,
+  "lon": 77.0620751,
+  "tags": {
+    "brand": "Adidas",
+    "brand:wikidata": "Q3895",
+    "name": "Adidas",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 2663023629,
+  "lat": 28.5509561,
+  "lon": 77.2710587,
+  "tags": {
+    "name": "B. Singha Chatrath & Sons Sports Store",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 3316197780,
+  "lat": 28.6412687,
+  "lon": 77.3783340,
+  "tags": {
+    "name": "Ritu Wears",
+    "opening_hours": "1000-2000",
+    "operator": "Ritu Wears",
+    "shop": "fashion"
+  }
+},
+{
+  "type": "node",
+  "id": 4352366513,
+  "lat": 28.6846669,
+  "lon": 77.1300781,
+  "tags": {
+    "name": "Matta Sports",
+    "shop": "sports",
+    "toilets:wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4352366523,
+  "lat": 28.6847480,
+  "lon": 77.1300888,
+  "tags": {
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 4391597491,
+  "lat": 28.6312947,
+  "lon": 77.2198044,
+  "tags": {
+    "addr:postcode": "110001",
+    "addr:street": "F-30 B, Ground floor, Malhotra building, Opp Palika Bazar gate no-6, Inner circle",
+    "name": "Gupta Sports House",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 4694038438,
+  "lat": 28.4590571,
+  "lon": 77.0726215,
+  "tags": {
+    "addr:city": "Gurugram",
+    "addr:postcode": "122002",
+    "addr:street": "First Floor, Huda City Centre, Sector 29",
+    "brand": "Decathlon",
+    "brand:wikidata": "Q509349",
+    "check_date": "2025-02-23",
+    "email": "care.hudacitycentre@decathlon.com",
+    "name": "Decathlon",
+    "name:en": "Decathlon",
+    "note": "Store Manager Email: sabrina.jacksteit@decathlon.com HQ number: +91 76767 98989 / 080 28467111",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "operator": "Decathlon Sports India Pvt. Ltd.",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "phone": "+91 99998 69464",
+    "shop": "sports",
+    "website": "https://www.decathlon.in"
+  }
+},
+{
+  "type": "node",
+  "id": 5128503985,
+  "lat": 28.5422255,
+  "lon": 77.2251830,
+  "tags": {
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 5350562380,
+  "lat": 28.6396433,
+  "lon": 77.3697303,
+  "tags": {
+    "branch": "Indirapuram",
+    "brand": "Decathlon",
+    "brand:wikidata": "Q509349",
+    "level": "1",
+    "name": "Decathlon",
+    "operator": "Decathlon",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 5372995501,
+  "lat": 28.5529124,
+  "lon": 77.2423109,
+  "tags": {
+    "addr:housenumber": "HS-1",
+    "addr:unit": "Shop No.4",
+    "name": "National Textile Corporation Limited",
+    "opening_hours": "Mo, We-Su",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 5412057621,
+  "lat": 28.6641199,
+  "lon": 77.1594616,
+  "tags": {
+    "name": "Adventure Gear",
+    "shop": "outdoor"
+  }
+},
+{
+  "type": "node",
+  "id": 5578382613,
+  "lat": 28.5486618,
+  "lon": 77.2532831,
+  "tags": {
+    "contact:website": "http://charu.org.in",
+    "level": "0;-1",
+    "name": "Charu Creation Private Limited",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 5647754779,
+  "lat": 28.6317238,
+  "lon": 77.2221209,
+  "tags": {
+    "addr:housenumber": "M-4",
+    "addr:place": "Connaught Place",
+    "name": "Textile Emporium",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 5647754783,
+  "lat": 28.6316761,
+  "lon": 77.2222326,
+  "tags": {
+    "clothes": "men;suits",
+    "name": "Raymond",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 5773501123,
+  "lat": 28.5699504,
+  "lon": 77.2427292,
+  "tags": {
+    "addr:block": "I",
+    "addr:housenumber": "37B",
+    "addr:place": "Lajpat Nagar 2",
+    "description": "Also sells and repairs umbrellas, and repairs bags.",
+    "level": "0",
+    "name": "Mehta Leather Store",
+    "opening_hours": "Tu-Su 11:30-21:00",
+    "payment:cash": "yes",
+    "payment:paytm": "yes",
+    "phone": "+91-98118-39320;+91-98110-72086;+91-11-2981-7311",
+    "shop": "tailor",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5790138833,
+  "lat": 28.6332406,
+  "lon": 77.2168057,
+  "tags": {
+    "addr:housename": "G",
+    "addr:place": "Connaught Place",
+    "addr:postcode": "110001",
+    "addr:unit": "18",
+    "name": "Imperial Leather Works",
+    "shop": "leather"
+  }
+},
+{
+  "type": "node",
+  "id": 5827200868,
+  "lat": 28.5367469,
+  "lon": 77.2123951,
+  "tags": {
+    "brand": "Grasim;Raymond",
+    "name": "Chanan Singh Hetraj",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 5921121059,
+  "lat": 28.5162073,
+  "lon": 77.2058898,
+  "tags": {
+    "addr:district": "Neb Sarai",
+    "addr:housenumber": "6",
+    "addr:postcode": "110030",
+    "addr:street": "IGNOU Road",
+    "addr:subdistrict": "Said-ul-Ajaib",
+    "name": "Ajanta Tailors & Drapers",
+    "phone": "+91-87507-68707",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 5931064285,
+  "lat": 28.4274998,
+  "lon": 77.0361629,
+  "tags": {
+    "addr:city": "Gurgaon",
+    "addr:district": "Gurgaon",
+    "branch": "Sohna road",
+    "brand": "Decathlon",
+    "brand:wikidata": "Q509349",
+    "name": "Decathlon",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 5960774590,
+  "lat": 28.5309301,
+  "lon": 77.2162872,
+  "tags": {
+    "name": "Unique Tailors",
+    "opening_hours": "Mo,We-Su 10:00-08:00",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 5960774594,
+  "lat": 28.5307844,
+  "lon": 77.2159252,
+  "tags": {
+    "name": "Fine Leathe's Jacket and Leather Coats",
+    "opening_hours": "Mo-Su 11:00-19:00",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 5960921986,
+  "lat": 28.5333720,
+  "lon": 77.2222067,
+  "tags": {
+    "name": "neha ladies tailor",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 6007067855,
+  "lat": 28.5696684,
+  "lon": 77.2389925,
+  "tags": {
+    "demolished": "yes",
+    "level": "-0.5",
+    "name": "Tek Chand Handloom House",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 6188335028,
+  "lat": 28.4927590,
+  "lon": 77.1476218,
+  "tags": {
+    "name": "Lodhi Sports",
+    "shop": "sports",
+    "sport": "multi"
+  }
+},
+{
+  "type": "node",
+  "id": 6189045286,
+  "lat": 28.5632565,
+  "lon": 77.2245648,
+  "tags": {
+    "brand": "Decathlon",
+    "brand:wikidata": "Q509349",
+    "name": "Decathlon",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 6189047087,
+  "lat": 28.6422738,
+  "lon": 77.1066449,
+  "tags": {
+    "brand": "Decathlon",
+    "brand:wikidata": "Q509349",
+    "brand:wikipedia": "en:Decathlon Group",
+    "name": "Decathlon",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 6189049685,
+  "lat": 28.6582845,
+  "lon": 77.2979629,
+  "tags": {
+    "name": "Decathlon",
+    "shop": "outdoor"
+  }
+},
+{
+  "type": "node",
+  "id": 6198749725,
+  "lat": 28.5614084,
+  "lon": 77.2679914,
+  "tags": {
+    "addr:housename": "Community Center",
+    "addr:housenumber": "2",
+    "addr:place": "New Friends Colony",
+    "addr:postcode": "110025",
+    "name": "Jafsons",
+    "phone": "+91-11-2683-0115",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 6331451485,
+  "lat": 28.6320386,
+  "lon": 77.2213949,
+  "tags": {
+    "level": "0",
+    "name": "M. Ram and Sons",
+    "shop": "fabric",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6408253201,
+  "lat": 28.6326411,
+  "lon": 77.2214809,
+  "tags": {
+    "check_date": "2023-12-20",
+    "level": "0",
+    "name": "The Raymond Shop",
+    "operator": "Raymond",
+    "shop": "fabric",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6501871246,
+  "lat": 28.8550101,
+  "lon": 77.1244412,
+  "tags": {
+    "contact:phone": "+91-9050-3030-20",
+    "level": "1",
+    "name": "ISO Fitness Equipment",
+    "shop": "sports",
+    "sport": "fitness"
+  }
+},
+{
+  "type": "node",
+  "id": 6501871248,
+  "lat": 28.8550249,
+  "lon": 77.1245583,
+  "tags": {
+    "level": "0",
+    "name": "Champion Gym Factory Equipment",
+    "shop": "sports",
+    "sport": "fitness"
+  }
+},
+{
+  "type": "node",
+  "id": 6741865645,
+  "lat": 28.6446819,
+  "lon": 77.1871078,
+  "tags": {
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 6741865646,
+  "lat": 28.6455258,
+  "lon": 77.1869698,
+  "tags": {
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 6741865655,
+  "lat": 28.6448612,
+  "lon": 77.1871162,
+  "tags": {
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 6823109077,
+  "lat": 28.5191044,
+  "lon": 77.2020718,
+  "tags": {
+    "addr:place": "Saidulajaib",
+    "addr:street": "Gali Number 1",
+    "addr:unit": "1",
+    "craft": "leather",
+    "name": "Mehboob Leather Jacket",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "shop": "leather"
+  }
+},
+{
+  "type": "node",
+  "id": 6881897395,
+  "lat": 28.5481440,
+  "lon": 77.2543513,
+  "tags": {
+    "level": "0",
+    "name": "Tessuti",
+    "shop": "fabric",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6881897399,
+  "lat": 28.5482300,
+  "lon": 77.2543180,
+  "tags": {
+    "level": "0",
+    "name": "HP Singh",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 6881897405,
+  "lat": 28.5480442,
+  "lon": 77.2544034,
+  "tags": {
+    "level": "0",
+    "name": "Textures",
+    "shop": "fabric",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6881897406,
+  "lat": 28.5483040,
+  "lon": 77.2542742,
+  "tags": {
+    "addr:housename": "Vaikunth House",
+    "addr:housenumber": "82;83",
+    "addr:place": "Nehru Place",
+    "addr:postcode": "110019",
+    "addr:unit": "G-3",
+    "contact:phone": "+91-11-3232-8218;+91-11-3560-9136",
+    "level": "0",
+    "name": "Gourav Exports",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 6881897413,
+  "lat": 28.5484221,
+  "lon": 77.2542218,
+  "tags": {
+    "level": "0",
+    "name": "PS Designs",
+    "shop": "fabric",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6881897414,
+  "lat": 28.5483672,
+  "lon": 77.2542514,
+  "tags": {
+    "level": "0",
+    "name": "Hemla Embroidery Mills Private Limited",
+    "shop": "fabric",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6881897421,
+  "lat": 28.5482804,
+  "lon": 77.2542869,
+  "tags": {
+    "addr:housename": "Vaikunth House",
+    "addr:housenumber": "82;83",
+    "addr:place": "Nehru Place",
+    "addr:postcode": "110019",
+    "addr:unit": "G-2",
+    "level": "0",
+    "name": "Jyoti Exports",
+    "shop": "fabric",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6881897427,
+  "lat": 28.5483448,
+  "lon": 77.2542659,
+  "tags": {
+    "level": "0",
+    "name": "Sahni Fabs",
+    "shop": "fabric",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7205247116,
+  "lat": 28.6000206,
+  "lon": 77.1860650,
+  "tags": {
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 8984990853,
+  "lat": 28.6877225,
+  "lon": 77.1863852,
+  "tags": {
+    "check_date": "2026-03-22",
+    "name": "Sunita Tailor",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 9279862911,
+  "lat": 28.6415196,
+  "lon": 77.2957324,
+  "tags": {
+    "brand": "Decathlon",
+    "brand:wikidata": "Q509349",
+    "check_date": "2024-09-17",
+    "level": "0",
+    "name": "Decathlon",
+    "opening_hours": "12:00-21:00",
+    "shop": "sports",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9951044717,
+  "lat": 28.6039354,
+  "lon": 77.2068578,
+  "tags": {
+    "shop": "outdoor"
+  }
+},
+{
+  "type": "node",
+  "id": 10236024711,
+  "lat": 28.6721321,
+  "lon": 77.1814996,
+  "tags": {
+    "contact:phone": "+91-85954-86311",
+    "contact:website": "https://vinayakasales.business.site/",
+    "name": "Vinayaka Sales",
+    "shop": "outdoor"
+  }
+},
+{
+  "type": "node",
+  "id": 10248411715,
+  "lat": 28.6569530,
+  "lon": 77.2146288,
+  "tags": {
+    "name": "Sports equipment",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 10308476979,
+  "lat": 28.5894002,
+  "lon": 77.2525332,
+  "tags": {
+    "level": "0",
+    "name": "Kojza",
+    "shop": "leather",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10567631009,
+  "lat": 28.6318964,
+  "lon": 77.2167774,
+  "tags": {
+    "brand": "Hidesign",
+    "brand:wikidata": "Q5752690",
+    "name": "Hidesign",
+    "shop": "leather",
+    "survey:date": "2023-01-19"
+  }
+},
+{
+  "type": "node",
+  "id": 10574926841,
+  "lat": 28.6470194,
+  "lon": 77.1900121,
+  "tags": {
+    "name": "Purse Collection",
+    "shop": "leather",
+    "survey:date": "2023-01-22"
+  }
+},
+{
+  "type": "node",
+  "id": 10574933845,
+  "lat": 28.6475165,
+  "lon": 77.1902920,
+  "tags": {
+    "name": "Purse Creation",
+    "shop": "leather",
+    "survey:date": "2023-01-22"
+  }
+},
+{
+  "type": "node",
+  "id": 10576139546,
+  "lat": 28.6007909,
+  "lon": 77.2271703,
+  "tags": {
+    "name": "Grover",
+    "shop": "fabric",
+    "survey:date": "2023-01-23"
+  }
+},
+{
+  "type": "node",
+  "id": 10580956141,
+  "lat": 28.6458243,
+  "lon": 77.1888893,
+  "tags": {
+    "name": "Wildcraft",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 10607717810,
+  "lat": 28.6294102,
+  "lon": 77.2193405,
+  "tags": {
+    "addr:unit": "8",
+    "check_date": "2026-08-09",
+    "name": "Citizen",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 10706486878,
+  "lat": 28.7301777,
+  "lon": 77.1640105,
+  "tags": {
+    "addr:block": "J",
+    "addr:city": "Delhi",
+    "addr:housenumber": "681",
+    "addr:place": "Jahangir Puri",
+    "addr:postcode": "110033",
+    "name": "Sethi Cloth House",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 10739040907,
+  "lat": 28.7223222,
+  "lon": 77.1697470,
+  "tags": {
+    "addr:city": "Delhi",
+    "addr:housenumber": "A-15",
+    "addr:place": "Mahendra Park",
+    "addr:postcode": "110033",
+    "contact:phone": "+91-98735-80045",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 10750406556,
+  "lat": 28.7222476,
+  "lon": 77.1696391,
+  "tags": {
+    "addr:city": "Delhi",
+    "addr:housenumber": "A-10",
+    "addr:postcode": "110033",
+    "addr:suburb": "Sanjay Nagar",
+    "contact:phone": "+91-88269-16042;+91-8700-995841",
+    "level": "0",
+    "name": "Rameshwari Cloth House",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 10755749880,
+  "lat": 28.5287505,
+  "lon": 77.2194784,
+  "tags": {
+    "brand": "Decathlon",
+    "brand:wikidata": "Q509349",
+    "level": "-1",
+    "name": "Decathlon",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "shop": "sports",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10952751927,
+  "lat": 28.3947209,
+  "lon": 77.0318254,
+  "tags": {
+    "addr:city": "Gurgaon",
+    "addr:district": "Gurgaon",
+    "addr:postcode": "122101",
+    "name": "Rich Stitch Boutique",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 10968993658,
+  "lat": 28.3834732,
+  "lon": 77.0524520,
+  "tags": {
+    "addr:city": "Gurgaon",
+    "addr:district": "Gurgaon",
+    "addr:postcode": "122101",
+    "brand": "Adidas",
+    "brand:wikidata": "Q3895",
+    "name": "Adidas",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726065,
+  "lat": 28.6223084,
+  "lon": 77.2892274,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "fabric",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11015243113,
+  "lat": 28.7242475,
+  "lon": 77.1125210,
+  "tags": {
+    "brand": "Decathlon",
+    "brand:wikidata": "Q509349",
+    "level": "1",
+    "name": "Decathlon",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 11022899383,
+  "lat": 28.7168001,
+  "lon": 77.1749342,
+  "tags": {
+    "addr:block": "A",
+    "addr:city": "Delhi",
+    "addr:housenumber": "251",
+    "addr:neighbourhood": "Majlis Park",
+    "addr:postcode": "110033",
+    "addr:suburb": "Adarsh Nagar",
+    "name": "Mahira Designer Boutique",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 11025053734,
+  "lat": 28.7464847,
+  "lon": 77.1620633,
+  "tags": {
+    "addr:neighbourhood": "Shraddhanand Colony",
+    "addr:street": "Gali Number 7",
+    "contact:mobile": "+91-97179-32914",
+    "level": "0",
+    "name": "Bunty Tailor",
+    "shop": "tailor",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11047717437,
+  "lat": 28.7512166,
+  "lon": 77.1753283,
+  "tags": {
+    "addr:block": "C",
+    "addr:city": "Delhi",
+    "addr:housenumber": "137A",
+    "addr:neighbourhood": "Guru Nanak Dev Colony",
+    "addr:postcode": "110042",
+    "addr:suburb": "Bhalaswa Dairy",
+    "contact:mobile": "+91-85860-56066;+91-93109-70386",
+    "name": "Komal Boutique",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 11071097061,
+  "lat": 28.7500498,
+  "lon": 77.1691040,
+  "tags": {
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 11101285448,
+  "lat": 28.5506256,
+  "lon": 77.2348375,
+  "tags": {
+    "level": "0",
+    "name": "L'affaire",
+    "shop": "fabric",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11118587152,
+  "lat": 28.5503704,
+  "lon": 77.2352552,
+  "tags": {
+    "addr:block": "M",
+    "addr:city": "New Delhi",
+    "addr:housenumber": "53",
+    "addr:neighbourhood": "M-Block Market",
+    "addr:postcode": "110048",
+    "addr:suburb": "Greater Kailash Part 1",
+    "alt_name": "House of Roshans",
+    "contact:email": "houseofroshans@gmail.com",
+    "contact:website": "https://www.houseofroshans.com",
+    "level": "-1",
+    "name": "Roshan Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 11212141872,
+  "lat": 28.6375525,
+  "lon": 77.2866766,
+  "tags": {
+    "addr:block": "F",
+    "addr:unit": "103",
+    "level": "1",
+    "name": "Reid & Taylor",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 11242142959,
+  "lat": 28.5486392,
+  "lon": 77.1670454,
+  "tags": {
+    "check_date": "2023-10-06",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "KC Tailor",
+    "opening_hours": "Mo-Fr 11:00-20:00; Sa-Su off",
+    "payment:debit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 11368545120,
+  "lat": 28.5700293,
+  "lon": 77.2395694,
+  "tags": {
+    "check_date": "2024-04-27",
+    "level": "0",
+    "name": "Infabrico",
+    "shop": "fabric",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11402775026,
+  "lat": 28.7362379,
+  "lon": 77.1090571,
+  "tags": {
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 11455256726,
+  "lat": 28.7377009,
+  "lon": 77.1163143,
+  "tags": {
+    "level": "0",
+    "name": "Sport Sun",
+    "shop": "sports",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11455256733,
+  "lat": 28.7378659,
+  "lon": 77.1164805,
+  "tags": {
+    "level": "0",
+    "name": "Eden Sports",
+    "shop": "sports",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11579800257,
+  "lat": 28.7104673,
+  "lon": 77.1362961,
+  "tags": {
+    "contact:mobile": "+91-9999-30-5050",
+    "level": "0",
+    "name": "Cric8InNet",
+    "shop": "sports",
+    "sport": "cricket"
+  }
+},
+{
+  "type": "node",
+  "id": 11637392898,
+  "lat": 28.6346627,
+  "lon": 77.2200797,
+  "tags": {
+    "addr:block": "C",
+    "addr:city": "New Delhi",
+    "addr:housenumber": "2;3",
+    "addr:street": "Radial Road",
+    "addr:suburb": "Connaught Place",
+    "contact:email": "chandbhatia@gmail.com",
+    "level": "0",
+    "name": "Raymond",
+    "operator": "Gurcharan Singh Bhatia",
+    "shop": "tailor",
+    "wheelchair": "no",
+    "wheelchair:step_height": "0.19"
+  }
+},
+{
+  "type": "node",
+  "id": 11672397790,
+  "lat": 28.5504779,
+  "lon": 77.2341766,
+  "tags": {
+    "addr:block": "M",
+    "addr:city": "New Delhi",
+    "addr:housenumber": "2",
+    "addr:neighbourhood": "M Block Market",
+    "addr:postcode": "110048",
+    "addr:suburb": "Greater Kailash 1",
+    "addr:unit": "2",
+    "contact:instagram": "alitailorsgk1",
+    "contact:mobile": "+91-79826-73254",
+    "level": "0",
+    "name": "Ali Readymade Blouses",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 11693531818,
+  "lat": 28.6888930,
+  "lon": 77.2942126,
+  "tags": {
+    "name": "FAB SPORTS",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 11697620508,
+  "lat": 28.6604054,
+  "lon": 77.3786788,
+  "tags": {
+    "name": "Kanak Boutique",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 11697624008,
+  "lat": 28.6605591,
+  "lon": 77.3785921,
+  "tags": {
+    "name": "Sapna Boutique",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 11813303037,
+  "lat": 28.6822776,
+  "lon": 77.2066224,
+  "tags": {
+    "brand": "Adidas",
+    "brand:wikidata": "Q3895",
+    "name": "Adidas",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 11816110720,
+  "lat": 28.6581569,
+  "lon": 77.1274355,
+  "tags": {
+    "addr:floor": "0",
+    "brand": "Decathlon",
+    "brand:wikidata": "Q509349",
+    "check_date": "2024-04-14",
+    "name": "Decathlon",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "sports",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11845989672,
+  "lat": 28.6825199,
+  "lon": 77.1978506,
+  "tags": {
+    "check_date": "2026-03-20",
+    "level": "0",
+    "name": "Bhatia Sports",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 11845989673,
+  "lat": 28.6825591,
+  "lon": 77.1978201,
+  "tags": {
+    "check_date": "2026-03-20",
+    "level": "0",
+    "name": "SS SS Sports and Fitness",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 11854135087,
+  "lat": 28.5700571,
+  "lon": 77.2395691,
+  "tags": {
+    "addr:floor": "2",
+    "check_date": "2024-04-27",
+    "name": "Pret",
+    "shop": "fabric",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11854137631,
+  "lat": 28.5701498,
+  "lon": 77.2396394,
+  "tags": {
+    "check_date": "2024-04-27",
+    "level": "0",
+    "name": "Sachdeva Febrics A-93",
+    "shop": "fabric",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11854137632,
+  "lat": 28.5701561,
+  "lon": 77.2396320,
+  "tags": {
+    "check_date": "2024-04-27",
+    "level": "-1",
+    "name": "Nanki Boutique & Fabric",
+    "phone": "+91 98100 12371; +91 99107 07167",
+    "shop": "fabric",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11854137633,
+  "lat": 28.5702260,
+  "lon": 77.2396832,
+  "tags": {
+    "check_date": "2024-04-27",
+    "level": "-1",
+    "name": "Sachdeva Fabric A- 92",
+    "shop": "fabric",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11875621300,
+  "lat": 28.5680476,
+  "lon": 77.3209092,
+  "tags": {
+    "brand": "Decathlon",
+    "brand:wikidata": "Q509349",
+    "level": "3",
+    "name": "Decathlon",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 11878999587,
+  "lat": 28.5946800,
+  "lon": 77.1221343,
+  "tags": {
+    "contact:mobile": "+91 98715 57703",
+    "level": "0",
+    "name": "Decent Tailor And Drapers",
+    "shop": "tailor",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11878999625,
+  "lat": 28.5944082,
+  "lon": 77.1219782,
+  "tags": {
+    "contact:mobile": "+91 99996 95122",
+    "level": "0",
+    "name": "S.S. Tailor",
+    "shop": "tailor",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11881083380,
+  "lat": 28.5936288,
+  "lon": 77.1213725,
+  "tags": {
+    "contact:mobile": "+91 81309 08697",
+    "level": "0",
+    "name": "Shan Boutique",
+    "shop": "tailor",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11881220669,
+  "lat": 28.5938676,
+  "lon": 77.1221472,
+  "tags": {
+    "level": "0",
+    "name": "Singhal Tailoring Material Store",
+    "shop": "tailor",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11893627365,
+  "lat": 28.5924887,
+  "lon": 77.1209807,
+  "tags": {
+    "contact:mobile": "+91 98187 52960",
+    "craft": "tailor",
+    "level": "0",
+    "name": "Military Tailors And Drappers",
+    "shop": "tailor",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11901174284,
+  "lat": 28.5964100,
+  "lon": 77.1330076,
+  "tags": {
+    "contact:mobile": "+91 92137 26039",
+    "level": "0",
+    "name": "Standard Tailors",
+    "shop": "tailor",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11916094460,
+  "lat": 28.6168043,
+  "lon": 77.0305780,
+  "tags": {
+    "check_date": "2024-05-18",
+    "name": "Raj Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 11916116368,
+  "lat": 28.6168912,
+  "lon": 77.0305745,
+  "tags": {
+    "check_date": "2024-05-18",
+    "name": "Karuna Fashion Boutique",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 11944979436,
+  "lat": 28.5950310,
+  "lon": 77.1212262,
+  "tags": {
+    "contact:mobile": "+91 98183 59887",
+    "craft": "tailor",
+    "level": "0",
+    "name": "Jassal Tailors",
+    "shop": "tailor",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11944979437,
+  "lat": 28.5950781,
+  "lon": 77.1212501,
+  "tags": {
+    "contact:mobile": "+91 98188 70672",
+    "craft": "tailor",
+    "level": "0",
+    "name": "Prominent Ladies Tailor",
+    "shop": "tailor",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11949229004,
+  "lat": 28.5849806,
+  "lon": 77.0715130,
+  "tags": {
+    "check_date": "2024-12-07",
+    "level": "1",
+    "name": "Tyagi Boutique",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 11955773583,
+  "lat": 28.5934903,
+  "lon": 77.1209791,
+  "tags": {
+    "craft": "tailor",
+    "level": "0",
+    "name": "Bobby Tailor",
+    "shop": "tailor",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11955773604,
+  "lat": 28.5934817,
+  "lon": 77.1210007,
+  "tags": {
+    "craft": "tailor",
+    "level": "0",
+    "name": "Matching Centre",
+    "shop": "tailor",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11962826226,
+  "lat": 28.5948898,
+  "lon": 77.1211336,
+  "tags": {
+    "contact:mobile": "+91 88087 46857",
+    "craft": "tailor",
+    "level": "0",
+    "name": "Hoice Tailor",
+    "shop": "tailor",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11982133100,
+  "lat": 28.6689780,
+  "lon": 77.3081080,
+  "tags": {
+    "check_date": "2024-06-15",
+    "name": "Anand Tailor",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 12043151918,
+  "lat": 28.5770107,
+  "lon": 77.1960338,
+  "tags": {
+    "level": "0",
+    "name": "Chander Fabric",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 12043151919,
+  "lat": 28.5775449,
+  "lon": 77.1960086,
+  "tags": {
+    "level": "0",
+    "name": "Rubia Place",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 12050848479,
+  "lat": 28.5249741,
+  "lon": 77.2372587,
+  "tags": {
+    "check_date": "2024-07-13",
+    "name": "Chauhan Tailor",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 12067092092,
+  "lat": 28.6373236,
+  "lon": 77.2862588,
+  "tags": {
+    "level": "1",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 12074868089,
+  "lat": 28.5963440,
+  "lon": 77.0357319,
+  "tags": {
+    "brand": "Decathlon",
+    "brand:wikidata": "Q509349",
+    "check_date": "2024-07-26",
+    "level": "0",
+    "name": "Decathlon",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 12098431294,
+  "lat": 28.6331569,
+  "lon": 77.2214031,
+  "tags": {
+    "addr:block": "E",
+    "addr:city": "New Delhi",
+    "addr:housenumber": "G03",
+    "addr:postcode": "110001",
+    "addr:state": "DL",
+    "brand": "Adidas",
+    "brand:wikidata": "Q3895",
+    "level": "0",
+    "name": "Adidas",
+    "shop": "sports",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12208722062,
+  "lat": 28.5686617,
+  "lon": 77.2473002,
+  "tags": {
+    "addr:block": "L",
+    "addr:city": "New Delhi",
+    "addr:housenumber": "104;105",
+    "addr:place": "Lajpat Nagar 2",
+    "addr:postcode": "110024",
+    "check_date": "2024-09-29",
+    "contact:mobile": "+91-99719-58585;+91-11-4102-8585",
+    "leisure": "fitness_centre",
+    "level": "-1",
+    "name": "Fluid",
+    "shop": "fabric",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12208722063,
+  "lat": 28.5685408,
+  "lon": 77.2472381,
+  "tags": {
+    "addr:floor": "0",
+    "check_date": "2024-09-29",
+    "level": "0;1",
+    "name": "Part 1",
+    "shop": "fabric",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12208722065,
+  "lat": 28.5684874,
+  "lon": 77.2472093,
+  "tags": {
+    "check_date": "2024-09-29",
+    "level": "-1",
+    "name": "Combine Sports",
+    "phone": "+91 70426 28436",
+    "shop": "sports",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12208759985,
+  "lat": 28.5685850,
+  "lon": 77.2472700,
+  "tags": {
+    "level": "-1",
+    "name": "Lal Ji Overseas",
+    "shop": "fabric",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12208826667,
+  "lat": 28.5670488,
+  "lon": 77.2452776,
+  "tags": {
+    "addr:block": "K",
+    "addr:city": "New Delhi",
+    "addr:country": "IN",
+    "addr:housenumber": "14B",
+    "addr:place": "Lajpat Nagar II",
+    "addr:postcode": "110024",
+    "check_date": "2024-09-29",
+    "level": "-1;1",
+    "name": "Velvet Home",
+    "shop": "fabric",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12223943814,
+  "lat": 28.5875615,
+  "lon": 77.0716298,
+  "tags": {
+    "check_date": "2024-10-05",
+    "name": "Sports & More",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 12367968004,
+  "lat": 28.6178857,
+  "lon": 77.0297387,
+  "tags": {
+    "check_date": "2024-11-23",
+    "name": "अजहर ब्युटिक",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 12385665494,
+  "lat": 28.5842892,
+  "lon": 77.0715181,
+  "tags": {
+    "check_date": "2024-11-30",
+    "name": "STIHL Gardening Products Store",
+    "shop": "outdoor"
+  }
+},
+{
+  "type": "node",
+  "id": 12495366886,
+  "lat": 28.6980324,
+  "lon": 77.2043795,
+  "tags": {
+    "addr:housenumber": "97",
+    "addr:street": "Edward Lines",
+    "addr:suburb": "Kingsway Camp",
+    "air_conditioning": "no",
+    "check_date": "2025-01-12",
+    "internet_access": "no",
+    "level": "0",
+    "mobile": "+91-9999-07-4547;+91-98997-64001",
+    "name": "Narain Das",
+    "payment:cards": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "shop": "tailor",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12495399115,
+  "lat": 28.6983843,
+  "lon": 77.2044356,
+  "tags": {
+    "air_conditioning": "no",
+    "changing_table": "no",
+    "check_date": "2025-01-12",
+    "currency:INR": "yes",
+    "internet_access": "no",
+    "level": "0",
+    "mobile": "+91-98117-19230;+91-96505-65509",
+    "name": "Deshbandhu Tailors",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "tailor",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12495402168,
+  "lat": 28.6980547,
+  "lon": 77.2048366,
+  "tags": {
+    "addr:floor": "4",
+    "air_conditioning": "no",
+    "changing_table": "no",
+    "check_date": "2025-01-12",
+    "currency:INR": "yes",
+    "internet_access": "no",
+    "name": "Chopara Tailor And Drapers",
+    "phone": "+91 93503 12996",
+    "shop": "tailor",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12495436553,
+  "lat": 28.6980517,
+  "lon": 77.2043836,
+  "tags": {
+    "addr:housenumber": "97",
+    "addr:street": "Edward Lines",
+    "addr:suburb": "Kingsway Camp",
+    "air_conditioning": "no",
+    "check_date": "2025-01-12",
+    "internet_access": "no",
+    "level": "0",
+    "mobile": "9999074547",
+    "name": "New Desh Bandhu",
+    "payment:cards": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "shop": "tailor",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12495441511,
+  "lat": 28.6972905,
+  "lon": 77.2045752,
+  "tags": {
+    "check_date": "2025-01-12",
+    "name": "Mehta Tailors & Drappers",
+    "phone": "+91 92122 99003",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 12495441517,
+  "lat": 28.6967097,
+  "lon": 77.2044808,
+  "tags": {
+    "check_date": "2025-01-12",
+    "name": "Metro Tailors",
+    "phone": "+91 99715 91495",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 12587232677,
+  "lat": 28.6176595,
+  "lon": 77.0280196,
+  "tags": {
+    "check_date": "2025-02-14",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 12593263231,
+  "lat": 28.6312868,
+  "lon": 77.2200213,
+  "tags": {
+    "addr:block": "F",
+    "addr:city": "New Delhi",
+    "addr:housenumber": "20/1",
+    "addr:place": "Connaught Place",
+    "addr:postcode": "110001",
+    "name": "Mehrason",
+    "shop": "leather"
+  }
+},
+{
+  "type": "node",
+  "id": 12595808684,
+  "lat": 28.6882858,
+  "lon": 77.4876980,
+  "tags": {
+    "name": "shiv sports",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 12636395182,
+  "lat": 28.6231518,
+  "lon": 77.2899344,
+  "tags": {
+    "contact:mobile": "+91-95825-63126",
+    "level": "0",
+    "name": "S.F.S. Tailor",
+    "shop": "tailor",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12636395196,
+  "lat": 28.6232461,
+  "lon": 77.2900772,
+  "tags": {
+    "addr:block": "B",
+    "addr:housenumber": "214",
+    "addr:state": "DL",
+    "addr:street": "Gali Number 4",
+    "addr:suburb": "Mandawali Fazalpur",
+    "contact:mobile": "+91-97189-78061",
+    "level": "0",
+    "name": "S.K. Tailors",
+    "name:hi": "एस.के. टेलर्ज़",
+    "shop": "tailor",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12647154281,
+  "lat": 28.5922280,
+  "lon": 77.0417477,
+  "tags": {
+    "name": "Somya's Indigo",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 12673143013,
+  "lat": 28.6240147,
+  "lon": 77.2904311,
+  "tags": {
+    "contact:mobile": "+91-95821-39613;+91-85100-38716",
+    "level": "0",
+    "name": "Fashion House",
+    "shop": "tailor",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12684167401,
+  "lat": 28.6727562,
+  "lon": 77.1820731,
+  "tags": {
+    "addr:housenumber": "B-933",
+    "addr:postcode": "110052",
+    "contact:instagram": "vinayaka_sales_shastri_nagar",
+    "name:en": "Vinayaka sales",
+    "phone": "8595486311",
+    "shop": "outdoor",
+    "website": "https://vintrack.in/"
+  }
+},
+{
+  "type": "node",
+  "id": 12684167402,
+  "lat": 28.5382839,
+  "lon": 77.2635747,
+  "tags": {
+    "name:en": "Trakking Equipments",
+    "shop": "outdoor"
+  }
+},
+{
+  "type": "node",
+  "id": 12754622510,
+  "lat": 28.7232856,
+  "lon": 77.1277872,
+  "tags": {
+    "brand": "Tailor Shop",
+    "craft": "tailor",
+    "name": "Tailor Shop",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 12782181245,
+  "lat": 28.7235947,
+  "lon": 77.1292437,
+  "tags": {
+    "craft": "tailor",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 12786144105,
+  "lat": 28.6228342,
+  "lon": 77.2932005,
+  "tags": {
+    "addr:block": "E",
+    "addr:city": "Delhi",
+    "addr:housenumber": "8",
+    "addr:postcode": "110092",
+    "addr:street": "Gali Number 3",
+    "addr:suburb": "West Vinod Nagar",
+    "contact:mobile": "+91-78278-23334;+91-95820-44719",
+    "level": "0",
+    "name": "Sonam Designer Boutique",
+    "shop": "tailor",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12828223575,
+  "lat": 28.7078173,
+  "lon": 77.1239043,
+  "tags": {
+    "check_date": "2025-05-11",
+    "name": "Sports Dukaan",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 12828336324,
+  "lat": 28.7081658,
+  "lon": 77.1246807,
+  "tags": {
+    "name": "Shubham Collection",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 12828585664,
+  "lat": 28.7063234,
+  "lon": 77.1218370,
+  "tags": {
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 12896559856,
+  "lat": 28.6325726,
+  "lon": 77.2086114,
+  "tags": {
+    "brand": "Tailor Shop",
+    "name": "RS Tailor",
+    "shop": "tailor",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12896591903,
+  "lat": 28.6334489,
+  "lon": 77.2071336,
+  "tags": {
+    "check_date": "2026-03-18",
+    "level": "0",
+    "name": "The Libas Studio",
+    "shop": "tailor",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12896612876,
+  "lat": 28.6331886,
+  "lon": 77.2073052,
+  "tags": {
+    "level": "0",
+    "name": "The Chadha Sports",
+    "phone": "+91 11 2336 3084",
+    "shop": "sports",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12896614412,
+  "lat": 28.6324978,
+  "lon": 77.2065694,
+  "tags": {
+    "level": "0",
+    "name": "Pop Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 12896628036,
+  "lat": 28.6328989,
+  "lon": 77.2072985,
+  "tags": {
+    "contact:mobile": "+91 880075705",
+    "contact:phone": "+91 23360942",
+    "level": "0",
+    "name": "Pritam Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13064832963,
+  "lat": 28.6429094,
+  "lon": 77.1713081,
+  "tags": {
+    "contact:facebook": "https://www.facebook.com/mdregion.in",
+    "contact:instagram": "https://www.instagram.com/mdregion.in",
+    "contact:phone": "+91 11 4709 8189;+91 92131 49477",
+    "contact:website": "https://mdregion.in/company/shops",
+    "contact:youtube": "https://www.youtube.com/channel/UCregbH8rPduFtt7xbrIE1-w",
+    "name": "MDRegion",
+    "name:en": "MDRegion",
+    "opening_hours": "Mo-Su 10:30-18:00",
+    "shop": "outdoor"
+  }
+},
+{
+  "type": "node",
+  "id": 13094360795,
+  "lat": 28.5446357,
+  "lon": 77.2766352,
+  "tags": {
+    "description": "Women’s Tailor",
+    "level": "0",
+    "mobile": "+91 9971413926",
+    "name": "Fareen Beauty Fashion",
+    "name:en": "Fareen Beauty Fashion",
+    "name:hi": "फरीन ब्यूटि फैसन",
+    "operator": "Md. Shakruddin",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13176667075,
+  "lat": 28.4745705,
+  "lon": 77.0933994,
+  "tags": {
+    "name": "Bespoke Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13176667076,
+  "lat": 28.4745421,
+  "lon": 77.0933909,
+  "tags": {
+    "name": "Omaansh By kushal Jain of FAIRDEALS Karolbag",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13176669329,
+  "lat": 28.4759300,
+  "lon": 77.0943282,
+  "tags": {
+    "check_date": "2025-09-28",
+    "contact:mobile": "+91 8130554637",
+    "level": "2",
+    "name": "Trade Uno Fabrics",
+    "name:en": "Trade Uno Fabrics",
+    "opening_hours": "Mo-Su 11:00-20:00",
+    "shop": "fabric",
+    "website": "https://www.tradeuno.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13179825856,
+  "lat": 28.4482406,
+  "lon": 77.0990470,
+  "tags": {
+    "addr:floor": "UG",
+    "air_conditioning": "yes",
+    "brand": "Adidas",
+    "brand:wikidata": "Q3895",
+    "level": "0",
+    "name": "Adidas",
+    "shop": "sports",
+    "sport": "soccer;cricket;running;fitness"
+  }
+},
+{
+  "type": "node",
+  "id": 13202865128,
+  "lat": 28.6010646,
+  "lon": 77.3161452,
+  "tags": {
+    "name": "Bala Ji Sports",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 13246426335,
+  "lat": 28.4772706,
+  "lon": 77.0943096,
+  "tags": {
+    "name": "Mayuri's Bespoke Studio",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13246708719,
+  "lat": 28.4577879,
+  "lon": 77.0965230,
+  "tags": {
+    "level": "0",
+    "name": "Golf Destination",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 13246708725,
+  "lat": 28.4571264,
+  "lon": 77.0967012,
+  "tags": {
+    "name": "Athelin",
+    "operator": "Athelin",
+    "shop": "sports",
+    "website": "https://athelin.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13296688584,
+  "lat": 28.5040516,
+  "lon": 77.0972634,
+  "tags": {
+    "branch": "Kids",
+    "brand": "Adidas",
+    "brand:wikidata": "Q3895",
+    "clothes": "children",
+    "level": "2",
+    "name": "Adidas",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 13447640097,
+  "lat": 28.6340897,
+  "lon": 77.2235113,
+  "tags": {
+    "check_date": "2026-01-11",
+    "name": "Kambo Tailor",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13447640098,
+  "lat": 28.6341432,
+  "lon": 77.2235103,
+  "tags": {
+    "check_date": "2026-01-11",
+    "name": "Jain Saree Store",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 13447640099,
+  "lat": 28.6341500,
+  "lon": 77.2235415,
+  "tags": {
+    "check_date": "2026-01-11",
+    "name": "New Kambo Fabric",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 13447640100,
+  "lat": 28.6341529,
+  "lon": 77.2235665,
+  "tags": {
+    "check_date": "2026-01-11",
+    "name": "Trusted Threads",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13447657062,
+  "lat": 28.6335058,
+  "lon": 77.2247017,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2026-01-11",
+    "level": "0",
+    "name": "Basra Tailor",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13447657066,
+  "lat": 28.6335854,
+  "lon": 77.2245489,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2026-01-11",
+    "level": "0",
+    "name": "Niche Crafts",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13447657067,
+  "lat": 28.6335998,
+  "lon": 77.2245197,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2026-01-11",
+    "level": "0",
+    "name": "Indian Tailoring Company",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13447657068,
+  "lat": 28.6336632,
+  "lon": 77.2245218,
+  "tags": {
+    "check_date": "2026-01-11",
+    "name": "Mehfooz Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13447657075,
+  "lat": 28.6334989,
+  "lon": 77.2247346,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2026-01-11",
+    "level": "0",
+    "name": "New Tailor",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13447657077,
+  "lat": 28.6339804,
+  "lon": 77.2240998,
+  "tags": {
+    "check_date": "2026-01-11",
+    "name": "Tailoring Style By Asif",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13447657085,
+  "lat": 28.6337660,
+  "lon": 77.2239270,
+  "tags": {
+    "check_date": "2026-01-11",
+    "name": "Kalakari Suit Fabric And Stitching",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13447657096,
+  "lat": 28.6341717,
+  "lon": 77.2238149,
+  "tags": {
+    "check_date": "2026-01-11",
+    "name": "Shreejee Tailor",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13447658224,
+  "lat": 28.6338333,
+  "lon": 77.2233872,
+  "tags": {
+    "addr:housenumber": "20",
+    "level": "0",
+    "name": "Skirtman Fabrics",
+    "operator": "Shri A.P. Khanna",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 13447658230,
+  "lat": 28.6337583,
+  "lon": 77.2234560,
+  "tags": {
+    "addr:housenumber": "28",
+    "name": "Aarti Fabricott Private Limited",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 13447662195,
+  "lat": 28.6337848,
+  "lon": 77.2236858,
+  "tags": {
+    "check_date": "2026-01-11",
+    "name": "Hunar",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 13564519137,
+  "lat": 28.6335007,
+  "lon": 77.2179714,
+  "tags": {
+    "level": "0",
+    "name": "Devichand's",
+    "shop": "tailor",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13566066566,
+  "lat": 28.7047534,
+  "lon": 77.1901539,
+  "tags": {
+    "name": "Red Tape Sports",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 13566115711,
+  "lat": 28.7056327,
+  "lon": 77.1905859,
+  "tags": {
+    "name": "Manu Tex Fab",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 13566176442,
+  "lat": 28.7060489,
+  "lon": 77.1896728,
+  "tags": {
+    "addr:housenumber": "10, F14/11",
+    "addr:street": "Model Town 2 Road",
+    "name": "Krishna Tailor",
+    "phone": "+91 97174 69142;+91 78387 36900",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13566181716,
+  "lat": 28.7048123,
+  "lon": 77.1901211,
+  "tags": {
+    "level": "0",
+    "name": "Shimmer Fabs",
+    "shop": "fabric",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13568787261,
+  "lat": 28.7058190,
+  "lon": 77.1908523,
+  "tags": {
+    "level": "0",
+    "name": "Manu Tex Fab",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 13569795032,
+  "lat": 28.7117981,
+  "lon": 77.1231442,
+  "tags": {
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13594394686,
+  "lat": 28.5737688,
+  "lon": 77.2098909,
+  "tags": {
+    "level": "0",
+    "name": "Haryana Handloom",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931622,
+  "lat": 28.6814358,
+  "lon": 77.2015240,
+  "tags": {
+    "name": "Sport Sun",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 13647099778,
+  "lat": 28.7213189,
+  "lon": 77.1365797,
+  "tags": {
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13684861371,
+  "lat": 28.5735673,
+  "lon": 77.2169546,
+  "tags": {
+    "addr:housenumber": "G-67",
+    "level": "0",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13684861375,
+  "lat": 28.5736051,
+  "lon": 77.2167123,
+  "tags": {
+    "addr:housenumber": "G-77",
+    "level": "0",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13691559695,
+  "lat": 28.6794899,
+  "lon": 77.2037451,
+  "tags": {
+    "level": "0",
+    "name": "Buttons & Laces",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 13691559700,
+  "lat": 28.6799025,
+  "lon": 77.2038794,
+  "tags": {
+    "level": "0",
+    "name": "Sharma Leathers",
+    "shop": "leather"
+  }
+},
+{
+  "type": "node",
+  "id": 13713044011,
+  "lat": 28.6816152,
+  "lon": 77.2017697,
+  "tags": {
+    "name": "New Raju Tent House Pvt. Ltd.",
+    "shop": "outdoor"
+  }
+},
+{
+  "type": "node",
+  "id": 13713044012,
+  "lat": 28.6815353,
+  "lon": 77.2018375,
+  "tags": {
+    "name": "Hosiery House",
+    "name:hi": "हौजरी हाऊस",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13713108741,
+  "lat": 28.6816508,
+  "lon": 77.2024334,
+  "tags": {
+    "name": "Amar Tailor",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13780550371,
+  "lat": 28.5724945,
+  "lon": 77.1666898,
+  "tags": {
+    "name": "Asha Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13820008637,
+  "lat": 28.4276271,
+  "lon": 77.0655146,
+  "tags": {
+    "mobile": "+919636208362",
+    "name": "Radhe Shyam Tailor",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892548,
+  "lat": 28.6808370,
+  "lon": 77.2042981,
+  "tags": {
+    "level": "0",
+    "name": "Novel Fabrics & Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892550,
+  "lat": 28.6807526,
+  "lon": 77.2042826,
+  "tags": {
+    "description": "Tailors & Drapers",
+    "level": "0",
+    "name": "Gulati",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892573,
+  "lat": 28.6795932,
+  "lon": 77.2045134,
+  "tags": {
+    "name": "R. B. Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13834324573,
+  "lat": 28.6337597,
+  "lon": 77.2166244,
+  "tags": {
+    "description": "Tailors & Dropers",
+    "level": "0",
+    "name": "Aziz & Sons",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13886768808,
+  "lat": 28.3596060,
+  "lon": 77.0787746,
+  "tags": {
+    "name": "Pooja Stitching",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13886768818,
+  "lat": 28.3591056,
+  "lon": 77.0785560,
+  "tags": {
+    "name": "Panchal Tailor",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13886768838,
+  "lat": 28.3587221,
+  "lon": 77.0783132,
+  "tags": {
+    "name": "SS Tailor",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672517,
+  "lat": 28.4804260,
+  "lon": 77.0804590,
+  "tags": {
+    "brand": "Adidas",
+    "brand:wikidata": "Q3895",
+    "level": "0",
+    "name": "Adidas",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672565,
+  "lat": 28.4808636,
+  "lon": 77.0804215,
+  "tags": {
+    "brand": "Hidesign",
+    "brand:wikidata": "Q5752690",
+    "level": "2",
+    "name": "Hidesign",
+    "shop": "leather"
+  }
+},
+{
+  "type": "node",
+  "id": 13904238286,
+  "lat": 28.6818064,
+  "lon": 77.2068438,
+  "tags": {
+    "description": "Outdoor Adventure Sports Gear",
+    "level": "0",
+    "name": "Stikage",
+    "phone": "+91 98100 25536;+91 988064114",
+    "shop": "sports",
+    "website": "https://stikage.com",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13982741901,
+  "lat": 28.5736605,
+  "lon": 77.2169182,
+  "tags": {
+    "addr:housenumber": "G-70",
+    "level": "0",
+    "name": "Kumar Lining House",
+    "phone": "9810733276",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 13982741931,
+  "lat": 28.5737904,
+  "lon": 77.2170850,
+  "tags": {
+    "addr:housenumber": "G-95",
+    "level": "0",
+    "name": "Famous Tailors",
+    "phone": "+91 80760 82058;+91 98102 31620",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 13982741945,
+  "lat": 28.5736056,
+  "lon": 77.2171748,
+  "tags": {
+    "addr:housenumber": "G-57",
+    "level": "0",
+    "name": "Swan Ladies Tailor",
+    "phone": "+91 98184 55783",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14009416528,
+  "lat": 28.5846883,
+  "lon": 77.2233490,
+  "tags": {
+    "name": "Chadha Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14041377314,
+  "lat": 28.5690665,
+  "lon": 77.2423106,
+  "tags": {
+    "description": "Exclusive Buttons & Tailoring Materials",
+    "name": "Singh Brothers",
+    "phone": "+91 99995 04141;+91 92059 16169",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14041377332,
+  "lat": 28.5689421,
+  "lon": 77.2425440,
+  "tags": {
+    "description": "Tailors & Drapers",
+    "name": "Jagdish",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14046153647,
+  "lat": 28.5413411,
+  "lon": 77.1543307,
+  "tags": {
+    "level": "3",
+    "name": "Next Gen Sports",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 14046155009,
+  "lat": 28.5417490,
+  "lon": 77.1546227,
+  "tags": {
+    "brand": "Decathlon",
+    "level": "2;3",
+    "name": "Decathlon",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
+  "id": 14046155027,
+  "lat": 28.5412482,
+  "lon": 77.1552703,
+  "tags": {
+    "brand": "Hidesign",
+    "level": "2",
+    "name": "Hidesign",
+    "shop": "leather"
+  }
+},
+{
+  "type": "node",
+  "id": 14046155284,
+  "lat": 28.5793585,
+  "lon": 77.2151639,
+  "tags": {
+    "name": "Bhandari Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14051770341,
+  "lat": 28.7267324,
+  "lon": 77.0901352,
+  "tags": {
+    "addr:city": "New Delhi",
+    "addr:district": "Sector 24, Rohini",
+    "addr:housenumber": "37",
+    "addr:postcode": "110085",
+    "addr:street": "Pocket 14",
+    "name": "Spectra Sports Shop",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "operator": "Mr. Ashish Agarwal",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:online_payment": "yes",
+    "payment:upi": "yes",
+    "phone": "8743006333",
+    "shop": "sports",
+    "sport": "basketball;baseball;cricket;tennis;table_tennis;badminton;footbaal;swimming;chess;martial_arts;boxing;kickboxing;squash;soccer"
+  }
+},
+{
+  "type": "node",
+  "id": 14081672727,
+  "lat": 28.6319378,
+  "lon": 77.2170958,
+  "tags": {
+    "addr:housenumber": "G73",
+    "addr:state": "DL",
+    "addr:street": "Indira Chowk",
+    "email": "cs@marvelvinyls.com",
+    "name": "Marvel Vinyls Limited",
+    "phone": "+91 11 4530 6666",
+    "shop": "fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 14100919749,
+  "lat": 28.5677225,
+  "lon": 77.2192894,
+  "tags": {
+    "level": "0",
+    "mobile": "+91 93122 32273;+91 80765 98115",
+    "name": "Silai Cottage",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14107341407,
+  "lat": 28.6921423,
+  "lon": 77.2069660,
+  "tags": {
+    "level": "0",
+    "mobile": "+91 96543 56274",
+    "name": "M. Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14175271387,
+  "lat": 28.5738345,
+  "lon": 77.2170717,
+  "tags": {
+    "addr:housenumber": "G-93",
+    "level": "0",
+    "mobile": "+91 99109 92210",
+    "name": "Shikha Malik",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14177568567,
+  "lat": 28.5747122,
+  "lon": 77.2102428,
+  "tags": {
+    "level": "0",
+    "name": "Kerala Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14177568570,
+  "lat": 28.5747563,
+  "lon": 77.2100409,
+  "tags": {
+    "level": "0",
+    "name": "Gulati Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14177568587,
+  "lat": 28.5748869,
+  "lon": 77.2100666,
+  "tags": {
+    "level": "0",
+    "name": "Fancy Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14177568590,
+  "lat": 28.5747493,
+  "lon": 77.2103094,
+  "tags": {
+    "level": "0",
+    "name": "Parul Ladies Tailor",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14177568594,
+  "lat": 28.5748007,
+  "lon": 77.2102757,
+  "tags": {
+    "level": "0",
+    "name": "Gulati Ruchi Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14177569022,
+  "lat": 28.5743004,
+  "lon": 77.2101034,
+  "tags": {
+    "level": "0",
+    "name": "Laxmi Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14177569030,
+  "lat": 28.5747019,
+  "lon": 77.2101488,
+  "tags": {
+    "level": "0",
+    "name": "Budhiraja Matching Center",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14177569098,
+  "lat": 28.5748643,
+  "lon": 77.2103191,
+  "tags": {
+    "level": "0",
+    "name": "New Expert Tailors & Drapers",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14177569120,
+  "lat": 28.5747918,
+  "lon": 77.2103255,
+  "tags": {
+    "level": "0",
+    "name": "DD Boutique",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14177569129,
+  "lat": 28.5749315,
+  "lon": 77.2101972,
+  "tags": {
+    "level": "0",
+    "name": "Paragon Tailors",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14192058554,
+  "lat": 28.7068190,
+  "lon": 77.1841815,
+  "tags": {
+    "fixme": "Verify correct name spelling",
+    "level": "0",
+    "mobile": "+91 98114 26602",
+    "name": "Yaqoob Glahi",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 14201303191,
+  "lat": 28.5701804,
+  "lon": 77.2198416,
+  "tags": {
+    "name": "Four Square",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "way",
+  "id": 1413854759,
+  "center": {
+    "lat": 28.7117403,
+    "lon": 77.1282770
+  },
+  "tags": {
+    "building": "yes",
+    "shop": "sports"
+  }
+},
+{
+  "type": "way",
+  "id": 1488820305,
+  "center": {
+    "lat": 28.5475027,
+    "lon": 77.2735002
+  },
+  "tags": {
+    "name": "Open Badminton Court",
+    "opening_hours": "24/7",
+    "shop": "sports",
+    "sport": "badminton",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1533964602,
+  "center": {
+    "lat": 28.6401637,
+    "lon": 77.2989157
+  },
+  "tags": {
+    "building": "yes",
+    "shop": "tailor"
+  }
+}
+
+  ]
+}

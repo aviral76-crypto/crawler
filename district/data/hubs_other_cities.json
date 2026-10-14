@@ -1,0 +1,192 @@
+{
+ "206462": {
+  "hub_id": "206462",
+  "hub_name": "Forum Shopping Mall, Kanakapura Road, South Bangalore",
+  "hub_type": "Mall",
+  "rail_subtitle": "17.1 km | 50 stores",
+  "city": "Bengaluru",
+  "city_id": 4,
+  "lat": 13.01,
+  "lng": 77.595
+ },
+ "206586": {
+  "hub_id": "206586",
+  "hub_name": "Vega City Shopping Mall, Bannerghatta Road, South Bangalore",
+  "hub_type": "Mall",
+  "rail_subtitle": "19.7 km | 24 stores",
+  "city": "Bengaluru",
+  "city_id": 4,
+  "lat": 13.055,
+  "lng": 77.595
+ },
+ "206581": {
+  "hub_id": "206581",
+  "hub_name": "Nexus Koramangala, 7th Block, Koramangala",
+  "hub_type": "Mall",
+  "rail_subtitle": "17.4 km | 60 stores",
+  "city": "Bengaluru",
+  "city_id": 4,
+  "lat": 13.055,
+  "lng": 77.64
+ },
+ "206471": {
+  "hub_id": "206471",
+  "hub_name": "UB City, Lavelle Road, Central Bangalore",
+  "hub_type": "Mall",
+  "rail_subtitle": "18.4 km | 24 stores",
+  "city": "Bengaluru",
+  "city_id": 4,
+  "lat": 13.1,
+  "lng": 77.55
+ },
+ "212545": {
+  "hub_id": "212545",
+  "hub_name": "M5 Ecity Mall, Electronic City, Central Bangalore",
+  "hub_type": "Mall",
+  "rail_subtitle": "17.2 km | 22 stores",
+  "city": "Bengaluru",
+  "city_id": 4,
+  "lat": 12.965,
+  "lng": 77.64
+ },
+ "206516": {
+  "hub_id": "206516",
+  "hub_name": "Lulu Global Mall, Majestic, West Bangalore",
+  "hub_type": "Mall",
+  "rail_subtitle": "15.6 km | 43 stores",
+  "city": "Bengaluru",
+  "city_id": 4,
+  "lat": 13.1,
+  "lng": 77.55
+ },
+ "206544": {
+  "hub_id": "206544",
+  "hub_name": "Mantri Square Mall, Malleshwaram, West Bangalore",
+  "hub_type": "Mall",
+  "rail_subtitle": "18.7 km | 69 stores",
+  "city": "Bengaluru",
+  "city_id": 4,
+  "lat": 13.1,
+  "lng": 77.64
+ },
+ "206489": {
+  "hub_id": "206489",
+  "hub_name": "Orion Shopping Mall, Malleshwaram, West Bangalore",
+  "hub_type": "Mall",
+  "rail_subtitle": "18.7 km | 95 stores",
+  "city": "Bengaluru",
+  "city_id": 4,
+  "lat": 13.1,
+  "lng": 77.64
+ },
+ "206607": {
+  "hub_id": "206607",
+  "hub_name": "Nexus Whitefield, Whitefield, East Bangalore",
+  "hub_type": "Mall",
+  "rail_subtitle": "19.3 km | 40 stores",
+  "city": "Bengaluru",
+  "city_id": 4,
+  "lat": 13.1,
+  "lng": 77.73
+ },
+ "206460": {
+  "hub_id": "206460",
+  "hub_name": "Phoenix Mall Of Asia, Hebbal, North Bangalore",
+  "hub_type": "Mall",
+  "rail_subtitle": "15.6 km | 149 stores",
+  "city": "Bengaluru",
+  "city_id": 4,
+  "lat": 13.1,
+  "lng": 77.685
+ },
+ "206461": {
+  "hub_id": "206461",
+  "hub_name": "Phoenix Marketcity, Whitefield, East Bangalore",
+  "hub_type": "Mall",
+  "rail_subtitle": "18.5 km | 124 stores",
+  "city": "Bengaluru",
+  "city_id": 4,
+  "lat": 13.1,
+  "lng": 77.73
+ },
+ "206466": {
+  "hub_id": "206466",
+  "hub_name": "Nexus Shantiniketan, ITPL Main Rd, Whitefield",
+  "hub_type": "Mall",
+  "rail_subtitle": "17.9 km | 47 stores",
+  "city": "Bengaluru",
+  "city_id": 4,
+  "lat": 13.1,
+  "lng": 77.73
+ },
+ "206610": {
+  "hub_id": "206610",
+  "hub_name": "The RMZ Galleria Mall, Yelahanka, North Bangalore",
+  "hub_type": "Mall",
+  "rail_subtitle": "12.2 km | 33 stores",
+  "city": "Bengaluru",
+  "city_id": 4,
+  "lat": 13.1,
+  "lng": 77.685
+ },
+ "208234": {
+  "hub_id": "208234",
+  "hub_name": "Bhartiya Mall Of Bengaluru, Jakkur, North Bangalore",
+  "hub_type": "Mall",
+  "rail_subtitle": "13.4 km | 37 stores",
+  "city": "Bengaluru",
+  "city_id": 4,
+  "lat": 13.1,
+  "lng": 77.73
+ },
+ "206863": {
+  "hub_id": "206863",
+  "hub_name": "Jio World Drive, BKC, Western Suburbs",
+  "hub_type": "Mall",
+  "rail_subtitle": "18.6 km | 27 stores",
+  "city": "Mumbai",
+  "city_id": 3,
+  "lat": 19.17,
+  "lng": 72.825
+ },
+ "206805": {
+  "hub_id": "206805",
+  "hub_name": "Phoenix Marketcity, Kurla, Central Mumbai",
+  "hub_type": "Mall",
+  "rail_subtitle": "16.5 km | 98 stores",
+  "city": "Mumbai",
+  "city_id": 3,
+  "lat": 19.17,
+  "lng": 72.825
+ },
+ "206538": {
+  "hub_id": "206538",
+  "hub_name": "Infiniti Mall, Andheri Lokhandwala, Andheri West",
+  "hub_type": "Mall",
+  "rail_subtitle": "5.3 km | 25 stores",
+  "city": "Mumbai",
+  "city_id": 3,
+  "lat": 19.17,
+  "lng": 72.825
+ },
+ "206817": {
+  "hub_id": "206817",
+  "hub_name": "Nexus Seawoods, Seawoods, Navi Mumbai",
+  "hub_type": "Mall",
+  "rail_subtitle": "11.3 km | 117 stores",
+  "city": "Mumbai",
+  "city_id": 3,
+  "lat": 19.08,
+  "lng": 72.96
+ },
+ "206814": {
+  "hub_id": "206814",
+  "hub_name": "Viviana Mall, Majiwada, Thane West",
+  "hub_type": "Mall",
+  "rail_subtitle": "18.2 km | 98 stores",
+  "city": "Mumbai",
+  "city_id": 3,
+  "lat": 19.125,
+  "lng": 72.96
+ }
+}

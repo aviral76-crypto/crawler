@@ -1,0 +1,208 @@
+city,locality,apparel_stores,distinct_brands,all_category_stores,apparel_share,hubs,hub_names,top_brands
+New Delhi,Vasant Kunj,168,142,329,51%,2,DLF Emporio; DLF Promenade Mall,Aarke Ritu Kumar; Abu Jani Sandeep Khosla; Adidas Kids; Aisha Rao; Allen Solly; American Eagle; Amit Aggarwal; Anantam; Ancestry; Anjalee And Arjun Kapoor; Anokhi; Anushree Reddy
+Noida,Sector 18,111,100,290,38%,1,DLF Mall of India,AND; Ancestry; Anokhi; Armani Exchange; BIBA; Beverly Hills Polo Club; Bluorng; Brooks Brothers; Calvin Klein; Celio; Chanel; Chique
+Gurgaon,DLF Phase 3,87,82,193,45%,1,Ambience Mall,AND; Aarke Ritu Kumar; Adidas Kids; Ancestry; Anokhi; Armani Exchange; Arrow; Aurelia; BIBA; BOSS; Basanti Kapde aur Koffee; Bluorng
+New Delhi,Dwarka,82,66,200,41%,1,Vegas Mall,AND; AZORTE; Adidas Kids; Armani Exchange; Arrow; Aurelia; BIBA; Being Human; Blackberrys; Blissclub; Celio; Colorplus
+New Delhi,Saket,80,72,189,42%,2,DLF Avenue; Nexus Select Citywalk,ARKS; Aarke Ritu Kumar; Allen Solly; American Eagle; Ancestry; Anokhi; Armani Exchange; Arrow; Aurelia; Autumn Lane; BIBA; Blackberrys
+Gurgaon,MG Road,73,62,189,39%,1,MGF Metropolitan Mall,Allen Solly; American Eagle; Armani Exchange; Arrow; Aurelia; Autumn Lane; BIBA; Blackberrys; Calvin Klein; Chique; Colorplus; Cover Story
+New Delhi,Rohini,68,53,133,51%,0,,Allen Solly; American Eagle; Armani Exchange; Arrow; Aurelia; Autumn Lane; BIBA; Blackberrys; Calvin Klein; Chique; Cover Story; Crimsoune Club
+Greater Noida,Gaur City 1,65,60,129,50%,0,,Allen Solly; American Eagle; Armani Exchange; Arrow; Aurelia; Autumn Lane; BIBA; Blackberrys; Bodycare Kids; Calvin Klein; Chique; Clovia
+Delhi Ncr,Sector 38,62,56,103,60%,0,,Allen Solly; American Eagle; Armani Exchange; Arrow; Aurelia; Autumn Lane; BIBA; Blackberrys; Bombay Selections; Calvin Klein; Chique; Cover Story
+Ghaziabad,Indirapuram,59,52,99,60%,0,,Allen Solly; American Eagle; Armani Exchange; Arrow; Aurelia; Autumn Lane; BIBA; Blackberrys; Bodycare Kids; Calvin Klein; Chique; Clovia
+New Delhi,Connaught Place,54,42,137,39%,1,Connaught Place,Amit Arora (Gopal Sons Selections); Aurelia; BIBA; Being Human; Blackberrys; Callino London; Calvin Klein; Cantabil; Fabindia; Go Colors; Greenways; Indian Terrain
+Noida,Sector 32,53,49,103,51%,1,Logix City Centre,Allen Solly; American Eagle; Armani Exchange; Arrow; Aurelia; Autumn Lane; BIBA; Blackberrys; Calvin Klein; Chique; Colorplus; Cover Story
+New Delhi,Pitampura,51,47,88,58%,0,,Allen Solly; American Eagle; Armani Exchange; Arrow; Aurelia; Autumn Lane; BIBA; Blackberrys; Calvin Klein; Chique; Cover Story; Fashor
+Gurgaon,Sector 83,49,46,87,56%,0,,Allen Solly; American Eagle; Armani Exchange; Arrow; Aurelia; Autumn Lane; BIBA; Blackberrys; Calvin Klein; Chique; Cover Story; Fashor
+Greater Noida,Beta 2,45,41,61,74%,0,,Allen Solly; American Eagle; Armani Exchange; Arrow; Aurelia; Autumn Lane; BIBA; Blackberrys; Calvin Klein; Chique; Cover Story; Fashor
+Gurgaon,Golf Course Extension,45,42,61,74%,0,,Allen Solly; American Eagle; Armani Exchange; Arrow; Aurelia; Autumn Lane; BIBA; Blackberrys; Calvin Klein; Chique; Cover Story; Fashor
+Ghaziabad,Rajnagar District Centre,41,41,58,71%,0,,Allen Solly; American Eagle; Armani Exchange; Arrow; Aurelia; Autumn Lane; BIBA; Blackberrys; Calvin Klein; Chique; Cover Story; Fashor
+Gurgaon,Sohna Road,41,40,60,68%,0,,Allen Solly; American Eagle; Armani Exchange; Arrow; Aurelia; Autumn Lane; BIBA; Blackberrys; Calvin Klein; Chique; Cover Story; Fashor
+Faridabad,Sector 20,40,39,51,78%,0,,Allen Solly; American Eagle; Armani Exchange; Arrow; Aurelia; Autumn Lane; BIBA; Blackberrys; Calvin Klein; Chique; Cover Story; Fashor
+Delhi Ncr,Hajipur,39,39,51,76%,0,,Allen Solly; American Eagle; Armani Exchange; Arrow; Aurelia; Autumn Lane; BIBA; Blackberrys; Calvin Klein; Chique; Cover Story; Fashor
+Gurgaon,Sector 54,39,39,49,80%,0,,Allen Solly; American Eagle; Armani Exchange; Arrow; Aurelia; Autumn Lane; BIBA; Blackberrys; Calvin Klein; Chique; Cover Story; Fashor
+New Delhi,Laxmi Nagar,31,31,96,32%,1,V3S Mall,Aurelia; Clovia; Elleven; Ethnix By Raymond; Go Colors; Indian Terrain; Intimissi Lingerie; Killer; LaMode; Lakshita; Libas; Max
+New Delhi,Tagore Garden,30,29,91,33%,1,Pacific Mall,BIBA; Babyshop; Blackberrys; Calvin Klein; Converse; Coyu; Forever New; GANT; Go Colors; Jack & Jones; Lacoste; Levi's
+Faridabad,Sector 35,26,22,67,39%,0,,Arrow; Blackberrys; Flying Machine; Indian Terrain; Jockey; Levi's; Madame; Mufti; Numero Uno; Octave; Pantaloons; Pepe Jeans
+Gurgaon,Sector 68,26,25,79,33%,1,Airia Mall,AZORTE; Aurelia; BIBA; Bodycare; Chique; Cover Story; Ethnix By Raymond; Fabindia; Go Colors; Levi's; Lifestyle; Marks & Spencer
+Gurgaon,DLF Phase 1,26,25,109,24%,0,,Aarke Ritu Kumar; Fabindia; FolkCulture; Global Republic; Go Colors; Goldy's Nestt; Gyans; Jaipur Kurti; KARCHOBI; Kasturi Creations; Kilol; Kusvaa
+Gurgaon,DLF Phase 5,25,25,81,31%,1,DLF Summit Plaza,Basanti Kapde aur Koffee; Chique; Converse; Coyu; Drishti Chabra; Fable Street; Gaiiah Closet; Kingdom of White; Minizmo; Needledust; Notebook; Rare Ones
+New Delhi,Lajpat Nagar 2,23,17,47,49%,1,Central Market,Aurelia; Blackberrys; Ethnix By Raymond; Go Colors; John Pride; Lakshita; Levi's; Libas; Monte Carlo; Park Avenue; Raymond - Ready to wear; SWEET DREAMS
+Ghaziabad,Vaishali,22,18,53,42%,0,,Aurelia; Blackberrys; Cantabil; Colorplus; Go Colors; Lacoste; Levi's; Madame; Max; Monte Carlo; Numero Uno; Park Avenue
+New Delhi,Karol Bagh,21,18,42,50%,0,,Arrow; Aurelia; Blackberrys; Ethnix By Raymond; Go Colors; Levi's; Libas; Meena Bazaar; Monte Carlo; Numero Uno; Pantaloons; Raymond - Ready to wear
+Gurgaon,Ardee City,20,18,65,31%,1,Ardee Mall,Arrow; Blackberrys; Celio; Chique; Fabindia; Flying Machine; Forever New; Gipsy; Go Colors; Levi's; Marks & Spencer; Max
+Ghaziabad,Sahibabad,18,18,35,51%,1,Pacific Mall,Blackberrys; Bombay Selections; Cantabil; Chunmun; Colorplus; Goyalsons; Jaipur Kurti; Jockey; Lakshita; Levi's; Manyavar; Monte Carlo
+New Delhi,Rajouri Garden,18,16,33,55%,0,,AND; Chique; Global Desi; Go Colors; Levi's; Libas; Madame; Monte Carlo; Mumkins; Mustard; Reliance Trends; Sabhyata
+New Delhi,Jasola,17,14,24,71%,0,,Arrow; Indian Terrain; Levi's; Madame; Meena Bazaar; Nike; Park Avenue; Pepe Jeans; Raymond - Ready to wear; Reliance Trends; TECHNOSPORT; The Bear House
+New Delhi,Kamla Nagar,17,14,36,47%,0,,Go Colors; Levi's; Meena Bazaar; Monte Carlo; NEWME; Nobero; Pantaloons; Pepe Jeans; Rare Rabbit; Reliance Trends; Sabhyata; U.S Polo Assn.
+New Delhi,Khan Market,16,16,51,31%,1,Khan Market,Ahujasons; Chique; Cord; Coyu; Fabindia; Levi's; Lovebirds; Marks & Spencer; Ogaan; Ranna Gill; Ridhiiee Suuri; Ritu Kumar
+New Delhi,NSP,16,15,48,33%,1,Pacific Mall,Aurelia; Blackberrys; GANT; Jack & Jones; Levi's; Marks & Spencer; Mohanlal Sons; Octave; Rare Rabbit; Reliance Trends; Savvyy; Tommy Hilfiger
+Gurgaon,Sector 50,15,15,65,23%,1,Good Earth City Center,Aurelia; BIBA; Fabindia; Go Colors; Kusvaa; Levi's; Monte Carlo; Qurbat; Suifab; The House Of Rare; The Raymond Shop; United Colors Of Benetton
+Faridabad,Sector 15,14,10,36,39%,0,,Bodycare; Cantabil; Cosmic; Meena Bazaar; Numero Uno; Old Gene Originals; Paulsons; Richlook; Van Heusen; Zudio
+Gurgaon,Sector 85,14,13,39,36%,1,Elan Miracle,Blissclub; Go Colors; Levi's; Max; Monte Carlo; Rangriti; Rare Rabbit; SALT Attire; Savvyy; Snitch; Taneira; The Souled Store
+Gurgaon,Sector 30,14,12,25,56%,0,,Cantabil; Cobb; Forever 21; Lacoste; Levi's; Monte Carlo; ONLY; Only; Park Avenue; Reebok; Richlook; W For Woman
+Gurgaon,Sector 14,12,9,31,39%,0,,Arrow; Go Colors; Levi's; Madame; Monte Carlo; Pepe Jeans; Reliance Trends; Trends Woman; U.S Polo Assn.
+New Delhi,Paschim Vihar,12,12,32,38%,0,,AND; Aurelia; Global Desi; Go Colors; Monte Carlo; Numero Uno; Reliance Trends; Sabhyata; Spykar; The Souled Store; W For Woman; enamor
+New Delhi,Janakpuri,12,9,29,41%,0,,Go Colors; Levi's; Monte Carlo; Numero Uno; Pantaloons; Reliance Trends; Snitch; Westside; Zudio
+Delhi Ncr,Sector 110,11,7,19,58%,0,,Arrow; Fabindia; Flying Machine; Indian Terrain; Levi's; Reliance Trends; U.S Polo Assn.
+New Delhi,Unityone Shopping Mall,11,9,20,55%,0,,Being Human; Bewakoof; Jack & Jones; Kazo; Levi's; Madame; Peachmode; United Colors Of Benetton; Westside
+Gurgaon,DLF Cyber City,10,9,44,23%,0,,COLOR CAPITAL; FLXY; Globus; Levi's; Magre; Marks & Spencer; Snitch; Uniqlo; Zodiac
+Greater Noida,Jaypee Greens,9,8,39,23%,1,The Grand Venice Mall,Arrow; Colorplus; Ethnix By Raymond; H&M; Jockey; Max; Monte Carlo; Pantaloons
+New Delhi,Shahdara,9,5,28,32%,0,,Aurelia; Numero Uno; Park Avenue; W For Woman; Zudio
+Faridabad,NIT,8,8,17,47%,0,,Arrow; Ethnix By Raymond; Go Colors; Meena Bazaar; Numero Uno; Reliance Trends; U.S Polo Assn.; Zivame
+Ghaziabad,Ambedkar Road,8,7,11,73%,0,,Go Colors; Libas; SRI RAM & SON; Sabhyata; Tasva; U.S Polo Assn.; Zudio
+New Delhi,Greater Kailash 1,8,8,32,25%,1,M Block Market,Chique; Desi Pop; Ekasmaye; Go Colors; Modluk; Sabhyata; W For Woman; enamor
+New Delhi,Netaji Subhash Place,8,8,27,30%,1,Unity One Elegante Mall,Go Colors; Levi's; Meena Bazaar; NEWME; Pantaloons; Raymond - Ready to wear; Reebok; Soch
+New Delhi,Pacific D21 Mall,8,8,21,38%,0,,BIBA; Go Colors; Max; Mustard; Octave; Rangriti; Reliance Trends; U.S Polo Assn.
+Ghaziabad,Raj Nagar,7,6,13,54%,0,,Arrow; Blackberrys; Lakshita; Levi's; U.S Polo Assn.; Zudio
+New Delhi,Greater Kailash 1 (GK1),7,7,14,50%,0,,Chique; Gipsy; Levi's; Libas; Marks & Spencer; Mustard; Stitch Stories
+New Delhi,Sector 14 Dwarka,7,7,25,28%,0,,Adidas Kids; Elleven; Forever New; Jockey; Soch; The Raymond Shop; U.S Polo Assn.
+New Delhi,Vikaspuri,7,7,12,58%,0,,Go Colors; Lakshita; Levi's; Reliance Trends; The Bear House; W For Woman; Zudio
+Greater Noida,Knowledge Park,6,6,21,29%,0,,Cantabil; Fitenue; Jockey; Monte Carlo; The Raymond Shop; U.S Polo Assn.
+Gurgaon,Sector 66,6,6,41,15%,0,,BIBA; Campana; Fabindia; Merrigo Kidz; Qurbat; Silkfab
+Gurgaon,DLF Phase 4,6,6,54,11%,0,,Go Colors; Marks & Spencer; Nicobar; Reliance Trends; Savvyy; U.S Polo Assn.
+New Delhi,Hauz Khas Village,6,4,18,33%,0,,Amaltas Couture; First Resort by Ramola Bachchan; LACQUER EMBASSY; Ogaan
+Delhi Ncr,Sector 75,5,5,32,16%,0,,Aurelia; Jockey; Snitch; W For Woman; Zudio
+Faridabad,Sector 79,5,3,31,16%,1,Omaxe World Street,Look Collection; Numero Uno; Octave
+Ghaziabad,Nehru Nagar,5,5,15,33%,0,,Blackberrys; Levi's; Numero Uno; Pantaloons; Reliance Trends
+Gurgaon,City Centre Mall,5,5,6,83%,0,,Aurelia; Levi's; Lifestyle; Monte Carlo; W For Woman
+New Delhi,Moti Nagar,5,5,21,24%,0,,Levi's; Monte Carlo; Mustard; Pepe Jeans; Wacoal
+New Delhi,Kamla Nagar Market,5,4,13,38%,0,,Blackberrys; Madame; Numero Uno; The Souled Store
+New Delhi,Krishna Nagar,5,5,10,50%,0,,Aurelia; Monte Carlo; Sabhyata; W For Woman; Zudio
+New Delhi,MG Road,5,4,189,3%,1,MGF Metropolitan Mall,Levi's; Tasva; U.S Polo Assn.; Zudio
+New Delhi,Model Town 2,5,5,14,36%,0,,AND; Go Colors; Lakshita; Madame; Zudio
+New Delhi,Sarita Vihar,5,5,13,38%,0,,Lakshita; Levi's; Rare Rabbit; Tasva; Zudio
+New Delhi,South Extension 1,5,5,14,36%,0,,Chique; Ethnix By Raymond; Marks & Spencer; Study by Janak; Westside
+Delhi Ncr,Sector 72,4,4,15,27%,0,,Meena Bazaar; SWEET DREAMS; Westside; Zudio
+Ghaziabad,Kaushambi,4,4,7,57%,0,,Levi's; Meena Bazaar; Paislei; Zudio
+Ghaziabad,Pratap Vihar,4,4,8,50%,0,,Arrow; Trends Woman; U.S Polo Assn.; Zudio
+Gurgaon,DLF Summit Plaza,4,4,11,36%,0,,Marks & Spencer; SWEET DREAMS; Super Dry Sport; The Pony and Peony - Deleted
+Gurgaon,Felix Plaza,4,4,7,57%,0,,Arrow; Marks & Spencer; Tasva; Zudio
+Gurgaon,Sector 29,4,4,9,44%,0,,Bonkers Corner; Snitch; The Bear House; Westside
+New Delhi,Chandni Chowk,4,4,21,19%,0,,Ethnix By Raymond; Libas; SRI RAM & SON; Tasva
+New Delhi,Karkardooma,4,3,10,40%,0,,Levi's; Pantaloons; Zudio
+New Delhi,Malviya Nagar,4,4,21,19%,0,,Flying Machine; Go Colors; Mothercare; Satya Paul
+New Delhi,South Extension 2 Market,4,4,10,40%,0,,Blackberrys; Go Colors; Greenways; Monte Carlo
+Faridabad,Sector 81,3,2,67,4%,0,,Button; Zudio
+Ghaziabad,Mohan Nagar,3,3,4,75%,0,,Pantaloons; Reliance Trends; Zudio
+Gurgaon,Sector 65,3,3,34,9%,0,,Anokhi; Lakshita; Pandorna
+Gurgaon,Palam Vihar,3,3,22,14%,0,,Jockey; Reliance Trends; The Raymond Shop
+Gurgaon,Sector 58,3,3,21,14%,0,,Coyu; Ranna Gill; Suvasa
+Gurgaon,Sector 69,3,3,6,50%,0,,Levi's; Reliance Trends; U.S Polo Assn.
+New Delhi,Mayur Vihar Phase 1,3,3,7,43%,0,,Go Colors; Levi's; Zudio
+New Delhi,Najafgarh,3,3,14,21%,0,,Numero Uno; Reliance Trends; Zudio
+New Delhi,Sector 21 Dwarka,3,2,5,60%,0,,Arrow; Lifestyle
+New Delhi,Sector 13 Dwarka,3,3,4,75%,0,,Pantaloons; Westside; Zudio
+New Delhi,South Extension 2,3,2,5,60%,0,,Levi's; Pantaloons
+New Delhi,Tilak Nagar,3,3,9,33%,0,,Armani Exchange; Levi's; U.S Polo Assn.
+New Delhi,West Patel Nagar,3,2,4,75%,0,,W For Woman; Zudio
+Delhi Ncr,Sector 25,2,2,9,22%,0,,Baedesi; Paislei
+Delhi Ncr,Rcube Monad Mall,2,2,6,33%,0,,Rare Rabbit; SWEET DREAMS
+Delhi Ncr,Sector 135,2,2,6,33%,0,,Levi's; Zudio
+Gurgaon,Sector 49,2,2,8,25%,0,,Indian Terrain; U.S Polo Assn.
+Faridabad,Sector 10,2,2,6,33%,0,,Numero Uno; Spykar
+Faridabad,Sector 16,2,2,2,100%,0,,Aurelia; Reliance Trends
+Faridabad,Sector 31,2,2,8,25%,0,,Snitch; Zudio
+Ghaziabad,Gaur Central Mall,2,2,10,20%,0,,Levi's; Max
+Ghaziabad,Raj Nagar Extension,2,2,8,25%,0,,Levi's; Trends Woman
+Ghaziabad,Kavi Nagar,2,2,5,40%,0,,Reliance Trends; Zudio
+Greater Noida,Amrapali Dream Valley,2,1,6,33%,0,,Zudio
+Greater Noida,Gamma 1,2,2,4,50%,0,,Reliance Trends; U.S Polo Assn.
+Greater Noida,Alpha 2 Greater,2,2,4,50%,0,,Westside; Zudio
+Gurgaon,Elan Epic Mall,2,2,10,20%,0,,Levi's; TECHNOSPORT
+Gurgaon,Manesar,2,1,5,40%,0,,Zudio
+Gurgaon,Reach 3 Roads Shopping mall,2,1,9,22%,0,,Zudio
+Gurgaon,Sector 12,2,2,11,18%,0,,U.S Polo Assn.; Zudio
+New Delhi,Badarpur Border,2,2,3,67%,0,,U.S Polo Assn.; Zudio
+New Delhi,Vasant Vihar,2,2,27,7%,0,,Monte Carlo; Nicobar
+New Delhi,DLF City Centre Mall,2,2,3,67%,0,,Lakshita; Zudio
+New Delhi,Jail Road,2,2,10,20%,0,,Monte Carlo; Numero Uno
+New Delhi,Kalkaji,2,2,12,17%,0,,Go Colors; U.S Polo Assn.
+New Delhi,Greater Kailash 2,2,2,28,7%,0,,Bluorng; DAWNTOWN
+New Delhi,Mayapuri Phase 2,2,2,2,100%,0,,Reliance Trends; Zudio
+New Delhi,Nangloi,2,2,5,40%,0,,Levi's; Zudio
+New Delhi,Palam,2,2,7,29%,0,,Monte Carlo; Zudio
+New Delhi,Preet Vihar,2,2,21,10%,0,,Westside; Zudio
+New Delhi,Rajinder Nagar,2,2,11,18%,0,,Tasva; Westside
+New Delhi,Sarojini Nagar,2,2,6,33%,0,,Levi's; Sabhyata
+New Delhi,Unity One Elegante,2,2,3,67%,0,,Tasva; U.S Polo Assn.
+Delhi Ncr,Sector 1,1,1,1,100%,0,,Reliance Trends
+Delhi Ncr,Sector 132,1,1,5,20%,0,,Zudio
+Delhi Ncr,Sector 51,1,1,2,50%,0,,Pantaloons
+Delhi Ncr,Sector 62,1,1,3,33%,0,,Zudio
+Delhi Ncr,Wave Mall,1,1,2,50%,0,,Westside
+Delhi Ncr,Yakubpur,1,1,1,100%,0,,JUMP USA
+Faridabad,Ballabhgarh,1,1,3,33%,0,,Zudio
+Faridabad,Charmwood Village,1,1,4,25%,0,,Levi's
+Faridabad,City Life Mall,1,1,2,50%,0,,Marks & Spencer
+Faridabad,Dhauj,1,1,1,100%,0,,Tasva
+Faridabad,Pacific Mall,1,1,2,50%,0,,Levi's
+Faridabad,Sector 12,1,1,11,9%,0,,Pantaloons
+Faridabad,Sector 19,1,1,4,25%,0,,Reliance Trends
+Faridabad,Sector 28,1,1,2,50%,0,,Zudio
+Faridabad,Sector 37,1,1,7,14%,0,,Reliance Trends
+Ghaziabad,Aradhyam Shopping Mall,1,1,1,100%,0,,Zudio
+Ghaziabad,Chander Nagar,1,1,1,100%,0,,Reliance Trends
+Ghaziabad,Niti Khand I,1,1,4,25%,0,,U.S Polo Assn.
+Ghaziabad,Rajendar Nagar,1,1,3,33%,0,,Zudio
+Ghaziabad,Shalimar Garden,1,1,3,33%,0,,Numero Uno
+Ghaziabad,Vasundhara,1,1,11,9%,0,,Zudio
+Greater Noida,Amrapali Leisure Valley,1,1,4,25%,0,,Zudio
+Greater Noida,Beta 1,1,1,1,100%,0,,SRI RAM & SON
+Greater Noida,Blue Sapphire by Taj Studios,1,1,2,50%,0,,Westside
+Greater Noida,Omega 2,1,1,1,100%,0,,Levi's
+Gurgaon,Ansal Plaza,1,1,1,100%,0,,Sabhyata
+Gurgaon,Basai Village,1,1,1,100%,0,,Numero Uno
+Gurgaon,Dreamz Mall,1,1,1,100%,0,,Pantaloons
+Gurgaon,Ghitorni,1,1,1,100%,0,,Levi's
+Gurgaon,Golf Course Road,1,1,46,2%,0,,Indian Terrain
+Gurgaon,Good Earth Sixty 9 Mall,1,1,4,25%,0,,Westside
+Gurgaon,Sector 56,1,1,15,7%,0,,Amodini by aarti
+Gurgaon,Gwal Pahari,1,1,1,100%,0,,Numero Uno
+Gurgaon,Sector 90,1,1,5,20%,0,,Pantaloons
+Gurgaon,Sector 33,1,1,1,100%,0,,U.S Polo Assn.
+Gurgaon,Sector 37,1,1,7,14%,0,,Pantaloons
+Gurgaon,Sector 4,1,1,5,20%,0,,Zudio
+Gurgaon,Sector 5,1,1,2,50%,0,,Levi's
+Gurgaon,Sector 60,1,1,10,10%,0,,NEWME
+Gurgaon,Sector 8,1,1,1,100%,0,,Monte Carlo
+Gurgaon,Sushant Lok,1,1,9,11%,0,,U.S Polo Assn.
+New Delhi,3 C'S Mall,1,1,1,100%,0,,Westside
+New Delhi,Aerocity,1,1,17,6%,0,,Levi's
+New Delhi,Aggarwal Fun City Mall,1,1,2,50%,0,,Reliance Trends
+New Delhi,Alaknanda,1,1,2,50%,0,,Go Colors
+New Delhi,Ashok Vihar Phase 1,1,1,1,100%,0,,W For Woman
+New Delhi,Ashok Vihar Phase 2,1,1,4,25%,0,,Go Colors
+New Delhi,Aurobindo Market,1,1,1,100%,0,,RL INDIA MERCH POP-UP
+New Delhi,Burari,1,1,1,100%,0,,Zudio
+New Delhi,Chhatarpur,1,1,5,20%,0,,Ranna Gill
+New Delhi,Civil Lines,1,1,1,100%,0,,Levi's
+New Delhi,Delhi University-GTB Nagar,1,1,6,17%,0,,Trends Man
+New Delhi,East Patel Nagar,1,1,7,14%,0,,Go Colors
+New Delhi,East of Kailash,1,1,2,50%,0,,Zudio
+New Delhi,Gole Market,1,1,1,100%,0,,Numero Uno
+New Delhi,Green Park,1,1,10,10%,0,,Go Colors
+New Delhi,Hauz Khas,1,1,4,25%,0,,Levi's
+New Delhi,ITO,1,1,3,33%,0,,Reliance Trends
+New Delhi,Inderlok,1,1,1,100%,0,,Zudio
+New Delhi,Jangpura,1,1,1,100%,0,,Levi's
+New Delhi,Janpath,1,1,6,17%,0,,Linen Club
+New Delhi,Karampura,1,1,4,25%,0,,Snitch
+New Delhi,Kashmiri Gate,1,1,2,50%,0,,Zudio
+New Delhi,Lajpat Nagar 3,1,1,2,50%,0,,Shaza
+New Delhi,Lawrence Road,1,1,2,50%,0,,U.S Polo Assn.
+New Delhi,Greater Kailash1,1,1,4,25%,0,,Chique
+New Delhi,Mehrauli,1,1,2,50%,0,,Ranna Gill
+New Delhi,Model Town 3,1,1,2,50%,0,,Zudio
+New Delhi,Murthal,1,1,2,50%,0,,U.S Polo Assn.
+New Delhi,Narela,1,1,7,14%,0,,Zudio
+New Delhi,Okhla Phase 1,1,1,1,100%,0,,VegNonVeg - Warehouse Sale
+New Delhi,R Cube Monad Mall,1,1,2,50%,0,,Zudio
+New Delhi,Sainik Farms,1,1,2,50%,0,,Indian Terrain
+New Delhi,Shalimar Bagh,1,1,6,17%,0,,Zudio
+New Delhi,South Extension Part 1 Main Market,1,1,1,100%,0,,Tasva
+New Delhi,Tilak Nagar Central Market,1,1,1,100%,0,,Mumkins
+New Delhi,Uday Park,1,1,1,100%,0,,U.S Polo Assn.
+New Delhi,Uttam Nagar,1,1,11,9%,0,,Zudio
+New Delhi,Vijay Nagar,1,1,1,100%,0,,Levi's
+New Delhi,Wazirpur,1,1,1,100%,0,,Zudio
+New Delhi,Westend Mall,1,1,1,100%,0,,Colorplus

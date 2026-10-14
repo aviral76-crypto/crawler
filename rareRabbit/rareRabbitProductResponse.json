@@ -1,0 +1,670 @@
+{
+  "data": {
+    "product": {
+      "id": "gid://shopify/Product/7521406484551",
+      "title": "Rare Rabbit Men's Acvor Primary Red Polyester Blend Spread Collar Button Regular Checked Shirt",
+      "tags": [
+        "21-08-95",
+        "color-acvor-mens-shirt-red",
+        "EXCEPTRAREISMGC",
+        "INF",
+        "ISS-26",
+        "male",
+        "REMOVEDGIFTCARD",
+        "return-and-exchange",
+        "RR-inf-pulkit",
+        "RRSHIRT",
+        "similar_product_rare-rr-shirts",
+        "TAILORED-BY-RARE-RR",
+        "UC-03-07-26"
+      ],
+      "handle": "acvor-mens-shirt-red",
+      "totalInventory": 57,
+      "description": "Elevate your everyday wardrobe with this classic checked shirt from Rare Rabbit. Crafted from a premium polyester blend, it offers comfort and durability for all-day wear. The spread collar and button-front design deliver a polished, versatile look perfect for casual outings or smart-casual occasions. The regular fit ensures a flattering silhouette, while the hue with checked pattern adds visual interest to your collection. A timeless piece that pairs effortlessly with jeans, chinos, or tailored trousers.- 53% Polyester 47% Cotton- Twill- Checked- Regular Fit- Full SleeveSIZEModel height 188cm. The model (Chest-39, Waist-32, Hips-38) is wearing a size M",
+      "descriptionHtml": "<p>Elevate your everyday wardrobe with this classic checked shirt from Rare Rabbit. Crafted from a premium polyester blend, it offers comfort and durability for all-day wear. The spread collar and button-front design deliver a polished, versatile look perfect for casual outings or smart-casual occasions. The regular fit ensures a flattering silhouette, while the hue with checked pattern adds visual interest to your collection. A timeless piece that pairs effortlessly with jeans, chinos, or tailored trousers.<br><br>- 53% Polyester 47% Cotton<br>- Twill<br>- Checked<br>- Regular Fit<br>- Full Sleeve<br><br>SIZE<br>Model height 188cm. The model (Chest-39, Waist-32, Hips-38) is wearing a size M<br></p>",
+      "onlineStoreUrl": "https://thehouseofrare.com/products/acvor-mens-shirt-red",
+      "productType": "SHIRT",
+      "vendor": "RARE RABBIT",
+      "availableForSale": true,
+      "requiresSellingPlan": false,
+      "sellingPlanGroups": {
+        "edges": []
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "mediaContentType": "IMAGE",
+              "id": "gid://shopify/MediaImage/25960534114375",
+              "image": {
+                "height": 3585,
+                "id": "gid://shopify/ImageSource/25960534114375",
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor.webp?v=1786447444",
+                "width": 2880,
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor_500x500.webp?v=1786447444"
+              }
+            }
+          },
+          {
+            "node": {
+              "mediaContentType": "IMAGE",
+              "id": "gid://shopify/MediaImage/25967657746503",
+              "image": {
+                "height": 2379,
+                "id": "gid://shopify/ImageSource/25967657746503",
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295.jpg?v=1786644569",
+                "width": 1920,
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_500x500.jpg?v=1786644569"
+              }
+            }
+          },
+          {
+            "node": {
+              "mediaContentType": "IMAGE",
+              "id": "gid://shopify/MediaImage/25673165045831",
+              "image": {
+                "height": 2379,
+                "id": "gid://shopify/ImageSource/25673165045831",
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_1__hm.webp?v=1783665074",
+                "width": 1920,
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_1__hm_500x500.webp?v=1783665074"
+              }
+            }
+          },
+          {
+            "node": {
+              "mediaContentType": "IMAGE",
+              "id": "gid://shopify/MediaImage/25673165275207",
+              "image": {
+                "height": 2379,
+                "id": "gid://shopify/ImageSource/25673165275207",
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_9.webp?v=1783665073",
+                "width": 1920,
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_9_500x500.webp?v=1783665073"
+              }
+            }
+          },
+          {
+            "node": {
+              "mediaContentType": "IMAGE",
+              "id": "gid://shopify/MediaImage/25673165111367",
+              "image": {
+                "height": 2379,
+                "id": "gid://shopify/ImageSource/25673165111367",
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_4.webp?v=1783665074",
+                "width": 1920,
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_4_500x500.webp?v=1783665074"
+              }
+            }
+          },
+          {
+            "node": {
+              "mediaContentType": "IMAGE",
+              "id": "gid://shopify/MediaImage/25673165176903",
+              "image": {
+                "height": 2379,
+                "id": "gid://shopify/ImageSource/25673165176903",
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_6.webp?v=1783665073",
+                "width": 1920,
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_6_500x500.webp?v=1783665073"
+              }
+            }
+          },
+          {
+            "node": {
+              "mediaContentType": "IMAGE",
+              "id": "gid://shopify/MediaImage/25673165209671",
+              "image": {
+                "height": 2379,
+                "id": "gid://shopify/ImageSource/25673165209671",
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_7.webp?v=1783665074",
+                "width": 1920,
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_7_500x500.webp?v=1783665074"
+              }
+            }
+          },
+          {
+            "node": {
+              "mediaContentType": "IMAGE",
+              "id": "gid://shopify/MediaImage/25673165144135",
+              "image": {
+                "height": 2379,
+                "id": "gid://shopify/ImageSource/25673165144135",
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_5.webp?v=1783665074",
+                "width": 1920,
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_5_500x500.webp?v=1783665074"
+              }
+            }
+          },
+          {
+            "node": {
+              "mediaContentType": "IMAGE",
+              "id": "gid://shopify/MediaImage/25673165242439",
+              "image": {
+                "height": 2379,
+                "id": "gid://shopify/ImageSource/25673165242439",
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_8.webp?v=1783665074",
+                "width": 1920,
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_8_500x500.webp?v=1783665074"
+              }
+            }
+          },
+          {
+            "node": {
+              "mediaContentType": "IMAGE",
+              "id": "gid://shopify/MediaImage/25673165078599",
+              "image": {
+                "height": 2379,
+                "id": "gid://shopify/ImageSource/25673165078599",
+                "originalSrc": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_3.webp?v=1783665074",
+                "width": 1920,
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_3_500x500.webp?v=1783665074"
+              }
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "4299.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "4299.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "4299.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "4299.0",
+          "currencyCode": "INR"
+        }
+      },
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/9659992604743",
+          "name": "Size",
+          "values": [
+            "XS-36",
+            "S-38",
+            "M-40",
+            "L-42",
+            "XL-44",
+            "XXL-46",
+            "3XL-48",
+            "4XL-50"
+          ]
+        },
+        {
+          "id": "gid://shopify/ProductOption/9659992637511",
+          "name": "Color",
+          "values": [
+            "RED"
+          ]
+        }
+      ],
+      "appmaker_hide_product_status": null,
+      "variants": {
+        "pageInfo": {
+          "hasNextPage": false,
+          "hasPreviousPage": false
+        },
+        "edges": [
+          {
+            "node": {
+              "sellingPlanAllocations": {
+                "edges": []
+              },
+              "availableForSale": true,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 2,
+              "sku": "8909196769635",
+              "id": "gid://shopify/ProductVariant/42749357490247",
+              "title": "XS-36 / RED",
+              "selectedOptions": [
+                {
+                  "name": "Size",
+                  "value": "XS-36"
+                },
+                {
+                  "name": "Color",
+                  "value": "RED"
+                }
+              ],
+              "image": {
+                "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor.webp?v=1786447444",
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor_500x500.webp?v=1786447444"
+              },
+              "price": {
+                "amount": "4299.0",
+                "currencyCode": "INR"
+              },
+              "compareAtPrice": {
+                "currencyCode": "INR",
+                "amount": "4299.0"
+              },
+              "custom_product_mobile_price": null,
+              "custom_custom_variant_total_quantity": null
+            }
+          },
+          {
+            "node": {
+              "sellingPlanAllocations": {
+                "edges": []
+              },
+              "availableForSale": true,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 8,
+              "sku": "8909196769642",
+              "id": "gid://shopify/ProductVariant/42749357523015",
+              "title": "S-38 / RED",
+              "selectedOptions": [
+                {
+                  "name": "Size",
+                  "value": "S-38"
+                },
+                {
+                  "name": "Color",
+                  "value": "RED"
+                }
+              ],
+              "image": {
+                "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor.webp?v=1786447444",
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor_500x500.webp?v=1786447444"
+              },
+              "price": {
+                "amount": "4299.0",
+                "currencyCode": "INR"
+              },
+              "compareAtPrice": {
+                "currencyCode": "INR",
+                "amount": "4299.0"
+              },
+              "custom_product_mobile_price": null,
+              "custom_custom_variant_total_quantity": null
+            }
+          },
+          {
+            "node": {
+              "sellingPlanAllocations": {
+                "edges": []
+              },
+              "availableForSale": true,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 21,
+              "sku": "8909196769659",
+              "id": "gid://shopify/ProductVariant/42749357555783",
+              "title": "M-40 / RED",
+              "selectedOptions": [
+                {
+                  "name": "Size",
+                  "value": "M-40"
+                },
+                {
+                  "name": "Color",
+                  "value": "RED"
+                }
+              ],
+              "image": {
+                "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor.webp?v=1786447444",
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor_500x500.webp?v=1786447444"
+              },
+              "price": {
+                "amount": "4299.0",
+                "currencyCode": "INR"
+              },
+              "compareAtPrice": {
+                "currencyCode": "INR",
+                "amount": "4299.0"
+              },
+              "custom_product_mobile_price": null,
+              "custom_custom_variant_total_quantity": null
+            }
+          },
+          {
+            "node": {
+              "sellingPlanAllocations": {
+                "edges": []
+              },
+              "availableForSale": true,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 19,
+              "sku": "8909196769666",
+              "id": "gid://shopify/ProductVariant/42749357588551",
+              "title": "L-42 / RED",
+              "selectedOptions": [
+                {
+                  "name": "Size",
+                  "value": "L-42"
+                },
+                {
+                  "name": "Color",
+                  "value": "RED"
+                }
+              ],
+              "image": {
+                "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor.webp?v=1786447444",
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor_500x500.webp?v=1786447444"
+              },
+              "price": {
+                "amount": "4299.0",
+                "currencyCode": "INR"
+              },
+              "compareAtPrice": {
+                "currencyCode": "INR",
+                "amount": "4299.0"
+              },
+              "custom_product_mobile_price": null,
+              "custom_custom_variant_total_quantity": null
+            }
+          },
+          {
+            "node": {
+              "sellingPlanAllocations": {
+                "edges": []
+              },
+              "availableForSale": true,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 5,
+              "sku": "8909196769673",
+              "id": "gid://shopify/ProductVariant/42749357621319",
+              "title": "XL-44 / RED",
+              "selectedOptions": [
+                {
+                  "name": "Size",
+                  "value": "XL-44"
+                },
+                {
+                  "name": "Color",
+                  "value": "RED"
+                }
+              ],
+              "image": {
+                "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor.webp?v=1786447444",
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor_500x500.webp?v=1786447444"
+              },
+              "price": {
+                "amount": "4299.0",
+                "currencyCode": "INR"
+              },
+              "compareAtPrice": {
+                "currencyCode": "INR",
+                "amount": "4299.0"
+              },
+              "custom_product_mobile_price": null,
+              "custom_custom_variant_total_quantity": null
+            }
+          },
+          {
+            "node": {
+              "sellingPlanAllocations": {
+                "edges": []
+              },
+              "availableForSale": true,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 2,
+              "sku": "8909196769680",
+              "id": "gid://shopify/ProductVariant/42749357654087",
+              "title": "XXL-46 / RED",
+              "selectedOptions": [
+                {
+                  "name": "Size",
+                  "value": "XXL-46"
+                },
+                {
+                  "name": "Color",
+                  "value": "RED"
+                }
+              ],
+              "image": {
+                "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor.webp?v=1786447444",
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor_500x500.webp?v=1786447444"
+              },
+              "price": {
+                "amount": "4299.0",
+                "currencyCode": "INR"
+              },
+              "compareAtPrice": {
+                "currencyCode": "INR",
+                "amount": "4299.0"
+              },
+              "custom_product_mobile_price": null,
+              "custom_custom_variant_total_quantity": null
+            }
+          },
+          {
+            "node": {
+              "sellingPlanAllocations": {
+                "edges": []
+              },
+              "availableForSale": false,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 0,
+              "sku": "8909196769697",
+              "id": "gid://shopify/ProductVariant/42749357686855",
+              "title": "3XL-48 / RED",
+              "selectedOptions": [
+                {
+                  "name": "Size",
+                  "value": "3XL-48"
+                },
+                {
+                  "name": "Color",
+                  "value": "RED"
+                }
+              ],
+              "image": {
+                "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor.webp?v=1786447444",
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor_500x500.webp?v=1786447444"
+              },
+              "price": {
+                "amount": "4299.0",
+                "currencyCode": "INR"
+              },
+              "compareAtPrice": {
+                "currencyCode": "INR",
+                "amount": "4299.0"
+              },
+              "custom_product_mobile_price": null,
+              "custom_custom_variant_total_quantity": null
+            }
+          },
+          {
+            "node": {
+              "sellingPlanAllocations": {
+                "edges": []
+              },
+              "availableForSale": false,
+              "currentlyNotInStock": false,
+              "quantityAvailable": 0,
+              "sku": "8909196769703",
+              "id": "gid://shopify/ProductVariant/42749357719623",
+              "title": "4XL-50 / RED",
+              "selectedOptions": [
+                {
+                  "name": "Size",
+                  "value": "4XL-50"
+                },
+                {
+                  "name": "Color",
+                  "value": "RED"
+                }
+              ],
+              "image": {
+                "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor.webp?v=1786447444",
+                "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor_500x500.webp?v=1786447444"
+              },
+              "price": {
+                "amount": "4299.0",
+                "currencyCode": "INR"
+              },
+              "compareAtPrice": {
+                "currencyCode": "INR",
+                "amount": "4299.0"
+              },
+              "custom_product_mobile_price": null,
+              "custom_custom_variant_total_quantity": null
+            }
+          }
+        ]
+      },
+      "images": {
+        "pageInfo": {
+          "hasNextPage": false,
+          "hasPreviousPage": false
+        },
+        "edges": [
+          {
+            "node": {
+              "altText": null,
+              "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor.webp?v=1786447444",
+              "height": 3585,
+              "width": 2880,
+              "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/acvor_500x500.webp?v=1786447444"
+            }
+          },
+          {
+            "node": {
+              "altText": null,
+              "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295.jpg?v=1786644569",
+              "height": 2379,
+              "width": 1920,
+              "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_500x500.jpg?v=1786644569"
+            }
+          },
+          {
+            "node": {
+              "altText": null,
+              "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_1__hm.webp?v=1783665074",
+              "height": 2379,
+              "width": 1920,
+              "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_1__hm_500x500.webp?v=1783665074"
+            }
+          },
+          {
+            "node": {
+              "altText": null,
+              "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_9.webp?v=1783665073",
+              "height": 2379,
+              "width": 1920,
+              "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_9_500x500.webp?v=1783665073"
+            }
+          },
+          {
+            "node": {
+              "altText": null,
+              "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_4.webp?v=1783665074",
+              "height": 2379,
+              "width": 1920,
+              "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_4_500x500.webp?v=1783665074"
+            }
+          },
+          {
+            "node": {
+              "altText": null,
+              "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_6.webp?v=1783665073",
+              "height": 2379,
+              "width": 1920,
+              "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_6_500x500.webp?v=1783665073"
+            }
+          },
+          {
+            "node": {
+              "altText": null,
+              "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_7.webp?v=1783665074",
+              "height": 2379,
+              "width": 1920,
+              "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_7_500x500.webp?v=1783665074"
+            }
+          },
+          {
+            "node": {
+              "altText": null,
+              "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_5.webp?v=1783665074",
+              "height": 2379,
+              "width": 1920,
+              "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_5_500x500.webp?v=1783665074"
+            }
+          },
+          {
+            "node": {
+              "altText": null,
+              "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_8.webp?v=1783665074",
+              "height": 2379,
+              "width": 1920,
+              "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_8_500x500.webp?v=1783665074"
+            }
+          },
+          {
+            "node": {
+              "altText": null,
+              "src": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_3.webp?v=1783665074",
+              "height": 2379,
+              "width": 1920,
+              "url": "https://cdn.shopify.com/s/files/1/0752/6435/files/RR290295_3_500x500.webp?v=1783665074"
+            }
+          }
+        ]
+      },
+      "my_fields_sub_title": {
+        "value": "ACVOR - RED"
+      },
+      "my_fields_main_title": {
+        "value": "TWILL MELANGE FORMAL SHIRT"
+      },
+      "custom_variant_color_image": {
+        "value": "gid://shopify/MediaImage/25791840419911"
+      },
+      "custom_variant_color_products": null,
+      "gst_saving_amount": null,
+      "delivery_starts": null,
+      "custom_products_list": null,
+      "mainTitle": {
+        "value": "TWILL MELANGE FORMAL SHIRT"
+      },
+      "meta_my_fields_product_badges": null,
+      "meta_custom_product_details_banner": null,
+      "meta_custom_product_banner_carousel_mobile": null,
+      "meta_custom_pairs_well_with_products": null,
+      "meta_custom_product_highlights": null,
+      "custom_product_recommendations": null,
+      "categoryText": {
+        "value": "ACVOR - RED"
+      },
+      "patternText": {
+        "value": "CHECKED"
+      },
+      "fabricText": {
+        "value": "POLYESTER BLEND"
+      },
+      "closureText": {
+        "value": "BUTTON"
+      },
+      "occasionText": {
+        "value": "FORMAL"
+      },
+      "sleeveText": {
+        "value": "FULL SLEEVE"
+      },
+      "fitText": {
+        "value": "REGULAR"
+      },
+      "collarText": {
+        "value": "SPREAD COLLAR"
+      },
+      "black_friday_sale_price": {
+        "value": "10"
+      },
+      "rewards_points": null
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 836
+    }
+  }
+}

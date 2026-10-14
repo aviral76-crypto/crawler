@@ -1,0 +1,3092 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-07-15T15:22:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2422698829,
+  "lat": 28.5679711,
+  "lon": 77.2196884,
+  "tags": {
+    "addr:city": "New Delhi",
+    "addr:street": "South Extension",
+    "brand": "Metro",
+    "brand:wikidata": "Q16938284",
+    "name": "Metro",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 2422712363,
+  "lat": 28.5679825,
+  "lon": 77.2194819,
+  "tags": {
+    "addr:city": "New Delhi",
+    "addr:street": "South Extension",
+    "brand": "Hush Puppies",
+    "brand:wikidata": "Q1828588",
+    "name": "Hush Puppies",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 4076669377,
+  "lat": 28.6467834,
+  "lon": 77.2128331,
+  "tags": {
+    "name": "Krishna Shoes",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5435635799,
+  "lat": 28.5677042,
+  "lon": 77.2437240,
+  "tags": {
+    "addr:housenumber": "K-36",
+    "addr:street": "Feroze Gandhi Road",
+    "name": "Export Hut",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 5435635895,
+  "lat": 28.5683253,
+  "lon": 77.2422160,
+  "tags": {
+    "name": "Sïndhï Footwear",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 5435635921,
+  "lat": 28.5684468,
+  "lon": 77.2420460,
+  "tags": {
+    "name": "Gaurav Footwear's",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 5545575719,
+  "lat": 28.6312993,
+  "lon": 77.2203072,
+  "tags": {
+    "brand": "Woodland",
+    "check_date": "2023-12-22",
+    "name": "Woodland",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 5604865342,
+  "lat": 28.5122857,
+  "lon": 77.2031329,
+  "tags": {
+    "brand": "Liberty",
+    "brand:wikidata": "Q6541947",
+    "name": "Liberty Exclusive Showroom",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 5642286654,
+  "lat": 28.5361498,
+  "lon": 77.2093927,
+  "tags": {
+    "brand": "Liberty",
+    "brand:wikidata": "Q6541947",
+    "name": "Liberty Exclusive Showroom",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 5732543995,
+  "lat": 28.5598576,
+  "lon": 77.2069701,
+  "tags": {
+    "addr:postcode": "110016",
+    "name": "Paras Footwear",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 5732544092,
+  "lat": 28.5600741,
+  "lon": 77.2069803,
+  "tags": {
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "name": "Bata",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 5827200869,
+  "lat": 28.5367727,
+  "lon": 77.2124268,
+  "tags": {
+    "name": "Royal Shoes",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 5827206262,
+  "lat": 28.5350859,
+  "lon": 77.2104264,
+  "tags": {
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "level": "-0.5",
+    "name": "Bata",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 5827206263,
+  "lat": 28.5349458,
+  "lon": 77.2103245,
+  "tags": {
+    "brand": "Red Tape",
+    "level": "-1",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 5903909958,
+  "lat": 28.5144954,
+  "lon": 77.2052540,
+  "tags": {
+    "name": "Stylet",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6007071195,
+  "lat": 28.5701023,
+  "lon": 77.2416411,
+  "tags": {
+    "name": "Delco",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 6007071196,
+  "lat": 28.5691973,
+  "lon": 77.2436724,
+  "tags": {
+    "brand": "Liberty",
+    "brand:wikidata": "Q6541947",
+    "name": "Liberty Exclusive Showroom",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 6007071582,
+  "lat": 28.5697983,
+  "lon": 77.2421803,
+  "tags": {
+    "brand": "Bata;Power",
+    "name": "Bata",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 6012564937,
+  "lat": 28.5663769,
+  "lon": 77.2465179,
+  "tags": {
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "level": "-1",
+    "name": "Bata",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 6115749785,
+  "lat": 28.5670436,
+  "lon": 77.2451996,
+  "tags": {
+    "brand": "Bata;Liberty",
+    "level": "0.5",
+    "name": "Bata Liberty",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 6184229008,
+  "lat": 28.5704667,
+  "lon": 77.2406466,
+  "tags": {
+    "brand": "Hush Puppies",
+    "brand:wikidata": "Q1828588",
+    "check_date": "2023-11-22",
+    "name": "Hush Puppies",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 6184229010,
+  "lat": 28.5699947,
+  "lon": 77.2395665,
+  "tags": {
+    "addr:housenumber": "A95;A96;A97",
+    "addr:place": "Lajpat Nagar II",
+    "check_date": "2024-04-27",
+    "level": "0;1",
+    "name": "Style Shoes",
+    "phone": "+91-11-2984-6009;+91-11-2984-6055",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6188336369,
+  "lat": 28.4927697,
+  "lon": 77.1462544,
+  "tags": {
+    "brand": "Skechers",
+    "brand:wikidata": "Q2945643",
+    "name": "Skechers",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 6225478958,
+  "lat": 28.6304619,
+  "lon": 77.2173996,
+  "tags": {
+    "addr:city": "New Delhi",
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "name": "Pellenium",
+    "shop": "shoes",
+    "survey:date": "2023-01-22"
+  }
+},
+{
+  "type": "node",
+  "id": 6458625088,
+  "lat": 28.5432448,
+  "lon": 77.2519729,
+  "tags": {
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 6495330846,
+  "lat": 28.6341682,
+  "lon": 77.2188138,
+  "tags": {
+    "addr:housename": "B",
+    "addr:place": "Connaught Place",
+    "addr:postcode": "110001",
+    "addr:unit": "20",
+    "air_conditioning": "yes",
+    "brand": "Nike",
+    "brand:wikidata": "Q483915",
+    "check_date": "2024-09-17",
+    "level": "0;1",
+    "name": "Nike",
+    "operator": "BDA Co.",
+    "second_hand": "no",
+    "shop": "shoes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6495330849,
+  "lat": 28.6343152,
+  "lon": 77.2195054,
+  "tags": {
+    "addr:housename": "B",
+    "addr:place": "Connaught Place",
+    "addr:postcode": "110001",
+    "brand": "Woodland",
+    "brand:wikidata": "Q123068491",
+    "check_date": "2026-03-14",
+    "level": "0",
+    "name": "Woodland",
+    "operator": "Aero Club",
+    "shop": "shoes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6495330856,
+  "lat": 28.6342850,
+  "lon": 77.2192948,
+  "tags": {
+    "addr:housename": "B",
+    "addr:place": "Connaught Place",
+    "addr:postcode": "110001",
+    "check_date": "2026-03-14",
+    "level": "0",
+    "name": "Sports Station",
+    "shop": "shoes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6495330862,
+  "lat": 28.6339027,
+  "lon": 77.2184903,
+  "tags": {
+    "addr:housename": "B",
+    "addr:place": "Connaught Place",
+    "addr:postcode": "110001",
+    "brand": "Skechers",
+    "brand:wikidata": "Q2945643",
+    "check_date": "2026-03-14",
+    "level": "0",
+    "name": "Skechers",
+    "shop": "shoes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6495330870,
+  "lat": 28.6344614,
+  "lon": 77.2195591,
+  "tags": {
+    "addr:housename": "B",
+    "addr:place": "Connaught Place",
+    "addr:postcode": "110001",
+    "check_date": "2026-03-14",
+    "name": "Eleven",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 6537354298,
+  "lat": 28.6183193,
+  "lon": 77.2792979,
+  "tags": {
+    "name": "Bata",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 6757540822,
+  "lat": 28.5101013,
+  "lon": 77.2019370,
+  "tags": {
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "name": "Bata",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 6772002194,
+  "lat": 28.5153803,
+  "lon": 77.2053974,
+  "tags": {
+    "name": "Shoe World",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 7171803651,
+  "lat": 28.6286626,
+  "lon": 77.2776859,
+  "tags": {
+    "contact:phone": "+91 70425 77162;+91 92684 79746",
+    "name": "Bulbul Footwear",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 8938913395,
+  "lat": 28.6088030,
+  "lon": 77.2925692,
+  "tags": {
+    "name": "Relaxo",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 8987550837,
+  "lat": 28.6800664,
+  "lon": 77.1943915,
+  "tags": {
+    "check_date": "2026-03-20",
+    "name": "Relaxo",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 9037176581,
+  "lat": 28.6324874,
+  "lon": 77.2214020,
+  "tags": {
+    "brand": "Skechers",
+    "brand:wikidata": "Q2945643",
+    "level": "0",
+    "name": "Skechers",
+    "shop": "shoes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9180407802,
+  "lat": 28.6340338,
+  "lon": 77.2208333,
+  "tags": {
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "level": "0;1",
+    "name": "Bata",
+    "shop": "shoes",
+    "toilets:wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9193222429,
+  "lat": 28.6431142,
+  "lon": 77.2407196,
+  "tags": {
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "name": "Bata",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 9202287945,
+  "lat": 28.6339360,
+  "lon": 77.2185325,
+  "tags": {
+    "brand": "Crocs",
+    "brand:wikidata": "Q926699",
+    "check_date": "2026-03-14",
+    "name": "Crocs",
+    "shop": "shoes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9238938943,
+  "lat": 28.6360234,
+  "lon": 77.2853430,
+  "tags": {
+    "name": "Action",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 9238944576,
+  "lat": 28.6407814,
+  "lon": 77.2939528,
+  "tags": {
+    "check_date": "2023-08-05",
+    "name": "Shiva's",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9714358890,
+  "lat": 28.5171662,
+  "lon": 77.0946439,
+  "tags": {
+    "name": "Skechers",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 9941140618,
+  "lat": 28.6565672,
+  "lon": 77.2238129,
+  "tags": {
+    "addr:postcode": "110006",
+    "name": "Bootery",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 10567488810,
+  "lat": 28.6473048,
+  "lon": 77.1902035,
+  "tags": {
+    "brand": "Crocs",
+    "brand:wikidata": "Q926699",
+    "name": "Crocs",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 10574881841,
+  "lat": 28.6460441,
+  "lon": 77.1892606,
+  "tags": {
+    "level": "0",
+    "name": "Stelatoes",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10574924141,
+  "lat": 28.6471495,
+  "lon": 77.1897727,
+  "tags": {
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "level": "0",
+    "name": "Bata",
+    "shop": "shoes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10574933746,
+  "lat": 28.6472603,
+  "lon": 77.1898965,
+  "tags": {
+    "brand": "Woodland",
+    "brand:wikidata": "Q123068491",
+    "name": "Woodland",
+    "shop": "shoes",
+    "survey:date": "2023-01-22"
+  }
+},
+{
+  "type": "node",
+  "id": 10574933747,
+  "lat": 28.6472828,
+  "lon": 77.1899133,
+  "tags": {
+    "name": "Supreme Club Shoes",
+    "shop": "shoes",
+    "survey:date": "2023-01-22"
+  }
+},
+{
+  "type": "node",
+  "id": 10576139544,
+  "lat": 28.6007754,
+  "lon": 77.2271927,
+  "tags": {
+    "name": "Bourgee",
+    "shop": "shoes",
+    "survey:date": "2023-01-23"
+  }
+},
+{
+  "type": "node",
+  "id": 10588557405,
+  "lat": 28.6452136,
+  "lon": 77.1884492,
+  "tags": {
+    "name": "Venus Steps",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 10588915705,
+  "lat": 28.6562874,
+  "lon": 77.2285432,
+  "tags": {
+    "addr:postcode": "110006",
+    "name": "Balujas",
+    "shop": "shoes",
+    "survey:date": "2023-01-28"
+  }
+},
+{
+  "type": "node",
+  "id": 10591366305,
+  "lat": 28.6462403,
+  "lon": 77.1894043,
+  "tags": {
+    "brand": "Hush Puppies",
+    "brand:wikidata": "Q1828588",
+    "name": "Hush Puppies",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 10599137785,
+  "lat": 28.6294978,
+  "lon": 77.2193417,
+  "tags": {
+    "addr:unit": "4",
+    "name": "Des Raj & Sons",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 10706486870,
+  "lat": 28.7296684,
+  "lon": 77.1643006,
+  "tags": {
+    "brand": "Relaxo",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 10902511850,
+  "lat": 28.3872263,
+  "lon": 77.3547245,
+  "tags": {
+    "name": "Puma Store",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 10945905642,
+  "lat": 28.5502585,
+  "lon": 77.2347571,
+  "tags": {
+    "level": "0",
+    "name": "Wings",
+    "operator": "Mak and Sons",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10964049319,
+  "lat": 28.7458630,
+  "lon": 77.1602091,
+  "tags": {
+    "addr:city": "Delhi",
+    "addr:full": "D-57 Main Road Balaji Chowk Shraddhanand Colony Bhalaswa Dairy Delhi 42",
+    "addr:hamlet": "Shraddhanand Colony",
+    "addr:housenumber": "D-57",
+    "addr:place": "Balaji Chowk",
+    "addr:postcode": "110042",
+    "addr:suburb": "Bhalaswa Dairy",
+    "contact:mobile": "+91-97179-32859;+91-72103-25709",
+    "name": "Vijay Footwear",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10968993654,
+  "lat": 28.3834873,
+  "lon": 77.0521573,
+  "tags": {
+    "addr:city": "Gurgaon",
+    "addr:district": "Gurgaon",
+    "addr:postcode": "122101",
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "name": "Bata",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 10969463544,
+  "lat": 28.6565028,
+  "lon": 77.2247365,
+  "tags": {
+    "addr:postcode": "110006",
+    "name": "Bahuji Shoes",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726029,
+  "lat": 28.6221503,
+  "lon": 77.2891235,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726033,
+  "lat": 28.6221403,
+  "lon": 77.2890952,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726038,
+  "lat": 28.6223070,
+  "lon": 77.2892870,
+  "tags": {
+    "note": "Seller of women's shoes.",
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726042,
+  "lat": 28.6221625,
+  "lon": 77.2891498,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726044,
+  "lat": 28.6219710,
+  "lon": 77.2887558,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726045,
+  "lat": 28.6220500,
+  "lon": 77.2889402,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726046,
+  "lat": 28.6220059,
+  "lon": 77.2888442,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726048,
+  "lat": 28.6219899,
+  "lon": 77.2888012,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726052,
+  "lat": 28.6222237,
+  "lon": 77.2892523,
+  "tags": {
+    "note": "Seller of babies' and children's slippers and sandals.",
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726054,
+  "lat": 28.6221269,
+  "lon": 77.2890719,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726062,
+  "lat": 28.6219419,
+  "lon": 77.2886829,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726063,
+  "lat": 28.6219550,
+  "lon": 77.2887179,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726066,
+  "lat": 28.6219004,
+  "lon": 77.2886715,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11012602408,
+  "lat": 28.6224425,
+  "lon": 77.2897187,
+  "tags": {
+    "note": "Seller of children's slippers.",
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11022899403,
+  "lat": 28.7162813,
+  "lon": 77.1739063,
+  "tags": {
+    "addr:block": "A",
+    "addr:city": "Delhi",
+    "addr:housename": "Chaudhary Building",
+    "addr:housenumber": "11",
+    "addr:neighbourhood": "Majlis Park",
+    "addr:postcode": "110033",
+    "contact:mobile": "+91-82871-91121;+91-95280-57699",
+    "level": "0",
+    "name": "Only Brands",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11069229210,
+  "lat": 28.6220825,
+  "lon": 77.2929518,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11069229215,
+  "lat": 28.6221040,
+  "lon": 77.2928290,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11069229216,
+  "lat": 28.6220513,
+  "lon": 77.2931834,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11069229222,
+  "lat": 28.6221753,
+  "lon": 77.2929878,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11069229226,
+  "lat": 28.6221314,
+  "lon": 77.2926414,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11069229228,
+  "lat": 28.6221410,
+  "lon": 77.2925720,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "shoes",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11093497968,
+  "lat": 28.6185985,
+  "lon": 77.2789343,
+  "tags": {
+    "brand": "Skechers",
+    "name": "Skechers",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11212002012,
+  "lat": 28.6377863,
+  "lon": 77.2869281,
+  "tags": {
+    "addr:unit": "F-65",
+    "level": "1",
+    "name": "Ladies & Kids Footwear",
+    "shop": "shoes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11212069526,
+  "lat": 28.6375682,
+  "lon": 77.2868907,
+  "tags": {
+    "addr:postcode": "110092",
+    "addr:unit": "F-76",
+    "level": "1",
+    "name": "Redtape",
+    "shop": "shoes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11212074779,
+  "lat": 28.6377399,
+  "lon": 77.2868399,
+  "tags": {
+    "addr:full": "F-67, V3S Mall, District Center, Laxmi Nagar, Delhi 110092",
+    "addr:postcode": "110092",
+    "contact:mobile": "+91 98994 52119",
+    "level": "1",
+    "name": "The Shoe Factory",
+    "operator": "M/S. S.S. Traders",
+    "shop": "shoes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11254891654,
+  "lat": 28.5694455,
+  "lon": 77.2432481,
+  "tags": {
+    "level": "-1",
+    "name": "Smarty",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11311131984,
+  "lat": 28.5551253,
+  "lon": 77.0832771,
+  "tags": {
+    "name": "Steve Madden",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11368545074,
+  "lat": 28.5699062,
+  "lon": 77.2395035,
+  "tags": {
+    "check_date": "2024-04-27",
+    "level": "0;1",
+    "name": "Style Shoes 98",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11368545152,
+  "lat": 28.5699500,
+  "lon": 77.2395294,
+  "tags": {
+    "branch": "Lajpat Nagar",
+    "check_date": "2024-04-27",
+    "contact:mobile": "+91-99580-88979;+91-99585-74161",
+    "level": "-1",
+    "male": "yes",
+    "name": "Heena Shoes",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11443228748,
+  "lat": 28.6337722,
+  "lon": 77.2210112,
+  "tags": {
+    "check_date": "2026-03-14",
+    "level": "0",
+    "name": "The Heels",
+    "shoes": "men;women;sports;workwear;sports",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11637282899,
+  "lat": 28.6344427,
+  "lon": 77.2200529,
+  "tags": {
+    "brand": "Hush Puppies",
+    "brand:wikidata": "Q1828588",
+    "check_date": "2026-03-14",
+    "name": "Hush Puppies",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11637392888,
+  "lat": 28.6342961,
+  "lon": 77.2200358,
+  "tags": {
+    "brand": "Birkenstock;Crocs;Fitflop",
+    "check_date": "2026-03-14",
+    "level": "0;1",
+    "name": "D'Shoe Lounge",
+    "shop": "shoes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11672397797,
+  "lat": 28.5505322,
+  "lon": 77.2341096,
+  "tags": {
+    "level": "0",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11688160147,
+  "lat": 28.5163540,
+  "lon": 77.1034451,
+  "tags": {
+    "name": "Shayora Foot Wear",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11693507006,
+  "lat": 28.6897051,
+  "lon": 77.2963015,
+  "tags": {
+    "name": "CALCETTO",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11693511741,
+  "lat": 28.6896656,
+  "lon": 77.3004363,
+  "tags": {
+    "name": "YUGAM SHOES",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11696650502,
+  "lat": 28.4700504,
+  "lon": 77.3074098,
+  "tags": {
+    "name": "Red Tape",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11696693780,
+  "lat": 28.4694586,
+  "lon": 77.3074661,
+  "tags": {
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "name": "Bata",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11697709252,
+  "lat": 28.7359677,
+  "lon": 77.2944731,
+  "tags": {
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11813303019,
+  "lat": 28.6811110,
+  "lon": 77.2076097,
+  "tags": {
+    "brand": "Skechers",
+    "brand:wikidata": "Q2945643",
+    "name": "Skechers",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11813303025,
+  "lat": 28.6822271,
+  "lon": 77.2066870,
+  "tags": {
+    "brand": "Metro",
+    "brand:wikidata": "Q16938284",
+    "name": "Metro",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11813303038,
+  "lat": 28.6821981,
+  "lon": 77.2067200,
+  "tags": {
+    "brand": "Crocs",
+    "brand:wikidata": "Q926699",
+    "name": "Crocs",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11845989674,
+  "lat": 28.6825047,
+  "lon": 77.1978621,
+  "tags": {
+    "brand": "Sparx",
+    "check_date": "2026-03-20",
+    "level": "0",
+    "name": "Baba Footwear",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11854042627,
+  "lat": 28.5696159,
+  "lon": 77.2390429,
+  "tags": {
+    "check_date": "2024-04-27",
+    "level": "0",
+    "name": "Real Leather European Shoes",
+    "phone": "+91 98970 08474; +91 98996 66789",
+    "shoes": "women;children;men",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11871519876,
+  "lat": 28.5498394,
+  "lon": 77.2354980,
+  "tags": {
+    "level": "0",
+    "name": "Úrbane",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11873857917,
+  "lat": 28.5950146,
+  "lon": 77.1227239,
+  "tags": {
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "level": "0",
+    "name": "Bata",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11876083306,
+  "lat": 28.5954683,
+  "lon": 77.1229549,
+  "tags": {
+    "level": "0",
+    "name": "Dada Shoe Store",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11878999612,
+  "lat": 28.5940482,
+  "lon": 77.1218031,
+  "tags": {
+    "contact:mobile": "+91 89200 10233",
+    "level": "0",
+    "name": "Alliya Footwear",
+    "shoes:repair": "no",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11878999620,
+  "lat": 28.5942992,
+  "lon": 77.1219319,
+  "tags": {
+    "level": "0",
+    "name": "Vashisht",
+    "shoes:repair": "no",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11891024858,
+  "lat": 28.5964033,
+  "lon": 77.1343281,
+  "tags": {
+    "brand": "Bata",
+    "level": "0",
+    "name": "Bata",
+    "shoes:repair": "no",
+    "shop": "shoes",
+    "toilets": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11896843327,
+  "lat": 28.5964061,
+  "lon": 77.1339879,
+  "tags": {
+    "level": "0",
+    "name": "Dada Shoe Company",
+    "second_hand": "no",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11925829939,
+  "lat": 28.5968993,
+  "lon": 77.1326021,
+  "tags": {
+    "level": "0",
+    "name": "Perf",
+    "shop": "shoes",
+    "toilets": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11942152320,
+  "lat": 28.5940509,
+  "lon": 77.1213397,
+  "tags": {
+    "contact:mobile": "+91 99536 75232",
+    "level": "0",
+    "name": "Fashion Footwear",
+    "shop": "shoes",
+    "toilets": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11942184060,
+  "lat": 28.5936908,
+  "lon": 77.1216084,
+  "tags": {
+    "contact:mobile": "+91 98182 67354",
+    "level": "0",
+    "name": "New Punjab Footwear",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12005322571,
+  "lat": 28.6127713,
+  "lon": 77.1097018,
+  "tags": {
+    "level": "0",
+    "name": "Alia Shoe Palace",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12005322586,
+  "lat": 28.6130664,
+  "lon": 77.1092334,
+  "tags": {
+    "level": "0",
+    "name": "Hi-fi Shoes",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12043151899,
+  "lat": 28.5772278,
+  "lon": 77.1960300,
+  "tags": {
+    "level": "0",
+    "name": "Shoe And Toes",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12043151910,
+  "lat": 28.5768978,
+  "lon": 77.1960338,
+  "tags": {
+    "level": "0",
+    "name": "Sawhney Shoes",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12043151914,
+  "lat": 28.5761300,
+  "lon": 77.1954166,
+  "tags": {
+    "level": "0",
+    "name": "New Light Chappel Centre",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12066187966,
+  "lat": 28.6373894,
+  "lon": 77.2865399,
+  "tags": {
+    "level": "1",
+    "name": "Peele Albero",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12066187967,
+  "lat": 28.6374287,
+  "lon": 77.2869754,
+  "tags": {
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "level": "1",
+    "name": "Bata",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12066187968,
+  "lat": 28.6374132,
+  "lon": 77.2865230,
+  "tags": {
+    "level": "1",
+    "name": "Balujas",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12066198328,
+  "lat": 28.6374084,
+  "lon": 77.2862703,
+  "tags": {
+    "level": "1",
+    "name": "Calcetto",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12066198329,
+  "lat": 28.6372786,
+  "lon": 77.2863513,
+  "tags": {
+    "brand": "Liberty",
+    "brand:wikidata": "Q6541947",
+    "level": "1",
+    "name": "Liberty Exclusive Showroom",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12066198330,
+  "lat": 28.6373675,
+  "lon": 77.2862890,
+  "tags": {
+    "level": "1",
+    "name": "Pair Heels",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12066198334,
+  "lat": 28.6374764,
+  "lon": 77.2862305,
+  "tags": {
+    "brand": "Crocs",
+    "brand:wikidata": "Q926699",
+    "level": "1",
+    "name": "Crocs",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12066206643,
+  "lat": 28.6371818,
+  "lon": 77.2861222,
+  "tags": {
+    "check_date": "2024-07-21",
+    "level": "0",
+    "name": "MD Footwear",
+    "shoes": "women",
+    "shop": "shoes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12066222174,
+  "lat": 28.6374753,
+  "lon": 77.2864814,
+  "tags": {
+    "level": "1",
+    "name": "Asian",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12066224981,
+  "lat": 28.6371558,
+  "lon": 77.2861500,
+  "tags": {
+    "check_date": "2024-07-21",
+    "level": "0",
+    "name": "M&D Footwear",
+    "shoes": "women",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12068146316,
+  "lat": 28.5551099,
+  "lon": 77.1947808,
+  "tags": {
+    "check_date": "2024-07-22",
+    "contact:instagram": "triple9storeofficial",
+    "level": "-1",
+    "name": "Triple 9",
+    "shoes": "women",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12068146349,
+  "lat": 28.5547879,
+  "lon": 77.1942767,
+  "tags": {
+    "check_date": "2024-07-22",
+    "level": "0",
+    "name": "Khanti",
+    "shop": "shoes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12068146353,
+  "lat": 28.5546883,
+  "lon": 77.1944693,
+  "tags": {
+    "check_date": "2024-07-22",
+    "level": "0",
+    "name": "Carry Love",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12093464146,
+  "lat": 28.5399555,
+  "lon": 77.2511581,
+  "tags": {
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "level": "0",
+    "name": "Bata",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12135670070,
+  "lat": 28.6459200,
+  "lon": 77.1891814,
+  "tags": {
+    "brand": "Crocs",
+    "brand:wikidata": "Q926699",
+    "level": "0",
+    "name": "Crocs",
+    "shoes:repair": "no",
+    "shop": "shoes",
+    "toilets:wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12208840340,
+  "lat": 28.5683168,
+  "lon": 77.2452615,
+  "tags": {
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "check_date": "2024-09-29",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "1",
+    "name": "Bata",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12270870726,
+  "lat": 28.3922519,
+  "lon": 77.0589111,
+  "tags": {
+    "level": "1",
+    "name": "Helo Heels",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12270870734,
+  "lat": 28.3920844,
+  "lon": 77.0589561,
+  "tags": {
+    "level": "0",
+    "name": "Toasty-Toes",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12270870736,
+  "lat": 28.3923187,
+  "lon": 77.0592373,
+  "tags": {
+    "level": "0",
+    "name": "Lyric Walk",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12368961580,
+  "lat": 28.5838101,
+  "lon": 77.0715394,
+  "tags": {
+    "check_date": "2024-11-24",
+    "name": "Shooz",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12385686569,
+  "lat": 28.5846418,
+  "lon": 77.0714998,
+  "tags": {
+    "check_date": "2024-11-30",
+    "name": "Action Campus",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12495364198,
+  "lat": 28.6984817,
+  "lon": 77.2044551,
+  "tags": {
+    "check_date": "2025-01-12",
+    "level": "0",
+    "name": "Punjab Shoes",
+    "name:en": "Punjab shoes",
+    "name:hi": "पंजाब जूतों की दुकान",
+    "opening_hours": "11:00-21:00",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12495386398,
+  "lat": 28.6986073,
+  "lon": 77.2075990,
+  "tags": {
+    "check_date": "2025-01-12",
+    "name": "Relaxo",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "shoes": "men;children;women",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12495400070,
+  "lat": 28.6981681,
+  "lon": 77.2043954,
+  "tags": {
+    "air_conditioning": "no",
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "check_date": "2025-01-12",
+    "currency:INR": "yes",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Bata",
+    "operator": "M/s Kay-Kay Shoes",
+    "payment:cards": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "shoes": "women;men;sport;yes;children;orthopaedic",
+    "shop": "shoes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12495402169,
+  "lat": 28.6984605,
+  "lon": 77.2044185,
+  "tags": {
+    "addr:housenumber": "112",
+    "air_conditioning": "no",
+    "changing_table": "no",
+    "check_date": "2025-01-12",
+    "currency:INR": "yes",
+    "internet_access": "no",
+    "level": "0",
+    "mobile": "+91-9811830240",
+    "name": "Parmanand Shoe Store",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "shoes": "women;men;orthopaedic;sport;yes;children",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12495419443,
+  "lat": 28.6983297,
+  "lon": 77.2044365,
+  "tags": {
+    "check_date": "2025-01-12",
+    "level": "0",
+    "name": "Sports'n Fashion",
+    "name:en": "Sports'n Fashion",
+    "name:hi": "स्पोर्ट्स और फ़ैशन",
+    "opening_hours": "11:00-21:00",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12495426638,
+  "lat": 28.6984123,
+  "lon": 77.2044391,
+  "tags": {
+    "check_date": "2025-01-12",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Classic Shoes",
+    "shop": "shoes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12504354695,
+  "lat": 28.6946853,
+  "lon": 77.1539211,
+  "tags": {
+    "level": "1",
+    "name": "D'Shoe Lounge",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12525641147,
+  "lat": 28.5874338,
+  "lon": 77.0712619,
+  "tags": {
+    "check_date": "2025-01-23",
+    "level": "-1",
+    "name": "Shoe Tree",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12548074464,
+  "lat": 28.5877841,
+  "lon": 77.0712910,
+  "tags": {
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "check_date": "2025-02-01",
+    "level": "-1",
+    "name": "Bata",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12593263233,
+  "lat": 28.6313419,
+  "lon": 77.2202702,
+  "tags": {
+    "level": "0",
+    "name": "Surya Enterprises",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12690131047,
+  "lat": 28.5886610,
+  "lon": 77.0717418,
+  "tags": {
+    "check_date": "2025-03-22",
+    "name": "Abros",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12712532166,
+  "lat": 28.6003633,
+  "lon": 77.2277570,
+  "tags": {
+    "name": "Baluja",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12712532183,
+  "lat": 28.6003499,
+  "lon": 77.2277241,
+  "tags": {
+    "name": "K.K.LEE",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12712532186,
+  "lat": 28.6002804,
+  "lon": 77.2275788,
+  "tags": {
+    "name": "Venus Steps",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12715928327,
+  "lat": 28.7062307,
+  "lon": 77.1225209,
+  "tags": {
+    "name": "Relaxo",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12726500774,
+  "lat": 28.6388429,
+  "lon": 77.2918993,
+  "tags": {
+    "brand": "Bata",
+    "name": "Bata",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12730244164,
+  "lat": 28.5872793,
+  "lon": 77.0716076,
+  "tags": {
+    "check_date": "2025-04-05",
+    "name": "Campus",
+    "note": "Add in name suggestion index",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12752264443,
+  "lat": 28.6564059,
+  "lon": 77.2254504,
+  "tags": {
+    "addr:housenumber": "704;706;707",
+    "addr:state": "DL",
+    "addr:street": "Chandni Chowk",
+    "level": "0",
+    "name": "New Karnal Footwear",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12752264446,
+  "lat": 28.6563741,
+  "lon": 77.2254480,
+  "tags": {
+    "addr:housenumber": "708",
+    "addr:state": "DL",
+    "addr:street": "Chandni Chowk",
+    "level": "0",
+    "name": "Fancy Chappal Store",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12753521517,
+  "lat": 28.6564252,
+  "lon": 77.2252470,
+  "tags": {
+    "name": "Smart Foot Care",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12753521520,
+  "lat": 28.6564275,
+  "lon": 77.2253303,
+  "tags": {
+    "name": "Jagat Footwear",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12828275618,
+  "lat": 28.7077498,
+  "lon": 77.1242747,
+  "tags": {
+    "brand": "ASICS",
+    "brand:wikidata": "Q327247",
+    "level": "0",
+    "name": "ASICS",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12828290668,
+  "lat": 28.7074232,
+  "lon": 77.1235387,
+  "tags": {
+    "brand": "Campus",
+    "check_date": "2025-05-11",
+    "name": "Campus Exclusive",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12828298708,
+  "lat": 28.7080130,
+  "lon": 77.1244841,
+  "tags": {
+    "brand": "Skechers",
+    "brand:wikidata": "Q2945643",
+    "level": "0",
+    "name": "Skechers",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12828298711,
+  "lat": 28.7080954,
+  "lon": 77.1245563,
+  "tags": {
+    "level": "0",
+    "name": "calcet9",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12828298715,
+  "lat": 28.7081379,
+  "lon": 77.1245907,
+  "tags": {
+    "brand": "Crocs",
+    "brand:wikidata": "Q926699",
+    "level": "0",
+    "name": "Crocs",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12828318744,
+  "lat": 28.7065637,
+  "lon": 77.1228041,
+  "tags": {
+    "level": "0",
+    "name": "Abros Exclusive",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12828342580,
+  "lat": 28.7059841,
+  "lon": 77.1226691,
+  "tags": {
+    "level": "0",
+    "mobile": "8860296883",
+    "name": "Cheap Footware",
+    "phone": "9910485602",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12828356148,
+  "lat": 28.7088139,
+  "lon": 77.1237707,
+  "tags": {
+    "brand": "Liberty",
+    "brand:wikidata": "Q6541947",
+    "name": "Liberty Exclusive Showroom",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12828395124,
+  "lat": 28.7063598,
+  "lon": 77.1226203,
+  "tags": {
+    "level": "0",
+    "name": "Baweja Footwear",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12875503328,
+  "lat": 28.6000022,
+  "lon": 77.2262390,
+  "tags": {
+    "addr:housenumber": "73",
+    "name": "N & A shoes",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12875503331,
+  "lat": 28.6000475,
+  "lon": 77.2262012,
+  "tags": {
+    "name": "Kala Niketan",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12896559011,
+  "lat": 28.6333383,
+  "lon": 77.2086590,
+  "tags": {
+    "brand": "Bata",
+    "check_date": "2026-03-20",
+    "name": "Bata",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12977503227,
+  "lat": 28.6316637,
+  "lon": 77.2208871,
+  "tags": {
+    "brand": "ASICS",
+    "name": "ASICS",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12997344697,
+  "lat": 28.6447048,
+  "lon": 77.3384984,
+  "tags": {
+    "level": "-1",
+    "name": "Saheli Footwear",
+    "phone": "+91 120 456 9237",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13016665127,
+  "lat": 28.5671141,
+  "lon": 77.2464654,
+  "tags": {
+    "level": "1",
+    "name": "Pad Tran",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13028342753,
+  "lat": 28.5709908,
+  "lon": 77.3240804,
+  "tags": {
+    "addr:floor": "G",
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "check_date": "2025-07-27",
+    "level": "0",
+    "name": "Bata",
+    "name:en": "Bata",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13028342755,
+  "lat": 28.5711568,
+  "lon": 77.3241005,
+  "tags": {
+    "addr:floor": "G",
+    "brand": "Liberty",
+    "brand:wikidata": "Q6541947",
+    "check_date": "2025-07-27",
+    "level": "0",
+    "name": "Liberty Exclusive Showroom",
+    "name:en": "Liberty Exclusive Showroom",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13110027593,
+  "lat": 28.6817000,
+  "lon": 77.1987753,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-08-31",
+    "level": "0",
+    "name": "Moti Footwear",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13110035508,
+  "lat": 28.6823714,
+  "lon": 77.1993801,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2026-03-20",
+    "level": "0",
+    "name": "Redtape",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13110079510,
+  "lat": 28.6805233,
+  "lon": 77.2034482,
+  "tags": {
+    "check_date": "2025-08-31",
+    "name": "Delco",
+    "name:en": "Delco",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:visa": "yes",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13110079521,
+  "lat": 28.6802528,
+  "lon": 77.2030881,
+  "tags": {
+    "check_date": "2025-08-31",
+    "name": "Columbus Sportz",
+    "name:en": "Columbus Sportz",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13110089736,
+  "lat": 28.6805543,
+  "lon": 77.2031711,
+  "tags": {
+    "name": "Wings",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13110089749,
+  "lat": 28.6806680,
+  "lon": 77.2033555,
+  "tags": {
+    "name": "Grover Sons",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13146465013,
+  "lat": 28.8544298,
+  "lon": 77.1246021,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-09-16",
+    "level": "0",
+    "name": "Redtape",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13191135229,
+  "lat": 28.4482519,
+  "lon": 77.0991742,
+  "tags": {
+    "addr:floor": "UG",
+    "level": "0",
+    "name": "Vanilla Moon",
+    "shoes": "women",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13227587548,
+  "lat": 28.5950138,
+  "lon": 77.0481464,
+  "tags": {
+    "name": "Liberty",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13246426337,
+  "lat": 28.4772757,
+  "lon": 77.0944059,
+  "tags": {
+    "name": "Shutiq",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13246708723,
+  "lat": 28.4571289,
+  "lon": 77.0967190,
+  "tags": {
+    "level": "0",
+    "name": "Brooks",
+    "operator": "Athelin",
+    "operator:website": "https://athelin.com/",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13296688580,
+  "lat": 28.5036975,
+  "lon": 77.0974994,
+  "tags": {
+    "level": "2",
+    "name": "D'Shoe Lounge",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13296688597,
+  "lat": 28.5043782,
+  "lon": 77.0970015,
+  "tags": {
+    "brand": "Ecco",
+    "brand:wikidata": "Q1280255",
+    "level": "2",
+    "name": "Ecco",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13296721103,
+  "lat": 28.5040984,
+  "lon": 77.0970212,
+  "tags": {
+    "brand": "Hush Puppies",
+    "brand:wikidata": "Q1828588",
+    "level": "2",
+    "name": "Hush Puppies",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13447662199,
+  "lat": 28.6337553,
+  "lon": 77.2235991,
+  "tags": {
+    "check_date": "2026-01-11",
+    "name": "Adarsh Chappal",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13566036297,
+  "lat": 28.7055605,
+  "lon": 77.1904352,
+  "tags": {
+    "addr:block": "B",
+    "addr:city": "New Delhi",
+    "addr:housenumber": "5",
+    "addr:place": "Model Town 2",
+    "addr:postcode": "110009",
+    "level": "0",
+    "name": "A&S",
+    "opening_hours": "Mo-Su,PH 11:00-21:00",
+    "operator": "A&S Luxury Fashion House Private Limited",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13566037091,
+  "lat": 28.7057777,
+  "lon": 77.1906927,
+  "tags": {
+    "name": "Bhuji",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13566037233,
+  "lat": 28.7052826,
+  "lon": 77.1903129,
+  "tags": {
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Bata",
+    "opening_hours": "Mo-Su 10:30-21:00",
+    "panoramax": "a2d68ec8-59ae-489a-b1c4-ea8180ef8239",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:qr_code": "yes",
+    "shop": "shoes",
+    "website": "https://bata.in",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13566176427,
+  "lat": 28.7057230,
+  "lon": 77.1909257,
+  "tags": {
+    "level": "1",
+    "name": "Bellstepps",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13566176432,
+  "lat": 28.7060833,
+  "lon": 77.1910459,
+  "tags": {
+    "name": "Bellastepps",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13626618541,
+  "lat": 28.6078043,
+  "lon": 77.2938891,
+  "tags": {
+    "brand": "Liberty",
+    "brand:wikidata": "Q6541947",
+    "name": "Liberty Exclusive Showroom",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931640,
+  "lat": 28.6816499,
+  "lon": 77.2047748,
+  "tags": {
+    "name": "Kakar Kids",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13645264737,
+  "lat": 28.6818914,
+  "lon": 77.2063110,
+  "tags": {
+    "name": "Shoe Tank",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13645264772,
+  "lat": 28.6820748,
+  "lon": 77.2061459,
+  "tags": {
+    "noname": "yes",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13645270902,
+  "lat": 28.6818601,
+  "lon": 77.2064299,
+  "tags": {
+    "name": "BRA",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13645270924,
+  "lat": 28.6810640,
+  "lon": 77.2075758,
+  "tags": {
+    "name": "Khushi",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13684945485,
+  "lat": 28.5970792,
+  "lon": 77.3374136,
+  "tags": {
+    "name": "Classic Shoes",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13686010905,
+  "lat": 28.6081286,
+  "lon": 77.4441868,
+  "tags": {
+    "name": "Shoeway footwear shop",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13691559677,
+  "lat": 28.6800128,
+  "lon": 77.2037585,
+  "tags": {
+    "level": "-1;0",
+    "name": "Stelatoes",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13691559680,
+  "lat": 28.6787783,
+  "lon": 77.2037302,
+  "tags": {
+    "level": "0",
+    "name": "Narang Chappal",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13691559684,
+  "lat": 28.6788383,
+  "lon": 77.2037278,
+  "tags": {
+    "level": "0",
+    "name": "Bindu Chappal",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13691559697,
+  "lat": 28.6799776,
+  "lon": 77.2038714,
+  "tags": {
+    "level": "0",
+    "name": "Forever",
+    "shop": "shoes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13691559698,
+  "lat": 28.6803170,
+  "lon": 77.2038752,
+  "tags": {
+    "brand": "Bata",
+    "level": "0",
+    "name": "Bata",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13691559699,
+  "lat": 28.6790791,
+  "lon": 77.2038914,
+  "tags": {
+    "level": "0",
+    "name": "Klove",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13694812078,
+  "lat": 28.6807237,
+  "lon": 77.2079427,
+  "tags": {
+    "name": "Scentra",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13780550374,
+  "lat": 28.5723908,
+  "lon": 77.1670207,
+  "tags": {
+    "name": "Corner Shoe House",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13830835378,
+  "lat": 28.6812431,
+  "lon": 77.2043551,
+  "tags": {
+    "level": "0",
+    "name": "Kin's",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13830835381,
+  "lat": 28.6799994,
+  "lon": 77.2040175,
+  "tags": {
+    "level": "0",
+    "name": "Dinky Footsteps",
+    "shop": "shoes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13830835382,
+  "lat": 28.6800042,
+  "lon": 77.2039129,
+  "tags": {
+    "level": "0",
+    "name": "Dinky Footwear",
+    "shop": "shoes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892516,
+  "lat": 28.6799955,
+  "lon": 77.2040795,
+  "tags": {
+    "level": "0",
+    "name": "Stylish Shoes",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892532,
+  "lat": 28.6800023,
+  "lon": 77.2039507,
+  "tags": {
+    "level": "0",
+    "name": "Yadvi Fashion Studio",
+    "shop": "shoes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892533,
+  "lat": 28.6819031,
+  "lon": 77.2056416,
+  "tags": {
+    "level": "0",
+    "name": "Luxury Walk",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892544,
+  "lat": 28.6812192,
+  "lon": 77.2046118,
+  "tags": {
+    "level": "0",
+    "name": "Calcetto",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892554,
+  "lat": 28.6815225,
+  "lon": 77.2047679,
+  "tags": {
+    "brand": "Woodland",
+    "level": "0",
+    "name": "Woodland",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892568,
+  "lat": 28.6800065,
+  "lon": 77.2038718,
+  "tags": {
+    "level": "0",
+    "name": "Manbhavan Chappal",
+    "shop": "shoes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892574,
+  "lat": 28.6796919,
+  "lon": 77.2038570,
+  "tags": {
+    "level": "0",
+    "name": "Costa Footwear",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892589,
+  "lat": 28.6816930,
+  "lon": 77.2050156,
+  "tags": {
+    "level": "0",
+    "name": "The Classic Collections",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13875258302,
+  "lat": 28.3610635,
+  "lon": 77.0777757,
+  "tags": {
+    "check_date": "2026-05-25",
+    "name": "Jagdamba Footwear",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13875720001,
+  "lat": 28.3610675,
+  "lon": 77.0773736,
+  "tags": {
+    "check_date": "2026-05-25",
+    "name": "Lovely Footwear",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13886768810,
+  "lat": 28.3595352,
+  "lon": 77.0787732,
+  "tags": {
+    "name": "Ludhiana Hosiery",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13886768839,
+  "lat": 28.3588495,
+  "lon": 77.0786834,
+  "tags": {
+    "name": "Narayan Readymade",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13890652480,
+  "lat": 28.4805721,
+  "lon": 77.0804403,
+  "tags": {
+    "brand": "Skechers",
+    "brand:wikidata": "Q2945643",
+    "level": "0",
+    "name": "Skechers",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13890652496,
+  "lat": 28.4811389,
+  "lon": 77.0804158,
+  "tags": {
+    "level": "2",
+    "name": "D Shoe Lounge",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672525,
+  "lat": 28.4808232,
+  "lon": 77.0800602,
+  "tags": {
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "level": "0",
+    "name": "Bata",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672531,
+  "lat": 28.4810893,
+  "lon": 77.0800925,
+  "tags": {
+    "level": "0",
+    "name": "Mochi",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672555,
+  "lat": 28.4810808,
+  "lon": 77.0804281,
+  "tags": {
+    "brand": "Hush Puppies",
+    "brand:wikidata": "Q1828588",
+    "level": "1",
+    "name": "Hush Puppies",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672570,
+  "lat": 28.4811256,
+  "lon": 77.0804245,
+  "tags": {
+    "level": "0",
+    "name": "Inc. 5",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672598,
+  "lat": 28.4810484,
+  "lon": 77.0804064,
+  "tags": {
+    "brand": "Liberty",
+    "brand:wikidata": "Q6541947",
+    "level": "2",
+    "name": "Liberty Exclusive Showroom",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672614,
+  "lat": 28.4811370,
+  "lon": 77.0800880,
+  "tags": {
+    "level": "0",
+    "name": "Louis Stitch",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672620,
+  "lat": 28.4809843,
+  "lon": 77.0800835,
+  "tags": {
+    "brand": "Crocs",
+    "brand:wikidata": "Q926699",
+    "level": "1",
+    "name": "Crocs",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 13894936618,
+  "lat": 28.6330419,
+  "lon": 77.2808348,
+  "tags": {
+    "level": "0",
+    "name": "Campus",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13904238277,
+  "lat": 28.6812204,
+  "lon": 77.2040362,
+  "tags": {
+    "level": "0",
+    "name": "Emson",
+    "shop": "shoes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13904238279,
+  "lat": 28.6818706,
+  "lon": 77.2066437,
+  "tags": {
+    "level": "0",
+    "name": "Roadies",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13904249304,
+  "lat": 28.6815171,
+  "lon": 77.2069366,
+  "tags": {
+    "level": "0",
+    "name": "La Moda",
+    "shop": "shoes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13928667314,
+  "lat": 28.4038731,
+  "lon": 76.9365449,
+  "tags": {
+    "addr:city": "Gurugram",
+    "addr:district": "Gurugram",
+    "addr:postcode": "122505",
+    "addr:street": "No. 58&59, Sapphire 90 Mall, Main Road, Sector 90",
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "contact:facebook": "https://www.facebook.com/batasapphire90/",
+    "contact:instagram": "https://www.instagram.com/bata.india/",
+    "description": "Bata is India's foremost footwear retailer, with a legacy dating back to 1894, Bata is a trusted choice for people of all ages.",
+    "mobile": "919318303189",
+    "name": "Bata",
+    "opening_hours": "Mo-Su 10:30-21:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "919318303189",
+    "shoes": "women;children;orthopaedic;men",
+    "shop": "shoes",
+    "start_date": "2022-06-24",
+    "toilets": "yes",
+    "website": "https://bata-shoe-store-meoka.grexa.site/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13931732645,
+  "lat": 28.7145387,
+  "lon": 77.2143677,
+  "tags": {
+    "name": "Joota Ghar",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "way",
+  "id": 988275257,
+  "center": {
+    "lat": 28.6124858,
+    "lon": 76.9935730
+  },
+  "tags": {
+    "air_conditioning": "yes",
+    "building": "yes",
+    "name": "Relaxo",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "way",
+  "id": 988296020,
+  "center": {
+    "lat": 28.6128523,
+    "lon": 76.9933201
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Calcetto",
+    "shop": "shoes",
+    "website": "https://www.calcetto.in/"
+  }
+},
+{
+  "type": "way",
+  "id": 988303374,
+  "center": {
+    "lat": 28.6128653,
+    "lon": 76.9926566
+  },
+  "tags": {
+    "brand": "Bata",
+    "brand:wikidata": "Q688082",
+    "building": "yes",
+    "name": "Bata",
+    "shop": "shoes",
+    "website": "https://www.bata.in/"
+  }
+},
+{
+  "type": "way",
+  "id": 1498625602,
+  "center": {
+    "lat": 28.6375324,
+    "lon": 77.2866849
+  },
+  "tags": {
+    "brand": "Metro",
+    "brand:wikidata": "Q16938284",
+    "indoor": "room",
+    "level": "0",
+    "name": "Metro",
+    "operator": "Metro Shoes",
+    "room": "shop",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "way",
+  "id": 1498625614,
+  "center": {
+    "lat": 28.6370598,
+    "lon": 77.2867214
+  },
+  "tags": {
+    "indoor": "room",
+    "level": "0",
+    "name": "Catwalk",
+    "opening_hours": "11:00-21:30",
+    "room": "shop",
+    "shop": "shoes",
+    "wheelchair": "no"
+  }
+}
+
+  ]
+}

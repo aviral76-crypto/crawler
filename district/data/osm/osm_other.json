@@ -1,0 +1,5109 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-02T07:22:46Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 537994223,
+  "lat": 28.4808322,
+  "lon": 77.0858755,
+  "tags": {
+    "check_date": "2025-02-23",
+    "name": "GKB Opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 928563257,
+  "lat": 28.6347575,
+  "lon": 77.2200923,
+  "tags": {
+    "addr:block": "C",
+    "contact:email": "mg570477@gmail.com",
+    "contact:facebook": "frameszon",
+    "contact:instagram": "frameszon",
+    "contact:whatsapp": "+91 8810234227",
+    "indoor": "yes",
+    "name": "Frameszon",
+    "operator:wikidata": "Q857063",
+    "phone": "+91 11 45721725",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 1305483435,
+  "lat": 28.6169036,
+  "lon": 77.2862651,
+  "tags": {
+    "name": "Canon Optician",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 1372597045,
+  "lat": 28.4627711,
+  "lon": 77.0875123,
+  "tags": {
+    "name": "Needs",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 1374470952,
+  "lat": 28.6508910,
+  "lon": 77.1209433,
+  "tags": {
+    "brand": "Shoppers Stop",
+    "brand:wikidata": "Q7501182",
+    "name": "Shoppers Stop",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 1389062656,
+  "lat": 28.4174599,
+  "lon": 77.0561511,
+  "tags": {
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 2399657400,
+  "lat": 28.4252732,
+  "lon": 77.0991564,
+  "tags": {
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 2410180163,
+  "lat": 28.6312577,
+  "lon": 77.2153721,
+  "tags": {
+    "addr:city": "New Delhi",
+    "check_date": "2026-03-14",
+    "name": "Delhi Emporium",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 4047399411,
+  "lat": 28.5681130,
+  "lon": 77.3352025,
+  "tags": {
+    "name": "eye clinic",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 4212577538,
+  "lat": 28.5147575,
+  "lon": 77.0350366,
+  "tags": {
+    "name": "Daily needs",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 4438975395,
+  "lat": 28.6280517,
+  "lon": 77.3087203,
+  "tags": {
+    "addr:city": "Delhi",
+    "addr:postcode": "110092",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 4483863293,
+  "lat": 28.7015222,
+  "lon": 77.1351148,
+  "tags": {
+    "name": "Reliance store",
+    "name:en": "Reliance store",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5068284340,
+  "lat": 28.7358254,
+  "lon": 76.8935145,
+  "tags": {
+    "name": "Pandit Kirana Staore",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5068287710,
+  "lat": 28.7320847,
+  "lon": 76.8937006,
+  "tags": {
+    "name": "Bunty Kirana Store",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5122054865,
+  "lat": 28.6491329,
+  "lon": 77.3006243,
+  "tags": {
+    "addr:housenumber": "133",
+    "addr:street": "Hargobind Enclave",
+    "clothes": "women;suits;sarees",
+    "name": "Shagun",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 5122054871,
+  "lat": 28.6510197,
+  "lon": 77.2988214,
+  "tags": {
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5122054875,
+  "lat": 28.6518223,
+  "lon": 77.2982029,
+  "tags": {
+    "name": "Veronica by Meenu Mehra",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 5258047752,
+  "lat": 28.5427687,
+  "lon": 77.2149412,
+  "tags": {
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5261696621,
+  "lat": 28.5730061,
+  "lon": 77.1902371,
+  "tags": {
+    "name": "Pottery",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5342211622,
+  "lat": 28.7386110,
+  "lon": 77.1215482,
+  "tags": {
+    "name": "Haryana Store",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5342211623,
+  "lat": 28.7386408,
+  "lon": 77.1214996,
+  "tags": {
+    "name": "Himanshi Store",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5512977173,
+  "lat": 28.6719577,
+  "lon": 77.3288278,
+  "tags": {
+    "name": "Alaknandna Boutique",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 5531823300,
+  "lat": 28.6687420,
+  "lon": 77.3299160,
+  "tags": {
+    "name": "Clear Dekho",
+    "shop": "optician",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5545575720,
+  "lat": 28.6310982,
+  "lon": 77.2167474,
+  "tags": {
+    "addr:city": "New Delhi",
+    "name": "Khadi India",
+    "opening_hours": "Mo-Su 11:00-19:30; PH closed",
+    "shop": "department_store",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5545576289,
+  "lat": 28.6316148,
+  "lon": 77.2208288,
+  "tags": {
+    "check_date": "2023-12-22",
+    "name": "Pandit Brothers",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 5586450859,
+  "lat": 28.5363923,
+  "lon": 77.2112457,
+  "tags": {
+    "check_date": "2023-05-02",
+    "name": "Titan Eyeplus",
+    "operator": "Tata",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 5589741421,
+  "lat": 28.5639196,
+  "lon": 77.2419673,
+  "tags": {
+    "addr:housenumber": "4/41",
+    "addr:postcode": "110024",
+    "addr:street": "Lajpat Nagar 4",
+    "email": "rkhanda@hotmail.com",
+    "name": "Shagun Departmental Store",
+    "opening_hours": "Mo-Su 07:00-22:30",
+    "operator": "Rohit",
+    "phone": "8826452920",
+    "shop": "department_store",
+    "website": "https://fairdeals365.ddns.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 5656398299,
+  "lat": 28.6328693,
+  "lon": 77.2178957,
+  "tags": {
+    "addr:housename": "A",
+    "name": "Hidesign",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 5695046822,
+  "lat": 28.6560969,
+  "lon": 77.2354361,
+  "tags": {
+    "addr:postcode": "110006",
+    "name": "Chandni Chowk",
+    "name:fr": "Chandni chowk",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5773502067,
+  "lat": 28.5692162,
+  "lon": 77.2430172,
+  "tags": {
+    "brand": "Miniso",
+    "brand:wikidata": "Q20732498",
+    "name": "Miniso",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5778513762,
+  "lat": 28.5489306,
+  "lon": 77.2356641,
+  "tags": {
+    "level": "0",
+    "name": "Time & Style",
+    "shop": "watches",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5799063060,
+  "lat": 28.6296751,
+  "lon": 77.2171117,
+  "tags": {
+    "addr:housename": "Regal Building",
+    "addr:postcode": "110001",
+    "addr:street": "Sansad Marg",
+    "addr:unit": "1-A",
+    "name": "Duli Chand's",
+    "phone": "+91-11-4150-3373;+91-98990-52473",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 5827206264,
+  "lat": 28.5348884,
+  "lon": 77.2102430,
+  "tags": {
+    "brand": "Miniso",
+    "brand:wikidata": "Q20732498",
+    "check_date": "2023-05-02",
+    "level": "0.5",
+    "name": "Miniso",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5827206840,
+  "lat": 28.5340106,
+  "lon": 77.2093187,
+  "tags": {
+    "brand": "Safari",
+    "level": "1",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 5888113179,
+  "lat": 28.5154646,
+  "lon": 77.2056431,
+  "tags": {
+    "name": "cleardekho.com",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 5903909952,
+  "lat": 28.5143535,
+  "lon": 77.2051721,
+  "tags": {
+    "name": "Dass Optics",
+    "phone": "+91-98104-47727;+91-98689-89053",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 5960718387,
+  "lat": 28.5309525,
+  "lon": 77.2178945,
+  "tags": {
+    "name": "Ram Sudhir Jha",
+    "opening_hours": "Mo-Su 06:00-20:00",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960737888,
+  "lat": 28.5309212,
+  "lon": 77.2174989,
+  "tags": {
+    "name": "sahabul",
+    "opening_hours": "Mo-Su 06:00-23:00",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960737891,
+  "lat": 28.5309103,
+  "lon": 77.2171542,
+  "tags": {
+    "addr:housenumber": "s26",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960737892,
+  "lat": 28.5309414,
+  "lon": 77.2172221,
+  "tags": {
+    "name": "Hirdosh store",
+    "name:en": "Hirdosh Store",
+    "opening_hours": "Mo-Su 06:00-22:00",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960751787,
+  "lat": 28.5309331,
+  "lon": 77.2172615,
+  "tags": {
+    "addr:housenumber": "s 19",
+    "name": "Aman store",
+    "opening_hours": "Mo-Su 06:00-22:00",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960755786,
+  "lat": 28.5309410,
+  "lon": 77.2171906,
+  "tags": {
+    "name": "In city mart",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960755787,
+  "lat": 28.5309376,
+  "lon": 77.2171635,
+  "tags": {
+    "name": "Gupta communication",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960760885,
+  "lat": 28.5309486,
+  "lon": 77.2168303,
+  "tags": {
+    "name": "Zafar store",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960760890,
+  "lat": 28.5345721,
+  "lon": 77.2169019,
+  "tags": {
+    "name": "specs planet ",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 5960768085,
+  "lat": 28.5309138,
+  "lon": 77.2165160,
+  "tags": {
+    "name": "Aakib store",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960768086,
+  "lat": 28.5309128,
+  "lon": 77.2164704,
+  "tags": {
+    "name": "Afgani dukan",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960770986,
+  "lat": 28.5308597,
+  "lon": 77.2159706,
+  "tags": {
+    "name": "Ansari stores",
+    "opening_hours": "Mo-Su 09:00-23:00",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960772491,
+  "lat": 28.5309435,
+  "lon": 77.2168760,
+  "tags": {
+    "name": "Rajesh store",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960774598,
+  "lat": 28.5305794,
+  "lon": 77.2163816,
+  "tags": {
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960777188,
+  "lat": 28.5307823,
+  "lon": 77.2159471,
+  "tags": {
+    "name": "Shop number 2",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960784586,
+  "lat": 28.5347323,
+  "lon": 77.2168931,
+  "tags": {
+    "name": "tel pati",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 5960793698,
+  "lat": 28.5353248,
+  "lon": 77.2167802,
+  "tags": {
+    "name": "fashion mania(clothes)",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960793786,
+  "lat": 28.5304856,
+  "lon": 77.2160239,
+  "tags": {
+    "name": "yakub",
+    "name:en": "Yakub’s shop",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960793787,
+  "lat": 28.5305631,
+  "lon": 77.2162592,
+  "tags": {
+    "name": "Goyal stores",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 5960810489,
+  "lat": 28.5335695,
+  "lon": 77.2188065,
+  "tags": {
+    "name": "mediline eye care facilities",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 5960832385,
+  "lat": 28.5326273,
+  "lon": 77.2173798,
+  "tags": {
+    "name": "eye fi",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 5964553387,
+  "lat": 28.5128797,
+  "lon": 77.2039184,
+  "tags": {
+    "addr:housenumber": "Shop No.3",
+    "addr:place": "Neb Sarai",
+    "addr:postcode": "110068",
+    "addr:street": "IGNOU Road",
+    "name": "Krishna The Optician",
+    "phone": "+91-88005-66523",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 6005708973,
+  "lat": 28.5622296,
+  "lon": 77.2450160,
+  "tags": {
+    "name": "Optical 96",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 6007071580,
+  "lat": 28.5700280,
+  "lon": 77.2418555,
+  "tags": {
+    "name": "VIP",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 6007071581,
+  "lat": 28.5699654,
+  "lon": 77.2420081,
+  "tags": {
+    "name": "Indo Watch Gallery",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 6309157797,
+  "lat": 28.5249905,
+  "lon": 77.1548541,
+  "tags": {
+    "check_date": "2019-02-23",
+    "name": "Shree Eye Express",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 6419518549,
+  "lat": 28.6928074,
+  "lon": 77.2050008,
+  "tags": {
+    "name": "Dream and Design by Sumit",
+    "shop": "boutique",
+    "short_name": "D&D"
+  }
+},
+{
+  "type": "node",
+  "id": 6539125889,
+  "lat": 28.6621326,
+  "lon": 77.2120005,
+  "tags": {
+    "addr:district": "Teliwara",
+    "addr:housenumber": "1109/3",
+    "addr:postcode": "110006",
+    "addr:subdistrict": "Chowk Kishan Ganj",
+    "check_date": "2026-03-20",
+    "email": "shivtradersharish@gmail.com",
+    "level": "0",
+    "name": "Shiv Traders",
+    "phone": "+91-93128-32857;+91-85278-95581;+91-11-2354-9175;+91-11-2218-8590",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 6539125902,
+  "lat": 28.6574610,
+  "lon": 77.2156872,
+  "tags": {
+    "addr:housenumber": "886",
+    "addr:street": "Qutab Road",
+    "name": "KC Bags",
+    "phone": "+91-11-2352-6454;+91-98101-61095;+91-98189-49489",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 6540646114,
+  "lat": 28.6565626,
+  "lon": 77.2157380,
+  "tags": {
+    "addr:housename": "Star Hotel Buildinh",
+    "addr:housenumber": "1338",
+    "addr:place": "Sadar Bazar",
+    "addr:postcode": "110006",
+    "addr:street": "Qutab Road",
+    "name": "Dhingra Bag House",
+    "phone": "+91-98184-59659;+91-70114-73712;+91-98112-10707;+91-95404-74047",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 6967042901,
+  "lat": 28.5079817,
+  "lon": 77.2002251,
+  "tags": {
+    "name": "Bombay Bazaar Sale",
+    "shop": "variety_store",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7066406728,
+  "lat": 28.5407547,
+  "lon": 77.2571187,
+  "tags": {
+    "name": "Rama Opticians",
+    "shop": "optician",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7139514518,
+  "lat": 28.5130561,
+  "lon": 77.2041090,
+  "tags": {
+    "name": "Ainak Platinum",
+    "shop": "optician",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7173930287,
+  "lat": 28.5284954,
+  "lon": 77.2186438,
+  "tags": {
+    "brand": "Rolex",
+    "brand:wikidata": "Q62288",
+    "name": "Rolex",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 7178502785,
+  "lat": 28.6417349,
+  "lon": 77.2146981,
+  "tags": {
+    "name": "Naveen Shop",
+    "name:ko": "나빈 가게",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 8938913398,
+  "lat": 28.6088434,
+  "lon": 77.2927668,
+  "tags": {
+    "brand": "Safari",
+    "name": "Safari",
+    "panoramax": "d1e9ff5b-7b57-43d3-8a46-88b3b59fc6d9",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 9180422256,
+  "lat": 28.6348984,
+  "lon": 77.2198456,
+  "tags": {
+    "name": "Titan eye plus",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 9180426308,
+  "lat": 28.6342460,
+  "lon": 77.2204870,
+  "tags": {
+    "check_date": "2023-12-22",
+    "name": "Johnson Watch Co",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 9239861675,
+  "lat": 28.6302816,
+  "lon": 77.2204280,
+  "tags": {
+    "brand": "Samsonite",
+    "brand:wikidata": "Q1203426",
+    "name": "Samsonite",
+    "operator": "Idandas Book Company",
+    "shop": "bag",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9239861682,
+  "lat": 28.6302692,
+  "lon": 77.2203733,
+  "tags": {
+    "brand": "Delsey",
+    "check_date": "2023-12-22",
+    "name": "Delsey",
+    "shop": "bag",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9279711572,
+  "lat": 28.6274922,
+  "lon": 77.2191874,
+  "tags": {
+    "addr:housenumber": "79",
+    "contact:phone": "+91 99108 20207",
+    "name": "Leather Smith",
+    "shop": "bag",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9485950618,
+  "lat": 28.5486702,
+  "lon": 77.2353105,
+  "tags": {
+    "clothes": "men",
+    "level": "0",
+    "name": "Bespoke By Sumit Singh Grover",
+    "shop": "boutique",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9485950621,
+  "lat": 28.5486800,
+  "lon": 77.2353678,
+  "tags": {
+    "level": "0",
+    "name": "Dhruv Sehgal",
+    "shop": "boutique",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9547388354,
+  "lat": 28.6221655,
+  "lon": 77.2941884,
+  "tags": {
+    "contact:phone": "+91-93158-42170;+91-99583-50202;+91-98217-46009",
+    "level": "0",
+    "name": "We Wore What",
+    "shop": "boutique",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10541975319,
+  "lat": 28.3947217,
+  "lon": 77.0320672,
+  "tags": {
+    "addr:city": "Gurgaon",
+    "addr:district": "Gurgaon",
+    "addr:postcode": "122101",
+    "addr:state": "Haryana",
+    "name": "Fresh Choice Super Market",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 10567599309,
+  "lat": 28.6319099,
+  "lon": 77.2170604,
+  "tags": {
+    "disused:amenity": "shop",
+    "name": "Bagline",
+    "shop": "bag",
+    "survey:date": "2023-01-19"
+  }
+},
+{
+  "type": "node",
+  "id": 10567599409,
+  "lat": 28.6317946,
+  "lon": 77.2168706,
+  "tags": {
+    "addr:housenumber": "G50",
+    "addr:state": "DL",
+    "addr:street": "Indira Chowk",
+    "name": "Baggit",
+    "shop": "bag",
+    "survey:date": "2023-01-19"
+  }
+},
+{
+  "type": "node",
+  "id": 10570545309,
+  "lat": 28.6005370,
+  "lon": 77.2273268,
+  "tags": {
+    "brand": "Samsonite",
+    "brand:wikidata": "Q1203426",
+    "brand:wikipedia": "en:Samsonite",
+    "name": "Samsonite",
+    "shop": "bag",
+    "survey:date": "2023-01-20"
+  }
+},
+{
+  "type": "node",
+  "id": 10572635834,
+  "lat": 28.6563029,
+  "lon": 77.2292478,
+  "tags": {
+    "addr:postcode": "110006",
+    "name": "Safari",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 10572638217,
+  "lat": 28.6561420,
+  "lon": 77.2317554,
+  "tags": {
+    "addr:postcode": "110006",
+    "name": "Safari",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 10574926741,
+  "lat": 28.6470672,
+  "lon": 77.1900461,
+  "tags": {
+    "name": "Safari",
+    "shop": "bag",
+    "survey:date": "2023-01-22"
+  }
+},
+{
+  "type": "node",
+  "id": 10574942441,
+  "lat": 28.6477143,
+  "lon": 77.1904975,
+  "tags": {
+    "brand": "Samsonite",
+    "brand:wikidata": "Q1203426",
+    "brand:wikipedia": "en:Samsonite",
+    "name": "Samsonite",
+    "shop": "bag",
+    "survey:date": "2023-01-22"
+  }
+},
+{
+  "type": "node",
+  "id": 10576036941,
+  "lat": 28.6001066,
+  "lon": 77.2273945,
+  "tags": {
+    "name": "Bonton",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 10588558905,
+  "lat": 28.6449457,
+  "lon": 77.1882621,
+  "tags": {
+    "name": "Bag Boutique",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 10588559006,
+  "lat": 28.6450296,
+  "lon": 77.1883220,
+  "tags": {
+    "name": "Baggit",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 10588915608,
+  "lat": 28.6561757,
+  "lon": 77.2308857,
+  "tags": {
+    "addr:postcode": "110006",
+    "brand": "American Tourister",
+    "brand:wikidata": "Q4745268",
+    "name": "American Tourister",
+    "shop": "bag",
+    "survey:date": "2023-01-28"
+  }
+},
+{
+  "type": "node",
+  "id": 10588915706,
+  "lat": 28.6562236,
+  "lon": 77.2301788,
+  "tags": {
+    "addr:postcode": "110006",
+    "name": "Safari",
+    "shop": "bag",
+    "survey:date": "2023-01-28"
+  }
+},
+{
+  "type": "node",
+  "id": 10588915805,
+  "lat": 28.6562790,
+  "lon": 77.2288422,
+  "tags": {
+    "addr:postcode": "110006",
+    "name": "VIP Lounge",
+    "shop": "bag",
+    "survey:date": "2023-01-28"
+  }
+},
+{
+  "type": "node",
+  "id": 10588915806,
+  "lat": 28.6561521,
+  "lon": 77.2311829,
+  "tags": {
+    "addr:postcode": "110006",
+    "name": "Safari",
+    "shop": "bag",
+    "survey:date": "2023-01-28"
+  }
+},
+{
+  "type": "node",
+  "id": 10599137786,
+  "lat": 28.6291254,
+  "lon": 77.2193365,
+  "tags": {
+    "addr:unit": "18",
+    "check_date": "2026-08-09",
+    "name": "Dina Nath Store",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 10608920050,
+  "lat": 28.6293225,
+  "lon": 77.2193392,
+  "tags": {
+    "addr:unit": "12",
+    "check_date": "2026-08-09",
+    "name": "Bonton Optician",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 10608931833,
+  "lat": 28.6292349,
+  "lon": 77.2193380,
+  "tags": {
+    "addr:unit": "13",
+    "check_date": "2026-08-09",
+    "name": "Bon-Ton Opticians",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 10770287898,
+  "lat": 28.5579457,
+  "lon": 77.1640956,
+  "tags": {
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 10829083699,
+  "lat": 28.5504264,
+  "lon": 77.2344869,
+  "tags": {
+    "name": "Fashion Zone by Preeti Makhija",
+    "shop": "boutique",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10841648280,
+  "lat": 28.5504053,
+  "lon": 77.2345250,
+  "tags": {
+    "level": "-1",
+    "name": "Atelier Pret & Couture",
+    "shop": "boutique",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10864790211,
+  "lat": 28.5373100,
+  "lon": 77.2130300,
+  "tags": {
+    "check_date": "2023-05-02",
+    "level": "0",
+    "name": "Shiva Opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 10864790225,
+  "lat": 28.5366658,
+  "lon": 77.2115047,
+  "tags": {
+    "check_date": "2023-05-02",
+    "name": "CFS Vision",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 10864790228,
+  "lat": 28.5363475,
+  "lon": 77.2112024,
+  "tags": {
+    "check_date": "2023-05-02",
+    "name": "The Eye Rooms",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 10924124870,
+  "lat": 28.6345632,
+  "lon": 77.2206668,
+  "tags": {
+    "addr:housenumber": "20-C",
+    "addr:suburb": "Connaught Place",
+    "brand": "Mont Blanc;Tag Heuer",
+    "check_date": "2026-03-14",
+    "operator": "Bhagwan Singh & Sons Private Limited",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 10924124880,
+  "lat": 28.6345826,
+  "lon": 77.2206807,
+  "tags": {
+    "addr:block": "C",
+    "addr:housenumber": "21",
+    "addr:suburb": "Connaught Place",
+    "brand": "Longines",
+    "brand:wikidata": "Q603698",
+    "check_date": "2026-03-14",
+    "name": "Longines",
+    "operator": "Sondhi Brothers",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 10945905637,
+  "lat": 28.5503260,
+  "lon": 77.2346486,
+  "tags": {
+    "level": "-1",
+    "name": "Dayal Opticals",
+    "shop": "optician",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10945905638,
+  "lat": 28.5501221,
+  "lon": 77.2349671,
+  "tags": {
+    "clothes": "women;traditional",
+    "level": "0",
+    "name": "Devasya",
+    "shop": "boutique",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10951929516,
+  "lat": 28.3939305,
+  "lon": 77.0319554,
+  "tags": {
+    "addr:city": "Gurgaon",
+    "addr:district": "Gurgaon",
+    "addr:postcode": "122101",
+    "air_conditioning": "yes",
+    "name": "Daily Needs Grocery Shop",
+    "shop": "department_store",
+    "toilets": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10951960287,
+  "lat": 28.3944699,
+  "lon": 77.0314324,
+  "tags": {
+    "addr:city": "Gurgaon",
+    "addr:district": "Gurgaon",
+    "addr:postcode": "122101",
+    "name": "Chashmadekho.com",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 10951960290,
+  "lat": 28.3944743,
+  "lon": 77.0316691,
+  "tags": {
+    "addr:city": "Gurgaon",
+    "addr:district": "Gurgaon",
+    "addr:postcode": "122101",
+    "name": "Golden Farmers Fresh Atta Chakki",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 10951960292,
+  "lat": 28.3949888,
+  "lon": 77.0314279,
+  "tags": {
+    "addr:city": "Gurgaon",
+    "addr:district": "Gurgaon",
+    "addr:postcode": "122101",
+    "name": "Netra The Eye Boutique",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 10952751928,
+  "lat": 28.3947163,
+  "lon": 77.0317070,
+  "tags": {
+    "addr:city": "Gurgaon",
+    "addr:district": "Gurgaon",
+    "addr:postcode": "122101",
+    "name": "Tulip Supermart",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 10952751929,
+  "lat": 28.3947147,
+  "lon": 77.0317701,
+  "tags": {
+    "addr:city": "Gurgaon",
+    "addr:district": "Gurgaon",
+    "addr:postcode": "122101",
+    "name": "Hariom Atta Chakki",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726035,
+  "lat": 28.6221428,
+  "lon": 77.2888924,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "bag",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726039,
+  "lat": 28.6222476,
+  "lon": 77.2891169,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "bag",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10994726055,
+  "lat": 28.6222077,
+  "lon": 77.2892189,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "bag",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11012577704,
+  "lat": 28.6224229,
+  "lon": 77.2896793,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "bag",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11012602405,
+  "lat": 28.6222701,
+  "lon": 77.2893645,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "bag",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11012602410,
+  "lat": 28.6225653,
+  "lon": 77.2896907,
+  "tags": {
+    "note": "Shop selling clocks and mirrors.",
+    "opening_hours": "We 16:30-22:30",
+    "shop": "watches",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11012602414,
+  "lat": 28.6224333,
+  "lon": 77.2894144,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "watches",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11069229211,
+  "lat": 28.6220038,
+  "lon": 77.2935189,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "bag",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11069229212,
+  "lat": 28.6220467,
+  "lon": 77.2932189,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "bag",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11069229225,
+  "lat": 28.6220622,
+  "lon": 77.2930868,
+  "tags": {
+    "opening_hours": "We 16:30-22:30",
+    "shop": "bag",
+    "street_vendor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11101285436,
+  "lat": 28.5505466,
+  "lon": 77.2349795,
+  "tags": {
+    "clothes": "men",
+    "level": "-1",
+    "name": "Vineet Gupta",
+    "shop": "boutique",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11118587144,
+  "lat": 28.5504873,
+  "lon": 77.2350653,
+  "tags": {
+    "level": "0",
+    "name": "Saundh",
+    "shop": "boutique",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11155711187,
+  "lat": 28.5500076,
+  "lon": 77.2351301,
+  "tags": {
+    "level": "1",
+    "name": "Siddarth Opticians",
+    "shop": "optician",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11212044787,
+  "lat": 28.6376405,
+  "lon": 77.2868436,
+  "tags": {
+    "addr:unit": "F-73",
+    "level": "1",
+    "name": "Lavie",
+    "shop": "bag",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11212071466,
+  "lat": 28.6377223,
+  "lon": 77.2868049,
+  "tags": {
+    "level": "1",
+    "name": "Rajeev Times",
+    "shop": "watches",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11212087625,
+  "lat": 28.6375930,
+  "lon": 77.2868751,
+  "tags": {
+    "addr:postcode": "110092",
+    "addr:unit": "F-75",
+    "level": "1",
+    "name": "Baggit",
+    "shop": "bag",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11215983214,
+  "lat": 28.6346516,
+  "lon": 77.2833450,
+  "tags": {
+    "addr:city": "Delhi",
+    "addr:postcode": "110092",
+    "name": "Titan Eye+",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11223073289,
+  "lat": 28.6944038,
+  "lon": 77.1540314,
+  "tags": {
+    "air_conditioning": "yes",
+    "brand": "Marks & Spencer",
+    "brand:wikidata": "Q714491",
+    "clothes": "men;women;underwear;lingerie",
+    "name": "Marks & Spencer",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 11310991919,
+  "lat": 28.5548089,
+  "lon": 77.0831466,
+  "tags": {
+    "name": "Ethos",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 11311118462,
+  "lat": 28.5550482,
+  "lon": 77.0829472,
+  "tags": {
+    "addr:floor": "2",
+    "brand": "Coach",
+    "brand:wikidata": "Q727697",
+    "check_date": "2023-11-04",
+    "name": "Coach",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 11311129070,
+  "lat": 28.5551074,
+  "lon": 77.0829065,
+  "tags": {
+    "addr:floor": "2",
+    "check_date": "2023-11-04",
+    "name": "Rado",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 11337161471,
+  "lat": 28.4375167,
+  "lon": 77.0669521,
+  "tags": {
+    "name": "Lall 20/20 Eye Care",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11368545102,
+  "lat": 28.5705879,
+  "lon": 77.2403638,
+  "tags": {
+    "brand": "VIP",
+    "level": "0",
+    "name": "VIP Lounge",
+    "shop": "bag",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11368545124,
+  "lat": 28.5706380,
+  "lon": 77.2402496,
+  "tags": {
+    "clothes": "men;wedding",
+    "level": "-1",
+    "name": "Wedding Villa",
+    "shop": "boutique",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11398010014,
+  "lat": 28.6330598,
+  "lon": 77.2213946,
+  "tags": {
+    "brand": "Miniso",
+    "brand:wikidata": "Q20732498",
+    "level": "0",
+    "name": "Miniso",
+    "shop": "variety_store",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11443228749,
+  "lat": 28.6337895,
+  "lon": 77.2209880,
+  "tags": {
+    "check_date": "2026-03-14",
+    "level": "0",
+    "name": "Sikka & Sons",
+    "shop": "watches",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11446142354,
+  "lat": 28.6305538,
+  "lon": 77.2779244,
+  "tags": {
+    "level": "0",
+    "name": "Malik Bag House",
+    "shop": "bag",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11446142359,
+  "lat": 28.6305439,
+  "lon": 77.2779008,
+  "tags": {
+    "level": "0",
+    "shop": "bag",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11618383204,
+  "lat": 28.6529034,
+  "lon": 77.1564469,
+  "tags": {
+    "addr:city": "New Delhi",
+    "addr:full": "2150/4C, Shadipur Depot, West Patel Nagar, New Delhi - 110008",
+    "addr:housenumber": "2150/4C",
+    "addr:neighbourhood": "Shadipur Depot",
+    "addr:postcode": "110008",
+    "addr:suburb": "West Patel Nagar",
+    "contact:mobile": "+91-92780-75798",
+    "level": "0",
+    "name": "Sapna Opticians",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11672397798,
+  "lat": 28.5501181,
+  "lon": 77.2338872,
+  "tags": {
+    "level": "0",
+    "name": "The Wadhwa Optikos",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11688160160,
+  "lat": 28.5150428,
+  "lon": 77.1053364,
+  "tags": {
+    "name": "Vinod Bag Manufacturing House",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 11696715790,
+  "lat": 28.4699632,
+  "lon": 77.3073079,
+  "tags": {
+    "name": "Sarol Opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11696972199,
+  "lat": 28.5492033,
+  "lon": 77.2350852,
+  "tags": {
+    "level": "0",
+    "name": "Sarab Khanijou",
+    "shop": "boutique",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11696989149,
+  "lat": 28.6870274,
+  "lon": 77.2907237,
+  "tags": {
+    "name": "JAIN BAG SHOP",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 11697068955,
+  "lat": 28.5014451,
+  "lon": 77.2836000,
+  "tags": {
+    "name": "shah departmental store",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 11697396619,
+  "lat": 28.6585091,
+  "lon": 77.3650562,
+  "tags": {
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "name": "Lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11747878645,
+  "lat": 28.5501395,
+  "lon": 77.2357000,
+  "tags": {
+    "level": "0",
+    "name": "Sureena Chowdhri",
+    "shop": "boutique",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11765954643,
+  "lat": 28.5485560,
+  "lon": 77.2367736,
+  "tags": {
+    "clothes": "men;wedding;traditional",
+    "level": "0",
+    "name": "Jorah",
+    "name:hi": "जोराह",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 11795594690,
+  "lat": 28.6294342,
+  "lon": 77.2197643,
+  "tags": {
+    "brand": "Rolex",
+    "brand:wikidata": "Q62288",
+    "check_date": "2026-08-09",
+    "check_date:opening_hours": "2026-08-09",
+    "name": "Rolex",
+    "opening_hours": "Mo-Su 09:00-11:00",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 11795627725,
+  "lat": 28.6283360,
+  "lon": 77.2197363,
+  "tags": {
+    "check_date": "2026-08-09",
+    "name": "Lawrence & Mayo",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11802205285,
+  "lat": 28.6803699,
+  "lon": 77.2082595,
+  "tags": {
+    "brand": "Fastrack",
+    "brand:wikidata": "Q28164179",
+    "name": "Fastrack",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 11802205286,
+  "lat": 28.6803971,
+  "lon": 77.2082409,
+  "tags": {
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "name": "lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11802205288,
+  "lat": 28.6804479,
+  "lon": 77.2081789,
+  "tags": {
+    "level": "0",
+    "name": "Viewluxe",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11813680526,
+  "lat": 28.5879916,
+  "lon": 77.1679706,
+  "tags": {
+    "check_date": "2024-04-13",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Parth Optical",
+    "phone": "+91 95829 22729; +91 98189 28869",
+    "shop": "optician",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11813703903,
+  "lat": 28.5877645,
+  "lon": 77.1689179,
+  "tags": {
+    "check_date": "2024-04-13",
+    "name": "Agarwal Store",
+    "shop": "department_store",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11818557112,
+  "lat": 28.5875455,
+  "lon": 77.1692440,
+  "tags": {
+    "addr:unit": "4",
+    "name": "Nirmal Eye Care And Opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11853986819,
+  "lat": 28.5653445,
+  "lon": 77.2389124,
+  "tags": {
+    "check_date": "2025-08-13",
+    "level": "-1",
+    "name": "Raymond",
+    "shop": "optician",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11871519883,
+  "lat": 28.5498524,
+  "lon": 77.2354597,
+  "tags": {
+    "level": "-1",
+    "name": "Neeshi Handbags and Jewellery",
+    "shop": "bag",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11871519889,
+  "lat": 28.5499322,
+  "lon": 77.2353020,
+  "tags": {
+    "clothes": "women",
+    "level": "0",
+    "name": "Ekal Designs",
+    "shop": "boutique",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11875621832,
+  "lat": 28.5679695,
+  "lon": 77.3205132,
+  "tags": {
+    "brand": "Marks & Spencer",
+    "brand:short": "M&S",
+    "brand:wikidata": "Q714491",
+    "level": "1",
+    "name": "Marks & Spencer",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 11876083319,
+  "lat": 28.5954113,
+  "lon": 77.1229245,
+  "tags": {
+    "contact:mobile": "9818292711",
+    "level": "0",
+    "name": "Standard Optician",
+    "shop": "optician",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11876083339,
+  "lat": 28.5955944,
+  "lon": 77.1230213,
+  "tags": {
+    "level": "0",
+    "name": "Sahni Opticals",
+    "shop": "optician",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11886578484,
+  "lat": 28.5936964,
+  "lon": 77.1220736,
+  "tags": {
+    "level": "1",
+    "name": "Khushboo Opticals",
+    "shop": "optician",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11886578485,
+  "lat": 28.5937169,
+  "lon": 77.1220661,
+  "tags": {
+    "level": "0",
+    "name": "Mahavir Watch Company",
+    "operator": "Vijay Jain",
+    "shop": "watches",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11982171885,
+  "lat": 28.6696539,
+  "lon": 77.3077257,
+  "tags": {
+    "check_date": "2024-06-15",
+    "name": "Super Vision Opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11982456737,
+  "lat": 28.6598169,
+  "lon": 77.2830897,
+  "tags": {
+    "level": "0",
+    "name": "Bajaj Optics",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11982456751,
+  "lat": 28.6597948,
+  "lon": 77.2830429,
+  "tags": {
+    "level": "0",
+    "name": "Euro Style",
+    "phone": "+91-98106-61118",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 11989736421,
+  "lat": 28.5967806,
+  "lon": 77.1331612,
+  "tags": {
+    "level": "0",
+    "name": "Swami Watch House",
+    "shop": "watches",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12010213671,
+  "lat": 28.6374442,
+  "lon": 77.3040000,
+  "tags": {
+    "level": "0",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12020183796,
+  "lat": 28.6612837,
+  "lon": 77.2869809,
+  "tags": {
+    "clothes": "women",
+    "level": "0",
+    "name": "Rejoy Boutique",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 12025686693,
+  "lat": 28.7196840,
+  "lon": 77.1098444,
+  "tags": {
+    "brand": "Shoppers Stop",
+    "brand:wikidata": "Q7501182",
+    "name": "Shoppers Stop",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 12028994760,
+  "lat": 28.7179597,
+  "lon": 77.1256408,
+  "tags": {
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "name": "Lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12043151922,
+  "lat": 28.5762726,
+  "lon": 77.1956090,
+  "tags": {
+    "level": "0",
+    "name": "Brand Bazaar",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 12043151934,
+  "lat": 28.5760497,
+  "lon": 77.1954208,
+  "tags": {
+    "level": "0",
+    "name": "Gaurav Enterprises",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 12043151937,
+  "lat": 28.5773023,
+  "lon": 77.1960307,
+  "tags": {
+    "level": "0",
+    "name": "Gaurav Collections",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 12050848481,
+  "lat": 28.5260184,
+  "lon": 77.2372345,
+  "tags": {
+    "check_date": "2024-07-13",
+    "name": "Tailoring Material Store",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 12066194834,
+  "lat": 28.6375937,
+  "lon": 77.2865826,
+  "tags": {
+    "level": "1",
+    "name": "Uppercase",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 12066218280,
+  "lat": 28.6370225,
+  "lon": 77.2863434,
+  "tags": {
+    "check_date": "2024-07-21",
+    "level": "0",
+    "name": "SUPER99",
+    "shop": "variety_store",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12066233682,
+  "lat": 28.6373456,
+  "lon": 77.2864307,
+  "tags": {
+    "brand": "Wildcraft",
+    "level": "0",
+    "name": "Wildcraft",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 12068548710,
+  "lat": 28.6378458,
+  "lon": 77.2865674,
+  "tags": {
+    "level": "1",
+    "name": "it Luggage",
+    "shop": "bag",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12068548712,
+  "lat": 28.6378611,
+  "lon": 77.2865939,
+  "tags": {
+    "level": "1",
+    "name": "Safari",
+    "shop": "bag",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12074868081,
+  "lat": 28.5958278,
+  "lon": 77.0364131,
+  "tags": {
+    "brand": "Shoppers Stop",
+    "brand:wikidata": "Q7501155",
+    "check_date": "2024-07-26",
+    "level": "0;1",
+    "name": "Shoppers Stop",
+    "name:hi": "Shoppers Stop",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 12091660856,
+  "lat": 28.4606216,
+  "lon": 77.0792625,
+  "tags": {
+    "addr:block": "G",
+    "addr:place": "Sushant Arcade",
+    "addr:state": "HR",
+    "addr:unit": "246",
+    "check_date": "2024-08-04",
+    "contact:mobile": "+91 78276 08331",
+    "craft": "optician",
+    "level": "1",
+    "name": "Opticarma",
+    "name:en": "Opticarma",
+    "shop": "optician",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12094823973,
+  "lat": 28.6378358,
+  "lon": 77.2866067,
+  "tags": {
+    "addr:city": "New Delhi",
+    "addr:place": "V3S Mall",
+    "brand": "American Tourister",
+    "brand:wikidata": "Q4745268",
+    "level": "1",
+    "name": "American Tourister",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 12094823975,
+  "lat": 28.6377624,
+  "lon": 77.2864141,
+  "tags": {
+    "addr:city": "New Delhi",
+    "addr:housenumber": "51",
+    "addr:place": "V3S Mall",
+    "addr:street": "F",
+    "level": "1",
+    "name": "Safari",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 12094823980,
+  "lat": 28.6377584,
+  "lon": 77.2864011,
+  "tags": {
+    "addr:block": "F",
+    "addr:housenumber": "50",
+    "addr:place": "V3S Mall",
+    "level": "1",
+    "name": "It Luggage",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 12098415262,
+  "lat": 28.6227589,
+  "lon": 77.2949026,
+  "tags": {
+    "addr:block": "E",
+    "addr:city": "Delhi",
+    "addr:housenumber": "167",
+    "addr:place": "Mandawali",
+    "addr:postcode": "110092",
+    "addr:street": "Shanti Marg",
+    "addr:suburb": "Fazalpur",
+    "level": "0",
+    "name": "Canon Opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12135507083,
+  "lat": 28.6464378,
+  "lon": 77.1893231,
+  "tags": {
+    "brand": "Sunglass Hut",
+    "brand:wikidata": "Q136311",
+    "name": "Sunglass Hut",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12135624528,
+  "lat": 28.6471245,
+  "lon": 77.1882458,
+  "tags": {
+    "addr:floor": "0",
+    "addr:housenumber": "15A/44",
+    "addr:street": "Saraswati Marg",
+    "check_date": "2024-08-25",
+    "level": "0",
+    "name": "Navjot Opticians",
+    "phone": "+91 11 4145 0936; +91 98106 87409; +91 98181 08111",
+    "shop": "optician",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12135670060,
+  "lat": 28.6455959,
+  "lon": 77.1889260,
+  "tags": {
+    "brand": "Titan",
+    "craft": "optician",
+    "level": "0",
+    "name": "Titan",
+    "shop": "optician",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12368001373,
+  "lat": 28.6181999,
+  "lon": 77.0294317,
+  "tags": {
+    "brand": "American Tourister",
+    "level": "0",
+    "name": "American Tourister",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 12368993018,
+  "lat": 28.5839510,
+  "lon": 77.0715530,
+  "tags": {
+    "check_date": "2024-11-24",
+    "level": "0",
+    "name": "Titan Eye+",
+    "name:hi": "टाइटन आई+",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12401403588,
+  "lat": 28.5853477,
+  "lon": 77.0714794,
+  "tags": {
+    "check_date": "2024-12-07",
+    "level": "0",
+    "name": "Safari",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 12401425306,
+  "lat": 28.5853831,
+  "lon": 77.0711321,
+  "tags": {
+    "check_date": "2024-12-07",
+    "level": "-1",
+    "name": "Klassik Purse Emporium",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 12452903480,
+  "lat": 28.6010022,
+  "lon": 77.0301692,
+  "tags": {
+    "level": "0",
+    "name": "Dayal opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12458051817,
+  "lat": 28.5861514,
+  "lon": 77.0711649,
+  "tags": {
+    "addr:floor": "G",
+    "brand": "Miniso",
+    "brand:wikidata": "Q20732498",
+    "check_date": "2024-12-28",
+    "level": "0",
+    "name": "Miniso",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 12458063779,
+  "lat": 28.5863173,
+  "lon": 77.0711775,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2024-12-28",
+    "level": "0",
+    "name": "Accurate Opticals Plus",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12472962286,
+  "lat": 28.5863666,
+  "lon": 77.0715461,
+  "tags": {
+    "check_date": "2025-01-04",
+    "name": "Anmol Watches And Sunglasses",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 12595808650,
+  "lat": 28.6912615,
+  "lon": 77.4908776,
+  "tags": {
+    "name": "right sight care",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12596601899,
+  "lat": 28.6700047,
+  "lon": 77.2888277,
+  "tags": {
+    "name": "Optical Palace",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12620240423,
+  "lat": 28.5853081,
+  "lon": 77.0700416,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-02-26",
+    "level": "0",
+    "name": "Chasma.Com",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12644674895,
+  "lat": 28.5896178,
+  "lon": 77.0718490,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-03-08",
+    "level": "0",
+    "name": "Optical Vats",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12676301798,
+  "lat": 28.5957033,
+  "lon": 77.1225920,
+  "tags": {
+    "clothes": "women",
+    "level": "0",
+    "name": "Himanya Kurti Centre And Boutique",
+    "shop": "boutique",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12712532191,
+  "lat": 28.6007053,
+  "lon": 77.2270950,
+  "tags": {
+    "name": "Delsey",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 12712532195,
+  "lat": 28.6000734,
+  "lon": 77.2267393,
+  "tags": {
+    "name": "Mokobara",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 12718410801,
+  "lat": 28.6578403,
+  "lon": 77.2304680,
+  "tags": {
+    "name": "Omaxe Mall",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 12726500767,
+  "lat": 28.6384523,
+  "lon": 77.2911368,
+  "tags": {
+    "description": "JBL official partner",
+    "name": "Gangaram Watch Gallery",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 12752326255,
+  "lat": 28.6567609,
+  "lon": 77.2263494,
+  "tags": {
+    "clothes": "fashion;women",
+    "level": "0",
+    "name": "Dee Vee Fabric",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 12800054385,
+  "lat": 28.5529192,
+  "lon": 77.2408632,
+  "tags": {
+    "brand": "Lenskart",
+    "name": "Lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12800054395,
+  "lat": 28.5531289,
+  "lon": 77.2407372,
+  "tags": {
+    "name": "Kwality Departmental Store",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 12828228862,
+  "lat": 28.7070423,
+  "lon": 77.1236588,
+  "tags": {
+    "name": "Wildcraft",
+    "shop": "bag",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12828232558,
+  "lat": 28.7069421,
+  "lon": 77.1235506,
+  "tags": {
+    "level": "0",
+    "name": "Vitaag",
+    "shop": "bag",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12828259375,
+  "lat": 28.7081768,
+  "lon": 77.1242080,
+  "tags": {
+    "check_date": "2025-05-11",
+    "name": "VIP Lounge",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 12828298718,
+  "lat": 28.7080614,
+  "lon": 77.1245225,
+  "tags": {
+    "brand": "Miniso",
+    "brand:wikidata": "Q20732498",
+    "level": "0",
+    "name": "Miniso",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 12828476483,
+  "lat": 28.7085775,
+  "lon": 77.1240958,
+  "tags": {
+    "brand": "Lenskart",
+    "name": "Lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12828476496,
+  "lat": 28.7097056,
+  "lon": 77.1223900,
+  "tags": {
+    "name": "Shri Nath Optical",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12862182212,
+  "lat": 28.7069137,
+  "lon": 77.1235240,
+  "tags": {
+    "name": "Vittag",
+    "shop": "bag",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12894636670,
+  "lat": 28.5704974,
+  "lon": 77.2395561,
+  "tags": {
+    "name": "XPert Optician",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12895508100,
+  "lat": 28.5104792,
+  "lon": 77.3693367,
+  "tags": {
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12896531741,
+  "lat": 28.6326102,
+  "lon": 77.2063181,
+  "tags": {
+    "craft": "electronics_repair",
+    "name": "Mobiles Daddy",
+    "shop": "optician",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12896614402,
+  "lat": 28.6325292,
+  "lon": 77.2062302,
+  "tags": {
+    "level": "0",
+    "name": "Dwinkle Opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12977503225,
+  "lat": 28.6318028,
+  "lon": 77.2210568,
+  "tags": {
+    "name": "Casio",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 12997286061,
+  "lat": 28.6446889,
+  "lon": 77.3384068,
+  "tags": {
+    "level": "0",
+    "name": "Lenskart",
+    "panoramax": "867b1a0e-74e5-4b80-85bb-a45df45bebc5",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 12997312668,
+  "lat": 28.6447123,
+  "lon": 77.3391665,
+  "tags": {
+    "level": "0",
+    "name": "Titan Eye+",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13016840301,
+  "lat": 28.5822511,
+  "lon": 77.0853595,
+  "tags": {
+    "addr:housenumber": "D154/C",
+    "addr:postcode": "110077",
+    "addr:street": "DDA Park Road",
+    "internet_access": "wlan",
+    "name": "Palam Mart",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 13028285608,
+  "lat": 28.5691850,
+  "lon": 77.3239376,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-07-27",
+    "level": "0",
+    "name": "VIP World",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13028308335,
+  "lat": 28.5702705,
+  "lon": 77.3242165,
+  "tags": {
+    "name": "Helios",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 13028308337,
+  "lat": 28.5702166,
+  "lon": 77.3242140,
+  "tags": {
+    "name": "Sky Watches",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 13028311585,
+  "lat": 28.5690607,
+  "lon": 77.3241721,
+  "tags": {
+    "building": "yes",
+    "building:levels:underground": "2",
+    "level": "0",
+    "name": "Titan Eye+",
+    "shop": "optician",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13028334911,
+  "lat": 28.5693589,
+  "lon": 77.3241501,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-07-27",
+    "level": "0",
+    "name": "Bonton",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13028337455,
+  "lat": 28.5705635,
+  "lon": 77.3245379,
+  "tags": {
+    "name": "Sethi Watch Co.",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 13028340160,
+  "lat": 28.5687591,
+  "lon": 77.3245325,
+  "tags": {
+    "addr:floor": "G",
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "check_date": "2025-07-27",
+    "level": "0",
+    "name": "Lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13028365348,
+  "lat": 28.5686323,
+  "lon": 77.3242730,
+  "tags": {
+    "levels": "3",
+    "name": "Spectica",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13061633496,
+  "lat": 28.6291351,
+  "lon": 77.2776759,
+  "tags": {
+    "level": "0",
+    "name": "Optical Hub",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13072195604,
+  "lat": 28.6194826,
+  "lon": 77.2994823,
+  "tags": {
+    "addr:block": "Pocket A",
+    "addr:city": "Delhi",
+    "addr:district": "East Delhi",
+    "addr:housenumber": "A-183",
+    "addr:neighbourhood": "Mayur Vihar 2",
+    "addr:postcode": "110091",
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "name": "Lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13077846050,
+  "lat": 28.6378855,
+  "lon": 77.2899259,
+  "tags": {
+    "brand": "Miniso",
+    "level": "0",
+    "name": "Miniso",
+    "shop": "variety_store",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13084365807,
+  "lat": 28.6347616,
+  "lon": 77.2835030,
+  "tags": {
+    "addr:city": "Delhi",
+    "addr:postcode": "110092",
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "name": "Lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13084418141,
+  "lat": 28.6191850,
+  "lon": 77.2984545,
+  "tags": {
+    "name": "Netra Kiran Optics",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13110027567,
+  "lat": 28.6826424,
+  "lon": 77.2002574,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2025-09-01",
+    "level": "0",
+    "name": "I Care Opticians",
+    "name:en": "I Care Opticians",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13110035509,
+  "lat": 28.6826261,
+  "lon": 77.1998317,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2026-03-20",
+    "level": "0",
+    "name": "Satyawati Grocery",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 13110035511,
+  "lat": 28.6828056,
+  "lon": 77.2001099,
+  "tags": {
+    "addr:floor": "G",
+    "check_date": "2026-03-20",
+    "level": "0",
+    "name": "Agarwal Traders",
+    "name:en": "Agarwal Traders",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 13110089742,
+  "lat": 28.6806238,
+  "lon": 77.2032895,
+  "tags": {
+    "name": "Samay",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 13110159204,
+  "lat": 28.6824051,
+  "lon": 77.2061223,
+  "tags": {
+    "level": "1",
+    "name": "VIP Lounge",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13110159219,
+  "lat": 28.6824667,
+  "lon": 77.2062065,
+  "tags": {
+    "name": "Safari",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13110159228,
+  "lat": 28.6824866,
+  "lon": 77.2062335,
+  "tags": {
+    "brand": "Samsonite",
+    "name": "Samsonite",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13110159231,
+  "lat": 28.6823378,
+  "lon": 77.2060210,
+  "tags": {
+    "name": "Uppercase",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13115542229,
+  "lat": 28.5687759,
+  "lon": 77.2421086,
+  "tags": {
+    "addr:city": "New Delhi",
+    "addr:place": "Pushpa Market",
+    "addr:postcode": "110024",
+    "addr:suburb": "Lajpat Nagar 2",
+    "addr:unit": "17",
+    "brand": "Safari;Kamilliant",
+    "contact:mobile": "+91-98912-78055;+91-99680-10098;+91-98109-28808",
+    "contact:phone": "+91-11-2983-1813;+91-11-4475-8559",
+    "description": "Sells bags and suitcases, both factory-made and custom ones",
+    "level": "3",
+    "name": "Sabharwal Leather Works",
+    "shop": "bag",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13124086737,
+  "lat": 28.5707451,
+  "lon": 77.2398845,
+  "tags": {
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "level": "0",
+    "name": "Lenskart",
+    "shop": "optician",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13142376103,
+  "lat": 28.5468878,
+  "lon": 77.2147802,
+  "tags": {
+    "name": "Blossom leaf",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13179825860,
+  "lat": 28.4481922,
+  "lon": 77.0989967,
+  "tags": {
+    "addr:floor": "UG",
+    "air_conditioning": "yes",
+    "level": "0",
+    "name": "Himalaya Opticals",
+    "shop": "optician",
+    "website": "https://himalayaopticalsonline.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13191135230,
+  "lat": 28.4482590,
+  "lon": 77.0991247,
+  "tags": {
+    "addr:floor": "UG",
+    "level": "0",
+    "name": "Dr Monga Opticians",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13191135233,
+  "lat": 28.4480865,
+  "lon": 77.0989963,
+  "tags": {
+    "addr:floor": "UG",
+    "level": "0",
+    "name": "Optical Palace",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13191135242,
+  "lat": 28.4476336,
+  "lon": 77.0994505,
+  "tags": {
+    "addr:floor": "UG",
+    "air_conditioning": "yes",
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "level": "0",
+    "name": "Lenskart",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13227436853,
+  "lat": 28.7034488,
+  "lon": 77.1312742,
+  "tags": {
+    "brand": "Shoppers Stop",
+    "name": "Shoppers Stop",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 13227545055,
+  "lat": 28.5929696,
+  "lon": 77.0463364,
+  "tags": {
+    "level": "0",
+    "name": "Devbhoomi optical",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13227560164,
+  "lat": 28.5945478,
+  "lon": 77.0477512,
+  "tags": {
+    "name": "Titan",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 13227565503,
+  "lat": 28.5944139,
+  "lon": 77.0475672,
+  "tags": {
+    "name": "AK Vision Opticals",
+    "opening_hours": "Mo-Sa 08:00-18:00",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13227569391,
+  "lat": 28.5947955,
+  "lon": 77.0479426,
+  "tags": {
+    "name": "Bonton Opticians",
+    "opening_hours": "Mo-Su 11:00-21:00",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13227571773,
+  "lat": 28.5947468,
+  "lon": 77.0479003,
+  "tags": {
+    "name": "Titan Eye+",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13227573195,
+  "lat": 28.5946842,
+  "lon": 77.0478439,
+  "tags": {
+    "name": "King Eyewear",
+    "opening_hours": "Mo-Sa 10:00-22:00",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13227584440,
+  "lat": 28.5947173,
+  "lon": 77.0478734,
+  "tags": {
+    "name": "Frameskraft.com",
+    "opening_hours": "Mo-Sa 10:00-21:00",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13227585178,
+  "lat": 28.5929157,
+  "lon": 77.0463092,
+  "tags": {
+    "changing_table": "no",
+    "clothes": "traditional;women",
+    "level": "0",
+    "mobile": "+91 98109 35568",
+    "name": "Shubham Saree and Suits",
+    "shop": "boutique",
+    "toilets": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13227591558,
+  "lat": 28.5948408,
+  "lon": 77.0479788,
+  "tags": {
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "name": "Lenskart.com",
+    "opening_hours": "Mo-Su 11:00-21:30",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13227601561,
+  "lat": 28.5962277,
+  "lon": 77.0491753,
+  "tags": {
+    "name": "AARSON Watch Company",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 13227608722,
+  "lat": 28.5956412,
+  "lon": 77.0486694,
+  "tags": {
+    "level": "0",
+    "name": "World of Opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13227612585,
+  "lat": 28.5932831,
+  "lon": 77.0466192,
+  "tags": {
+    "name": "Fashion Boutique",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13227622808,
+  "lat": 28.5956826,
+  "lon": 77.0487083,
+  "tags": {
+    "level": "0",
+    "name": "Prakash Watch Co.",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 13227632856,
+  "lat": 28.5958990,
+  "lon": 77.0489173,
+  "tags": {
+    "name": "Centre for Sight",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13227643406,
+  "lat": 28.5962829,
+  "lon": 77.0492184,
+  "tags": {
+    "name": "Siddharth",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13240204741,
+  "lat": 28.5707017,
+  "lon": 77.3623708,
+  "tags": {
+    "name": "Eye Shades Opticians",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13246708724,
+  "lat": 28.4571268,
+  "lon": 77.0967103,
+  "tags": {
+    "level": "1",
+    "name": "Garmin",
+    "operator": "Athelin",
+    "operator:website": "https://athelin.com/",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 13295285682,
+  "lat": 28.4959439,
+  "lon": 77.0891135,
+  "tags": {
+    "brand": "Sunglass Hut",
+    "brand:wikidata": "Q136311",
+    "level": "0",
+    "name": "Sunglass Hut",
+    "shop": "optician",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13296688588,
+  "lat": 28.5042351,
+  "lon": 77.0970070,
+  "tags": {
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "level": "2",
+    "name": "Lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13296688594,
+  "lat": 28.5038144,
+  "lon": 77.0970627,
+  "tags": {
+    "brand": "Samsonite",
+    "brand:wikidata": "Q1203426",
+    "level": "2",
+    "name": "Samsonite",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13296721106,
+  "lat": 28.5041625,
+  "lon": 77.0970148,
+  "tags": {
+    "level": "2",
+    "name": "GKB Opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13296721110,
+  "lat": 28.5023516,
+  "lon": 77.0973492,
+  "tags": {
+    "level": "2",
+    "name": "Delsey Paris",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13447657601,
+  "lat": 28.6338005,
+  "lon": 77.2239220,
+  "tags": {
+    "check_date": "2026-01-11",
+    "name": "Navin Luggage Store",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13544379811,
+  "lat": 28.6196535,
+  "lon": 77.2857762,
+  "tags": {
+    "brand": "Lenskart",
+    "level": "0",
+    "name": "Lenskart",
+    "shop": "optician",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13566043834,
+  "lat": 28.7054959,
+  "lon": 77.1899914,
+  "tags": {
+    "brand": "Miniso",
+    "brand:wikidata": "Q20732498",
+    "name": "Miniso",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 13566046169,
+  "lat": 28.7056054,
+  "lon": 77.1910013,
+  "tags": {
+    "name": "la Peach",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13566076211,
+  "lat": 28.7056680,
+  "lon": 77.1900591,
+  "tags": {
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "name": "Lenskart",
+    "opening_hours": "Mo-Su,PH 10:00-22:00",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13566176416,
+  "lat": 28.7060112,
+  "lon": 77.1910115,
+  "tags": {
+    "name": "Ruchika",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13573058134,
+  "lat": 28.6831687,
+  "lon": 77.2019745,
+  "tags": {
+    "name": "Asian Optics",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13573063148,
+  "lat": 28.6824381,
+  "lon": 77.2025415,
+  "tags": {
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13573068592,
+  "lat": 28.6822028,
+  "lon": 77.2025083,
+  "tags": {
+    "name": "Standard Watch Co.",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 13594394683,
+  "lat": 28.5738681,
+  "lon": 77.2099164,
+  "tags": {
+    "level": "0",
+    "name": "Alankar Galleria",
+    "shop": "boutique",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13595492906,
+  "lat": 28.5686270,
+  "lon": 77.2243754,
+  "tags": {
+    "name": "Study Janak",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13602492000,
+  "lat": 28.5700780,
+  "lon": 77.2129453,
+  "tags": {
+    "name": "Tribes India",
+    "shop": "department_store",
+    "website": "https://tribesindia.com",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13626694389,
+  "lat": 28.6086718,
+  "lon": 77.2936750,
+  "tags": {
+    "name": "Sati Boutique",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931604,
+  "lat": 28.6825561,
+  "lon": 77.2034232,
+  "tags": {
+    "name": "Ikon Optics",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931605,
+  "lat": 28.6821783,
+  "lon": 77.2028596,
+  "tags": {
+    "name": "Amazer Collection",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931610,
+  "lat": 28.6821989,
+  "lon": 77.2028561,
+  "tags": {
+    "name": "Bhartiya Poshak",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931611,
+  "lat": 28.6819742,
+  "lon": 77.2024917,
+  "tags": {
+    "name": "Tarun's Design Studio",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931612,
+  "lat": 28.6814672,
+  "lon": 77.2015921,
+  "tags": {
+    "name": "Aar Enterprises",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931617,
+  "lat": 28.6819789,
+  "lon": 77.2046747,
+  "tags": {
+    "addr:housenumber": "E-144",
+    "level": "0",
+    "name": "Master Ji The Royal Wardrobe",
+    "phone": "+91 98734 40506",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931655,
+  "lat": 28.6825902,
+  "lon": 77.2041610,
+  "tags": {
+    "name": "Raees Sons",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931660,
+  "lat": 28.6818602,
+  "lon": 77.2047726,
+  "tags": {
+    "name": "Rohshaa",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931674,
+  "lat": 28.6811785,
+  "lon": 77.2007447,
+  "tags": {
+    "name": "Sidhika Boutique",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931676,
+  "lat": 28.6822477,
+  "lon": 77.2028640,
+  "tags": {
+    "name": "Bharatiya Hathkaran Udyog",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931680,
+  "lat": 28.6820187,
+  "lon": 77.2025676,
+  "tags": {
+    "name": "Kamangari",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13644931686,
+  "lat": 28.6827895,
+  "lon": 77.2035864,
+  "tags": {
+    "name": "A-Rose",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13645264743,
+  "lat": 28.6808529,
+  "lon": 77.2076203,
+  "tags": {
+    "name": "Sanjeev Opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13645264762,
+  "lat": 28.6817926,
+  "lon": 77.2064906,
+  "tags": {
+    "name": "Krishna Ji Opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13677002984,
+  "lat": 28.5998713,
+  "lon": 77.3177414,
+  "tags": {
+    "level": "2",
+    "name": "DDA market",
+    "opening_hours": "Tu-Su 10:00-22:00; PH open \"\"",
+    "operator": "DDA",
+    "shop": "variety_store",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13685027989,
+  "lat": 28.6080941,
+  "lon": 77.4439146,
+  "tags": {
+    "name": "visual Vision",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:google_pay": "yes",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13686013811,
+  "lat": 28.6081087,
+  "lon": 77.4438830,
+  "tags": {
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13691559692,
+  "lat": 28.6793425,
+  "lon": 77.2037545,
+  "tags": {
+    "level": "0",
+    "name": "N. R. Bag House",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13691615104,
+  "lat": 28.6787088,
+  "lon": 77.2038922,
+  "tags": {
+    "name": "Tacos",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13691615106,
+  "lat": 28.6788288,
+  "lon": 77.2038897,
+  "tags": {
+    "level": "0",
+    "name": "New Style Collection",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13691615111,
+  "lat": 28.6802498,
+  "lon": 77.2038754,
+  "tags": {
+    "level": "0",
+    "name": "Bombay Bag House",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13694812028,
+  "lat": 28.6824113,
+  "lon": 77.2064096,
+  "tags": {
+    "name": "The Brand Street",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13694812059,
+  "lat": 28.6812559,
+  "lon": 77.2075099,
+  "tags": {
+    "name": "Envee Optix",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13694812103,
+  "lat": 28.6821657,
+  "lon": 77.2067385,
+  "tags": {
+    "name": "Taruna",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13694812174,
+  "lat": 28.6809598,
+  "lon": 77.2077770,
+  "tags": {
+    "name": "Casio",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 13713108742,
+  "lat": 28.6816160,
+  "lon": 77.2024650,
+  "tags": {
+    "name": "Sway Opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13780550333,
+  "lat": 28.5725722,
+  "lon": 77.1674241,
+  "tags": {
+    "brand": "Lenskart",
+    "level": "0",
+    "name": "Lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13780550348,
+  "lat": 28.5726553,
+  "lon": 77.1667303,
+  "tags": {
+    "level": "0",
+    "name": "Delhi Eye Care",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13780550376,
+  "lat": 28.5726402,
+  "lon": 77.1666987,
+  "tags": {
+    "level": "0",
+    "name": "Vision Plus",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13780597024,
+  "lat": 28.5724284,
+  "lon": 77.1671095,
+  "tags": {
+    "level": "0",
+    "name": "Titan Eye+",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13780597081,
+  "lat": 28.5723989,
+  "lon": 77.1664926,
+  "tags": {
+    "name": "Neo Optics",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13813730667,
+  "lat": 28.5627247,
+  "lon": 77.1939389,
+  "tags": {
+    "name": "Haris Opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13814203733,
+  "lat": 28.5628115,
+  "lon": 77.1935375,
+  "tags": {
+    "name": "Nine Eleven",
+    "phone": "+91 7827477443",
+    "shop": "department_store",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13830835379,
+  "lat": 28.6823542,
+  "lon": 77.2060518,
+  "tags": {
+    "brand": "American Tourister",
+    "level": "0",
+    "name": "American Tourister",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13830835394,
+  "lat": 28.6816600,
+  "lon": 77.2052817,
+  "tags": {
+    "name": "The Watch Point",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892517,
+  "lat": 28.6812058,
+  "lon": 77.2045512,
+  "tags": {
+    "level": "0",
+    "name": "The Opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892549,
+  "lat": 28.6800005,
+  "lon": 77.2039871,
+  "tags": {
+    "level": "0",
+    "name": "Woman Choice",
+    "shop": "bag",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13830892616,
+  "lat": 28.6807975,
+  "lon": 77.2042886,
+  "tags": {
+    "level": "0",
+    "name": "The Amarsons Watch Co.",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 13833575930,
+  "lat": 28.5740057,
+  "lon": 77.2102551,
+  "tags": {
+    "level": "0",
+    "name": "Krishna Bag House",
+    "phone": "919899825910",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13834324579,
+  "lat": 28.6343326,
+  "lon": 77.2175488,
+  "tags": {
+    "addr:housename": "H",
+    "addr:place": "Connaught Place",
+    "addr:postcode": "110001",
+    "addr:unit": "43",
+    "level": "0",
+    "name": "Arnaf India",
+    "name:alt": "Oberoi Opticians",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13860490701,
+  "lat": 28.3691873,
+  "lon": 77.0779579,
+  "tags": {
+    "check_date": "2026-05-22",
+    "name": "Shree Shyam 99 Store",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 13864524504,
+  "lat": 28.3637628,
+  "lon": 77.0780126,
+  "tags": {
+    "check_date": "2026-05-23",
+    "name": "Geeta Boutique and Cosmetics Store",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13864587701,
+  "lat": 28.3637550,
+  "lon": 77.0806687,
+  "tags": {
+    "check_date": "2026-05-23",
+    "name": "Gayatri Beauty Parlour and Boutique",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13864767003,
+  "lat": 28.3611762,
+  "lon": 77.0756836,
+  "tags": {
+    "check_date": "2026-05-23",
+    "name": "Shyam 99 Store",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 13865699778,
+  "lat": 28.3617445,
+  "lon": 77.0737938,
+  "tags": {
+    "name": "Phukuli Beautiful Home Store",
+    "panoramax": "ea82949c-e359-47b9-815f-a6e25b07377c",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 13870321011,
+  "lat": 28.3627800,
+  "lon": 77.0793063,
+  "tags": {
+    "check_date": "2026-05-24",
+    "name": "New Malik Suit Sari (Sadhna Boutique)",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13886768817,
+  "lat": 28.3591339,
+  "lon": 77.0784634,
+  "tags": {
+    "name": "Sew In Style Boutique",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13886768825,
+  "lat": 28.3589770,
+  "lon": 77.0785519,
+  "tags": {
+    "name": "Amber Mega Mart",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 13886768843,
+  "lat": 28.3587103,
+  "lon": 77.0786726,
+  "tags": {
+    "name": "Meenakshi Boutique",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 13890652484,
+  "lat": 28.4805632,
+  "lon": 77.0800711,
+  "tags": {
+    "level": "1",
+    "name": "Wow World of Watches",
+    "shop": "watches",
+    "start_date": "2003"
+  }
+},
+{
+  "type": "node",
+  "id": 13890652486,
+  "lat": 28.4809096,
+  "lon": 77.0800476,
+  "tags": {
+    "level": "2",
+    "name": "Baggit",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13890652487,
+  "lat": 28.4809944,
+  "lon": 77.0804138,
+  "tags": {
+    "level": "2",
+    "name": "Vicinxa",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13890652490,
+  "lat": 28.4811683,
+  "lon": 77.0800655,
+  "tags": {
+    "brand": "Samsonite",
+    "brand:wikidata": "Q1203426",
+    "level": "1",
+    "name": "Samsonite",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13890652492,
+  "lat": 28.4810556,
+  "lon": 77.0804202,
+  "tags": {
+    "level": "1",
+    "name": "Wildcraft",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13890652495,
+  "lat": 28.4812146,
+  "lon": 77.0800697,
+  "tags": {
+    "level": "1",
+    "name": "VIP",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672511,
+  "lat": 28.4812686,
+  "lon": 77.0800695,
+  "tags": {
+    "level": "1",
+    "name": "Delsey",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672522,
+  "lat": 28.4802846,
+  "lon": 77.0800774,
+  "tags": {
+    "brand": "Shoppers Stop",
+    "brand:wikidata": "Q7501182",
+    "level": "0",
+    "name": "Shoppers Stop",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672537,
+  "lat": 28.4802979,
+  "lon": 77.0801099,
+  "tags": {
+    "brand": "Shoppers Stop",
+    "brand:wikidata": "Q7501182",
+    "level": "1",
+    "name": "Shoppers Stop",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672542,
+  "lat": 28.4812513,
+  "lon": 77.0804443,
+  "tags": {
+    "level": "1",
+    "name": "Safari",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672543,
+  "lat": 28.4802550,
+  "lon": 77.0804228,
+  "tags": {
+    "level": "0",
+    "name": "Lavie",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672544,
+  "lat": 28.4811869,
+  "lon": 77.0804343,
+  "tags": {
+    "level": "1",
+    "name": "Uppercase",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672547,
+  "lat": 28.4802832,
+  "lon": 77.0804588,
+  "tags": {
+    "level": "0",
+    "name": "Wow World of Watches",
+    "shop": "watches",
+    "start_date": "2003"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672551,
+  "lat": 28.4812918,
+  "lon": 77.0804189,
+  "tags": {
+    "level": "2",
+    "name": "Carlton",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672561,
+  "lat": 28.4809682,
+  "lon": 77.0800904,
+  "tags": {
+    "level": "0",
+    "name": "Casio",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672571,
+  "lat": 28.4810766,
+  "lon": 77.0800677,
+  "tags": {
+    "brand": "American Tourister",
+    "brand:wikidata": "Q4745268",
+    "level": "1",
+    "name": "American Tourister",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672574,
+  "lat": 28.4814207,
+  "lon": 77.0800687,
+  "tags": {
+    "level": "1",
+    "name": "Mokobara",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672580,
+  "lat": 28.4810018,
+  "lon": 77.0804188,
+  "tags": {
+    "level": "0",
+    "name": "Boton Optician",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672597,
+  "lat": 28.4810823,
+  "lon": 77.0800588,
+  "tags": {
+    "level": "2",
+    "name": "Caprese",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672606,
+  "lat": 28.4802223,
+  "lon": 77.0801183,
+  "tags": {
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "level": "0",
+    "name": "Lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672609,
+  "lat": 28.4809773,
+  "lon": 77.0804276,
+  "tags": {
+    "level": "0",
+    "name": "Dayal Opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13890672617,
+  "lat": 28.4807116,
+  "lon": 77.0800643,
+  "tags": {
+    "level": "0",
+    "name": "Titan Eye+",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 13900271709,
+  "lat": 28.5673896,
+  "lon": 77.3210706,
+  "tags": {
+    "brand": "Miniso",
+    "level": "0",
+    "name": "Miniso",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 13904238259,
+  "lat": 28.6814915,
+  "lon": 77.2069636,
+  "tags": {
+    "level": "0",
+    "name": "Lookbook Optical",
+    "shop": "optician",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13923707065,
+  "lat": 28.7109117,
+  "lon": 77.2155219,
+  "tags": {
+    "addr:city": "Delhi",
+    "addr:district": "North West Delhi",
+    "addr:housenumber": "G-4, A-31/34 Jaina House, Batra Cinema Complex",
+    "addr:postcode": "110009",
+    "addr:street": "Virat Bhawan lane",
+    "air_conditioning": "yes",
+    "name": "Lee Opticals",
+    "name:hi": "ली ऑप्टिकल्स",
+    "opening_hours": "Tu-Su 10:45-21:00",
+    "payment:cash": "yes",
+    "payment:upi": "yes",
+    "phone": "+918920466154",
+    "shop": "optician",
+    "toilets": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13930517266,
+  "lat": 28.5740127,
+  "lon": 77.3532106,
+  "tags": {
+    "level": "0",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 13937750118,
+  "lat": 28.6345234,
+  "lon": 77.2200636,
+  "tags": {
+    "addr:city": "New Delhi",
+    "addr:district": "New Delhi",
+    "addr:housenumber": "No 6, C Block",
+    "addr:postcode": "110001",
+    "addr:source": "https://www.garmin-india.com/store-locator",
+    "addr:street": "Middle Circle",
+    "air_conditioning": "yes",
+    "check_date": "2026-06-09",
+    "name": "Garmin Brand Store - Connaught Place",
+    "opening_hours": "Mo-Su 10:30-21:30",
+    "operator": "Garmin",
+    "payment:credit_cards": "yes",
+    "shop": "watches",
+    "short_name": "Garmin Store",
+    "website": "https://www.garmin-india.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13969467527,
+  "lat": 28.5735598,
+  "lon": 77.2175438,
+  "tags": {
+    "level": "1",
+    "name": "Kendriya Bhandar",
+    "opening_hours": "Mo-Tu,Th-Su 10:00-19:00,14:00-15:00; PH closed",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 13999844972,
+  "lat": 28.5691376,
+  "lon": 77.2189775,
+  "tags": {
+    "name": "Titan",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 14017165251,
+  "lat": 28.5682857,
+  "lon": 77.2185140,
+  "tags": {
+    "name": "Kapoor Watch Co.",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 14040703708,
+  "lat": 28.6043042,
+  "lon": 77.1246363,
+  "tags": {
+    "addr:street": "Csd Road",
+    "name": "CSD Canteen TG",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 14041354977,
+  "lat": 28.5681688,
+  "lon": 77.2431026,
+  "tags": {
+    "name": "Advik Bags",
+    "phone": "+91 70422 79834;+91 99711 72334",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 14041377318,
+  "lat": 28.5691304,
+  "lon": 77.2421319,
+  "tags": {
+    "name": "Value Mart",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 14041377389,
+  "lat": 28.5688574,
+  "lon": 77.2420408,
+  "tags": {
+    "name": "Montu Leather House",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 14041377426,
+  "lat": 28.5694259,
+  "lon": 77.2432079,
+  "tags": {
+    "name": "Optical Place",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 14041377433,
+  "lat": 28.5689844,
+  "lon": 77.2436231,
+  "tags": {
+    "name": "Sunder Watch Co.",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 14041377502,
+  "lat": 28.5694736,
+  "lon": 77.2431070,
+  "tags": {
+    "name": "New Gaurav Watch Co.",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 14045139139,
+  "lat": 28.5725625,
+  "lon": 77.1406875,
+  "tags": {
+    "name": "NavMart Navy Shopping Canteen",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 14046153619,
+  "lat": 28.5416581,
+  "lon": 77.1555561,
+  "tags": {
+    "level": "0",
+    "name": "Foodstories",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 14046153621,
+  "lat": 28.5407800,
+  "lon": 77.1551524,
+  "tags": {
+    "level": "1",
+    "name": "Dune London",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 14046153642,
+  "lat": 28.5409146,
+  "lon": 77.1544417,
+  "tags": {
+    "level": "2;3",
+    "name": "Reliance Centro",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 14046153651,
+  "lat": 28.5407546,
+  "lon": 77.1548386,
+  "tags": {
+    "level": "2",
+    "name": "Helios",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 14046153672,
+  "lat": 28.5417742,
+  "lon": 77.1553761,
+  "tags": {
+    "level": "0",
+    "name": "Broadway",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 14046155025,
+  "lat": 28.5409001,
+  "lon": 77.1552700,
+  "tags": {
+    "level": "3",
+    "name": "Gem Opticians",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 14046155040,
+  "lat": 28.5415802,
+  "lon": 77.1553592,
+  "tags": {
+    "brand": "Samsonite",
+    "level": "3",
+    "name": "Samsonite",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 14046155093,
+  "lat": 28.5410228,
+  "lon": 77.1549939,
+  "tags": {
+    "level": "1",
+    "name": "Kapoor Watch Co.",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 14046155112,
+  "lat": 28.5408967,
+  "lon": 77.1549243,
+  "tags": {
+    "level": "2",
+    "name": "Da Milano",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 14046155141,
+  "lat": 28.5418364,
+  "lon": 77.1553304,
+  "tags": {
+    "brand": "Shoppers Stop",
+    "level": "1;2;3",
+    "name": "Shoppers Stop",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 14046155238,
+  "lat": 28.5413719,
+  "lon": 77.1551780,
+  "tags": {
+    "level": "3",
+    "name": "Hamster London",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 14046155256,
+  "lat": 28.5411578,
+  "lon": 77.1554209,
+  "tags": {
+    "brand": "Miniso",
+    "level": "2",
+    "name": "Miniso",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 14046155296,
+  "lat": 28.5406768,
+  "lon": 77.1548141,
+  "tags": {
+    "level": "2",
+    "name": "Titan Eye+",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 14070731116,
+  "lat": 28.7085837,
+  "lon": 77.1851779,
+  "tags": {
+    "alt_name": "Rajmandir Market",
+    "level": "0",
+    "name": "Rajmandir Hyper Market",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 14093702373,
+  "lat": 28.6899078,
+  "lon": 77.2016919,
+  "tags": {
+    "clothes": "fashion;suits;women",
+    "name": "Himank and Naina",
+    "shop": "boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 14093702383,
+  "lat": 28.6899081,
+  "lon": 77.2016142,
+  "tags": {
+    "level": "0",
+    "name": "Ajanta Opticals",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 14100919742,
+  "lat": 28.5691913,
+  "lon": 77.2206548,
+  "tags": {
+    "level": "0",
+    "name": "Gem Opticians",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 14100919770,
+  "lat": 28.5691592,
+  "lon": 77.2206430,
+  "tags": {
+    "brand": "Samsonite",
+    "level": "0",
+    "name": "Samsonite",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 14100919795,
+  "lat": 28.5701463,
+  "lon": 77.2213583,
+  "tags": {
+    "level": "0",
+    "name": "The Optical Centre",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954415,
+  "lat": 28.5679265,
+  "lon": 77.2200275,
+  "tags": {
+    "level": "0;-1",
+    "name": "Bon-Ton",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954574,
+  "lat": 28.5679559,
+  "lon": 77.2192544,
+  "tags": {
+    "brand": "Samsonite",
+    "level": "0",
+    "name": "Samsonite",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954586,
+  "lat": 28.5680640,
+  "lon": 77.2192947,
+  "tags": {
+    "level": "0",
+    "name": "Mokobara",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 14100954606,
+  "lat": 28.5679572,
+  "lon": 77.2192366,
+  "tags": {
+    "brand": "American Tourister",
+    "level": "-1",
+    "name": "American Tourister",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 14107341440,
+  "lat": 28.6956485,
+  "lon": 77.2043317,
+  "tags": {
+    "brand": "Lenskart",
+    "name": "Lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 14133355649,
+  "lat": 28.4212253,
+  "lon": 77.0531169,
+  "tags": {
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "check_date": "2026-08-28",
+    "name": "Lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 14133355651,
+  "lat": 28.4211537,
+  "lon": 77.0531721,
+  "tags": {
+    "check_date": "2026-08-28",
+    "name": "Titan Eye+",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 14135056528,
+  "lat": 28.4212253,
+  "lon": 77.0531169,
+  "tags": {
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "check_date": "2026-08-28",
+    "name": "Lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 14135056530,
+  "lat": 28.4211537,
+  "lon": 77.0531721,
+  "tags": {
+    "check_date": "2026-08-28",
+    "name": "Titan Eye+",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 14155679564,
+  "lat": 28.5779508,
+  "lon": 77.1956258,
+  "tags": {
+    "name": "Jaunty Avenue",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 14175271348,
+  "lat": 28.5739246,
+  "lon": 77.2170406,
+  "tags": {
+    "addr:housenumber": "G-2",
+    "level": "0",
+    "mobile": "+91 95823 13947",
+    "name": "Physiotherapy & Eye Wear Centre",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 14175271385,
+  "lat": 28.5739161,
+  "lon": 77.2171179,
+  "tags": {
+    "addr:housenumber": "G-4",
+    "level": "0",
+    "mobile": "+91 98102 17458",
+    "name": "Nonu Bag House",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 14177568588,
+  "lat": 28.5748691,
+  "lon": 77.2102945,
+  "tags": {
+    "level": "0",
+    "name": "Optical Centre",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 14177568591,
+  "lat": 28.5747869,
+  "lon": 77.2101016,
+  "tags": {
+    "level": "0",
+    "name": "Sagar Traders",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 14177569099,
+  "lat": 28.5743770,
+  "lon": 77.2100137,
+  "tags": {
+    "level": "0",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 14177569119,
+  "lat": 28.5741748,
+  "lon": 77.2100121,
+  "tags": {
+    "description": "Suitcase & Bags",
+    "level": "0",
+    "name": "Ambassador",
+    "shop": "bag"
+  }
+},
+{
+  "type": "node",
+  "id": 14192058535,
+  "lat": 28.7083092,
+  "lon": 77.1850623,
+  "tags": {
+    "level": "0",
+    "name": "Prince Departmental Store",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 14201299518,
+  "lat": 28.5690966,
+  "lon": 77.2197482,
+  "tags": {
+    "name": "Lahore Watch Co.",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 14239314732,
+  "lat": 28.6810799,
+  "lon": 77.2043658,
+  "tags": {
+    "brand": "Miniso",
+    "level": "0",
+    "name": "Miniso",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "way",
+  "id": 156150414,
+  "center": {
+    "lat": 28.5897738,
+    "lon": 77.0714191
+  },
+  "tags": {
+    "name": "Easy Day",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "way",
+  "id": 349999955,
+  "center": {
+    "lat": 28.4161795,
+    "lon": 77.0611200
+  },
+  "tags": {
+    "building": "yes",
+    "name": "J mart / Dheeraj stores",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "way",
+  "id": 351127529,
+  "center": {
+    "lat": 28.6390885,
+    "lon": 77.1140316
+  },
+  "tags": {
+    "building": "yes",
+    "level": "1",
+    "name": "General Shop",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "way",
+  "id": 351397875,
+  "center": {
+    "lat": 28.6407969,
+    "lon": 77.2950305
+  },
+  "tags": {
+    "addr:city": "Delhi",
+    "addr:housenumber": "Gate No. 2",
+    "addr:postcode": "110092",
+    "addr:street": "F-14 Vikas Marg Opp. Metro Station",
+    "building": "yes",
+    "name": "Centre for Sight Eye Hospital",
+    "opening_hours": "Mo-Su 08:30-20:00",
+    "shop": "optician",
+    "website": "https://www.centreforsight.net/eye-hospitals-in-india/delhi/preet-vihar?utm_source=GMB&utm_medium=Local+Pack&utm_campaign=GMB_Preet+Vihar_Delhi"
+  }
+},
+{
+  "type": "way",
+  "id": 351576890,
+  "center": {
+    "lat": 28.6522988,
+    "lon": 77.3521121
+  },
+  "tags": {
+    "building": "yes",
+    "name": "A2Z Departmentl Store",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "way",
+  "id": 352742369,
+  "center": {
+    "lat": 28.6858502,
+    "lon": 77.3427815
+  },
+  "tags": {
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "building": "yes",
+    "name": "Lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "way",
+  "id": 820900248,
+  "center": {
+    "lat": 28.4909931,
+    "lon": 77.2050380
+  },
+  "tags": {
+    "building": "yes",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "way",
+  "id": 1214472485,
+  "center": {
+    "lat": 28.5413354,
+    "lon": 77.3903290
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Khusboo Kiran store",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "chandan ji shop",
+    "payment:cash": "yes",
+    "payment:google_pay": "yes",
+    "payment:phonepe": "yes",
+    "phone": "7011396764",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "way",
+  "id": 1257912955,
+  "center": {
+    "lat": 28.6365178,
+    "lon": 77.3604886
+  },
+  "tags": {
+    "brand": "Lenskart",
+    "brand:wikidata": "Q17068753",
+    "building": "yes",
+    "name": "Lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "way",
+  "id": 1306328988,
+  "center": {
+    "lat": 28.6333371,
+    "lon": 77.2214312
+  },
+  "tags": {
+    "level": "0;1",
+    "name": "Titan World Helios",
+    "shop": "watches",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 1364809930,
+  "center": {
+    "lat": 28.6506473,
+    "lon": 77.3533593
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Annupurna Store",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "way",
+  "id": 1528697550,
+  "center": {
+    "lat": 28.5740966,
+    "lon": 77.3536724
+  },
+  "tags": {
+    "brand": "Shoppers Stop",
+    "level": "0",
+    "name": "Shoppers Stop",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "way",
+  "id": 1528697593,
+  "center": {
+    "lat": 28.5739826,
+    "lon": 77.3532330
+  },
+  "tags": {
+    "brand": "Lenskart",
+    "level": "0",
+    "name": "Lenskart",
+    "shop": "optician"
+  }
+},
+{
+  "type": "way",
+  "id": 1552351165,
+  "center": {
+    "lat": 28.6655385,
+    "lon": 77.2320065
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Tuck Shop",
+    "shop": "department_store"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,800 @@
+[
+  {
+    "name": "Sector 29",
+    "km": 0.2,
+    "address": "SNITCH Sec-29 Situated at Main Road , Behind raddison hotel Gurgaon - 122009",
+    "pincode": "122009"
+  },
+  {
+    "name": "Janakpuri",
+    "km": 18.0,
+    "address": "Snitch,C-1/135, 3rd Floor, Janakpuri, Delhi, Pincode- 110058",
+    "pincode": "110058"
+  },
+  {
+    "name": "Haiderpur",
+    "km": 31.0,
+    "address": "Unit No 5. Bodli Mod Metro Station, C and D Block, Haiderpur, Shalimar Bagh, New Delhi, 110088",
+    "pincode": "110088"
+  },
+  {
+    "name": "Rajpur Road",
+    "km": 233.0,
+    "address": "Unit No. 3, Pinnacle Plaza, 183/ 54, Rajpur Rd, Jakhan, Dehradun, Uttarakhand 248001",
+    "pincode": "248001"
+  },
+  {
+    "name": "CG ROAD",
+    "km": 753.0,
+    "address": "1 & 101,G+1,Shoppers Plaza - 03, Chimanlal Girdharlal Road, Opp. Municipal Market, Vasant Vihar,Navrangpura, Gujarat 380009",
+    "pincode": "380009"
+  },
+  {
+    "name": "CHIKKAJALA",
+    "km": 1702.0,
+    "address": "Unit No. 7 Ground Floor Shop No.1, Bearing property no. 1240/1521, Sy no. 28/2, Kadiganahalli Village, Chikkajala, Bengaluru, Karnataka 562157",
+    "pincode": "562157"
+  },
+  {
+    "name": "Indiranagar",
+    "km": 1723.0,
+    "address": "3rd Floor, No. 1 A (1/1), 1st Stage, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka, 560038",
+    "pincode": "560038"
+  },
+  {
+    "name": "HSR Layout",
+    "km": 1730.0,
+    "address": "1099, 14th Main Rd, South, Sector 3, HSR Layout, Bengaluru, Karnataka 560102",
+    "pincode": "560102"
+  },
+  {
+    "name": "Creek Village",
+    "km": null,
+    "address": "19 & 20, Creek Side Village, GT Road, Ludhiana, Punjab, 141421",
+    "pincode": "141421"
+  },
+  {
+    "name": "DLF Cyberhub",
+    "km": 4.0,
+    "address": "Basement Street Number 1 Bms Office Dlf Phase 2, UGF/A - 1C, Ground Floor, Gurugram, Haryana 122002",
+    "pincode": "122002"
+  },
+  {
+    "name": "M3M Route 65",
+    "km": 7.0,
+    "address": "R3 G 01 A-01 D,G + 1, Unit 8 Tyagi market, Near by Emerald, Estate Sector 65 Gurugram Haryana 122101",
+    "pincode": "122101"
+  },
+  {
+    "name": "Airia Mall",
+    "km": 9.0,
+    "address": "Ug 25 Sec-68, Gurugram, Haryana - 122001",
+    "pincode": "122001"
+  },
+  {
+    "name": "Elan Miracle Mall",
+    "km": 11.0,
+    "address": "Ground Floor, 106-110, 131-135, Northern Peripheral Rd, Sector 84, Gurugram, Haryana 122004",
+    "pincode": "122004"
+  },
+  {
+    "name": "Lajpat Nagar",
+    "km": 21.0,
+    "address": "K-60A 4th Floor, Veer Savarkar Marg, Block K, Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi 110024",
+    "pincode": "110024"
+  },
+  {
+    "name": "Moti Nagar",
+    "km": 24.0,
+    "address": "Chabra House, Opp. Police Station, 70, Najafgarh Rd, opp. Motinagar, Moti Nagar, Block C, Moti Nagar, New Delhi, 110015",
+    "pincode": "110015"
+  },
+  {
+    "name": "Mathura Road",
+    "km": null,
+    "address": "SCO NO. 4, PLOT NO. 14/3, MEWLA MAHARAJPUR BOLTON COMPOUND, MATHURA ROAD, FARIDABAD, HARYANA - 121003",
+    "pincode": "121003"
+  },
+  {
+    "name": "Mall of Faridabad",
+    "km": null,
+    "address": "SH 1 F03, First Floor, Pacific Mall of Faridabad, NIT Bus Stand K.L. Mehta Road, NIT Faridabad, Faridabad, Haryana 121001",
+    "pincode": "121001"
+  },
+  {
+    "name": "Rohini",
+    "km": 27.0,
+    "address": "Ground + First+ Second, E2 / 51, Sector 7, Rohini, Delhi, 110085",
+    "pincode": "110085"
+  },
+  {
+    "name": "Kamlanagar",
+    "km": 28.0,
+    "address": "25, Bunglow Road, Kamlanagar, Delhi 110025",
+    "pincode": "110025"
+  },
+  {
+    "name": "Mall of India",
+    "km": null,
+    "address": "D08A,Lower Ground, DLF Mall of India, Plot no. M 03, Sector 18, Sector-18, Noida 201301",
+    "pincode": "201301"
+  },
+  {
+    "name": "Sec-50",
+    "km": 33.0,
+    "address": "GF-04A, FF-04 & SF-04A,in Commercial complex plot no. 05",
+    "pincode": null
+  },
+  {
+    "name": "India Expo Plaza",
+    "km": 42.0,
+    "address": "India Expo Plaza, Knowledge Park 2, Greater Noida, Uttar Pradesh, India, 201310",
+    "pincode": "201310"
+  },
+  {
+    "name": "Ansa Plaza",
+    "km": 44.0,
+    "address": "Ansa city centre multi complex, khasra no. 978, 979,981, village -noor nagar, raj nagar ext., Ghaziabad,Uttar Pradesh, 201017.",
+    "pincode": "201017"
+  },
+  {
+    "name": "Vaishali Nagar",
+    "km": 216.0,
+    "address": "178-A, RATHORE NAGAR, Amrapali Marg, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "pincode": "302021"
+  },
+  {
+    "name": "Malviya Nagar",
+    "km": 217.0,
+    "address": "Lower Ground Floor, GT Square,Jaipur-302017",
+    "pincode": "302017"
+  },
+  {
+    "name": "HLP Social SQ",
+    "km": 243.0,
+    "address": "24,25 & 26, Social Square, Patiala Rd, HLP Social Sq. - Zirakpur, Punjab, 140603",
+    "pincode": "140603"
+  },
+  {
+    "name": "HLP Mohali Mall",
+    "km": 251.0,
+    "address": "22,23,G+UG, Sector-62, S.A.S Nagar, Mohali, Punjab 160062",
+    "pincode": "160062"
+  },
+  {
+    "name": "Ajmer Mittal Mall",
+    "km": 327.0,
+    "address": "7,8,9 &10, Lower Ground, 248, PR marg, Hathi Bhata, Ajmer, Rajasthan 305001",
+    "pincode": "305001"
+  },
+  {
+    "name": "Kotri Road Gumanpura",
+    "km": 385.0,
+    "address": "20, Adjoining Citivibes Showroom, Kotri Road, Ballabhari, Gumanpura, Kota, Rajasthan -324007",
+    "pincode": "324007"
+  },
+  {
+    "name": "Z Square Mall",
+    "km": 392.0,
+    "address": "G-48 & 49,16 / 113, The Mall, M.G. Rd, Kanpur, Uttar Pradesh, 208001",
+    "pincode": "208001"
+  },
+  {
+    "name": "Lulu Lucknow",
+    "km": 429.0,
+    "address": "UNIT NO.D-001 & D-002, Plot no. T5, T4A, IIB-2, Shaheed Path, Golf City, Sector B Ansal API, Hariharpur Lucknow 226030",
+    "pincode": "226030"
+  },
+  {
+    "name": "Phoenix Palassio Mall",
+    "km": 430.0,
+    "address": "First Floor, Sec-07, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "pincode": "226010"
+  },
+  {
+    "name": "C Road Jodhpur",
+    "km": 468.0,
+    "address": "2,3, P no. 450-B 1, 4 & 5, C Rd, Sardarpura, Jodhpur, Rajasthan 342003",
+    "pincode": "342003"
+  },
+  {
+    "name": "Prayagraj",
+    "km": 578.0,
+    "address": "Ground, first, Second,  1/1, Subdivided into 1/1-A, Civil station, Prayagraj, Uttar Pradesh, 211001",
+    "pincode": "211001"
+  },
+  {
+    "name": "DB Mall",
+    "km": 583.0,
+    "address": "DB Mall, Op MP Nagar f-27 Zone-1, on Khasra 1511 & 1509, Arera Hills, Bhopal, Madhya Pradesh 462011",
+    "pincode": "462011"
+  },
+  {
+    "name": "Phoenix Citadel Mall",
+    "km": 645.0,
+    "address": "Ground Floor, SNITCH STORE, Phoenix Citadel, G08, Mall Rd, opposite Best Price Flipkart Wholesale, Indore, Madhya Pradesh 452016",
+    "pincode": "452016"
+  },
+  {
+    "name": "C21",
+    "km": 646.0,
+    "address": "UG 14 & 15 C21 Mall, Century 21 town planners, Plot no. 94 to 104 & 300 to 303, PU-4, A.B. Road, Indore, 452011",
+    "pincode": "452011"
+  },
+  {
+    "name": "Landmark",
+    "km": 736.0,
+    "address": "Pandit Dindayal Upadhyay Marg, Kudasan, Gandhinagar, Gujarat 382421",
+    "pincode": "382421"
+  },
+  {
+    "name": "Nikol",
+    "km": 745.0,
+    "address": "Unit No. 1, 2, 3, 101, 102, 103, 104 & 105, The Edge, Bhakti circle road, opp. Malbar Royal, New Indira Colony, Ankur Tenament, Nikol",
+    "pincode": null
+  },
+  {
+    "name": "Palladium AHMD",
+    "km": 754.0,
+    "address": "Phoenix Palladium, Sarkej Gandhinagar Highway, Thaltej, Ahmedabad 380059",
+    "pincode": "380059"
+  },
+  {
+    "name": "Shyamal",
+    "km": 757.0,
+    "address": "Ground Floor & First Floor, G-10 & F-109, F-110, Unicus, Shyamal Cross Rd, Swinagar Society, Nehru Nagar, Shyamal, Ahemdabad, Gujarat 380015",
+    "pincode": "380015"
+  },
+  {
+    "name": "Sindhubhavan",
+    "km": null,
+    "address": "Ground floor, Shop no. 04, Miro Retail, Opp. Times Square Grand, Sindhubhavan Road, Bodakdev, Ahmedabad, Gujarat 380054",
+    "pincode": "380054"
+  },
+  {
+    "name": "Bopal",
+    "km": 759.0,
+    "address": "Ground floor, 4 & 5, Anam 2, Ambali T Junction, Opp. Mccdonalds, Ambli, Ahmedabad, Gujarat, 380058",
+    "pincode": "380058"
+  },
+  {
+    "name": "Anand",
+    "km": 776.0,
+    "address": "Ground, Gf - 03, Veer Palladium, Opp. Tanishq, Anand, Vidyanagar, Gujarat 388120",
+    "pincode": "388120"
+  },
+  {
+    "name": "Earth Euphoria",
+    "km": 785.0,
+    "address": "Unit No. 09, Ground & First Floor, VIP Rd, near VUDA Bhavan, Amit Nagar, Veer Nagar 1, Karelibagh, Vadodara, Gujarat 390018",
+    "pincode": "390018"
+  },
+  {
+    "name": "Trion Vadodara",
+    "km": 787.0,
+    "address": "Shop No. 2 & 3, Neptune Trion Sarabhai Campus, Gorwa Rd, Subhanpura, Vadodara, Gujarat 390023",
+    "pincode": "390023"
+  },
+  {
+    "name": "Eva Mall",
+    "km": 791.0,
+    "address": "Ground floor, Saraswati Complex, Vrajdham Mandir Rd, Vaishnavdevi society, Manjalpur, Vadodara, Gujarat 390011",
+    "pincode": "390011"
+  },
+  {
+    "name": "Kankarbagh",
+    "km": 862.0,
+    "address": "Ground Floor-03, First Floor-103, The Sun Square Ward No-35, Main Road, Gravity Mall, Kankarbagh, Patna, Bihar, 800020",
+    "pincode": "800020"
+  },
+  {
+    "name": "Vyapar Vihar",
+    "km": 875.0,
+    "address": "GF + FF, TALAPARE PH.NO 39, WARD NO. 14, SHEET NO. 7, PLOT NO. 74, MAIN ROAD, VYAPAR VIHAR BESIDE WESTSIDE SHOWROOM",
+    "pincode": null
+  },
+  {
+    "name": "MBH Varacha",
+    "km": 907.0,
+    "address": "Millennium Business Hub Block No. 73-B, Opp. Deep Kamal Mall, Sarthana Jakatnaka, Varaccha Main Road,Surat, Gujrat 395006",
+    "pincode": "395006"
+  },
+  {
+    "name": "Vip Road",
+    "km": 921.0,
+    "address": "Block No. 1, Waltair Ward, 9-14-2, T.S. No. 5/2, VIP Rd, Visakhapatnam, Andhra Pradesh 530013",
+    "pincode": "530013"
+  },
+  {
+    "name": "Polaris VIP road",
+    "km": null,
+    "address": "UNIT-09,GF+FF, The Polaris world, Vip Road, Surat, Gujarat 395007",
+    "pincode": "395007"
+  },
+  {
+    "name": "VR Mall",
+    "km": 922.0,
+    "address": "1st Floor VR, Dumas Rd, VR Mall, New Magdalla,Surat, Gujrat 395007",
+    "pincode": "395007"
+  },
+  {
+    "name": "City Center Raipur",
+    "km": 925.0,
+    "address": "Ground Floor, City Centre Mall, Pandri, Raipur, Chhattisgarh 492001",
+    "pincode": "492001"
+  },
+  {
+    "name": "Magneto Mall Raipur",
+    "km": 928.0,
+    "address": "43,44 & 45 First Floor Nh 53, Great Eastern Rd, Beside\nSignature Homes 2, Jivan Vihar, Raipur - 492001",
+    "pincode": "492001"
+  },
+  {
+    "name": "Yagnik Road",
+    "km": 931.0,
+    "address": "Shop No. 2, 102 & 202, Dr. Yagnik Road, Street Number 2, opp. Bizz The Hotel, Rajkot, Gujarat 360001",
+    "pincode": "360001"
+  },
+  {
+    "name": "Navsari",
+    "km": 935.0,
+    "address": "Showroom no. 1 & 101, Ground Floor + First Floor, Central Business Hub, Gandevi Road, Navsari, Gujarat 396445",
+    "pincode": "396445"
+  },
+  {
+    "name": "Prozone Mall",
+    "km": 970.0,
+    "address": "G-3 P-89, API COMPOUND, MIDC, Chikalthana, Chh. Sambhajinagar - 431006",
+    "pincode": "431006"
+  },
+  {
+    "name": "Vapi",
+    "km": 992.0,
+    "address": "Commercial Plot C-7/67/P, Hotel Fortune Park, Galaxy Campus, NH 08, GIDC, Vapi- 396195",
+    "pincode": "396195"
+  },
+  {
+    "name": "Nizamabad",
+    "km": 1094.0,
+    "address": "Ground + 1,Shop No. 1 & 2, 5-6-115, Dwarka Nagar, Nizamabad, Telangana 503001",
+    "pincode": "503001"
+  },
+  {
+    "name": "Kalyan Metro Junction",
+    "km": 1102.0,
+    "address": "Kalyan - Shilphata Rd, Kalyan East, Kalyan, Maharashtra 421306",
+    "pincode": "421306"
+  },
+  {
+    "name": "Dahisar",
+    "km": 1108.0,
+    "address": "G + 2, Fortune Emporio, opp. Thakur Mall, next to Hotel Sunshine, Mahajan Wadi, Mira Road East, Thane, Mumbai, Maharashtra 401107",
+    "pincode": "401107"
+  },
+  {
+    "name": "Lodha Xperia Mall",
+    "km": 1110.0,
+    "address": "Unit No. FF-26, First Floor, Lodha Xperia Mall, Kalyan - Shilphata Rd, Bhadra Nagar, Desale Pada, Palava City, Dombivli, Maharashtra 421204",
+    "pincode": "421204"
+  },
+  {
+    "name": "Viviana Thane",
+    "km": null,
+    "address": "FF - 31,first floor of the mall, situated at Panchpakhadi, Eastern Express Highway, Thane West, Maharashtra 400601",
+    "pincode": "400601"
+  },
+  {
+    "name": "Skycity Oberoi Mall",
+    "km": 1112.0,
+    "address": "Sky City Mall, Khande Rao Dongari, Borivali, Mumbai, Maharashtra 400066",
+    "pincode": "400066"
+  },
+  {
+    "name": "Infiniti Malad Mall",
+    "km": 1117.0,
+    "address": "Infiniti Mall Malad, Malad, Mindspace, Malad West, Mumbai, Maharashtra 400064",
+    "pincode": "400064"
+  },
+  {
+    "name": "Infiniti Andheri Mall",
+    "km": 1122.0,
+    "address": "New Link Rd, Phase D, Oshiwara, Andheri West, Mumbai, Maharashtra 400053",
+    "pincode": "400053"
+  },
+  {
+    "name": "Inorbit Vashi Mall",
+    "km": 1123.0,
+    "address": "Palm Beach Rd, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400051",
+    "pincode": "400051"
+  },
+  {
+    "name": "PMC Kurla",
+    "km": 1126.0,
+    "address": "LG-19, Lower Ground Floor, Phoenix Marketcity, LBS Marg, Kurla W, Mumbai, Maharashtra, 400070",
+    "pincode": "400070"
+  },
+  {
+    "name": "Linking Road",
+    "km": 1130.0,
+    "address": "Mohan Mahal, Linking Rd, opp. Telephone Exchange, Khar West, Mumbai, Maharashtra 400052",
+    "pincode": "400052"
+  },
+  {
+    "name": "Karimnagar",
+    "km": 1133.0,
+    "address": "Ground Floor H No. 3-1-366, 3-1-209 Ambedkar Road,\nChristian Colony, Karimnagar- 505001",
+    "pincode": "505001"
+  },
+  {
+    "name": "Elpro City Square Mall",
+    "km": 1143.0,
+    "address": "Elpro City Square Mall, MG Rd, Chinchwad Gaon, Chinchwad, Pimpri-Chinchwad, Maharashtra 411033",
+    "pincode": "411033"
+  },
+  {
+    "name": "Colaba",
+    "km": 1145.0,
+    "address": "Ground Floor, Electric House, Shahid Bhagat singh road, Colaba Causeway,Colaba, Mumbai, 400001",
+    "pincode": "400001"
+  },
+  {
+    "name": "Hinjawadi Phase - 1",
+    "km": 1148.0,
+    "address": "108 & 07,Terminal One, Phase 1,Hinjawadi Rajiv Gandhi Infotech Park, Pimpri-Chinchwad, Hinjawadi, Pune 411057",
+    "pincode": "411057"
+  },
+  {
+    "name": "Kopa Mall",
+    "km": 1149.0,
+    "address": "1-14 & 1-15, CTS No. 283/6 (part), (previously Survey No. 37, Hissa No. 3+4/2 (part)), situated at North Main Road, Koregaon Park, Mundhwa Road, Ghorpadi 411001",
+    "pincode": "411001"
+  },
+  {
+    "name": "Baner",
+    "km": 1150.0,
+    "address": "Shop no. 11, Amar Business Zone, Baner, Pune, Maharashtra 411045",
+    "pincode": "411045"
+  },
+  {
+    "name": "Amanora Mall",
+    "km": 1151.0,
+    "address": "Mundhwa - Kharadi Rd, Amanora Park Town, Hadapsar, Pune, Maharashtra, 411028",
+    "pincode": "411028"
+  },
+  {
+    "name": "Nibm Tribeca",
+    "km": 1156.0,
+    "address": "38,39, Nibm Annex, opp. NINE HILLS SOCIETY, Mohammed Wadi, Pune, Maharashtra 411060",
+    "pincode": "411060"
+  },
+  {
+    "name": "Vasvi Kukatpally",
+    "km": 1228.0,
+    "address": "The Forum Sujana Mall, Shop no. 5, Vasavi sri sri signature, opp. Nexus, Kukatpally Housing Board Colony, Kukatpally, Hyderabad, Telangana 500072",
+    "pincode": "500072"
+  },
+  {
+    "name": "Gateway Mall",
+    "km": 1229.0,
+    "address": "L1-31, First Floor, Gateway Mall,Kukatpally, Hyderabad, Telangana, 500072",
+    "pincode": "500072"
+  },
+  {
+    "name": "Sarathcity Capital Mall",
+    "km": 1231.0,
+    "address": "Gachibowli - Miyapur Rd, Venkat Enclave, Whitefields, Kondapur, Hyderabad, Telangana, 500084",
+    "pincode": "500084"
+  },
+  {
+    "name": "Banjara Hills",
+    "km": 1235.0,
+    "address": "Unit 4. Ground Floor +1, Plot no. 04, SY 360, Shaikpet Village, Banjara Hills, Road No. 3 and 2, Beside Kora Store, Hyderabad, Telangana 500034",
+    "pincode": "500034"
+  },
+  {
+    "name": "Toli Chowki",
+    "km": 1238.0,
+    "address": "9-4-86/227, Plot no. 227 & 228, Salarjung Colony, Toli Chowki, Telangana 500008",
+    "pincode": "500008"
+  },
+  {
+    "name": "Himayat Nagar",
+    "km": null,
+    "address": "3 6-196 & 197, G1, Prime Plaza, Himayat Nagar, Hyderabad, Telangana 500029",
+    "pincode": "500029"
+  },
+  {
+    "name": "Kothapet",
+    "km": 1244.0,
+    "address": "Shop no. 04, H. No. 11-14-8/A, 11-14-8/B, LB Nagar, Kothapet, Hyderabad, 500035",
+    "pincode": "500035"
+  },
+  {
+    "name": "Esplanade Mall",
+    "km": 1271.0,
+    "address": "Unit No 32 ,FF-1-22  Puri - Cuttack Rd, Rasulgarh Industrial Estate, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha 751010",
+    "pincode": "751010"
+  },
+  {
+    "name": "Kolhapur",
+    "km": 1340.0,
+    "address": "E ward, CS no. 1783/1, 1783/2 & 1783/3, Rajarampuri Second Lane, Kolhapur, Maharashtra 416008",
+    "pincode": "416008"
+  },
+  {
+    "name": "Rajahmundry",
+    "km": 1362.0,
+    "address": "75-8-9, APM Tower, Ground floor, Gandhipuram, Rajahmundry, East Godavari, Andhra Pradesh, 533103",
+    "pincode": "533103"
+  },
+  {
+    "name": "Vijayawada",
+    "km": 1378.0,
+    "address": "KANURU BASAVA LAKSHMI CONSTRUCTION AND LEASING, D. No. 40-1-70, Beside Hotel Marg Krishnayya, Patamata Lanka, Bandar Road, Vijaywada, Andhra Pradesh 520010",
+    "pincode": "520010"
+  },
+  {
+    "name": "Felix Plaza",
+    "km": 1389.0,
+    "address": "F-28,First Floor,Felix Plaza, Sec 82 A, Village Shikopur, Gurugram, Haryana 122001",
+    "pincode": "122001"
+  },
+  {
+    "name": "Belagavi",
+    "km": 1424.0,
+    "address": "3931/18 Το 3931/38, 3931/4 Το 3931/223931/238 Το 3931/258, Situated Opposite Bims, Dr. B.R. Ambedkar Road, (Civil Hospital Road Belgaum-590001",
+    "pincode": "223931"
+  },
+  {
+    "name": "Hubli",
+    "km": 1472.0,
+    "address": "Unit No-2 Ground floor, K-Street, 98/0/7, Gokul Rd, Jayprakash Nagar, Basaveshvar Nagar, Hubballi, Karnataka 580030",
+    "pincode": "580030"
+  },
+  {
+    "name": "City Center Guwhati",
+    "km": 1476.0,
+    "address": "First floor, GS Rd, Rajdhani Nursery, Christian Basti, Guwahati, Assam 781006",
+    "pincode": "781006"
+  },
+  {
+    "name": "Airport Road BNG",
+    "km": 1701.0,
+    "address": "Shop No-10, Plot No-5,6,7, Chikkajala Village, Jala Hobli, Bangalore North Taluk, 562157",
+    "pincode": "562157"
+  },
+  {
+    "name": "Bhartiya City Mall",
+    "km": 1711.0,
+    "address": "Bhartiya City, UG - 18 B & C Thanisandra Main Rd, Bengaluru, Karnataka 560064",
+    "pincode": "560064"
+  },
+  {
+    "name": "Sahakarnagar",
+    "km": 1713.0,
+    "address": "Unit No.7, Site no : 507. F Block, Sahakarnagar, Kodigehalli, Yelahanka Hobli, Bangalore North Taluka, Karnataka, 560092",
+    "pincode": "560092"
+  },
+  {
+    "name": "Hennur",
+    "km": 1714.0,
+    "address": "NO. 9/2, 158, HENNUR MAIN ROAD , PATELS RAMIAH GARDEN, KOTHNUR",
+    "pincode": null
+  },
+  {
+    "name": "New Bel Road",
+    "km": 1716.0,
+    "address": "No.23, Devaraja Arcade, opp. to New BEL Road, ITI Layout, M S R Nagar, Mathikere, Bengaluru, Karnataka 560054",
+    "pincode": "560054"
+  },
+  {
+    "name": "Kalyan Nagar, HRBR Layout",
+    "km": 1718.0,
+    "address": "Site no. 7M318, HRBR Layout 1st Block, 1st block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043",
+    "pincode": "560043"
+  },
+  {
+    "name": "Orion Rajaji Nagar",
+    "km": 1719.0,
+    "address": "117, First Floor, 26/1, 80 Feet Road, Dr Rajkumar Road, Malleshwaram, Bangalore, 560055",
+    "pincode": "560055"
+  },
+  {
+    "name": "Orion Avenue",
+    "km": 1720.0,
+    "address": "First Floor, 10/34, Banaswadi, Dodda Banaswadi Main Rd, Jaibharath Nagar, Sathya Nagar, Maruthi Sevanagar, Bengaluru, Karnataka 560033",
+    "pincode": "560033"
+  },
+  {
+    "name": "Phoenix Market City Bangalore",
+    "km": 1721.0,
+    "address": "Unit No-F-30, First Floor, Whitefield Main Road, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048",
+    "pincode": "560048"
+  },
+  {
+    "name": "Lulu Mall",
+    "km": 1722.0,
+    "address": "Upper Ground, G 03 & 04, Gopalapura, Binnipete, Bengaluru, Karnataka 560023",
+    "pincode": "560023"
+  },
+  {
+    "name": "Brigade",
+    "km": null,
+    "address": "Ground Floor, No 174,175, 176, Manohar Crest, 178 & 180, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "pincode": "560001"
+  },
+  {
+    "name": "Koramangala",
+    "km": 1726.0,
+    "address": "Mantri Avenue, KHB Games Village, Koramangala, Bengaluru, Karnataka 560095, India",
+    "pincode": "560095"
+  },
+  {
+    "name": "Banshankari",
+    "km": 1728.0,
+    "address": "284 1/2 floor, 100ft, ring road, 7th block, 4th Phase, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085",
+    "pincode": "560085"
+  },
+  {
+    "name": "Jayanagar",
+    "km": null,
+    "address": "112-117, 11th Main Rd, 4th T Block East, Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka 560041",
+    "pincode": "560041"
+  },
+  {
+    "name": "HSR Layout- 2",
+    "km": null,
+    "address": "2630, 27th Main, Sector – 1, HSR Layout, Bengaluru, Karnataka, 560034",
+    "pincode": "560034"
+  },
+  {
+    "name": "Sarjapur Road",
+    "km": null,
+    "address": "PEB STRUCTURE GROUND FLOOR+2, DODDAKANNELLI, SARJAPUR ROAD, OPP TO WESTSIDE, BENGALURU, KARNATAKA - 560035",
+    "pincode": "560035"
+  },
+  {
+    "name": "M5 Mall",
+    "km": 1738.0,
+    "address": "Gopalan gardenia, UGF 18, Upper Ground, M5 Ecity Mall, INDUSTRIAL AREA, Electronic City, Bengaluru, Karnataka 560100",
+    "pincode": "560100"
+  },
+  {
+    "name": "Express Avenue Mall",
+    "km": 1744.0,
+    "address": "1st Floor, Express Avenue, 17, Pattullos Rd, Express Estate, Thousand Lights, 600014",
+    "pincode": "600014"
+  },
+  {
+    "name": "Attibele",
+    "km": 1746.0,
+    "address": "The Stretch @ Social Circle, Sy no 359/2,360/1, Attibele, Anekal Taluk, Bangaluru, Karnataka 562107",
+    "pincode": "562107"
+  },
+  {
+    "name": "Pondy Bazaar",
+    "km": null,
+    "address": "G+1, New No. 82, Old no. 83/3, Pondy Bazaar, T Nagar, Chennai, Tamil Nadu, 600017",
+    "pincode": "600017"
+  },
+  {
+    "name": "City Center Mall Mangalore",
+    "km": 1749.0,
+    "address": "City Center, Upper Ground, KSR Road, Hampankatta, Mangalore, Karnataka 575001",
+    "pincode": "575001"
+  },
+  {
+    "name": "Palladium Chennai",
+    "km": 1751.0,
+    "address": "Gf-27 & 28 Ground FloorNo. 142, Velachery Main Road, Velachery, Chennai- 600042",
+    "pincode": "600042"
+  },
+  {
+    "name": "Mysuru",
+    "km": 1795.0,
+    "address": "Site no. 11/Al, PID no. 37-1-53-11/A, 7th Cross, 3rd Block, Jayalaxmipuram, Ward No. 19, Devaraja Mohalla, Mysuru, Karnataka 570001",
+    "pincode": "570001"
+  },
+  {
+    "name": "Hilite Mall",
+    "km": 1918.0,
+    "address": "Hilite City, Thondayad Bypass, G. A, College P. 0, Kozhikode, Kerala 673014",
+    "pincode": "673014"
+  },
+  {
+    "name": "Prozone Mall CMBT",
+    "km": 1935.0,
+    "address": "G-28,28A & 29A,Ground,PROZONE MALL, At Old Sivanandha Mills, Sivanandhapuram, Sathy Road",
+    "pincode": null
+  },
+  {
+    "name": "Lulu Mall, Trivandrum",
+    "km": 2218.0,
+    "address": "A-22 & 23, Ground Floor, TC 91/270, Akkulam Bridge, Anayara Post, Thiruvananthapuram, Kerala 695029",
+    "pincode": "695029"
+  },
+  {
+    "name": "Vikrampuri",
+    "km": null,
+    "address": "GF -1 & FF1, “Club Emporio” Situated at House no: 2-12-47, 2-12-4711, 2-12-4713, 2-12-4714, 2-12-4715, 2-12-4716, 2-12-4717, 2-12-4718, Situated at Thokatta village, Opp Secunderabad Club, Secunderabad, Telangana 500062",
+    "pincode": "500062"
+  },
+  {
+    "name": "Capital Mall",
+    "km": null,
+    "address": "GF 10, Capital by Lakeshore, Survey no.s 52(part) 53(part), New Link Road, Nallasopara East, Palghar, Maharashtra 401209",
+    "pincode": "401209"
+  },
+  {
+    "name": "Park Street",
+    "km": null,
+    "address": "2, Russel St, Park Street area, Kolkata, West Bengal 700017",
+    "pincode": "700017"
+  },
+  {
+    "name": "LP Savani",
+    "km": null,
+    "address": "Shop No.3 Vasupujya Empire 11, TGB Circle, LP Savani Road, Adajan, Surat, Gujarat 395009",
+    "pincode": "395009"
+  },
+  {
+    "name": "Hesaraghatta",
+    "km": null,
+    "address": "Site no 18, Survey no. 45, 5th main Bhuvaneshwari Nagar, Hesaraghatta Main Road, T-Dasarahalli, Bengaluru, Karnataka 560057",
+    "pincode": "560057"
+  },
+  {
+    "name": "Punjabi Bagh",
+    "km": null,
+    "address": "G3A, Unity One Punjabi Bagh situated at Punjabi Bagh (West) Metro Station 110026",
+    "pincode": "110026"
+  },
+  {
+    "name": "BHUMI WORLD",
+    "km": null,
+    "address": "109, First Floor,BHUMI WORLD FACTORY, OUTLET MALL, AT PIMPLAS TALUKA BHIWANDI, THANE, MAHARASHTRA 421308",
+    "pincode": "421308"
+  },
+  {
+    "name": "SGS Mall",
+    "km": null,
+    "address": "2A Ground Floor, 231, Moledina Rd, Camp, Pune, Maharashtra 411001",
+    "pincode": "411001"
+  },
+  {
+    "name": "Ghaziabad GT Rd",
+    "km": null,
+    "address": "Plot no. 22,23, GT Road 1, Chaudhary Mod, Ghaziabad, Uttar Pradesh, 201001",
+    "pincode": "201001"
+  },
+  {
+    "name": "BRS - Downtown",
+    "km": null,
+    "address": "Shop No 52 &53, BRS Nagar , F-Block, Ludhiana, Punjab, 141012",
+    "pincode": "141012"
+  },
+  {
+    "name": "NASHIK",
+    "km": null,
+    "address": "Shop No. 01, SS Legacy, BYK Signal, College Road, Nashik, Maharashtra 422005",
+    "pincode": "422005"
+  },
+  {
+    "name": "Dimapur",
+    "km": null,
+    "address": "A 01, SAMYAK RETAIL SERVICE PVT, LTD,NO.46, KHERMAHAL, CHAKHESANG COLONY, DIMAPUR, NAGALAND, 797112",
+    "pincode": "797112"
+  },
+  {
+    "name": "Bouleward Walk",
+    "km": null,
+    "address": "Unit No. 27 & 28, Plot no. C-02, Sector 4, Greater Noida West, Uttar Pradesh, 201305",
+    "pincode": "201305"
+  },
+  {
+    "name": "Pacific Jasola",
+    "km": null,
+    "address": "SHLGF 06 H, Lower Ground Floor, Pacific Mall, Jasola Apollo Metro Station, CPD – 48, Sarita Vihar,Mathura Road, Jasola, New Delhi 110044",
+    "pincode": "110044"
+  }
+]

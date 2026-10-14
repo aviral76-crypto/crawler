@@ -1,0 +1,64 @@
+{
+ "Lifestyle": {
+  "site": "https://www.lifestylestores.com/in/en/",
+  "locator": "https://www.lifestylestores.com/storelocator",
+  "india_total": 134,
+  "metros": {
+   "Bangalore": 13,
+   "Delhi NCR (ex Gurgaon)": 13,
+   "Gurgaon": 3,
+   "Hyderabad": 10,
+   "Mumbai": 11,
+   "Pune": 7
+  },
+  "method": "locator store list (https://www.lifestylestores.com/store-locator/?concept=LIFES)",
+  "checked": "2026-10-10",
+  "note": "134 outlets listed, 77 outside the six metros; store names do not carry the brand, so every outlet this locator returned is counted"
+ },
+ "Babyshop": {
+  "site": "https://www.babyshop.in/in/en/",
+  "locator": "https://www.babyshop.in/storelocator",
+  "india_total": 12,
+  "metros": {
+   "Bangalore": 2,
+   "Delhi NCR (ex Gurgaon)": 4,
+   "Gurgaon": 1,
+   "Hyderabad": 2,
+   "Pune": 1
+  },
+  "method": "locator store list (https://www.babyshop.in/store-locator/?concept=BABYSHOP)",
+  "checked": "2026-10-10",
+  "note": "12 outlets listed, 2 outside the six metros; store names do not carry the brand, so every outlet this locator returned is counted"
+ },
+ "U.S. Polo Assn. Kids": {
+  "site": "https://uspoloassn.in/",
+  "locator": "https://uspoloassn.in/pages/store-locator-1",
+  "india_total": 25,
+  "metros": {
+   "Mumbai": 2,
+   "Gurgaon": 1,
+   "Delhi NCR (ex Gurgaon)": 2,
+   "Bangalore": 3,
+   "Pune": 1
+  },
+  "method": "locator store list (stockist:u15159)",
+  "checked": "2026-10-10",
+  "note": "25 outlets listed, 16 outside the six metros; shared feed: 25 of the locator's 356 outlets are this brand's, counted those"
+ },
+ "U.S Polo Assn.": {
+  "site": "https://uspoloassn.in/",
+  "locator": "https://uspoloassn.in/pages/store-locator-1",
+  "india_total": 305,
+  "metros": {
+   "Bangalore": 22,
+   "Mumbai": 20,
+   "Hyderabad": 12,
+   "Gurgaon": 6,
+   "Delhi NCR (ex Gurgaon)": 17,
+   "Pune": 4
+  },
+  "method": "locator store list (stockist:u15159)",
+  "checked": "2026-10-10",
+  "note": "305 outlets listed, 224 outside the six metros; shared feed: 305 of the locator's 356 outlets are this brand's, counted those"
+ }
+}

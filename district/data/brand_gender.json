@@ -1,0 +1,5458 @@
+{
+ "tupperware": {
+  "brand": "Tupperware",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 5,
+  "gender": "Unspecified"
+ },
+ "uppercase": {
+  "brand": "uppercase",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Unisex"
+ },
+ "biba": {
+  "brand": "BIBA",
+  "men": false,
+  "women": true,
+  "kids": true,
+  "stores_seen": 15,
+  "gender": "Women"
+ },
+ "home centre": {
+  "brand": "Home Centre",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 12,
+  "gender": "Unspecified"
+ },
+ "lenskart": {
+  "brand": "Lenskart",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 23,
+  "gender": "Unisex"
+ },
+ "skechers": {
+  "brand": "Skechers",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 30,
+  "gender": "Unisex"
+ },
+ "united colors of benetton": {
+  "brand": "United Colors Of Benetton",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 12,
+  "gender": "Unisex"
+ },
+ "mytrident": {
+  "brand": "myTRIDENT",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "the nail company": {
+  "brand": "The Nail Company",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "ethnix by raymond": {
+  "brand": "Ethnix By Raymond",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 8,
+  "gender": "Men"
+ },
+ "the raymond shop": {
+  "brand": "The Raymond Shop",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 8,
+  "gender": "Men"
+ },
+ "aurelia": {
+  "brand": "Aurelia",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 17,
+  "gender": "Women"
+ },
+ "miniklub": {
+  "brand": "Miniklub",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 5,
+  "gender": "Kids"
+ },
+ "sleepycat": {
+  "brand": "SleepyCat",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unspecified"
+ },
+ "marks & spencer": {
+  "brand": "Marks & Spencer",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 16,
+  "gender": "Unisex"
+ },
+ "the body shop": {
+  "brand": "The Body Shop",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 20,
+  "gender": "Unisex"
+ },
+ "lifestyle": {
+  "brand": "Lifestyle",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 6,
+  "gender": "Unisex"
+ },
+ "azorte": {
+  "brand": "AZORTE",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 4,
+  "gender": "Unisex"
+ },
+ "adidas": {
+  "brand": "adidas",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 22,
+  "gender": "Unisex"
+ },
+ "fabindia": {
+  "brand": "Fabindia",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 12,
+  "gender": "Unisex"
+ },
+ "daily life forever52": {
+  "brand": "Daily Life Forever52",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "hidesign": {
+  "brand": "Hidesign",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 19,
+  "gender": "Unisex"
+ },
+ "only": {
+  "brand": "ONLY",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Women"
+ },
+ "bluestone": {
+  "brand": "BlueStone",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 9,
+  "gender": "Unisex"
+ },
+ "bellavita": {
+  "brand": "BELLAVITA",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Unspecified"
+ },
+ "hush puppies": {
+  "brand": "Hush Puppies",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 24,
+  "gender": "Unisex"
+ },
+ "mohanlal sons": {
+  "brand": "Mohanlal Sons",
+  "men": true,
+  "women": false,
+  "kids": true,
+  "stores_seen": 7,
+  "gender": "Men"
+ },
+ "opium eyewear": {
+  "brand": "Opium Eyewear",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "chique": {
+  "brand": "Chique",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 7,
+  "gender": "Women"
+ },
+ "lino perros": {
+  "brand": "Lino Perros",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "lavie": {
+  "brand": "Lavie",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "kisna diamond & gold jewellery": {
+  "brand": "Kisna Diamond & Gold Jewellery",
+  "men": false,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "nykaa luxe": {
+  "brand": "Nykaa Luxe",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 12,
+  "gender": "Women"
+ },
+ "cover story": {
+  "brand": "Cover Story",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Women"
+ },
+ "bodycare": {
+  "brand": "Bodycare",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "reliance trends": {
+  "brand": "Reliance Trends",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "the derma co.": {
+  "brand": "The derma co.",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "wakefit": {
+  "brand": "Wakefit",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "neemans": {
+  "brand": "Neemans",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "bata": {
+  "brand": "BATA",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 24,
+  "gender": "Unisex"
+ },
+ "aretto": {
+  "brand": "Aretto",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 16,
+  "gender": "Kids"
+ },
+ "pure home + living": {
+  "brand": "Pure Home + Living",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Unspecified"
+ },
+ "mamaearth": {
+  "brand": "mamaearth",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 14,
+  "gender": "Unisex"
+ },
+ "crocs": {
+  "brand": "Crocs",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 25,
+  "gender": "Unisex"
+ },
+ "giva": {
+  "brand": "Giva",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 23,
+  "gender": "Unspecified"
+ },
+ "go colors": {
+  "brand": "Go Colors",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 25,
+  "gender": "Women"
+ },
+ "monte carlo": {
+  "brand": "Monte Carlo",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 10,
+  "gender": "Unisex"
+ },
+ "nilkamal sleep nova": {
+  "brand": "Nilkamal Sleep Nova",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "levi's": {
+  "brand": "Levi's",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 25,
+  "gender": "Unisex"
+ },
+ "sunglass hut": {
+  "brand": "Sunglass Hut",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 13,
+  "gender": "Unspecified"
+ },
+ "newme": {
+  "brand": "NEWME",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 7,
+  "gender": "Women"
+ },
+ "w for woman": {
+  "brand": "W For Woman",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 16,
+  "gender": "Women"
+ },
+ "ruvido caso": {
+  "brand": "Ruvido Caso",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unspecified"
+ },
+ "westside": {
+  "brand": "Westside",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 11,
+  "gender": "Unisex"
+ },
+ "snitch": {
+  "brand": "Snitch",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 8,
+  "gender": "Men"
+ },
+ "voylla": {
+  "brand": "Voylla",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 5,
+  "gender": "Unspecified"
+ },
+ "hamleys": {
+  "brand": "Hamleys",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 12,
+  "gender": "Kids"
+ },
+ "safari": {
+  "brand": "Safari",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 8,
+  "gender": "Unspecified"
+ },
+ "looks salon": {
+  "brand": "Looks Salon",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 20,
+  "gender": "Unisex"
+ },
+ "samsung": {
+  "brand": "Samsung",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 24,
+  "gender": "Unspecified"
+ },
+ "unicorn": {
+  "brand": "Unicorn",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "trends woman": {
+  "brand": "Trends Woman",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "reliance digital": {
+  "brand": "Reliance Digital",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 13,
+  "gender": "Unspecified"
+ },
+ "rosso brunello": {
+  "brand": "Rosso Brunello",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Unisex"
+ },
+ "minizmo": {
+  "brand": "Minizmo",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Men"
+ },
+ "sweaty betty": {
+  "brand": "Sweaty Betty",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "amama": {
+  "brand": "Amama",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "ridhie suri": {
+  "brand": "Ridhie Suri",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "theater": {
+  "brand": "Theater",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "shreya sharma": {
+  "brand": "Shreya Sharma",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "needledust": {
+  "brand": "Needledust",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "miss jo": {
+  "brand": "Miss Jo",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "wilson": {
+  "brand": "Wilson",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "notebook": {
+  "brand": "Notebook",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "bath & body works": {
+  "brand": "Bath & Body Works",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 10,
+  "gender": "Unspecified"
+ },
+ "shuffling suitcases": {
+  "brand": "Shuffling Suitcases",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "gifts of love": {
+  "brand": "Gifts of Love",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "kingdom of white": {
+  "brand": "Kingdom of White",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Men"
+ },
+ "gaiiah closet": {
+  "brand": "Gaiiah Closet",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "liquid perfume bar": {
+  "brand": "Liquid Perfume Bar",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "beau monde": {
+  "brand": "Beau Monde",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "summer priyanka gupta": {
+  "brand": "Summer Priyanka Gupta",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "surabhi arya": {
+  "brand": "Surabhi Arya",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "lenscrafters": {
+  "brand": "LensCrafters",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Unisex"
+ },
+ "citizen": {
+  "brand": "Citizen",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "house of kari": {
+  "brand": "House of Kari",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "drishti chabra": {
+  "brand": "Drishti Chabra",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "akuki london": {
+  "brand": "Akuki London",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "raymond - made to measure": {
+  "brand": "Raymond - Made to Measure",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Men"
+ },
+ "amethyst by rahul popli": {
+  "brand": "Amethyst by Rahul Popli",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "samsonite": {
+  "brand": "Samsonite",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 12,
+  "gender": "Unisex"
+ },
+ "swarovski": {
+  "brand": "Swarovski",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 15,
+  "gender": "Unisex"
+ },
+ "bose": {
+  "brand": "Bose",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unspecified"
+ },
+ "birkenstock": {
+  "brand": "BIRKENSTOCK",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 8,
+  "gender": "Unisex"
+ },
+ "mokobara": {
+  "brand": "Mokobara",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "a&s": {
+  "brand": "A&S",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "little tags luxury": {
+  "brand": "Little Tags Luxury",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 3,
+  "gender": "Kids"
+ },
+ "basanti kapde aur koffee": {
+  "brand": "Basanti Kapde aur Koffee",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "roza": {
+  "brand": "Roza",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "tribe by amrapali": {
+  "brand": "Tribe by Amrapali",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unisex"
+ },
+ "eume": {
+  "brand": "EUME",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unspecified"
+ },
+ "language": {
+  "brand": "Language",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "puma": {
+  "brand": "Puma",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 22,
+  "gender": "Unisex"
+ },
+ "limelight diamonds": {
+  "brand": "Limelight Diamonds",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "rare ones": {
+  "brand": "Rare Ones",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 4,
+  "gender": "Kids"
+ },
+ "coyu": {
+  "brand": "Coyu",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 5,
+  "gender": "Women"
+ },
+ "dayal opticals": {
+  "brand": "Dayal Opticals",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 6,
+  "gender": "Unisex"
+ },
+ "just in time": {
+  "brand": "Just In Time",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 10,
+  "gender": "Unisex"
+ },
+ "daily objects": {
+  "brand": "Daily Objects",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unspecified"
+ },
+ "enamor": {
+  "brand": "enamor",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 8,
+  "gender": "Women"
+ },
+ "gkb": {
+  "brand": "GKB",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 9,
+  "gender": "Unisex"
+ },
+ "rareism": {
+  "brand": "Rareism",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "ruh by ruchi tandon": {
+  "brand": "Ruh By Ruchi Tandon",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "palmonas": {
+  "brand": "Palmonas",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unspecified"
+ },
+ "limited edt": {
+  "brand": "Limited Edt",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "le creuset": {
+  "brand": "Le Creuset",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unspecified"
+ },
+ "zigly": {
+  "brand": "Zigly",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "make your own perfume (myop)": {
+  "brand": "Make Your Own Perfume (MYOP)",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 11,
+  "gender": "Unisex"
+ },
+ "new balance": {
+  "brand": "New Balance",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 6,
+  "gender": "Unisex"
+ },
+ "crimzon": {
+  "brand": "Crimzon",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "aukera diamonds": {
+  "brand": "Aukera Diamonds",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "da milano": {
+  "brand": "Da Milano",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 10,
+  "gender": "Unisex"
+ },
+ "modern quests": {
+  "brand": "Modern Quests",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "soultree": {
+  "brand": "SoulTree",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unspecified"
+ },
+ "spread spain": {
+  "brand": "Spread Spain",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "himalaya opticals": {
+  "brand": "Himalaya Opticals",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "fable street": {
+  "brand": "Fable Street",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Women"
+ },
+ "forest essentials": {
+  "brand": "Forest Essentials",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 23,
+  "gender": "Unisex"
+ },
+ "sundays co.": {
+  "brand": "Sundays Co.",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "dyson": {
+  "brand": "Dyson",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 11,
+  "gender": "Unspecified"
+ },
+ "the pony and peony co.": {
+  "brand": "THE PONY AND PEONY CO.",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Kids"
+ },
+ "rolex": {
+  "brand": "Rolex",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "hazoorilal jewellers": {
+  "brand": "Hazoorilal Jewellers",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "ferragamo": {
+  "brand": "Ferragamo",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "rimowa": {
+  "brand": "RIMOWA",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "patine": {
+  "brand": "PATINE",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "rahul mishra": {
+  "brand": "Rahul Mishra",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "anjalee and arjun kapoor": {
+  "brand": "Anjalee And Arjun Kapoor",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "pankaj & nidhi": {
+  "brand": "Pankaj & Nidhi",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "ritu kumar": {
+  "brand": "Ritu Kumar",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 8,
+  "gender": "Women"
+ },
+ "coach": {
+  "brand": "COACH",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unisex"
+ },
+ "amit aggarwal": {
+  "brand": "Amit Aggarwal",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "michael kors": {
+  "brand": "Michael Kors",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unisex"
+ },
+ "cartier": {
+  "brand": "Cartier",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "diacolor": {
+  "brand": "DIACOLOR",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "s&n / shantnu nikhil": {
+  "brand": "S&N / Shantnu Nikhil",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "fleur de lis": {
+  "brand": "Fleur de Lis",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "lladró": {
+  "brand": "Lladró",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unspecified"
+ },
+ "tumi": {
+  "brand": "Tumi",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 5,
+  "gender": "Unspecified"
+ },
+ "boss": {
+  "brand": "BOSS",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "polo ralph lauren": {
+  "brand": "Polo Ralph Lauren",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "mishru": {
+  "brand": "Mishru",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "shivan & narresh": {
+  "brand": "SHIVAN & NARRESH",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "molton brown": {
+  "brand": "Molton Brown",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "giorgio armani": {
+  "brand": "Giorgio Armani",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "gucci": {
+  "brand": "GUCCI",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "rimzim dadu": {
+  "brand": "Rimzim Dadu",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "aisha rao": {
+  "brand": "Aisha Rao",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "canali": {
+  "brand": "Canali",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Men"
+ },
+ "gaurav gupta": {
+  "brand": "Gaurav Gupta",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "ensemble": {
+  "brand": "ENSEMBLE",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "paul & shark": {
+  "brand": "Paul & Shark",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "franck muller": {
+  "brand": "Franck Muller",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "monisha jaising": {
+  "brand": "Monisha Jaising",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "satya paul": {
+  "brand": "Satya Paul",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "versace": {
+  "brand": "VERSACE",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "ridhi mehra": {
+  "brand": "Ridhi Mehra",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "tarun tahiliani": {
+  "brand": "Tarun Tahiliani",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "bally": {
+  "brand": "BALLY",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "montblanc": {
+  "brand": "Montblanc",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "kate spade": {
+  "brand": "KATE SPADE",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "johnson watch co.": {
+  "brand": "Johnson Watch Co.",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "raghavendra rathore": {
+  "brand": "Raghavendra Rathore",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Men"
+ },
+ "christian louboutin": {
+  "brand": "Christian Louboutin",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "namrata joshipura": {
+  "brand": "Namrata Joshipura",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "anushree reddy": {
+  "brand": "Anushree Reddy",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "berluti": {
+  "brand": "Berluti",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Men"
+ },
+ "ranna gill": {
+  "brand": "Ranna Gill",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "bottega veneta": {
+  "brand": "Bottega Veneta",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "paul smith": {
+  "brand": "Paul Smith",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "sunita shekhawat jewellery": {
+  "brand": "Sunita Shekhawat Jewellery",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "suneet varma": {
+  "brand": "Suneet Varma",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "jimmy choo": {
+  "brand": "Jimmy Choo",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "bobbi brown": {
+  "brand": "Bobbi Brown",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 7,
+  "gender": "Unisex"
+ },
+ "brooke and carter": {
+  "brand": "Brooke and Carter",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "bvlgari": {
+  "brand": "BVLGARI",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "isaia": {
+  "brand": "ISAIA",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "hackett london": {
+  "brand": "Hackett London",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Men"
+ },
+ "dior": {
+  "brand": "Dior",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 7,
+  "gender": "Unisex"
+ },
+ "valentino": {
+  "brand": "Valentino",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "ash amaira": {
+  "brand": "Ash Amaira",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "vrk by khanna jewellers": {
+  "brand": "VRK By Khanna Jewellers",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "surekha jain": {
+  "brand": "Surekha Jain",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "ogaan": {
+  "brand": "Ogaan",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "emporio armani": {
+  "brand": "Emporio Armani",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unisex"
+ },
+ "falguni shane peacock": {
+  "brand": "Falguni Shane Peacock",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "burberry": {
+  "brand": "Burberry",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "rose jewels": {
+  "brand": "Rose Jewels",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "jayanti reddy": {
+  "brand": "JAYANTI REDDY",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "janavi": {
+  "brand": "Janavi",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "rosenthal versace": {
+  "brand": "Rosenthal Versace",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "mrunalini rao": {
+  "brand": "Mrunalini Rao",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "zegna": {
+  "brand": "Zegna",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "les petits": {
+  "brand": "Les Petits",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Kids"
+ },
+ "kunal rawal": {
+  "brand": "Kunal Rawal",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "tory burch": {
+  "brand": "Tory Burch",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "goenka india": {
+  "brand": "Goenka India",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "louis vuitton": {
+  "brand": "Louis Vuitton",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "isharya": {
+  "brand": "Isharya",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "sony": {
+  "brand": "Sony",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unspecified"
+ },
+ "mufti": {
+  "brand": "Mufti",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 7,
+  "gender": "Unspecified"
+ },
+ "ajmal perfumes": {
+  "brand": "Ajmal Perfumes",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unisex"
+ },
+ "lacoste": {
+  "brand": "Lacoste",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 13,
+  "gender": "Unisex"
+ },
+ "mia by tanishq": {
+  "brand": "Mia by Tanishq",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "columbia sportswear": {
+  "brand": "Columbia Sportswear",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 8,
+  "gender": "Unisex"
+ },
+ "future world": {
+  "brand": "Future World",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unspecified"
+ },
+ "v.i.p": {
+  "brand": "V.I.P",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 9,
+  "gender": "Unisex"
+ },
+ "cantabil": {
+  "brand": "Cantabil",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "pepe jeans": {
+  "brand": "Pepe Jeans",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "asics": {
+  "brand": "Asics",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 9,
+  "gender": "Unisex"
+ },
+ "geetanjali salon": {
+  "brand": "Geetanjali Salon",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 11,
+  "gender": "Unisex"
+ },
+ "calvin klein": {
+  "brand": "Calvin Klein",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 7,
+  "gender": "Unisex"
+ },
+ "kalpana": {
+  "brand": "Kalpana",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "minaki": {
+  "brand": "MINAKI",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "rare rabbit": {
+  "brand": "Rare Rabbit",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 16,
+  "gender": "Unisex"
+ },
+ "greenways": {
+  "brand": "Greenways",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "linen club": {
+  "brand": "Linen Club",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Men"
+ },
+ "uniqlo": {
+  "brand": "Uniqlo",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 7,
+  "gender": "Unisex"
+ },
+ "jockey": {
+  "brand": "Jockey",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 12,
+  "gender": "Unisex"
+ },
+ "blackberrys": {
+  "brand": "Blackberrys",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 14,
+  "gender": "Men"
+ },
+ "tasva": {
+  "brand": "Tasva",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 5,
+  "gender": "Men"
+ },
+ "miniso": {
+  "brand": "Miniso",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 14,
+  "gender": "Unspecified"
+ },
+ "dell": {
+  "brand": "Dell",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unspecified"
+ },
+ "titan world": {
+  "brand": "Titan World",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 11,
+  "gender": "Unisex"
+ },
+ "hp": {
+  "brand": "HP",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 10,
+  "gender": "Unspecified"
+ },
+ "adidas originals": {
+  "brand": "adidas Originals",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 7,
+  "gender": "Unisex"
+ },
+ "being human": {
+  "brand": "Being Human",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "manyavar": {
+  "brand": "Manyavar",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 14,
+  "gender": "Unisex"
+ },
+ "colorbar cosmetics": {
+  "brand": "Colorbar Cosmetics",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 8,
+  "gender": "Women"
+ },
+ "balujas": {
+  "brand": "Balujas",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "indian terrain": {
+  "brand": "Indian Terrain",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Men"
+ },
+ "helios": {
+  "brand": "Helios",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 11,
+  "gender": "Unisex"
+ },
+ "metro shoes": {
+  "brand": "Metro Shoes",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 3,
+  "gender": "Unisex"
+ },
+ "woodland": {
+  "brand": "Woodland",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 8,
+  "gender": "Unisex"
+ },
+ "zodiac": {
+  "brand": "Zodiac",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Men"
+ },
+ "tanishq": {
+  "brand": "Tanishq",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "lamode": {
+  "brand": "LaMode",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "tissot": {
+  "brand": "Tissot",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "punjab optical house": {
+  "brand": "Punjab Optical House",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "titan eye plus": {
+  "brand": "Titan Eye Plus",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 12,
+  "gender": "Unisex"
+ },
+ "lamy boutique": {
+  "brand": "Lamy Boutique",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "sabhyata": {
+  "brand": "Sabhyata",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 9,
+  "gender": "Women"
+ },
+ "lovechild by masaba": {
+  "brand": "LoveChild By Masaba",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "american tourister": {
+  "brand": "American Tourister",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "forever new": {
+  "brand": "Forever New",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 9,
+  "gender": "Women"
+ },
+ "superdry": {
+  "brand": "Superdry",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 10,
+  "gender": "Unspecified"
+ },
+ "oud arabia": {
+  "brand": "Oud Arabia",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unisex"
+ },
+ "croma": {
+  "brand": "Croma",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 9,
+  "gender": "Unspecified"
+ },
+ "onitsuka tiger": {
+  "brand": "Onitsuka Tiger",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "vero moda": {
+  "brand": "Vero Moda",
+  "men": false,
+  "women": true,
+  "kids": true,
+  "stores_seen": 15,
+  "gender": "Women"
+ },
+ "ethos": {
+  "brand": "Ethos",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 8,
+  "gender": "Unisex"
+ },
+ "skinn by titan": {
+  "brand": "Skinn By Titan",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 9,
+  "gender": "Unisex"
+ },
+ "voyage": {
+  "brand": "Voyage",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "zara": {
+  "brand": "Zara",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 8,
+  "gender": "Unisex"
+ },
+ "converse": {
+  "brand": "Converse",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "libas": {
+  "brand": "Libas",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Women"
+ },
+ "the house of rare": {
+  "brand": "The House Of Rare",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 4,
+  "gender": "Unisex"
+ },
+ "jack & jones": {
+  "brand": "Jack & Jones",
+  "men": true,
+  "women": false,
+  "kids": true,
+  "stores_seen": 10,
+  "gender": "Men"
+ },
+ "daniel wellington": {
+  "brand": "Daniel Wellington",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "gant": {
+  "brand": "GANT",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "sugar cosmetics": {
+  "brand": "SUGAR Cosmetics",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Women"
+ },
+ "vip": {
+  "brand": "VIP",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "newu": {
+  "brand": "NewU",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 10,
+  "gender": "Unisex"
+ },
+ "orra": {
+  "brand": "ORRA",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 10,
+  "gender": "Unisex"
+ },
+ "caratlane": {
+  "brand": "Caratlane",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 9,
+  "gender": "Unspecified"
+ },
+ "nike": {
+  "brand": "Nike",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 13,
+  "gender": "Unisex"
+ },
+ "rado": {
+  "brand": "Rado",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Unisex"
+ },
+ "babyshop": {
+  "brand": "Babyshop",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Kids"
+ },
+ "nurturing green": {
+  "brand": "Nurturing Green",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unspecified"
+ },
+ "10:10 by rama watch": {
+  "brand": "10:10 by Rama Watch",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "mustard": {
+  "brand": "Mustard",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 7,
+  "gender": "Women"
+ },
+ "madame": {
+  "brand": "Madame",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "m.a.c cosmetics": {
+  "brand": "M.A.C Cosmetics",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 12,
+  "gender": "Unisex"
+ },
+ "the collective": {
+  "brand": "The Collective",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 4,
+  "gender": "Unisex"
+ },
+ "om book shop": {
+  "brand": "Om Book Shop",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 6,
+  "gender": "Unisex"
+ },
+ "the man company": {
+  "brand": "The Man Company",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Men"
+ },
+ "planet superheroes": {
+  "brand": "Planet Superheroes",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "arrow": {
+  "brand": "Arrow",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 14,
+  "gender": "Men"
+ },
+ "ivenus": {
+  "brand": "iVenus",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unspecified"
+ },
+ "aromathai": {
+  "brand": "AromaThai",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "mochi": {
+  "brand": "Mochi",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 14,
+  "gender": "Unisex"
+ },
+ "subhuuti creations": {
+  "brand": "Subhuuti Creations",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "celio": {
+  "brand": "Celio",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 10,
+  "gender": "Men"
+ },
+ "max": {
+  "brand": "Max",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 17,
+  "gender": "Unisex"
+ },
+ "chicco": {
+  "brand": "Chicco",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 5,
+  "gender": "Kids"
+ },
+ "mothercare": {
+  "brand": "Mothercare",
+  "men": false,
+  "women": true,
+  "kids": true,
+  "stores_seen": 9,
+  "gender": "Women"
+ },
+ "crossword": {
+  "brand": "Crossword",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 10,
+  "gender": "Unspecified"
+ },
+ "gipsy": {
+  "brand": "Gipsy",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "aldo": {
+  "brand": "Aldo",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 14,
+  "gender": "Unisex"
+ },
+ "chumbak": {
+  "brand": "Chumbak",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 7,
+  "gender": "Unspecified"
+ },
+ "richlook": {
+  "brand": "Richlook",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Men"
+ },
+ "octave mettle": {
+  "brand": "OCTAVE METTLE",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "suti": {
+  "brand": "Suti",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "killer": {
+  "brand": "Killer",
+  "men": true,
+  "women": false,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Men"
+ },
+ "sweet dreams": {
+  "brand": "SWEET DREAMS",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 8,
+  "gender": "Unisex"
+ },
+ "mi home": {
+  "brand": "MI Home",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unspecified"
+ },
+ "lakshita": {
+  "brand": "Lakshita",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Women"
+ },
+ "the shoe factory": {
+  "brand": "The Shoe Factory",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "watch world": {
+  "brand": "Watch World",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "asus": {
+  "brand": "Asus",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unspecified"
+ },
+ "redtape": {
+  "brand": "RedTape",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "clovia": {
+  "brand": "Clovia",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "mars": {
+  "brand": "MARS",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "the grooming collection": {
+  "brand": "The Grooming Collection",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "zivame": {
+  "brand": "Zivame",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 14,
+  "gender": "Women"
+ },
+ "elleven": {
+  "brand": "Elleven",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "reid & taylor": {
+  "brand": "Reid & Taylor",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Men"
+ },
+ "baggit": {
+  "brand": "Baggit",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "calcetto": {
+  "brand": "Calcetto",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "intimissi lingerie": {
+  "brand": "Intimissi Lingerie",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "oma": {
+  "brand": "Oma",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "kaarigar": {
+  "brand": "Kaarigar",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "frontier raas": {
+  "brand": "Frontier Raas",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "diamondtree": {
+  "brand": "Diamondtree",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "pall mall": {
+  "brand": "PALL MALL",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Men"
+ },
+ "muji": {
+  "brand": "Muji",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "perfume connexion": {
+  "brand": "PERFUME CONNEXION",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "shakuntlam": {
+  "brand": "Shakuntlam",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "kiko milano": {
+  "brand": "Kiko Milano",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "hamster london": {
+  "brand": "Hamster London",
+  "men": false,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "chanel": {
+  "brand": "Chanel",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "selected homme": {
+  "brand": "SELECTED HOMME",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Men"
+ },
+ "longines": {
+  "brand": "Longines",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unisex"
+ },
+ "benefit cosmetics": {
+  "brand": "Benefit Cosmetics",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "l'occitane": {
+  "brand": "L'OCCITANE",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unspecified"
+ },
+ "nykaa": {
+  "brand": "Nykaa",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unisex"
+ },
+ "armonia": {
+  "brand": "Armonia",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "pantaloons": {
+  "brand": "Pantaloons",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 8,
+  "gender": "Unisex"
+ },
+ "gas": {
+  "brand": "GAS",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "kickers": {
+  "brand": "Kickers",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "the bombay store": {
+  "brand": "The Bombay Store",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unspecified"
+ },
+ "armani exchange": {
+  "brand": "Armani Exchange",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 7,
+  "gender": "Unisex"
+ },
+ "wonderchef": {
+  "brand": "Wonderchef",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unspecified"
+ },
+ "sangeeta boochra": {
+  "brand": "Sangeeta Boochra",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "a bit of me jewels": {
+  "brand": "A Bit of Me Jewels",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "rangriti": {
+  "brand": "Rangriti",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "suvasa": {
+  "brand": "Suvasa",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "estele": {
+  "brand": "Estele",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 5,
+  "gender": "Unspecified"
+ },
+ "and": {
+  "brand": "AND",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 8,
+  "gender": "Women"
+ },
+ "market 99": {
+  "brand": "Market 99",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 5,
+  "gender": "Unspecified"
+ },
+ "beardo": {
+  "brand": "BEARDO",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Men"
+ },
+ "giftplanet": {
+  "brand": "Giftplanet",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Kids"
+ },
+ "tira": {
+  "brand": "Tira",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Unspecified"
+ },
+ "bluorng": {
+  "brand": "Bluorng",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "inglot": {
+  "brand": "Inglot",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "liberty": {
+  "brand": "Liberty",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "colorplus": {
+  "brand": "Colorplus",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 9,
+  "gender": "Men"
+ },
+ "nicobar": {
+  "brand": "Nicobar",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unisex"
+ },
+ "lenovo": {
+  "brand": "Lenovo",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Unspecified"
+ },
+ "anokhi": {
+  "brand": "Anokhi",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "sleepwell": {
+  "brand": "Sleepwell",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "inatur": {
+  "brand": "INATUR",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unspecified"
+ },
+ "soch": {
+  "brand": "Soch",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 17,
+  "gender": "Women"
+ },
+ "jaypore": {
+  "brand": "Jaypore",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 7,
+  "gender": "Unspecified"
+ },
+ "la martina": {
+  "brand": "La Martina",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "vision express": {
+  "brand": "Vision Express",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "rc jewellers": {
+  "brand": "RC Jewellers",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "the loom": {
+  "brand": "The Loom",
+  "men": false,
+  "women": true,
+  "kids": true,
+  "stores_seen": 4,
+  "gender": "Women"
+ },
+ "house of raisons": {
+  "brand": "House of Raisons",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "kazo": {
+  "brand": "Kazo",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "taneira": {
+  "brand": "Taneira",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 7,
+  "gender": "Women"
+ },
+ "king koil": {
+  "brand": "King Koil",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "foxtale": {
+  "brand": "Foxtale",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "kala niketan": {
+  "brand": "Kala Niketan",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "steve madden": {
+  "brand": "Steve Madden",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 7,
+  "gender": "Unisex"
+ },
+ "raymond - ready to wear": {
+  "brand": "Raymond - Ready to wear",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 9,
+  "gender": "Men"
+ },
+ "venus steps": {
+  "brand": "Venus Steps",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "simran fashions": {
+  "brand": "Simran Fashions",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "kilol": {
+  "brand": "Kilol",
+  "men": false,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "charles & keith": {
+  "brand": "Charles & Keith",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 8,
+  "gender": "Women"
+ },
+ "nautica": {
+  "brand": "Nautica",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 7,
+  "gender": "Unisex"
+ },
+ "henney bear": {
+  "brand": "Henney Bear",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "kama ayurveda": {
+  "brand": "KAMA AYURVEDA",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 12,
+  "gender": "Unisex"
+ },
+ "cai": {
+  "brand": "CAI",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "true religion": {
+  "brand": "True Religion",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "ancestry": {
+  "brand": "Ancestry",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "rhapsody nail studio": {
+  "brand": "Rhapsody Nail Studio",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "tag heuer": {
+  "brand": "Tag Heuer",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "etchcraft emporium": {
+  "brand": "Etchcraft Emporium",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "l'affaire": {
+  "brand": "L'affaire",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "nail rituals": {
+  "brand": "Nail Rituals",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "kimirica": {
+  "brand": "Kimirica",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "macv": {
+  "brand": "MacV",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Unisex"
+ },
+ "bagline": {
+  "brand": "Bagline",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "william penn": {
+  "brand": "William Penn",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 7,
+  "gender": "Unisex"
+ },
+ "bateel": {
+  "brand": "Bateel",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unisex"
+ },
+ "delsey paris": {
+  "brand": "Delsey Paris",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unisex"
+ },
+ "jaipur watch company": {
+  "brand": "Jaipur Watch Company",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "organik earth": {
+  "brand": "Organik Earth",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "apple": {
+  "brand": "Apple",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "massimo dutti": {
+  "brand": "Massimo Dutti",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "bugatti shoes": {
+  "brand": "Bugatti Shoes",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Men"
+ },
+ "homestop": {
+  "brand": "Homestop",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unspecified"
+ },
+ "h&m": {
+  "brand": "H&M",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 6,
+  "gender": "Unisex"
+ },
+ "madison": {
+  "brand": "MADISON",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "optique": {
+  "brand": "Optique",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "sephora": {
+  "brand": "Sephora",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 8,
+  "gender": "Unisex"
+ },
+ "woods": {
+  "brand": "Woods",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "anantam": {
+  "brand": "Anantam",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "kapoor watch co.": {
+  "brand": "Kapoor Watch Co.",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unisex"
+ },
+ "charles trywhitt": {
+  "brand": "Charles Trywhitt",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Men"
+ },
+ "adidas kids": {
+  "brand": "Adidas Kids",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 3,
+  "gender": "Kids"
+ },
+ "mango": {
+  "brand": "Mango",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 7,
+  "gender": "Unspecified"
+ },
+ "jo malone": {
+  "brand": "Jo Malone",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "guess": {
+  "brand": "GUESS",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 6,
+  "gender": "Unisex"
+ },
+ "aarke ritu kumar": {
+  "brand": "Aarke Ritu Kumar",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Women"
+ },
+ "ecco shoes": {
+  "brand": "ECCO Shoes",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "pazzion": {
+  "brand": "PAZZION",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "desi pop": {
+  "brand": "Desi Pop",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "aptronix": {
+  "brand": "Aptronix",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unspecified"
+ },
+ "hunkemoller": {
+  "brand": "Hunkemoller",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 5,
+  "gender": "Women"
+ },
+ "fred perry": {
+  "brand": "Fred Perry",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "french connection": {
+  "brand": "French Connection",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "world of watches": {
+  "brand": "World of Watches",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "swatch": {
+  "brand": "Swatch",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "igadget": {
+  "brand": "iGADGET",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "kriti life": {
+  "brand": "Kriti Life",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "john pride": {
+  "brand": "John Pride",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Men"
+ },
+ "archies": {
+  "brand": "Archies",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unisex"
+ },
+ "shoppers stop": {
+  "brand": "Shoppers Stop",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 6,
+  "gender": "Unisex"
+ },
+ "hype shoes": {
+  "brand": "Hype Shoes",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "hair masters salon": {
+  "brand": "Hair Masters Salon",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "panna sarees": {
+  "brand": "Panna Sarees",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "label ritu kumar": {
+  "brand": "Label Ritu Kumar",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "tacfab": {
+  "brand": "TACFAB",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "nars": {
+  "brand": "NARS",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "under armour": {
+  "brand": "Under Armour",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Unisex"
+ },
+ "amanté": {
+  "brand": "amanté",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "ratnakshi": {
+  "brand": "Ratnakshi",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "global republic": {
+  "brand": "Global Republic",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "my kalyan mini store": {
+  "brand": "My Kalyan Mini Store",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "kalyan jewellers": {
+  "brand": "Kalyan Jewellers",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 3,
+  "gender": "Unisex"
+ },
+ "sparx footwear": {
+  "brand": "Sparx Footwear",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "indriya": {
+  "brand": "Indriya",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "kriti creations": {
+  "brand": "Kriti creations",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unspecified"
+ },
+ "the glory nail studio": {
+  "brand": "The Glory Nail Studio",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "malabar gold & diamonds": {
+  "brand": "Malabar Gold & Diamonds",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 3,
+  "gender": "Unisex"
+ },
+ "comet": {
+  "brand": "Comet",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "irth by titan": {
+  "brand": "IRTH By Titan",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "kraus jeans": {
+  "brand": "Kraus Jeans",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "blissclub": {
+  "brand": "Blissclub",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "nailashes": {
+  "brand": "Nailashes",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "relaxo": {
+  "brand": "Relaxo",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "skybags": {
+  "brand": "Skybags",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "stride": {
+  "brand": "Stride",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "van heusen women": {
+  "brand": "Van Heusen Women",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unspecified"
+ },
+ "brooks brothers": {
+  "brand": "Brooks Brothers",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "nespresso": {
+  "brand": "Nespresso",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unspecified"
+ },
+ "ssbeauty": {
+  "brand": "SSBeauty",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "diamond plus": {
+  "brand": "Diamond Plus",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "clinique": {
+  "brand": "Clinique",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unisex"
+ },
+ "osim india": {
+  "brand": "OSIM India",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "victoria's secret": {
+  "brand": "Victoria's Secret",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "inc.5": {
+  "brand": "Inc.5",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 8,
+  "gender": "Unspecified"
+ },
+ "a.t.u.n.": {
+  "brand": "A.T.U.N.",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "house of masaba": {
+  "brand": "House Of Masaba",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "iconic": {
+  "brand": "Iconic",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "saundh": {
+  "brand": "Saundh",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "the souled store": {
+  "brand": "The Souled Store",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Unisex"
+ },
+ "global desi": {
+  "brand": "Global Desi",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "shaya by caratlane": {
+  "brand": "Shaya by CaratLane",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "provogue": {
+  "brand": "Provogue",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "letoe's": {
+  "brand": "LeToe's",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "glamour by abhishek somani": {
+  "brand": "GLAMOUR BY ABHISHEK SOMANI",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "houmn": {
+  "brand": "Houmn",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "nail edit": {
+  "brand": "Nail Edit",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "west elm": {
+  "brand": "West Elm",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unspecified"
+ },
+ "lego": {
+  "brand": "LEGO",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unspecified"
+ },
+ "yousta": {
+  "brand": "Yousta",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "kate & oscar": {
+  "brand": "Kate & Oscar",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "u.s polo assn.": {
+  "brand": "U.S Polo Assn.",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "jewelbox": {
+  "brand": "Jewelbox",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "zoya – exquisite diamond boutique": {
+  "brand": "Zoya – Exquisite Diamond Boutique",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "rufa beauty": {
+  "brand": "Rufa Beauty",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "ted baker": {
+  "brand": "TED BAKER",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "diesel": {
+  "brand": "DIESEL",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "the sleep company": {
+  "brand": "The Sleep Company",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unspecified"
+ },
+ "assembly": {
+  "brand": "ASSEMBLY",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "park avenue": {
+  "brand": "Park Avenue",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Men"
+ },
+ "vlcc beauty clinic": {
+  "brand": "VLCC Beauty Clinic",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "nykaa on trend": {
+  "brand": "Nykaa On Trend",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Women"
+ },
+ "toni & guy": {
+  "brand": "Toni & Guy",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 8,
+  "gender": "Unisex"
+ },
+ "zudio": {
+  "brand": "Zudio",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "ophira": {
+  "brand": "Ophira",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "salt attire": {
+  "brand": "SALT Attire",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "zouk": {
+  "brand": "Zouk",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Women"
+ },
+ "gargi by png": {
+  "brand": "Gargi By PNG",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "wacoal": {
+  "brand": "Wacoal",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "speedo": {
+  "brand": "Speedo",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 6,
+  "gender": "Unisex"
+ },
+ "symetree": {
+  "brand": "Symetree",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "good earth": {
+  "brand": "Good Earth",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "lovebirds": {
+  "brand": "Lovebirds",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "torani": {
+  "brand": "Torani",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "ekaani": {
+  "brand": "Ekaani",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "the decor kart": {
+  "brand": "The Decor Kart",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "aayna": {
+  "brand": "AAYNA",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "vanilla moon": {
+  "brand": "Vanilla Moon",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "ridhiiee suuri": {
+  "brand": "Ridhiiee Suuri",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "cord": {
+  "brand": "Cord",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "manan": {
+  "brand": "Manan",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "baluja shoes": {
+  "brand": "Baluja Shoes",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "suifab": {
+  "brand": "Suifab",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "jbl": {
+  "brand": "JBL",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unisex"
+ },
+ "qurbat": {
+  "brand": "Qurbat",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "trends footwear": {
+  "brand": "Trends Footwear",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 4,
+  "gender": "Unisex"
+ },
+ "clinic dermatech": {
+  "brand": "CLINIC DERMATECH",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "glen": {
+  "brand": "Glen",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "feetoes": {
+  "brand": "Feetoes",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "kusvaa": {
+  "brand": "Kusvaa",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "chotteylal and sons": {
+  "brand": "Chotteylal and Sons",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "jawed habib": {
+  "brand": "Jawed Habib",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unspecified"
+ },
+ "khadim": {
+  "brand": "Khadim",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "invent": {
+  "brand": "iNvent",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unspecified"
+ },
+ "dazzle living": {
+  "brand": "Dazzle Living",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "ayouthveda": {
+  "brand": "Ayouthveda",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "savvyy": {
+  "brand": "Savvyy",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "knick knack": {
+  "brand": "Knick Knack",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "sweet child of mine": {
+  "brand": "Sweet Child Of Mine",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Kids"
+ },
+ "querencia living": {
+  "brand": "Querencia Living",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "mulmul": {
+  "brand": "Mulmul",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "tweak salon": {
+  "brand": "Tweak Salon",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "nail one": {
+  "brand": "Nail One",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "arks": {
+  "brand": "ARKS",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "fossil": {
+  "brand": "Fossil",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 5,
+  "gender": "Unisex"
+ },
+ "shoetree": {
+  "brand": "Shoetree",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "mango man": {
+  "brand": "Mango Man",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Men"
+ },
+ "dermapuritys": {
+  "brand": "dermapuritys",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "one friday world": {
+  "brand": "One Friday World",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Kids"
+ },
+ "modluk": {
+  "brand": "Modluk",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "infinity 21 salon": {
+  "brand": "Infinity 21 Salon",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "ekasmaye": {
+  "brand": "Ekasmaye",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "fiona diamonds": {
+  "brand": "Fiona Diamonds",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "bombay selections": {
+  "brand": "Bombay Selections",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "jaipur kurti": {
+  "brand": "Jaipur Kurti",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "seiko": {
+  "brand": "Seiko",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "meena bazaar": {
+  "brand": "Meena Bazaar",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "fnp": {
+  "brand": "FNP",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "rawls": {
+  "brand": "Rawls",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "numero uno": {
+  "brand": "Numero Uno",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "be u natural": {
+  "brand": "Be U Natural",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "look collection": {
+  "brand": "Look Collection",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "ethnicity": {
+  "brand": "Ethnicity",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "rookies": {
+  "brand": "Rookies",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Men"
+ },
+ "xyxx": {
+  "brand": "XYXX",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Men"
+ },
+ "peora": {
+  "brand": "Peora",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Unspecified"
+ },
+ "g-shock": {
+  "brand": "G-SHOCK",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "u.s. polo assn. kids": {
+  "brand": "U.S. Polo Assn. Kids",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unspecified"
+ },
+ "happie hair": {
+  "brand": "Happie Hair",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "gangar eyenation": {
+  "brand": "GANGAR EYENATION",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "cex": {
+  "brand": "CeX",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unspecified"
+ },
+ "enrich salons": {
+  "brand": "Enrich Salons",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "cotton culture": {
+  "brand": "Cotton Culture",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "the bear house": {
+  "brand": "The Bear House",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Men"
+ },
+ "esbeda": {
+  "brand": "ESBEDA",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unisex"
+ },
+ "fila": {
+  "brand": "FILA",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "anastasia beverly hills": {
+  "brand": "Anastasia Beverly Hills",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "oneplus": {
+  "brand": "OnePlus",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 4,
+  "gender": "Unisex"
+ },
+ "kurlon": {
+  "brand": "Kurlon",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "socks xpress": {
+  "brand": "Socks Xpress",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "oppo": {
+  "brand": "OPPO",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "latin quarters": {
+  "brand": "Latin Quarters",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "ras luxury skincare": {
+  "brand": "RAS Luxury Skincare",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "pilgrim": {
+  "brand": "Pilgrim",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "parcos": {
+  "brand": "Parcos",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unisex"
+ },
+ "regal": {
+  "brand": "Regal",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Men"
+ },
+ "bargain book hut": {
+  "brand": "Bargain Book Hut",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "spykar": {
+  "brand": "Spykar",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unisex"
+ },
+ "happy socks": {
+  "brand": "Happy Socks",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "lapis bard": {
+  "brand": "Lapis Bard",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Unspecified"
+ },
+ "forever 21": {
+  "brand": "Forever 21",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "reliance jewels": {
+  "brand": "Reliance Jewels",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "kompanero": {
+  "brand": "Kompanero",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "kapra fashion": {
+  "brand": "KaPra Fashion",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "gap": {
+  "brand": "GAP",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "envi salon & spa": {
+  "brand": "Envi Salon & Spa",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 3,
+  "gender": "Unisex"
+ },
+ "gini & jony": {
+  "brand": "GINI & JONY",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Kids"
+ },
+ "peachmode": {
+  "brand": "Peachmode",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "playstation": {
+  "brand": "Playstation",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "fabrika16": {
+  "brand": "Fabrika16",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "nalli": {
+  "brand": "Nalli",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "fastrack": {
+  "brand": "Fastrack",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "casio": {
+  "brand": "Casio",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "eze perfumes": {
+  "brand": "EZE PERFUMES",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "bonkers corner": {
+  "brand": "Bonkers Corner",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "decathlon": {
+  "brand": "Decathlon",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 4,
+  "gender": "Unisex"
+ },
+ "beverly hills polo club": {
+  "brand": "Beverly Hills Polo Club",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "centro": {
+  "brand": "CENTRO",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "reebok": {
+  "brand": "Reebok",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 3,
+  "gender": "Unisex"
+ },
+ "koskii": {
+  "brand": "Koskii",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "showoffff": {
+  "brand": "SHOWOFFFF",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "izod": {
+  "brand": "Izod",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "mangatrai neeraj pearls": {
+  "brand": "MANGATRAI NEERAJ PEARLS",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "helvetica": {
+  "brand": "Helvetica",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Men"
+ },
+ "kushal's fashion jewellery": {
+  "brand": "Kushal's Fashion Jewellery",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 6,
+  "gender": "Women"
+ },
+ "senco": {
+  "brand": "Senco",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "indya": {
+  "brand": "Indya",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "american eagle": {
+  "brand": "American Eagle",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unisex"
+ },
+ "manyavar & mohey": {
+  "brand": "Manyavar & Mohey",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 3,
+  "gender": "Unisex"
+ },
+ "cottonworld": {
+  "brand": "Cottonworld",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "avantra": {
+  "brand": "Avantra",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "highlander": {
+  "brand": "Highlander",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Men"
+ },
+ "simon carter": {
+  "brand": "Simon Carter",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Men"
+ },
+ "joyalukkas": {
+  "brand": "Joyalukkas",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unspecified"
+ },
+ "play salon": {
+  "brand": "Play Salon",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 4,
+  "gender": "Unisex"
+ },
+ "van heusen innerwear": {
+  "brand": "Van Heusen Innerwear",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "zen diamond": {
+  "brand": "Zen Diamond",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "solitario diamonds": {
+  "brand": "Solitario Diamonds",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Women"
+ },
+ "lakmē salon": {
+  "brand": "Lakmē Salon",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "fitflop": {
+  "brand": "FitFlop",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "melorra": {
+  "brand": "Melorra",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "neeru's": {
+  "brand": "NEERU'S",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "la vie en rose": {
+  "brand": "La Vie en Rose",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "zeiss vision center": {
+  "brand": "ZEISS VISION CENTER",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "jaeger-lecoultre boutique": {
+  "brand": "Jaeger-LeCoultre Boutique",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "beruru": {
+  "brand": "Beruru",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "nykd by nykaa": {
+  "brand": "Nykd by Nykaa",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 3,
+  "gender": "Women"
+ },
+ "ray ban": {
+  "brand": "Ray ban",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "forevermark diamond jewellery": {
+  "brand": "Forevermark Diamond Jewellery",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "frido": {
+  "brand": "Frido",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "flying machine": {
+  "brand": "Flying Machine",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "cos": {
+  "brand": "COS",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "taruni": {
+  "brand": "Taruni",
+  "men": false,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "baby forest": {
+  "brand": "Baby Forest",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Kids"
+ },
+ "iwc boutique": {
+  "brand": "IWC Boutique",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "next": {
+  "brand": "NEXT",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "typsy beauty": {
+  "brand": "Typsy Beauty",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "jay's watch store": {
+  "brand": "Jay's Watch Store",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "kyomi": {
+  "brand": "KYOMI",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "entertainment store": {
+  "brand": "Entertainment Store",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "riiffs parfums": {
+  "brand": "RiiFFS PARFUMS",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "jacadi paris": {
+  "brand": "Jacadi Paris",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Kids"
+ },
+ "jack & jones junior": {
+  "brand": "Jack & Jones Junior",
+  "men": false,
+  "women": false,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Kids"
+ },
+ "swa diamonds": {
+  "brand": "Swa Diamonds",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "amouage": {
+  "brand": "amouage",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "eye catchers": {
+  "brand": "Eye Catchers",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "ashpveda": {
+  "brand": "Ashpveda",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "damensch": {
+  "brand": "DaMENSCH",
+  "men": true,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Men"
+ },
+ "bodycraft salon": {
+  "brand": "Bodycraft Salon",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "the indian garage co.": {
+  "brand": "The Indian Garage Co.",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "swiss beauty": {
+  "brand": "Swiss Beauty",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "candere": {
+  "brand": "Candere",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "origem": {
+  "brand": "Origem",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "jute cottage": {
+  "brand": "Jute Cottage",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "carlton london": {
+  "brand": "Carlton London",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "avirate": {
+  "brand": "Avirate",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "meghavi wellness spa": {
+  "brand": "Meghavi Wellness Spa",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "rapoonzel": {
+  "brand": "Rapoonzel",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "girias": {
+  "brand": "Girias",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "ylg salon": {
+  "brand": "YLG Salon",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "all sports": {
+  "brand": "All Sports",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "vaya": {
+  "brand": "Vaya",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "style union": {
+  "brand": "Style Union",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "firefly diamonds": {
+  "brand": "Firefly Diamonds",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "the pant project": {
+  "brand": "The Pant Project",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 2,
+  "gender": "Unisex"
+ },
+ "i gadgets": {
+  "brand": "i Gadgets",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "performax": {
+  "brand": "Performax",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "mumuso": {
+  "brand": "Mumuso",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "presto": {
+  "brand": "Presto",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "shahenaz": {
+  "brand": "Shahenaz",
+  "men": false,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "homestolife": {
+  "brand": "HomesToLife",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "aura perfume bar": {
+  "brand": "Aura Perfume Bar",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "zink london": {
+  "brand": "Zink London",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "jaazo": {
+  "brand": "Jaazo",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "vijay sales": {
+  "brand": "Vijay Sales",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "virgio": {
+  "brand": "VIRGIO",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "tod's": {
+  "brand": "Tod's",
+  "men": false,
+  "women": false,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unspecified"
+ },
+ "diani jewels": {
+  "brand": "Diani Jewels",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ },
+ "new era": {
+  "brand": "New Era",
+  "men": true,
+  "women": true,
+  "kids": true,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "cava": {
+  "brand": "CAVA",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "aukera": {
+  "brand": "Aukera",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "calvin klein jeans": {
+  "brand": "Calvin Klein Jeans",
+  "men": true,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Unisex"
+ },
+ "rmkv": {
+  "brand": "RmKV",
+  "men": false,
+  "women": true,
+  "kids": false,
+  "stores_seen": 1,
+  "gender": "Women"
+ }
+}
